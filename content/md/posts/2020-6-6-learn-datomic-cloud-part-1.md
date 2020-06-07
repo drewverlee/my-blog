@@ -1,8 +1,8 @@
-{:title "Learn Datomic - part 1"
+{:title "Learn Datomic Cloud - part 1"
  :layout :post
  :klipse {:settings {:codemirror-options-out {:line-numbers false}}}
- :date "2020-4-12"
- :tags  ["Clojure" "Software" "Database" "Datomic"]}
+ :date "2020-6-6"
+ :tags  ["Clojure" "Software" "Database" "Datomic" "Datomic-Cloud" "Application" "AWS"]}
 
 ### Datomic Cloud
 
