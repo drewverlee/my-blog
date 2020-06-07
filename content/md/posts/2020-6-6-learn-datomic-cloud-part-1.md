@@ -6,12 +6,12 @@
 
 ### Datomic Cloud
 
-Datomic cloud is a managed service on AWS that lets easily deploy your application code 
+Datomic cloud is a managed service on AWS that lets us easily deploy your application code 
 alongside a persistent storage layer. How easily? Lets see.
 
 Assuming you follow the instructions [here](https://docs.datomic.com/cloud/index.html#org57fb4a4) for a solo topology. 
 You end up with a deployed running system that you just need to communicate with. Note some of the configuration below would
-be different (i presume even easier) for a production cluster. A prod cluster is too much money for hobby projects though!
+be different for a production cluster. A prod cluster is too much money for hobby projects though!
 
 Cutting to the chase, creating an api endpoint looks roughly like this.
 
