@@ -23,8 +23,6 @@ Cutting to the chase, creating an api endpoint looks roughly like this.
 6. expose your lambda
 7. profit
 
-lets man a quick endpoint to get our todo lists.
-
 ### 1. Query database
 
 ```clj
