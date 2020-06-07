@@ -81,7 +81,7 @@ command..
 clojure -A:ion-dev '{:op :deploy, :group grow-compute, :rev "<some-id>"}
 ```
 
-Which will essentially takes your stored code that you pushed and makes it a reality on a running computer. 
+Which will essentially take your stored code that you pushed and makes it a reality on a running computer. 
 It's more complex then this of course, read the official docs for more. 
 
 
