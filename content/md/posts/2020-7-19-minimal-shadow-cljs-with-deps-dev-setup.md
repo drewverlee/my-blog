@@ -3,7 +3,11 @@
  :klipse {:settings {:codemirror-options-out {:line-numbers false}}}
  :date "2020-7-19"
  :tags  ["Clojure" "Software" "Emacs" "Spacemacs" "cider" "shadow-cljs" "deps"]}
- 
+
+## update to post
+
+
+In shadow-cljs 2.10.17 the refactor-nrepl middleware is automatically be added when found on the classpath. Should make this a little less confusing.
 
 ## Motivation 
 
