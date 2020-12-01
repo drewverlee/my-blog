@@ -1,21 +1,8 @@
-{:title "The Rest api "
+{:title "Considering query alternatives to the CommonURLParameters Language"
  :layout :post
  :klipse {:settings {:codemirror-options-out {:line-numbers false}}}
  :date "2020-8-17"
  :tags  ["Clojure" "Software" "datalog" "webapplications" "datomic"]}
-
-
-## Introduction
-
-
-
-
-The REST API transition from Resource to Resource via links isn't a rich enough model to capture
-the range of useful interactions people want.
-
-The problem isn't what REST can express given infinite resources and no consideration for the user experience, it's that
-the model is too ridged to be useful given what people want.
-
 
 ## Introduction
 
@@ -25,18 +12,6 @@ The above is an example program written in what i'll be calling the CommonUrlPar
 which belongs in a family of UrlParameters languages. If this example looks like
 a typically browser client URL your correct. The purpose of this post is to explore what 
 falls out of thinking of the url as a programming language.
-
-First lets have a brief refresher of how HTTP communicate. The
-basic concept is that a client (e.g web browser) will make a HTTP REQUEST (get,
-post, etc..) to a REST API Server. In the case of an HTTP GET request the
-convention is to send the same url the browser application uses for routing. The
-result is that navigating the routes of a web application should feel like
-moving around a file system and the web application loads and filters the data
-(the file) from the server to populate the client.
-
-Intuitively, this model should give you a sense of the limitations. 
-
-> The developer was discouraged to hear that the business was storing all there data on a file system.
 
 
 ## History 
@@ -51,36 +26,17 @@ to consider what the current demands are and if the CUP language or any langauge
 
 ## Where are we now?
 
-If we consult an mozzila, an industry leader on the web were told that
-
-> A URL is nothing more than the address of a given unique resource on the Web
-> In theory, each valid URL points to a unique resource
-
-
-The current internet landscape is massive and the competition is greater then ever. 
-This is pushing our Url Parameters langauges. 
-
-
-
-However url language specs can grow exponentially, check out this example from 
-a healthcare specification called fhir:
+The current internet landscape is massive and the competition is greater then ever,
+This has been pushing the people to express arbitrarily complex functionality in 
+these languages. Consider this healthcare specification called fhir:
 
 ###  [composite URL](https://www.hl7.org/fhir/search.html#combining)
 
  > GET [base]/DiagnosticReport?result.code-value-quantity=http://loinc.org|2823-3$gt5.4|http://unitsofmeasure.org|mmol/L
  
-## On Naming
-
-The name "url parameters" was decided upon because my target audience already associates the term
-with path parameters and given the query parameters are part of the URL it's not too much of a leap.
-
-Ultimately, the name needs to make sense just enough to center the idea close enough in your mind to make it not hard to
-understand the relationship. 
-
-Another avenue would be to refer to this as REST. 
-
-
-## Understanding where we are now. 
+ Without going into details it should be clear that there is more going on here then your typical webapi. This string needs to be parsed by a specific grammar and translated into a language your system and eventually your database needs to understand. As a developer you should be as concerned about the composability and simplicity of your URL language as your database query language.
+ 
+## Unifying concepts in order to compare.
 
 I find i learn best by connecting new ideas to existing ones that i have a stronger mental model. To that end,
 I put forth that the logic a back-end server employs to turn url parameters into 
@@ -122,8 +78,7 @@ If we walk our parse tree we see that we have a query made up of clauses which a
 <img src="/img/ssp.png">
 
 The final step is to emit/transform our tree into something which can be executed. In our case, 
-that means transforming it to a [datomic query map](https://docs.datomic.com/on-prem/clojure/index.html#datomic.api/query) which is the shape
-you pass to the datomic query function. The simplest way is to walk up the tree and transform each type. 
+that means transforming it to a [datomic query map](https://docs.datomic.com/on-prem/clojure/index.html#datomic.api/query) which is the shape you pass to the datomic query function. The simplest way is to walk up the tree and transform each type. 
 
 ```clojure
 {:ATTRIBUTE keyword
@@ -341,10 +296,39 @@ in [trident](https://github.com/jacobobryant/trident). He talks about moving awa
 
 Model your frontend state using datascript which is based on datomic. 
 
-5. [Hyperfiddle](https://www.hyperfiddle.net/)
+6. [Odoyle-rules](https://github.com/oakes/odoyle-rules)
 
-Hyperfiddle asks the question what if we decoupled in the right places and pushed composition to the limits. I believe it uses
-a version of datomic to communicate with the backend.
+Rules engines reactivity update your database based on incoming data in the most efficient way possible. If you store your html state in your database and sync it to your front end, then you achieve `web after tomorrow` like semantics. Further more, your application is more functional because instead of placing functions inside state (the html tree). You put functions in the drivers seat
+
+```clojure
+(def components
+  (orum/ruleset
+    {click-counter
+     [:what
+      [::global ::clicks clicks]
+      :then
+      (let [*session (orum/prop)]
+        [:button {:on-click (fn [_]
+                              (swap! *session
+                                (fn [session]
+                                  (-> session
+                                      (o/insert ::global ::clicks (inc clicks))
+                                      o/fire-rules))))}
+         (str "Clicked " clicks " " (if (= 1 clicks) "time" "times"))])]}))
+
+```
+
+
+
+
+6. [Hyperfiddle](https://www.hyperfiddle.net/)
+
+Hyperfiddle asks the question what if we decoupled in the right places and pushed composition to the limits. It syncs your frontend to your database by providing a unified language similar to datomic tree pull language with the notable differences
+
+1. where children can reference parents which allows for more powerful relationship joins.
+2. any function can join, not just a keyword. Think multimethods instead of protocols. e.g 
+
+Think instead of datomic pull instead a datomic query. you had a datomic query inside your datomic pull.
 
 ### Discovering what comes next for "you"
 
