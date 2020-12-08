@@ -1,4 +1,4 @@
-{:title "Considering query alternatives to the CommonURLParameters Language"
+{:title "Considering alternatives to the CommonURLParameters Language"
  :layout :post
  :klipse {:settings {:codemirror-options-out {:line-numbers false}}}
  :date "2020-8-17"
