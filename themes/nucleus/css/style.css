@@ -215,6 +215,7 @@ img.imgfull {
     letter-spacing: 1.4px;
 }
 
+
 /* ==================================================
    Responsive Media Queries - Tablets
 ================================================== */
@@ -285,3 +286,7 @@ img.imgfull {
 
 }
 
+
+th{
+    font-weight: bold;
+}
