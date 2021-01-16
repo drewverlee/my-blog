@@ -9,7 +9,7 @@
 <img src="/img/gravetree.jpg" height="500px" width="350px">
 <img src="/img/dayward.jpg" height="500px" width="350px">
 <img src="/img/swordtree.webp" height="500px" width="350px">
-<img src="/img/calltoadv.webp" height="500px" width="350px">
+<img src="/img/calltoadv.jpg" height="500px" width="350px">
 
 _Do fall dayward?_
 
