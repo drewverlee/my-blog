@@ -7,7 +7,7 @@
  
  <img src="/img/poem.png" height="1000px" width="1400px">
 
-
+ng
 ### Prelude: A hand raised 
 
 The Kingkiller Chronicle's journey is powerful, it moves the heart, it tears
@@ -465,7 +465,7 @@ had help in piecing together bits here and there about the story from
 u/mattytangle and Yamus (on KKC discord). They have some great KKC theories out
 there you should check out.
 
-Thanks to the r/KingkillerChronicle. I'll be cutting back a lot on the time
+Thanks to the r/KingkillerChronicle and r/kkcwhiteboard. I'll be cutting back a lot on the time
 I spend theory crafting as i need to put my attention back on other matters.
 But I discovering the book anew and community was a needed adventure. 
 
