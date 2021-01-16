@@ -12,13 +12,13 @@
 
 ### Prelude: A hand raised 
 
-The King killer chronicle journey is powerful, it moves the heart, it tears
+The Kingkiller chronicle journey is powerful, it moves the heart, it tears
 stone from the mountains. Its best if you experience it yourself, rather then me
 rob you of the joy. Journey before destination, and all that. 
 
 So I suggest you read around a bit before tackling this. I'm not suggesting i
 have the right of things. Rather i'm saying it's a lot more fun to arrive at
-your own conclusions before hearing others.
+your own conclusions before hearing others. 
 
 In short, this theory will cover Auri's candle making. In long....
 
@@ -26,21 +26,20 @@ In short, this theory will cover Auri's candle making. In long....
 
 <img src="/img/auri_honeycomb_c.jpg" height="500px" width="350px">
 
-The main theory is that the Arm bone and cyrstal that Auri finds in the underthing are related 
+The main theory is that the Arm bone and Cyrstal that Auri finds in the underthing are related 
 to Lanre and Selitos respectively.
 
 Four points of clarification:
 
-1. I say simply related because it's unclear how, and for the purposes of the bulk of
+1. I say simply _related_ because it's unclear how, and for the purposes of the bulk of
 this theory, the concern is to prove how alike they are through story and metaphor. Will
-leave it to the very ending to speculate on what it means. Mostly, I leave that up to you however.
+leave it to the very ending to speculate on what it means.
 
 2. Second, This theory's strength comes not from one strong connection. But from
 several weak ones. Like a spiders web, the trap isn't ready tell it's fully woven. 
 
 3. I'll be carving out non essential details in order to make this concise. I expect readers
-to have combed the books many times and hopefully will do so here to help support or refute these claims. 
-You should defiantly read around the quotes i pull. 
+to have combed the books many times and hopefully will do so here to help support or refute these claims. You should defiantly read around the quotes i pull. 
 
 4. the relationships starting point is this:
 
@@ -57,8 +56,8 @@ You should defiantly read around the quotes i pull.
     <td>Arm Bone</td>
   </tr>
   <tr>
-    <td>Crystal</td>
     <td>Selitos</td>
+    <td>Crystal</td>
   </tr>
 </table> 
 
@@ -68,7 +67,7 @@ As with any theory, we have to rely somewhat on metaphors. With
 this theory, we rely on a _lot_ of them. 
 
 As a starting point, the repeated use of a single body part where typically it's counter would be
-involved forms a patter. There are two instances of this very close together
+involved forms a pattern. There are two instances of this very close together
 in the narrative. The more unusual of the two repeats itself when Lanre is described 
 as having "strength of **arm**" rather then "strength of arms"
    
@@ -76,8 +75,8 @@ as having "strength of **arm**" rather then "strength of arms"
 
 > ... his (Lanre) power lay in the strength of his arm. 
 
-The second instance is also unusual, but also directly part of the narrative. And so receives
-an understandable amount of attention. 
+The second instance is also unusual, but also directly part of the plotline. And so receives
+an understandable amount of attention.
 
 > Selitos One-Eye stood forward and said, “Lord, if I do thi....
 
@@ -109,7 +108,7 @@ at the university, would know this. Her naming is deliberate. She says _arm_ bec
 for his strength of _arm_. She says Axial, because it's close to his name.
 4. The arm being broken and healed is to the Lanre being killed and raised
 5. The arm being full of shadows is like Lanre being surrounded by shadows. 
-6. A bone right indicates a profound and lasting debt, though it's hard to see how that would help the relationship.
+6. A bone ring indicates a profound and lasting debt, which Lanre has for his life returned.
 
 After retrieving the bone, Auri put's it near holly at some point:
 
@@ -117,7 +116,7 @@ After retrieving the bone, Auri put's it near holly at some point:
 
 Holly is a topic all on it's own and so deserves some consideration.
 
-## Holly
+## Holly 
 
 I believe holly berry is a metaphor for creation. The Lady/Lyra uses it to bring
 back Lanre in the form of Old Holly the warrior. For further exploration,
@@ -128,16 +127,15 @@ Holly is what the Sithe wear when they ride out hunting skin dancers, so we pres
 <img src="/img/sithe.webp" height="400px" width="250px">
 
 Bast tell's us the Sithe guard the Cthaeh, and treat anyone who comes in contact
-with it like a disease they need to burn out of this world. Bast isn't an Oracle
-though. I'll argue that we have lot's of stories of people talking to the
-Cthaeh. Kvothe casual walked up to it, were they on break? Also, I like the idea
-that they are shooting down the butterfly's. Butterfly's pollinate, help plants
+with it like a disease they need to burn out of this world. Kvothe casual walked
+up to it however, so something is amiss.I like to think they allowed it and that
+they are shooting down the butterfly's. Butterfly's pollinate, help plants
 reproduce, by moving the male bits to the female bits on another plant. So is
-kvothe a pollinature? Felurian doesn't think so, but she doesn't look to hard.
-And she is a bit of a twilight flower, if you will excuse the expression,
-herself.
+kvothe a pollinature of another sort? Felurian doesn't think he is bitten, but
+she doesn't look to hard. And she is a bit of a twilight flower, if you will
+excuse the expression, herself.
 
-Holly is also features predominantly in old holly (shocker):
+Holly is also features predominantly in How Old Holly came to be (shocker):
 
 > Old Holly bent his boughs again, and brought a spear, its wood of living green. Its blade as bright as berry blood. This he drove into...
 
@@ -145,13 +143,12 @@ And has implications for our tired Inn Keeper:
 
 > The innkeeper ’s fingers fumbled clumsily, snapping the holly branch and jabbing a thorn deep into the fleshy part of his thumb. The red-haired man didn’t flinch or curse, just scowled angrily down at his hand as a bead of blood welled up, bright as a berry.
 
-Will say more about holly later, but for now lets move Auri's journey forward as she visits a graveyard...
+Will say more about holly later, but for now lets move Auri's journey forward as she visits a graveyard.
 
-## Graves
+##  Bones and Berries
 
-where she puts, i would argue trades, the bone for Laurel Fruit, by putting the Bone 
-under the Laurel Tree. 
-
+There she puts, I would argue _trades_, the bone for Laurel Fruit, by placing the Bone 
+inside the Laurel Tree:
 
 > Auri reached into her gathersack and brought out the bone that she
 > had found the day before. She bent down and tucked it deep inside the dark and
@@ -159,18 +156,30 @@ under the Laurel Tree.
 
 > Then she began to pick the small blue laurel fruit and put them in her gathersack as well.
 
-I'm guessing your hoping i'll tell you which tree Lanre get's put in? Well, that ends
+I'm guessing your hoping I'll tell you which tree Lanre get's put in? Well, that ends
 up being it's own post, where I stretch allegories to there limits. If you want to dive into that before
 going on then by all means click [here](https://drewverlee.github.io/posts-output/2021-1-14-gravetree)
 
 But ill summarize here with the current take insights
 
-1. Auri described the Tree as lonely, which suits the Cthaeh well.
+1. Auri described the Tree as lonely, which suits the Cthaeh very well.
+
+> And as I ran I could hear Cthaeh speaking behind me. Its dry, quiet voice followed me longer than I would have thought possible. “Come back. Come back. I’ve more to say. I’ve so much more to tell you, won’t you stay?”
+
 2. The Cthaeh's dead butterfly's are like a graveyard.
-3. At a long stretch, I think Kvothe will lay waste to Hearth trying to get to Cinder who I believe he will find there. Thus making it a graveyard. Currently we can see the Adems stone houses as analogous to gravestones. Justifying that idea wouldn't fit here.
-4. Only English/Cherry Laurel's have dark blue fruit in reality. That isn't the tree featured in the book. It's possible someone Pat, Auri is confused. It's possible Auri was picking up the berries from the Ivy, which might make from a Hedra _Helix_. Which is obviously close to Haliax. 
+3. At a long stretch, I think Kvothe will lay waste to Hearth trying to get to
+   Cinder who I believe he will find there. Thus making it a graveyard.
+   Currently we can see the Adems stone houses as analogous to gravestones.
+   Justifying that idea wouldn't fit here.
+4. Only English/Cherry Laurel's have dark blue fruit in reality. That isn't the
+   tree featured in the book. It's possible someone: Pat or Auri is confused. It's
+   possible Auri was picking up the berries from the Ivy, which might make from
+   a Hedra _Helix_. Which is obviously close to Haliax. But word similarity is a
+   too thin to base an idea on alone
 5. Sword tree fits Lanre better, who was known for his sword.
-6. Both Felurian and the Adem have _Ivy and Oak_ in their _art_, The Laurel tree with blue fruit isn't an oak, But there is a tree known as Laurel Oak that is hard to tell apart from an oak. 
+6. Both Felurian and the Adem have _Ivy and Oak_ in their _art_, The Laurel tree
+   with blue fruit isn't an oak, But there is a tree known as Laurel Oak that is
+   hard to tell apart from an oak.
 7. Savien is like an oak
 
 For me, of the two the Latantha is closer. However, graveyard and lonely make it nearly a tie. In the end, i suspect *waves hands* the tree's roots are linked. A theory I hope to cover.... 
@@ -188,17 +197,17 @@ Guess who else dabbles in duality's?
 <img src="/img/summersoap.webp" height="225px" width="300px">
 <img src="/img/perfectsoap.jpeg" height="225px" width="300px">
 
-You might want to read u/quoo's master piece theory on Auri's [soap](https://www.reddit.com/r/KingkillerChronicle/comments/48jv6c/kkc_spoilers_all_the_allegory_of_auris_magnum/), i found it while working on a similar piece, though i won't claim anything as grade as what they found. I haven't read through  all of it myself, as i worry it spoil the fun.
+You might want to read (but not now please) u/quoo's master piece theory on Auri's [soap](https://www.reddit.com/r/KingkillerChronicle/comments/48jv6c/kkc_spoilers_all_the_allegory_of_auris_magnum/), i found it while working on a similar piece, though i won't claim anything as grade as what they found. I haven't read through  all of it myself, as i worry it spoil the fun.
 
 I'm not suggesting that Celtic Mythology plays a role here, in fact i think going down such a road would be a
-good way to confound yourself. The Four corners has it's own lore. For one It's Ivy climbing Oak, Ivy isn't Holly. 
+good way to confound yourself. The Four corners has it's own lore. For one It's Ivy climbing Oak, Holly isn't an Ivy. 
 
-I just i'm highlighting that such devices are part of our blood, our very creation, a topic I tried to capture in [art](https://www.dropbox.com/s/wkduktjjd5rc1gq/Story.pdf?dl=0).
-Here is a sample of some of roaring heart wilting poetry i spin into being:
+I'm just i'm highlighting that such devices are part of our blood, our very creation, a topic I tried to capture in [art](https://www.dropbox.com/s/wkduktjjd5rc1gq/Story.pdf?dl=0). Here is a sample of some of roaring heart wilting poetry i spin into being:
 
 <img src="/img/blackwhite.png" height="500px" width="900px">
 
-But that't enough self promotion, This is the end of the the bone's story, though it contains through the Laurel which will pick up.
+But that's enough self promotion, This is the end of the arm bone's story,
+though it contains through the Laurel Fruit which will pick up later.
 
 
 # Crystal's and Blood
@@ -207,19 +216,18 @@ But that't enough self promotion, This is the end of the the bone's story, thoug
 
 <img src="/img/crystal.jpg" height="250px" width="250px">
 
-
+Auri finds a Crystal in the Underthing:
 
 > After a dozen steps, a glimmer on the marble floor caught her eye. Skipping
 > close, she saw a crystal had fallen from the chandelier to lay unbroken on the
 > floor. It was a lucky thing, and brave.
 
 The Crystal is like the mountain glass seltios used to stab his eye. The
-connection is thinner here, Crystal is similar to glass. What do we know about
-"mountain glass"? However, the connection is immediately strengthened as The
-cyrstal is put near an Amyr, give Selitos was their founder.
+connection is thinner here, only that Crystal is similar to glass. What do we
+know about "mountain glass"? However, the connection is immediately strengthened
+as The Cyrstal is put near an Amyr, given Selitos was their founder.
 
 <img src="/img/Pairs_Commonwealth_Amyr.webp" height="500px" width="350px">
-
 
 Here are the relevant parts about the Amyr doll:
 
@@ -230,7 +238,7 @@ Here are the relevant parts about the Amyr doll:
 > room. The poor thing was simply lost. Auri smiled and put the doll in her
 > pocket with the crystal
 
-Later we learn more
+Later we learn more:
 
 > the design upon its shield. It was so faint. But yes. There was the tower
 > wrapped up in a tongue of flame. No mere soldier, it was a small stone Amyr.
@@ -243,13 +251,14 @@ Which given the strong, likelihood he is connected/is Selito's complicates matte
 I had long wondered if Kvothe's first viewing hadn't been more true, but I doubtful Auri could
 be deceived by anyone but herself.
 
-Later Auri adds white tatted lace to the same pocket as the Amyr and Crystal
+Later Auri adds white tatted lace to the same pocket as the Amyr and Crystal:
 
 > she found a length of fine white tatted lace. She folded this up carefully and
 > put it in her pocket with the crystal and the small stone soldier
 
 The white tatted lace is likely related to Nettie William, Rike's mom. A
-connection which, will I'll explain shortly.
+connection which, will I'll explain shortly. But I would love for someone to
+devote some energy to other options.
 
 <img src="/img/bastandgirl.jpg" height="500px" width="300px">
 
@@ -275,10 +284,8 @@ So then, The Lighting Tree.
 <img src="/img/lightingtree.jpeg" height="500px" width="300px">
 
 
-
 Does this mean Newaree is in Tumbrel? I wasn't able to unravel anything from that, 
 but more is there. I have no doubt.
-
 
 <img src="/img/honeytree.jpg" height="500px" width="300px">
 
@@ -326,6 +333,14 @@ darkness.
 
 <img src="/img/alice.jpeg" height="500px" width="300px">
 <img src="/img/float.jpeg" height="500px" width="300px">
+
+Finally, What use does our white tatted lace find? 
+
+> “I learned loads of things today, Reshi,” Bast protested. The
+> innkeeper sat up, looking more attentive. “Really?” he said. “Impress me then.”
+> Bast thought for a moment. “Nettie Williams found a wild hive of bees today,” he
+> said. “And she managed to catch the queen …”
+
 
 This is the end of the journey for the cyrstal, the begging of the honeycombs.
 
@@ -406,7 +421,7 @@ I see no mention of it after he receives it from auri.
 
 ## deceived
 
-_In the end, they were all of them deceived. _
+_In the end, they were all of them deceived_
 
 _For though they knew the safe and prideful path._
 
