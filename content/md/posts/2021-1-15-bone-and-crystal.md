@@ -5,14 +5,12 @@
  :tags  ["KingKiller" "Fantasy"]}
  
  
- 
  <img src="/img/poem.png" height="1000px" width="1400px">
-
 
 
 ### Prelude: A hand raised 
 
-The Kingkiller chronicle journey is powerful, it moves the heart, it tears
+The Kingkiller Chronicle's journey is powerful, it moves the heart, it tears
 stone from the mountains. Its best if you experience it yourself, rather then me
 rob you of the joy. Journey before destination, and all that. 
 
@@ -128,12 +126,12 @@ Holly is what the Sithe wear when they ride out hunting skin dancers, so we pres
 
 Bast tell's us the Sithe guard the Cthaeh, and treat anyone who comes in contact
 with it like a disease they need to burn out of this world. Kvothe casual walked
-up to it however, so something is amiss.I like to think they allowed it and that
-they are shooting down the butterfly's. Butterfly's pollinate, help plants
-reproduce, by moving the male bits to the female bits on another plant. So is
-kvothe a pollinature of another sort? Felurian doesn't think he is bitten, but
-she doesn't look to hard. And she is a bit of a twilight flower, if you will
-excuse the expression, herself.
+up to it however, so something is amiss.I like to think they allowed it.
+Furthermore and that they are shooting down the butterfly's. Butterfly's
+pollinate, which help plants reproduce, by moving the male bits to the female bits on
+another plant. So is kvothe a pollinature of another sort? Felurian doesn't
+think he is bitten, but she doesn't look to hard. And she is a bit of a twilight
+flower, if you will excuse the expression, herself.
 
 Holly is also features predominantly in How Old Holly came to be (shocker):
 
@@ -182,7 +180,9 @@ But ill summarize here with the current take insights
    hard to tell apart from an oak.
 7. Savien is like an oak
 
-For me, of the two the Latantha is closer. However, graveyard and lonely make it nearly a tie. In the end, i suspect *waves hands* the tree's roots are linked. A theory I hope to cover.... 
+For me, of the two the Latantha is closer. However, graveyard and lonely make it
+nearly a tie. In the end, i suspect *waves hands* the tree's roots are linked. A
+theory I hope to cover....
 
 <img src="/img/anydaynow.jpg" height="400px" width="250px">
 
@@ -268,7 +268,7 @@ Crystal under the Lighting Tree near Rike's house.
 Relationships between Auri's Farm and the Williams:
 
 * The girl that see's Auri  with her serious eye's is Nettie's daughter Tess.
-* The dog bay's are Auri and Bast
+* The same dog bay's at Auri and Bast
 * Nettie has a trio of Goat's, Auri meets one.
 * The honey that Auri takes is from Nettie, who has bee hives and also used it for candles.
 * The etymology of [Nettie](https://en.wiktionary.org/wiki/nettie) is Net - tie, where net's are like tatted lace. 
@@ -276,26 +276,26 @@ Relationships between Auri's Farm and the Williams:
   the Sithe wear. Though that mixes more then clarifies the relationships.
 
 This isn't the Cthaeh, so near a farm with milk and honey. This could possible
-be the lighting tree, but while the butter has knifes. Their are no mountains to
-see.
+be the Sword Tree, but while the butter has knifes. Their are no mountains to
+see and something tells me its guarded.
 
 So then, The Lighting Tree. 
 
 <img src="/img/lightingtree.jpeg" height="500px" width="300px">
 
 
-Does this mean Newaree is in Tumbrel? I wasn't able to unravel anything from that, 
+Side note, does this mean Newaree is in Tumbrel? I wasn't able to unravel anything from that, 
 but more is there. I have no doubt.
 
 <img src="/img/honeytree.jpg" height="500px" width="300px">
 
 Returning, we must review the trade Auri makes. This happens in three parts:
 
-1. Auri trads for the Nettie's butter & honeycomb for her White Tatted Lace. 
+1. Auri trades for the Nettie's butter & honeycomb for her White Tatted Lace. 
 2. She is spotted by Tess, this increases the cost of the trade.
 3. She leaves the cyrstal in the tree to pay the extra debt
 
-...
+---------
 
 1. trade
 
@@ -341,7 +341,6 @@ Finally, What use does our white tatted lace find?
 > Bast thought for a moment. “Nettie Williams found a wild hive of bees today,” he
 > said. “And she managed to catch the queen …”
 
-
 This is the end of the journey for the cyrstal, the begging of the honeycombs.
 
 ## Interlude: tables
@@ -362,8 +361,8 @@ This is the end of the journey for the cyrstal, the begging of the honeycombs.
     <td>Laurel Tree = TC? or/and LT?, other? </td>
   </tr>
   <tr>
-    <td>Crystal</td>
     <td>Selitos</td>
+    <td>Crystal</td>
     <td>amyr doll & white tatted lace</td>
     <td>HoneyComb</td>
     <td>Lighting Tree</td>
@@ -375,9 +374,8 @@ This is the end of the journey for the cyrstal, the begging of the honeycombs.
 # The Light's Boundary
 
 
-Auri use's the honeycomb and laurel fruit to make a candle for kvothe. Much could be said, here...
-
-In the end, as too often is the case, when Auri's is pressed upon time, she turns to Boundry, she goes beyond....
+Auri use's the honeycomb and laurel fruit to make a candle for kvothe. Much could be said, here. I'll let you say it. How
+generous of me.In the end, as too often is the case, when Auri's is pressed upon time, she turns to Boundry, she goes beyond...
 
 ## The Breaking Way
 
@@ -402,11 +400,20 @@ Others there only visible if you squint...
 
 <img src="/img/myr.webp" height="500px" width="300px">
 
+And we learn early on to fear the edges of there flicking flame
+
+<img src="/img/whifflescared.jpeg" height="500px" width="500px">
+
+
+
+
 _four corners to play a board_
 
 _Three things a flame to burn_
 
-_how back to dark can one not help but return?_
+_When from darkness came_
+
+_How can we hope to keep shadows away?_
 
 
 ## Epilogue
@@ -446,41 +453,38 @@ _they turned again to renew:_
 
 ## Giving back
 
-If you enjoyed this consider supporting Heifer International, either [directly](https://www.heifer.org/) through [worldbuilers](https://worldbuilders.org/) or slightly more selfishly like I have done buying by buying loot.
+If you enjoyed this consider supporting Heifer International, either [directly](https://www.heifer.org/) through [worldbuilers](https://worldbuilders.org/).
 
 A cause which Rothfuss, the orchestrate of all good and bad times had on Temerant, believes in.
+And you should also buy all the Cool Worldbuilders KingKiller stuff, which really helps, um, build the world?
 
 ## Credits
 
-Though the idea is mine and i take full responsible for any undo confusion , I
+Though the idea is mine and i take full responsible for any undo confusion, I
 had help in piecing together bits here and there about the story from
 u/mattytangle and Yamus (on KKC discord). They have some great KKC theories out
 there you should check out.
 
+Thanks to the r/KingkillerChronicle. I'll be cutting back a lot on the time
+I spend theory crafting as i need to put my attention back on other matters.
+But I discovering the book anew and community was a needed adventure. 
+
+## Bonus Questions
+
+* Is bast somehow the suet that Auri takes with here?
+
+>  a bit of a yelp, then he (bast) hit the ground like a sack of suet.
+
+* The White lace orgins
+* What/where is Trumble
+* is Aunt Sellie "ellie"? Elle on gravestone? A place where no men live?
 
 ## Rights
 
-All of the pictures are like property of Worldbuilders ,I have enjoyed my
-purchases from them greatly and hope this isn't stepping on any toes.
+All (most) of the pictures are likely property of Worldbuilders ,I have enjoyed my
+purchases from them greatly and hope using them this isn't stepping on any toes.
 
-Holly picture from Anne Stokes 
+Celtic Holly picture from Anne Stokes 
 
-
-## TODOS
-
-5. clarify or clean up "magically related"
-15. Both kvothe and auri have to look at the amyr twice. Is the first telling
-    more true or is it the second? Is this like how seltios had to look at Lanre
-    twice?
-
-18. look into bone rings and glass rings.
-19. Auri vists old Trumble Nowhere is new dark Trumble is nowhere? Where was it then?
-20. is bast the suet 
-
-> I'm also curious if Bast isn't the Suet that Auri takes away with her, as he is compared to it.
->  a bit of a yelp, then he hit the ground like a sack of suet.
-
-21. The White lace orgins
-22. What/where is Trumble
-23. is Aunt Sellie "ellie"? Elle on gravestone? A place where no men live?
+Some scattered ones from Wikipedia
 
