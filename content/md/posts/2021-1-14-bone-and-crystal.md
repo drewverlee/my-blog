@@ -1,7 +1,7 @@
 {:title "Bone and Crystal"
  :layout :post
  :klipse {:settings {:codemirror-options-out {:line-numbers false}}}
- :date "2021-1-15"
+ :date "2021-1-14"
  :tags  ["KingKiller" "Fantasy"]}
  
 <img src="/img/whybackwhen.jpg" height="500px" width="350px">
