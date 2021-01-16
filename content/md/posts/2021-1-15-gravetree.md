@@ -4,8 +4,7 @@
  :date "2021-1-15"
  :tags  ["KingKiller" "Fantasy"]}
 
-
-### Trees and Truths
+# Trees and Truths
 
 <img src="/img/gravetree.jpg" height="500px" width="350px">
 <img src="/img/dayward.jpg" height="500px" width="350px">
@@ -32,13 +31,13 @@ Though be clear we should look for things:
 
 In some _form_ as they appear in the graveyard
 
-#### Iron fence
+## Iron fence
 
 No obvious Iron fence in either place. A full discussion about Iron
 can't fit here, because i haven't made up my mind on it. Let's 
 say at best we might view. 
 
-#### Ivy 
+## Ivy 
 
 <img src="/img/ivy.jpeg" height="250px" width="250px">
 
@@ -64,9 +63,7 @@ These are both related to an oak however.
 
 <img src="/img/holm-oak.jpeg" height="250px" width="250px">
 
-
-
-#### Roses
+## Roses
 
 Here we might be looking simply for Red. In which case we have butterflies
 
@@ -76,11 +73,7 @@ And obviously Mercenaries
 
 <img src="/img/ademre.jpg" height="500px" width="300px">
 
-
-
-
-
-#### Graves
+## Graves
 
 _one for hating_
 
@@ -99,7 +92,7 @@ kvothe visits the first time. I suspect they _will be_ when he leaves the second
 
 One word for now. *Cinder*
 
-#### Monument
+## Monument
 
 There is no monument mentioned explicity near either Tree. I only 
 have questions about the Adem's _wall_
@@ -108,8 +101,7 @@ have questions about the Adem's _wall_
 > mortar. I tapped it with a knuckle, wondering briefly if it might be a single
 > piece of stone carved to look like many stones fit together.
 
-#### Warm Scent
-#### Lonely Thing
+## Lonely Thing
 
 The Cthaeh is hateful, but that's likely in part _because_ it is Lonely. 
 
@@ -118,7 +110,7 @@ The Cthaeh is hateful, but that's likely in part _because_ it is Lonely.
 It's a vicious cycle. It knows everyone will leave it. The Latantha seem's to have lots of friends to dance with. 
 
 
-#### Laurel Tree & Fruit
+## Laurel Tree & Fruit
 
 lets look at the laurel "tree". It's actually hard to pin down anything without the specific Latin species name. 
 It seem's
@@ -167,9 +159,7 @@ Finally, Threpe brings up Laurels in a way that suggests Kvothe is the Laurel fr
 
 > He shrugged. “You see, a laurel needs rain to grow. I can’t do much about that. But I can keep that rain off a few musician’s heads, can’t I?” A sly smile wound its way onto his face. “So God will tend the laurels and keep them wet. And I will tend the players and keep them dry. And wiser minds than mine will decide when to bring the two together.”
 
-
-
-#### Lanre
+## Lanre
 
 If Savien is Lanre. Then there is a kvothe thinks Savien is like an oak
 
@@ -177,25 +167,13 @@ If Savien is Lanre. Then there is a kvothe thinks Savien is like an oak
 
 Which Makes Aloine the Nightingale in "Swineherd and the Nightingale".
 
+## Latantha
 
-#### Latantha
-
-The "Sword Tree" would fit Lanre, given he was known for his strength of Arm. And his sword never
-left his side.
-
-#### The Cthaeh's Tree
-
-Let's come at this 
+The "Sword Tree" would fit Lanre, given he was known for his strength of Arm. And his sword never left his side.
 
 
+### Conclusions
 
-....
-
-This is the end of the the bone's story, though it contains through the Laurel which will pick up.
-
-
-
-
-#### Oak
-
-
+I won't bother scoring, between The Sword Tree and The Cthaeh's Tree. I feel it's
+fairly even. In the end they could all be the same tree or the graveyard could 
+be something we haven't seen. Let me know what you find.

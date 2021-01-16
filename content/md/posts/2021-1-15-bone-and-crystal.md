@@ -4,11 +4,7 @@
  :date "2021-1-15"
  :tags  ["KingKiller" "Fantasy"]}
  
- 
-
 <img src="/img/whybackwhen.jpg" height="500px" width="350px">
-
-
 
 <img src="/img/auri_honeycomb_c.jpg" height="500px" width="350px">
 
@@ -96,8 +92,8 @@ under the Laurel Tree.
 > Then she began to pick the small blue laurel fruit and put them in her gathersack as well.
 
 I'm guessing your hoping i'll tell you which tree Lanre get's put in? Well, that ends
-up being it's own post. If I had to pick right now i would say it's dead even between
-The Cthaeh's tree and The Latantha. 
+up being it's own post, where I stretch allegories to there limits. If you want to dive into that before
+going on then by all means click [here](TODO)
 
 This is the end of the the bone's story, though it contains through the Laurel which will pick up.
 
