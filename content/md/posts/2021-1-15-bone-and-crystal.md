@@ -153,11 +153,7 @@ inside the Laurel Tree:
 
 > Then she began to pick the small blue laurel fruit and put them in her gathersack as well.
 
-I'm guessing your hoping I'll tell you which tree Lanre get's put in? Well, that ends
-up being it's own post, where I stretch allegories to there limits. If you want to dive into that before
-going on then by all means click [here](https://drewverlee.github.io/posts-output/2021-1-14-gravetree)
-
-But ill summarize here with the current take insights
+I dive into if this could be the sword tree or the Cthaeh's tree [here](https://drewverlee.github.io/posts-output/2021-1-14-gravetree). But ill summarize:
 
 1. Auri described the Tree as lonely, which suits the Cthaeh very well.
 
@@ -179,9 +175,15 @@ But ill summarize here with the current take insights
    hard to tell apart from an oak.
 7. Savien is like an oak
 
-For me, of the two the Latantha is closer. However, graveyard and lonely make it
-nearly a tie. In the end, i suspect *waves hands* the tree's roots are linked. A
-theory I hope to cover....
+8. Auri has ivory skin and Cinder has Ivory teeth, which might indicate an
+addition of some sort. The obvious guess is Denner Resin, But i wonder if it isn't 
+Trillium, which kvothe calls Denna, which Felurian eats. aka _birthroot_:
+
+<img src="/img/trill.jpeg" height="300px" width="300px">
+
+For me, If it has to be one of the two prime tree's, the Latantha is closer.
+However, graveyard and lonely make it nearly a tie. In the end, i suspect *waves
+hands* the tree's roots are linked. A theory I hope to cover....
 
 <img src="/img/anydaynow.jpg" height="400px" width="250px">
 
@@ -205,9 +207,30 @@ I'm just i'm highlighting that such devices are part of our blood, our very crea
 
 <img src="/img/blackwhite.png" height="500px" width="900px">
 
-But that's enough self promotion, This is the end of the arm bone's story,
-though it contains through the Laurel Fruit which will pick up later.
+Coming back to more piratically considerations, The Mauthen farm has some strong similarities as well:
 
+* The Barrows are a grave/bone yard. 
+* The oak trees at the farm could be responsible for 
+* Auri finds pine cones in the area, The farm has pine trees which would leave them.
+* The farm is said to have a "stone outcropping", which might be gravestones auri sees.
+* They both have mushrooms.
+* The leaf Auri breaths on could be the one Kvothe swallows. 
+* I think the Ivy is, in a metaphorical way, the Denner Trees. White because of how they effect
+people, how they effect teeth but also because how they effect life.
+
+
+Going against the idea,The farm doesn't have actually Iron fence, monument, roses or a
+Laurel. As metaphors we might say Verinan could be the rose, kvothe says
+she is a Verian "a tiny red flower". It's not a great fit though. The Iron Wheel
+in town could be the Iron gate. The Laurel tree is the Barrow itself then?
+
+So likely this is the Mauthen Farm. With the most outlandish guess likely being the most powerful
+message. Auri breaths on the leaf that kvothe breaths in. Note this, will see it again. 
+
+So, this is the Mauthen Farm.
+
+This is the end of the arm bone's story,
+though it contains through the Laurel Fruit which will pick up later.
 
 # Crystal's and Blood
 
@@ -344,6 +367,7 @@ This is the end of the journey for the cyrstal, the begging of the honeycombs.
 
 ## Interlude: tables
 
+
  <table style="width:100%">
   <tr>
     <th>Who</th>
@@ -357,7 +381,7 @@ This is the end of the journey for the cyrstal, the begging of the honeycombs.
     <td>Arm Bone</td>
     <td>Holly Berry</td>
     <td>Laurel Fruit</td>
-    <td>Laurel Tree = TC? or/and LT?, other? </td>
+    <td>Barrow Hill</td>
   </tr>
   <tr>
     <td>Selitos</td>
@@ -373,8 +397,50 @@ This is the end of the journey for the cyrstal, the begging of the honeycombs.
 # The Light's Boundary
 
 
-Auri use's the honeycomb and laurel fruit to make a candle for kvothe. Much could be said, here. I'll let you say it. How
-generous of me.In the end, as too often is the case, when Auri's is pressed upon time, she turns to Boundry, she goes beyond...
+Auri use's the honeycomb and laurel fruit to make a candle for kvothe. Much could be said, here. 
+Without elaborating, the ingredients are:
+
+* laurel fruit 
+* honey 
+* perfect lavender 
+* melting wax 
+* daub of perfect pitch 
+* auri breath in whistle 
+
+If the leaf kvothe swallowed on the Mauthen farm was the one Auri breathed on,
+then this is the second reference to her breath in him. Two isn't a good number
+though, for a good number I think will need to go up to three...
+
+Auri find's that in the end she doesn't have time for the proper making of the
+candle, as too often is the case, when she is pressed upon time, she turns to
+Boundry, she goes beyond...
+
+
+> The other piece? That slender tenth part of a tenth? The heart of alchemy was
+> something Auri had learned long ago. She’d studied it before she came to
+> understand the true shape of the world. Before she knew the key to being small.
+> Oh yes. She’d learned her craft. She
+> 
+> knew its hidden roads and secrets. All the subtle, sweet, and coaxing ways that
+> made one skilled within the art. So many different ways. Some folk inscribed,
+> described. There were symbols. Signifiers. Byne and binding. Formulae.
+> Machineries of maths . . . But now she knew much more than that. So much of what
+> she’d thought was truth before was merely tricks. No more than clever ways of
+> speaking to the world. They were a bargaining. A plea. A call. A cry. But
+> underneath, there was a secret deep within the hidden heart of things. Mandrag
+> never told her that. She did not think he knew. Auri found that secret for
+> herself. She knew the true shape of the world. All else was shadow and the sound
+> of distant drums. Auri nodded to herself. Her tiny face was grave. She scooped
+> the waxy fineground fruit into a sieve and set the sieve atop a gather jar. She
+> closed her eyes. She drew her shoulders back. She took a slow and steady breath.
+> There was a tension in the air. A weight. A wait. There was no wind. She did not
+> speak. The world grew stretched and tight. Auri drew a breath and opened up her
+> eyes. Auri was urchin small. Her tiny feet upon the stone were bare. Auri stood,
+> and in the circle of her golden hair she grinned and brought the weight of her
+> desire down full upon the world.
+> 
+> And all things shook. And all things knew her will. And all things bent to please her.
+
 
 ## The Breaking Way
 
@@ -494,6 +560,7 @@ But I discovering the book anew and community was a needed adventure.
 * The White lace orgins
 * What/where is Trumble
 * is Aunt Sellie "ellie"? Elle on gravestone? A place where no men live?
+* if the laurel tree is the borrow, what was the fruit? What does it imply?
 
 ## Rights
 
