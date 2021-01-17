@@ -5,6 +5,7 @@
  :tags  ["KingKiller" "Fantasy"]}
  
  
+
  <img src="/img/poem.png" height="1000px" width="1400px">
 
 ### Prelude: A hand raised 
@@ -21,7 +22,7 @@ In short, this theory will cover Auri's candle making. In long....
 
 ## A Humerus Chandelier
 
-<img src="/img/auri_honeycomb_c.jpg" height="500px" width="350px">
+<img src="/img/auri_honeycomb_c.jpg" height="500px" width="350px" align="right"">
 
 The main theory is that the Arm bone and Cyrstal that Auri finds in the underthing are related 
 to Lanre and Selitos respectively.
@@ -85,8 +86,7 @@ journeys are similar, they don't interact again. And the separation makes it
 easier to keep track of the relationships that matter.
 
 # Breaking Bones
-
-<img src="/img/bone.jpg" height="250px" width="250px">
+<img src="/img/bone.jpg" height="250px" width="250px" align="center" vspace="20px" hspace="20px">
 
 To cut to the point, Auri finds a bone:
 
@@ -121,7 +121,7 @@ consult this [post](https://www.reddit.com/r/KingkillerChronicle/comments/krxwj0
 
 Holly is what the Sithe wear when they ride out hunting skin dancers, so we presume it has some protective powers
 
-<img src="/img/sithe.webp" height="400px" width="250px">
+<img src="/img/sithe.webp" height="400px" width="250px" align="right">
 
 Bast tell's us the Sithe guard the Cthaeh, and treat anyone who comes in contact
 with it like a disease they need to burn out of this world. Kvothe casual walked
@@ -226,7 +226,7 @@ connection is thinner here, only that Crystal is similar to glass. What do we
 know about "mountain glass"? However, the connection is immediately strengthened
 as The Cyrstal is put near an Amyr, given Selitos was their founder.
 
-<img src="/img/Pairs_Commonwealth_Amyr.webp" height="500px" width="350px">
+<img src="/img/Pairs_Commonwealth_Amyr.webp" height="500px" width="350px" align="right">
 
 Here are the relevant parts about the Amyr doll:
 
@@ -259,7 +259,7 @@ The white tatted lace is likely related to Nettie William, Rike's mom. A
 connection which, will I'll explain shortly. But I would love for someone to
 devote some energy to other options.
 
-<img src="/img/bastandgirl.jpg" height="500px" width="300px">
+<img src="/img/bastandgirl.jpg" height="500px" width="300px" align="right">
 
 Finally, Auri "trades" the Crystal for butter & honeycomb, when she leaves the
 Crystal under the Lighting Tree near Rike's house.
