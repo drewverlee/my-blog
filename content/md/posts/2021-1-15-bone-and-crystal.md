@@ -7,7 +7,6 @@
  
  <img src="/img/poem.png" height="1000px" width="1400px">
 
-ng
 ### Prelude: A hand raised 
 
 The Kingkiller Chronicle's journey is powerful, it moves the heart, it tears
