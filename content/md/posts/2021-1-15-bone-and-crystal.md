@@ -22,7 +22,7 @@ In short, this theory will cover Auri's candle making. In long....
 
 ## A Humerus Chandelier
 
-<img src="/img/auri_honeycomb_c.jpg" height="500px" width="350px" align="right"">
+<img src="/img/auri_honeycomb_c.jpg" height="500px" width="350px" align="right">
 
 The main theory is that the Arm bone and Cyrstal that Auri finds in the underthing are related 
 to Lanre and Selitos respectively.
