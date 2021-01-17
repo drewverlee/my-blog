@@ -446,6 +446,23 @@ _they turned again to renew:_
 > camphor, and there was no sense in wishing. So she fetched a daub of perfect
 > pitch instead from Port.
 
+In the interest of fairness I'll explain my idea here. I think both meanings to
+volatile are relevant here. The first being an inclination to change rabidly,
+unpredictable, for the worse. Kvothe is certainly that to some degree already. I
+suspect Auri is _deeply_ conflicted on shaping him more so. The second meaning, 
+that a substance is volatile if changes from liquid to gas at low (say normal) temperature
+might be an explanation of how the Seven are [gas](https://www.reddit.com/r/KingkillerChronicle/comments/evvie5/the_chandrian_signs_are_full_of_gas/), and how move from place to place:
+
+> Haliax spread his arms and the shadow surrounding him bloomed like a flower
+> unfolding. Then, each of the others turned with a studied ease and took a step
+> toward Haliax, into the shadow surrounding him. But as their feet came down
+> they slowed, and gently, as if they were made of sand with wind blowing across
+> them, they faded away. Only Cinder looked back, a hint of anger in his
+> nightmare eyes.
+
+Auri was supposed to shape Kvothe to volatile, she _declined_. A small thing,
+and yet it might make all the difference.
+
 
 # Other
 -----------------------------
