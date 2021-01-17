@@ -33,7 +33,7 @@ Four points of clarification:
 this theory, the concern is to prove how alike they are through story and metaphor. Will
 leave it to the very ending to speculate on what it means.
 
-2. Second, This theory's strength comes not from one strong connection. But from
+2. This theory's strength comes not from one strong connection. But from
 several weak ones. Like a spiders web, the trap isn't ready tell it's fully woven. 
 
 3. I'll be carving out non essential details in order to make this concise. I expect readers
