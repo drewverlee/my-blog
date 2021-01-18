@@ -305,7 +305,7 @@ Later Auri adds white tatted lace to the same pocket as the Amyr and Crystal:
 The white tatted lace is likely related to Nettie William, Rike's mom. A
 connection which, will I'll explain shortly. 
 
-<img src="/img/bastandgirl.jpg" height="300px" width="200px" align="right">
+<img src="/img/bastandgirl.jpg" height="350px" width="210px" align="right">
 
 Finally, Auri trades the Crystal for butter & honeycomb, when she leaves the
 Crystal under the Lighting Tree near Rike's house.
