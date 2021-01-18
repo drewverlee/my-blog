@@ -229,7 +229,7 @@ creation, a topic I tried to capture in
 [*story and art*](https://www.dropbox.com/s/wkduktjjd5rc1gq/Story.pdf?dl=0). Here is a
 sample of some of roaring heart wilting poetry i spin into being:
 
-<img src="/img/blackwhite.png" height="200px" width="400px">
+<img src="/img/blackwhite.png" height="200px" width="400px" style="border: 5px solid #8B0000;">
 
 ### Farms, Hawks and rabbits
 
