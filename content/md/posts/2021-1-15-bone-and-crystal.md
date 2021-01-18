@@ -5,6 +5,8 @@
  :tags  ["KingKiller" "Fantasy"]}
  
  
+<meta property="og:image" content="/img/spoem.png">
+
 <img src="/img/spoem.png" height="500px" width="400px">
  
 _Come sister Sparrow come Brother wolf_
