@@ -158,6 +158,9 @@ Will say more about holly later, but for now lets move Auri's journey forward as
 
 ##  Bones and Berries
 
+<img src="/img/gravetree.jpg" height="300px" width="300px">
+
+
 There she puts, I would argue _trades_, the bone for Laurel Fruit, by placing the Bone 
 inside the Laurel Tree:
 
