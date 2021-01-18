@@ -5,7 +5,7 @@
  :tags  ["KingKiller" "Fantasy"]}
  
  
- <img src="/img/spoem.png" height="500px" width="400px">
+<img src="/img/spoem.png" height="500px" width="400px">
  
 _Come sister Sparrow come Brother wolf_
 
@@ -23,8 +23,6 @@ _Nekkid toes, broken noes_
 _Hallow fallow, butter brine_
 <br>
 _How mother Rabbit stole time_
-
-
 
 ### Prelude: A hand raised 
 
@@ -79,13 +77,10 @@ to have combed the books many times and hopefully will do so here to help suppor
 
 ---------------
 
-As with any theory, we have to rely somewhat on metaphors. With
-this theory, we rely on a _lot_ of them. 
-
 As a starting point, the repeated use of a single body part where typically it's counter would be
 involved forms a pattern. There are two instances of this very close together
 in the narrative. The more unusual of the two repeats itself when Lanre is described 
-as having "strength of **arm**" rather then "strength of arms"
+as having "strength of **arm**" rather then "strength of arms":
    
 > ... Lanre had the strength of his arm and the command of loyal men...
 
@@ -99,31 +94,30 @@ an understandable amount of attention.
 > Selitos drew a deep breath. “By my eye I was deceived, never again....” He
 > raised the stone and drove its needle point into his own eye.
 
-From here we are going to follow these items separately, though as there
-journeys are similar, they don't interact again. And the separation makes it
-easier to keep track of the relationships that matter.
+From here we are going to follow these items separately for a bit tell they come back together,
+in different forms at the end.
 
 # Breaking Bones
 <img src="/img/bone.jpg" height="250px" width="250px" align="center" vspace="20px" hspace="20px">
 
-To cut to the point, Auri finds a bone:
+In Slow regard of silent things (SROST), Auri finds a bone:
 
 > she had found: a clean white bone.
 > Long, but not a leg. An arm. The prima axial. She ran her fingers down the
 > length of it and felt a tiny seam that ran all round it like a ring, showing it
 > had broken and long-healed. It was full of pleasant shadows.
 
-Let us say how this is like Lanre:
+Let us say how this "Prima Axial" is like Lanre:
 
-1. The word axial is similar to Alaxel.
-2. prima means "leading man" which Lanre certainly is.
-3. "axial" isn't the name for arm, but rather a collection of the middle parts of the body,
+1. The word axial is similar to Alaxel, who the Adem's song tells us is the lord of the Seven. 
+2. prima  means "leading man" which Lanre certainly is.
+3. "axial" isn't the name for any arm bone, but rather a collection of the middle parts of the body,
 as shown [here](https://en.wikipedia.org/wiki/Axial_skeleton). Auri, who studied
 at the university, would know this. Her naming is deliberate. She says _arm_ because he was known 
-for his strength of _arm_. She says Axial, because it's close to his name.
+for his strength of _arm_. 
 4. The arm being broken and healed is to the Lanre being killed and raised
 5. The arm being full of shadows is like Lanre being surrounded by shadows. 
-6. A bone ring indicates a profound and lasting debt, which Lanre has for his life returned.
+6. In Vinta's culture, a bone ring (see "tiny seam" from quote), indicates a profound and lasting debt, which Lanre has for his life returned.
 
 After retrieving the bone, Auri put's it near holly at some point:
 
@@ -175,24 +169,26 @@ I dive into if this could be the sword tree or the Cthaeh's tree [here](https://
 
 1. Auri described the Tree as lonely, which suits the Cthaeh very well.
 
-> And as I ran I could hear Cthaeh speaking behind me. Its dry, quiet voice followed me longer than I would have thought possible. “Come back. Come back. I’ve more to say. I’ve so much more to tell you, won’t you stay?”
+> And as I ran I could hear Cthaeh speaking behind me. Its dry, quiet voice
+> followed me longer than I would have thought possible. “Come back. Come back.
+> I’ve more to say. I’ve so much more to tell you, won’t you stay?”
 
 2. The Cthaeh's dead butterfly's are like a graveyard.
 3. At a long stretch, I think Kvothe will lay waste to Hearth trying to get to
-   Cinder who I believe he will find there. Thus making it a graveyard.
-   Currently we can see the Adems stone houses as analogous to gravestones.
-   Justifying that idea wouldn't fit here.
+   Cinder who I believe he will find there, thus making it a graveyard.
+   So then the Adems stone houses as analogous to gravestones in two ways, which 
+   only work based on a theory I haven't substantiated.
 4. Only English/Cherry Laurel's have dark blue fruit in reality. That isn't the
    tree featured in the book. It's possible someone: Pat or Auri is confused. It's
-   possible Auri was picking up the berries from the Ivy, which might make from
-   a Hedra _Helix_. Which is obviously close to Haliax. But word similarity is a
+   possible Auri was picking up the berries from the Ivy, which might make it
+   a Hedra _Helix_, which is a type of Ivy. The name of which is lose to Haliax. But word similarity is a
    too thin to base an idea on alone
-5. Sword tree fits Lanre better, who was known for his sword.
+5. The Sword Tree fits Lanre better, who was known for his sword prowess.
 6. Both Felurian and the Adem have _Ivy and Oak_ in their _art_, The Laurel tree
    with blue fruit isn't an oak, But there is a tree known as Laurel Oak that is
    hard to tell apart from an oak.
-7. Savien is like an oak
-
+7. Kovthe, mentions in song that he thinks Savien is like an "rock-old oak". Or
+   that he is, sense he is sing Savien's part.
 8. Auri has ivory skin and Cinder has Ivory teeth, which might indicate an
 addition of some sort. The obvious guess is Denner Resin, But i wonder if it isn't 
 Trillium, which kvothe calls Denna, which Felurian eats. aka _birthroot_:
@@ -201,13 +197,17 @@ Trillium, which kvothe calls Denna, which Felurian eats. aka _birthroot_:
 
 For me, If it has to be one of the two prime tree's, the Latantha is closer.
 However, graveyard and lonely make it nearly a tie. In the end, i suspect *waves
-hands* the tree's roots are linked. A theory I hope to cover....
+hands* the tree's roots are linked. A theory I hope to cover _any day now_. 
 
 <img src="/img/anydaynow.jpg" height="400px" width="250px">
 
 But let's have a taste shall we?
 
-Celtic Mythology paints a picture of two who are one, but at war, warring with against each other, warring with themselves. The Oak and Holly. During Midsummer the Oak King is at the height of strength, the Holly king regains power at the Autumn equinox, his power peaking at midwinter, at which point the oak king is reborn.
+Celtic Mythology paints a picture of two who are one, but at war, warring with
+against each other, warring with themselves. The Oak and Holly. During Midsummer
+the Oak King is at the height of strength, the Holly king regains power at the
+Autumn equinox, his power peaking at midwinter, at which point the oak king is
+reborn.
 
 <img src="/img/hollyoak.jpeg" height="400px" width="600px">
 
@@ -216,39 +216,42 @@ Guess who else dabbles in duality's?
 <img src="/img/summersoap.webp" height="225px" width="300px">
 <img src="/img/perfectsoap.jpeg" height="225px" width="300px">
 
-You might want to read (but not now please) u/quoo's master piece theory on Auri's [soap](https://www.reddit.com/r/KingkillerChronicle/comments/48jv6c/kkc_spoilers_all_the_allegory_of_auris_magnum/), i found it while working on a similar piece, though i won't claim anything as grade as what they found. I haven't read through  all of it myself, as i worry it spoil the fun.
+Later, you might want to read  u/quoo's master piece theory on
+Auri's [soap](https://www.reddit.com/r/KingkillerChronicle/comments/48jv6c/kkc_spoilers_all_the_allegory_of_auris_magnum/),
 
-I'm not suggesting that Celtic Mythology plays a role here, in fact i think going down such a road would be a
-good way to confound yourself. The Four corners has it's own lore. For one It's Ivy climbing Oak, Holly isn't an Ivy. 
+I'm not suggesting that Celtic Mythology plays a role here, The Four
+Corners has it's own lore. For one It's Ivy climbing Oak, Holly isn't an Ivy.
 
-I'm just i'm highlighting that such devices are part of our blood, our very creation, a topic I tried to capture in [art](https://www.dropbox.com/s/wkduktjjd5rc1gq/Story.pdf?dl=0). Here is a sample of some of roaring heart wilting poetry i spin into being:
+I'm just i'm highlighting that such devices are part of our blood, our very
+creation, a topic I tried to capture in
+[art](https://www.dropbox.com/s/wkduktjjd5rc1gq/Story.pdf?dl=0). Here is a
+sample of some of roaring heart wilting poetry i spin into being:
 
 <img src="/img/blackwhite.png" height="500px" width="900px">
 
-Coming back to more piratically considerations, The Mauthen farm has some strong similarities as well:
+### Farms, Hawks and rabbits
 
-* The Barrows are a grave/bone yard. 
-* The oak trees at the farm could be responsible for 
-* Auri finds pine cones in the area, The farm has pine trees which would leave them.
-* The farm is said to have a "stone outcropping", which might be gravestones auri sees.
+_Note the Hawk and Rabbit_ 
+
+<img src="/img/farmer.png" height="500px" width="350px">
+
+Coming back to the main theory, The Mauthen farm has some strong similarities as well:
+
+* The Barrows are a grave/bone yard, the pig farmer mentions the Mathen's dug up bones.
+* The Oak trees at the farm could be responsible for 
+* Auri finds pine cones in the area, The Farm has pine trees which could leave them.
+* The Farm is said to have a "stone outcropping", which might be gravestones auri sees.
 * They both have mushrooms.
 * The leaf Auri breaths on could be the one Kvothe swallows. 
-* I think the Ivy is, in a metaphorical way, the Denner Trees. White because of how they effect
-people, how they effect teeth but also because how they effect life.
+* The graveyard Ivy could be how The Denner Tree's near the farm make addicts teeth white. 
+* The Iron fense from the graveyard could be the Iron Wheel in Town near the farm
+* Verinan, who kvothe compares to a _Verinan_ red flower, could be the graveyard rose.
 
 
-Going against the idea,The farm doesn't have actually Iron fence, monument, roses or a
-Laurel. As metaphors we might say Verinan could be the rose, kvothe says
-she is a Verian "a tiny red flower". It's not a great fit though. The Iron Wheel
-in town could be the Iron gate. The Laurel tree is the Barrow itself then?
+So if this is the Mauthen farm whats the lesson? Is the Laurel Tree the barrow itself?
+What does it mean for the story? 
 
-So likely this is the Mauthen Farm. With the most outlandish guess likely being the most powerful
-message. Auri breaths on the leaf that kvothe breaths in. Note this, will see it again. 
-
-So, is this the Mauthen Farm, Lighting tree or The Cthaeh's tree?
-
-This is the end of the arm bone's story,
-though it contains through the Laurel Fruit which will pick up later.
+This is the end of the arm bone's story, though it contains through the Laurel Fruit which will pick up later.
 
 # Crystal's and Blood
 
@@ -263,9 +266,9 @@ Auri finds a Crystal in the Underthing:
 > floor. It was a lucky thing, and brave.
 
 The Crystal is like the mountain glass seltios used to stab his eye. The
-connection is thinner here, only that Crystal is similar to glass. What do we
+connection is thin here, only that Crystal is similar to glass. What do we
 know about "mountain glass"? However, the connection is immediately strengthened
-as The Cyrstal is put near an Amyr, given Selitos was their founder.
+as The Crystal is put near an Amyr, given Selitos was their founder.
 
 <img src="/img/Pairs_Commonwealth_Amyr.webp" height="500px" width="350px" align="right">
 
@@ -297,12 +300,11 @@ Later Auri adds white tatted lace to the same pocket as the Amyr and Crystal:
 > put it in her pocket with the crystal and the small stone soldier
 
 The white tatted lace is likely related to Nettie William, Rike's mom. A
-connection which, will I'll explain shortly. But I would love for someone to
-devote some energy to other options.
+connection which, will I'll explain shortly. 
 
 <img src="/img/bastandgirl.jpg" height="500px" width="300px" align="right">
 
-Finally, Auri "trades" the Crystal for butter & honeycomb, when she leaves the
+Finally, Auri trades the Crystal for butter & honeycomb, when she leaves the
 Crystal under the Lighting Tree near Rike's house.
 
 Relationships between Auri's Farm and the Williams:
@@ -317,19 +319,17 @@ Relationships between Auri's Farm and the Williams:
 
 This isn't the Cthaeh, so near a farm with milk and honey. This could possible
 be the Sword Tree, but while the butter has knifes. Their are no mountains to
-see and something tells me its guarded.
+see. 
 
 So then, The Lighting Tree. 
 
 <img src="/img/lightingtree.jpeg" height="500px" width="300px">
 
-
-Side note, does this mean Newaree is in Tumbrel? I wasn't able to unravel anything from that, 
-but more is there. I have no doubt.
+---------------------------
 
 <img src="/img/honeytree.jpg" height="500px" width="300px">
 
-Returning, we must review the trade Auri makes. This happens in three parts:
+That being established, we must review the trade Auri makes for the honey. This happens in three parts:
 
 1. Auri trades for the Nettie's butter & honeycomb for her White Tatted Lace. 
 2. She is spotted by Tess, this increases the cost of the trade.
@@ -414,7 +414,6 @@ This is the end of the journey for the cyrstal, the begging of the honeycombs.
 
 # The Light's Boundary
 
-
 Auri use's the honeycomb and laurel fruit to make a candle for kvothe. Much could be said, here. 
 Without elaborating, the ingredients are:
 
@@ -425,21 +424,18 @@ Without elaborating, the ingredients are:
 * daub of perfect pitch 
 * auri breath in whistle 
 
-If the leaf kvothe swallowed on the Mauthen farm was the one Auri breathed on,
-then this is the second reference to her breath in him. Two isn't a good number
-though, for a good number I think will need to go up to three...
+Note, If the leaf kvothe swallowed on the Mauthen farm was the one Auri breathed on,
+then her whistle is the second reference to her breath going in him. 
 
-Auri find's that in the end she doesn't have time for the proper making of the
-candle, as too often is the case, when she is pressed upon time, she turns to
-Boundry, she goes beyond...
+Auri find's that in the end she doesn't have time for the proper making of the candle, as too often is
+the case, when she is pressed upon time, she turns to Boundry, she goes
+beyond...
 
 
 > The other piece? That slender tenth part of a tenth? The heart of alchemy was
 > something Auri had learned long ago. She’d studied it before she came to
 > understand the true shape of the world. Before she knew the key to being small.
-> Oh yes. She’d learned her craft. She
-> 
-> knew its hidden roads and secrets. All the subtle, sweet, and coaxing ways that
+> Oh yes. She’d learned her craft. She knew its hidden roads and secrets. All the subtle, sweet, and coaxing ways that
 > made one skilled within the art. So many different ways. Some folk inscribed,
 > described. There were symbols. Signifiers. Byne and binding. Formulae.
 > Machineries of maths . . . But now she knew much more than that. So much of what
@@ -468,7 +464,7 @@ _and so she often finds a gentler way._
 
 _Yet, for him, these rules she would betray._
 
-# All Flames are one Flame
+## All Flames are one Flame
 
 Candles feature predominantly in the narrative. 
 Sometimes, they are obvious, though the tale is hard to [read](https://www.reddit.com/r/KingkillerChronicle/comments/k7gnl1/inspecting_the_playing_cards/)
@@ -487,9 +483,6 @@ And we learn early on to fear the edges of there flicking flame
 
 <img src="/img/whifflescared.jpeg" height="500px" width="500px">
 
-
-
-
 _four corners to play a board_
 
 _Three things a flame to burn_
@@ -499,7 +492,7 @@ _When from darkness came_
 _How can we hope to keep shadows away?_
 
 
-## Epilogue
+# Epilogue
 
 ## In a box
 
@@ -530,12 +523,16 @@ _they turned again to renew:_
 > camphor, and there was no sense in wishing. So she fetched a daub of perfect
 > pitch instead from Port.
 
-In the interest of fairness I'll explain my idea here. I think both meanings to
-volatile are relevant here. The first being an inclination to change rabidly,
-unpredictable, for the worse. Kvothe is certainly that to some degree already. I
-suspect Auri is _deeply_ conflicted on shaping him more so. The second meaning, 
-that a substance is volatile if changes from liquid to gas at low (say normal) temperature
-might be an explanation of how the Seven are [gas](https://www.reddit.com/r/KingkillerChronicle/comments/evvie5/the_chandrian_signs_are_full_of_gas/), and how move from place to place:
+In the interest of fairness I'll explain my idea here, rather then leave it to
+poetry. Which implies i have some deep understanding here, which i don't. I
+think both meanings to volatile are relevant here. The first being an
+inclination to change rabidly, unpredictable, for the worse. Kvothe is certainly
+that to some degree already. I suspect Auri is _deeply_ conflicted on shaping
+him more so. The second meaning, that a substance is volatile if changes from
+liquid to gas at low (say normal) temperature might be an explanation of how the
+Seven are
+[gas](https://www.reddit.com/r/KingkillerChronicle/comments/evvie5/the_chandrian_signs_are_full_of_gas/),
+and how move from place to place:
 
 > Haliax spread his arms and the shadow surrounding him bloomed like a flower
 > unfolding. Then, each of the others turned with a studied ease and took a step
@@ -569,16 +566,16 @@ Thanks to the r/KingkillerChronicle and r/kkcwhiteboard. I'll be cutting back a 
 I spend theory crafting as i need to put my attention back on other matters.
 But I discovering the book anew and community was a needed adventure. 
 
-## Bonus Questions
+## Left over Questions
+
+Here are some questions I jotted down but didn't try to answer which putting this together:
 
 * Is bast somehow the suet that Auri takes with here?
-
->  a bit of a yelp, then he (bast) hit the ground like a sack of suet.
-
-* The White lace orgins
-* What/where is Trumble
-* is Aunt Sellie "ellie"? Elle on gravestone? A place where no men live?
-* if the laurel tree is the borrow, what was the fruit? What does it imply?
+* What are the White lace origins?
+* What/where is Trumble? Is Newaree there?
+* Is Aunt Sellie "ellie"? Elle on gravestone? A place where no men live?
+* If the laurel tree is the borrow, what was the fruit? What does it imply?
+* Is that a hawk in that farmer picture? We should back that claim with part of the story.
 
 ## Rights
 
