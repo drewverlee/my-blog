@@ -36,7 +36,7 @@ your own conclusions before hearing others. So capital S Spoilers and possible B
 
 In short, this theory will cover Auri's candle making. In long....
 
-## A Humerus Chandelier
+# A Humerus Chandelier
 
 <img src="/img/auri_honeycomb_c.jpg" height="500px" width="350px" align="right">
 
@@ -231,9 +231,7 @@ sample of some of roaring heart wilting poetry i spin into being:
 
 ### Farms, Hawks and rabbits
 
-_Note the Hawk and Rabbit_ 
-
-<img src="/img/farmer.png" height="500px" width="350px">
+<img src="/img/farmer.jpg" height="500px" width="350px">
 
 Coming back to the main theory, The Mauthen farm has some strong similarities as well:
 
