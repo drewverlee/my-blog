@@ -397,12 +397,12 @@ This is the end of the journey for the cyrstal, the begging of the honeycombs.
     <td>Arm Bone</td>
     <td>Holly Berry</td>
     <td>Laurel Fruit</td>
-    <td>Barrow Hill | Lighting's Tree | Cthaeh's Tree</td>
+    <td>Barrow, Sword, Cthaeh? </td>
   </tr>
   <tr>
     <td>Selitos</td>
     <td>Crystal</td>
-    <td>amyr doll & white tatted lace</td>
+    <td>amyr & lace</td>
     <td>HoneyComb</td>
     <td>Lighting Tree</td>
   </tr>
@@ -494,11 +494,11 @@ _How can we hope to keep shadows away?_
 
 ## In a box
 
-As far as i can tell kvothe puts the candle in his box in Ankers 
+
+I see no mention of the candle after he receives it from auri.As far as i can
+tell kvothe puts the candle in his box in Ankers:
 
 > I finished loading my travelsack, then packed everything else into the trunk that sat at the foot of my bed. A few worn tools, a broken piece of slate I used for ciphering, a small wooden box with the handful of small treasures Auri had given me....
-
-I see no mention of it after he receives it from auri.
 
 ## deceived
 
