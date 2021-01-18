@@ -5,8 +5,26 @@
  :tags  ["KingKiller" "Fantasy"]}
  
  
+ <img src="/img/spoem.png" height="500px" width="400px">
+ 
+_Come sister Sparrow come Brother wolf_
 
- <img src="/img/poem.png" height="1000px" width="1400px">
+_Warrens widdershins ways and woes_
+<br>
+_Summer squalls, winters rose_
+<br>
+_Now a tale every midwife knows_
+
+
+_Listen close Ash and Oak_
+
+_Nekkid toes, broken noes_
+<br>
+_Hallow fallow, butter brine_
+<br>
+_How mother Rabbit stole time_
+
+
 
 ### Prelude: A hand raised 
 
@@ -227,7 +245,7 @@ in town could be the Iron gate. The Laurel tree is the Barrow itself then?
 So likely this is the Mauthen Farm. With the most outlandish guess likely being the most powerful
 message. Auri breaths on the leaf that kvothe breaths in. Note this, will see it again. 
 
-So, this is the Mauthen Farm.
+So, is this the Mauthen Farm, Lighting tree or The Cthaeh's tree?
 
 This is the end of the arm bone's story,
 though it contains through the Laurel Fruit which will pick up later.
@@ -381,7 +399,7 @@ This is the end of the journey for the cyrstal, the begging of the honeycombs.
     <td>Arm Bone</td>
     <td>Holly Berry</td>
     <td>Laurel Fruit</td>
-    <td>Barrow Hill</td>
+    <td>Barrow Hill | Lighting's Tree | Cthaeh's Tree</td>
   </tr>
   <tr>
     <td>Selitos</td>
