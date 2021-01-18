@@ -214,7 +214,7 @@ the Oak King is at the height of strength, the Holly king regains power at the
 Autumn equinox, his power peaking at midwinter, at which point the oak king is
 reborn.
 
-<img src="/img/hollyoak.jpeg" height="400px" width="600px">
+<img src="/img/hollyoak.jpeg" height="300px" width="400px">
 
 Guess who else dabbles in duality's?
 
@@ -484,7 +484,7 @@ Others there only visible if you squint...
 
 And we learn early on to fear the edges of there flicking flame
 
-<img src="/img/whifflescared.jpeg" height="500px" width="500px">
+<img src="/img/whifflescared.jpeg" height="300px" width="300px">
 
 _four corners to play a board_
 
