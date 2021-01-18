@@ -405,7 +405,7 @@ This is the end of the journey for the cyrstal, the begging of the honeycombs.
     <td>Selitos</td>
     <td>Crystal</td>
     <td>amyr & lace</td>
-    <td>HoneyComb</td>
+    <td>HoneyComb & lace</td>
     <td>Lighting Tree</td>
   </tr>
 </table> 
