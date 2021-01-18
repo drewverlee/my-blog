@@ -5,7 +5,7 @@
  :tags  ["KingKiller" "Fantasy"]}
  
  
-<meta property="og:image" content="/img/spoem.png">
+<img src="/img/picpoem.jpg" height="200px" width="200px" style="display: none">
 
 <img src="/img/spoem.png" height="500px" width="400px">
  
