@@ -26,9 +26,9 @@ _How mother Rabbit stole time_
 
 ### Prelude: A hand raised 
 
-The Kingkiller Chronicle's journey is powerful, it moves the heart, it tears
-stone from the mountains. Its best if you experience it yourself, rather then me
-rob you of the joy. Journey before destination, and all that. 
+The Kingkiller Chronicle's journey is powerful, it moves the heart. Its best if
+you experience it yourself, rather then me rob you of the joy. Journey before
+destination, and all that.
 
 So I suggest you read around a lot before tackling this. That means all the books: SROST, TLT, NOTW, TWMF, OH
 I'm not suggesting i have the right of things. Rather i'm saying it's a lot more fun to arrive at
