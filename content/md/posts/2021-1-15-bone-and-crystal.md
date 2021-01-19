@@ -82,19 +82,25 @@ to have combed the books many times and hopefully will do so here to help suppor
 As a starting point, the repeated use of a single body part where typically it's counter would be
 involved forms a pattern. There are two instances of this very close together
 in the narrative. The more unusual of the two repeats itself when Lanre is described 
-as having "strength of **arm**" rather then "strength of arms":
+as having "strength of **arm**" rather then "strength of arms" NOWT:26:184:
    
 > ... Lanre had the strength of his arm and the command of loyal men...
+
+NOWT:26:187:
 
 > ... his (Lanre) power lay in the strength of his arm. 
 
 The second instance is also unusual, but also directly part of the plotline. And so receives
 an understandable amount of attention.
 
-> Selitos One-Eye stood forward and said, “Lord, if I do thi....
+NOWT:26:190:
 
 > Selitos drew a deep breath. “By my eye I was deceived, never again....” He
 > raised the stone and drove its needle point into his own eye.
+
+NOTW:28:197:
+
+> Selitos One-Eye stood forward and said, “Lord, if I do thi....
 
 From here we are going to follow these items separately for a bit tell they come back together,
 in different forms at the end.
@@ -102,7 +108,7 @@ in different forms at the end.
 # Breaking Bones
 <img src="/img/bone.jpg" height="250px" width="250px" align="center" vspace="20px" hspace="20px">
 
-In Slow regard of silent things (SROST), Auri finds a bone:
+In Slow regard of silent things (SROST), Auri finds a bone. SROST:1:24:
 
 > she had found: a clean white bone.
 > Long, but not a leg. An arm. The prima axial. She ran her fingers down the
@@ -121,7 +127,7 @@ for his strength of _arm_.
 5. The arm being full of shadows is like Lanre being surrounded by shadows. 
 6. In Vinta's culture, a bone ring (see "tiny seam" from quote), indicates a profound and lasting debt, which Lanre has for his life returned.
 
-After retrieving the bone, Auri put's it near holly at some point:
+After retrieving the bone, Auri put's it near holly at some point. SROST:1:24:
 
 > The bone nestled almost indecently close to the holly berry. 
 
@@ -146,11 +152,11 @@ another plant. So is kvothe a pollinature of another sort? Felurian doesn't
 think he is bitten, but she doesn't look to hard. And she is a bit of a twilight
 flower, if you will excuse the expression, herself.
 
-Holly is also features predominantly in How Old Holly came to be (shocker):
+Holly is also features predominantly in How Old Holly came to be OH:
 
 > Old Holly bent his boughs again, and brought a spear, its wood of living green. Its blade as bright as berry blood. This he drove into...
 
-And has implications for our tired Inn Keeper:
+And has implications for our tired Inn Keeper. WMF:2:423
 
 > The innkeeper ’s fingers fumbled clumsily, snapping the holly branch and jabbing a thorn deep into the fleshy part of his thumb. The red-haired man didn’t flinch or curse, just scowled angrily down at his hand as a bead of blood welled up, bright as a berry.
 
@@ -162,7 +168,7 @@ Will say more about holly later, but for now lets move Auri's journey forward as
 
 
 There she puts, I would argue _trades_, the bone for Laurel Fruit, by placing the Bone 
-inside the Laurel Tree:
+inside the Laurel Tree. SROST:4:70:
 
 > Auri reached into her gathersack and brought out the bone that she
 > had found the day before. She bent down and tucked it deep inside the dark and
@@ -172,7 +178,7 @@ inside the Laurel Tree:
 
 I dive into if this could be the sword tree or the Cthaeh's tree [here](https://drewverlee.github.io/posts-output/2021-1-14-gravetree). But ill summarize:
 
-1. Auri described the Tree as lonely, which suits the Cthaeh very well.
+1. Auri described the Tree as lonely, which suits the Cthaeh very well. WMF:104:685:
 
 > And as I ran I could hear Cthaeh speaking behind me. Its dry, quiet voice
 > followed me longer than I would have thought possible. “Come back. Come back.
@@ -262,7 +268,7 @@ This is the end of the arm bone's story, though it contains through the Laurel F
 
 <img src="/img/crystal.jpg" height="250px" width="250px">
 
-Auri finds a Crystal in the Underthing:
+Auri finds a Crystal in the Underthing. SROST:1:27:
 
 > After a dozen steps, a glimmer on the marble floor caught her eye. Skipping
 > close, she saw a crystal had fallen from the chandelier to lay unbroken on the
@@ -275,7 +281,7 @@ as The Crystal is put near an Amyr, given Selitos was their founder.
 
 <img src="/img/Pairs_Commonwealth_Amyr.webp" height="500px" width="350px" align="right">
 
-Here are the relevant parts about the Amyr doll:
+Here are the relevant parts about the Amyr doll. SROST:1:28
 
 > It was a tiny figurine carved from a piece of pale, retiring stone. A small
 > soldier with clever lines to show his hauberk and his shield. But his truest
@@ -284,7 +290,7 @@ Here are the relevant parts about the Amyr doll:
 > room. The poor thing was simply lost. Auri smiled and put the doll in her
 > pocket with the crystal
 
-Later we learn more:
+Later we learn more. SROST:10:146:
 
 > the design upon its shield. It was so faint. But yes. There was the tower
 > wrapped up in a tongue of flame. No mere soldier, it was a small stone Amyr.
@@ -297,7 +303,7 @@ Which given the strong, likelihood he is connected/is Selito's complicates matte
 I had long wondered if Kvothe's first viewing hadn't been more true, but I doubtful Auri could
 be deceived by anyone but herself.
 
-Later Auri adds white tatted lace to the same pocket as the Amyr and Crystal:
+Later Auri adds white tatted lace to the same pocket as the Amyr and Crystal. SROST:1:32
 
 > she found a length of fine white tatted lace. She folded this up carefully and
 > put it in her pocket with the crystal and the small stone soldier
@@ -340,7 +346,9 @@ That being established, we must review the trade Auri makes for the honey. This 
 
 ---------
 
-1. trade
+SROST:4:
+
+1. trade. 
 
 > Carefully she brought out the length of fine white tatted lace. She folded it
 > and left it near the churn. It was the careful work of many long and drowsy
@@ -352,7 +360,7 @@ Sense she only takes a bit of butter, lets just round this down to honeycomb.
 
 <img src="/img/honey.jpg" height="200px" width="200px">
 
-2. spotted
+2. spotted. 
 
 > a prickle on her neck told her that she was being watched... A little girl was watching her
 
@@ -377,7 +385,7 @@ darkness.
 <img src="/img/alice.jpeg" height="500px" width="300px">
 <img src="/img/float.jpeg" height="500px" width="300px">
 
-Finally, What use does our white tatted lace find? 
+Finally, What use does our white tatted lace find? TLT:
 
 > “I learned loads of things today, Reshi,” Bast protested. The
 > innkeeper sat up, looking more attentive. “Really?” he said. “Impress me then.”
@@ -434,6 +442,7 @@ Auri find's that in the end she doesn't have time for the proper making of the c
 the case, when she is pressed upon time, she turns to Boundry, she goes
 beyond...
 
+SROST:10:142:
 
 > The other piece? That slender tenth part of a tenth? The heart of alchemy was
 > something Auri had learned long ago. She’d studied it before she came to
@@ -501,7 +510,7 @@ _How can we hope to keep shadows away?_
 
 
 I see no mention of the candle after he receives it from auri.As far as i can
-tell kvothe puts the candle in his box in Ankers:
+tell kvothe puts the candle in his box in Ankers. TWMF:50:358
 
 > I finished loading my travelsack, then packed everything else into the trunk that sat at the foot of my bed. A few worn tools, a broken piece of slate I used for ciphering, a small wooden box with the handful of small treasures Auri had given me....
 
@@ -516,6 +525,8 @@ _Their hearts new true._
 _And so as they turned their heads once in wrong,_ 
 
 _they turned again to renew:_
+
+SROST:10:139
 
 > Sulfonium inside a jar of stone. Racks of powders, salts and earths and herbs.
 > Oils and unguents. Fourteen waters. Twicelime. Camphor. All perfect. All true.
@@ -535,7 +546,7 @@ him more so. The second meaning, that a substance is volatile if changes from
 liquid to gas at low (say normal) temperature might be an explanation of how the
 Seven are
 [gas](https://www.reddit.com/r/KingkillerChronicle/comments/evvie5/the_chandrian_signs_are_full_of_gas/),
-and how move from place to place:
+and how move from place to place. NOTW:16:124
 
 > Haliax spread his arms and the shadow surrounding him bloomed like a flower
 > unfolding. Then, each of the others turned with a studied ease and took a step
@@ -588,4 +599,29 @@ purchases from them greatly and hope using them this isn't stepping on any toes.
 Celtic Holly picture from Anne Stokes 
 
 Some scattered ones from Wikipedia
+
+# Citations
+
+citations are as follows: Book:Chapter:page
+
+Its likely the pages are inconstant between books.
+
+TWMF: The wise man's fears
+NOTW: name of the wind
+OH  : How old holly came to Be.
+TLT : The Lighting Tree
+SROST: Slow regard of silent things
+
+SROST Chapters so I can use numbers:
+
+1. The Far Below of things
+2. what a look entails
+3. beautiful and broken
+4. A quite uncommon pleasant place
+5. hollow
+6. The angry dark
+7. ash and ember
+8. all to her desire
+9. the graceful way to move
+10. the hidden heart of things
 
