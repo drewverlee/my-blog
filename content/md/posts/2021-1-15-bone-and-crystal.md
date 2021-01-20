@@ -325,7 +325,8 @@ Relationships between Auri's Farm and the Williams:
 * The etymology of [Nettie](https://en.wiktionary.org/wiki/nettie) is Net - tie, where net's are like tatted lace. 
 * I'll mention that the lace the Sithe's tated lace also looks like the armor
   the Sithe wear. Though that mixes more then clarifies the relationships.
-
+* The farmhouse auri visits has a bearskin upon a rack to cure and Rikes father hunts and trapes.
+  
 This isn't the Cthaeh, so near a farm with milk and honey. This could possible
 be the Sword Tree, but while the butter has knifes. Their are no mountains to
 see. 
@@ -600,17 +601,17 @@ Celtic Holly picture from Anne Stokes
 
 Some scattered ones from Wikipedia
 
-# Citations
+## Citations
 
 citations are as follows: Book:Chapter:page
 
 Its likely the pages are inconstant between books.
 
-TWMF: The wise man's fears
-NOTW: name of the wind
-OH  : How old holly came to Be.
-TLT : The Lighting Tree
-SROST: Slow regard of silent things
+* TWMF: The wise man's fears
+* NOTW: name of the wind
+* OH  : How old holly came to Be.
+* TLT : The Lighting Tree
+* SROST: Slow regard of silent things
 
 SROST Chapters so I can use numbers:
 
