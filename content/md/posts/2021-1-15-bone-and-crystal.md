@@ -314,7 +314,7 @@ connection which, will I'll explain shortly.
 <img src="/img/bastandgirl.jpg" height="350px" width="210px" align="right">
 
 Finally, Auri trades the Crystal for butter & honeycomb, when she leaves the
-Crystal under the Lighting Tree near Rike's house.
+Crystal under the Lighting Tree near Rike's house. 
 
 Relationships between Auri's Farm and the Williams:
 
@@ -325,7 +325,7 @@ Relationships between Auri's Farm and the Williams:
 * The etymology of [Nettie](https://en.wiktionary.org/wiki/nettie) is Net - tie, where net's are like tatted lace. 
 * I'll mention that the lace the Sithe's tated lace also looks like the armor
   the Sithe wear. Though that mixes more then clarifies the relationships.
-* The farmhouse auri visits has a bearskin upon a rack to cure and Rikes father hunts and trapes.
+* The farmhouse auri visits has a bearskin upon a rack to cure and Rikes father Jessom hunts and traps.
   
 This isn't the Cthaeh, so near a farm with milk and honey. This could possible
 be the Sword Tree, but while the butter has knifes. Their are no mountains to
