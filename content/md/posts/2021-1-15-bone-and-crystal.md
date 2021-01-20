@@ -316,15 +316,13 @@ connection which, will I'll explain shortly.
 Finally, Auri trades the Crystal for butter & honeycomb, when she leaves the
 Crystal under the Lighting Tree near Rike's house. 
 
-Relationships between Auri's Farm and the Williams:
+Relationships between the Farm Auri's visits (SROST) and the Williams Farm (TLT):
 
 * The girl that see's Auri  with her serious eye's is Nettie's daughter Tess.
 * The same dog bay's at Auri and Bast
 * Nettie has a trio of Goat's, Auri meets one.
 * The honey that Auri takes is from Nettie, who has bee hives and also used it for candles.
 * The etymology of [Nettie](https://en.wiktionary.org/wiki/nettie) is Net - tie, where net's are like tatted lace. 
-* I'll mention that the lace the Sithe's tated lace also looks like the armor
-  the Sithe wear. Though that mixes more then clarifies the relationships.
 * The farmhouse auri visits has a bearskin upon a rack to cure and Rikes father Jessom hunts and traps.
   
 This isn't the Cthaeh, so near a farm with milk and honey. This could possible
