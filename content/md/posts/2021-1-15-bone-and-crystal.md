@@ -508,10 +508,11 @@ _How can we hope to keep shadows away?_
 ## In a box
 
 
-I see no mention of the candle after he receives it from auri.As far as i can
+I see no mention of the candle after he receives it from auri. As far as I can
 tell kvothe puts the candle in his box in Ankers. TWMF:50:358
 
 > I finished loading my travelsack, then packed everything else into the trunk that sat at the foot of my bed. A few worn tools, a broken piece of slate I used for ciphering, a small wooden box with the handful of small treasures Auri had given me....
+
 
 ## deceived
 
