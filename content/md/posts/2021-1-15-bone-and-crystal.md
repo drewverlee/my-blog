@@ -18,9 +18,9 @@ _Summer squalls, winters rose_
 _Now a tale every midwife knows_
 
 
-_Listen close Ash and Oak_
+_Listen close Ash and Elm_
 
-_Nekkid toes, broken noes_
+_Nekkid toes, crooked noes_
 <br>
 _Hallow fallow, butter brine_
 <br>
@@ -28,25 +28,349 @@ _How mother Rabbit stole time_
 
 ### Prelude: A hand raised 
 
-The Kingkiller Chronicle's journey is powerful, it moves the heart. Its best if
-you experience it yourself, rather then me rob you of the joy. Journey before
+In short, this theory will cover Auri's candle making. In long...
+
+The Kingkiller Chronicle's journey is powerful; it moves the heart. It's best if
+you experience it yourself, rather than me rob you of the joy. Journey before
 destination, and all that.
 
-So I suggest you read around a lot before tackling this. 
-I'm not suggesting i have the right of things. Rather i'm saying it's a lot more fun to arrive at
-your own conclusions before hearing others. So capital S Spoilers and possible BS ahead, you decided which.
+So I suggest you read around a *lot* before tackling this. That means all the
+books, see the last section "Citations" for a complete list. It also means some
+time on the forums. I'm not suggesting I have the right of things. Instead, I'm
+saying it's a lot more fun to arrive at your own conclusions before hearing
+others. So capital S Spoilers and possible BS ahead, you decided which. Enough
+of warnings, we look forward now, shadows on the horizon, drums in the deep.
 
-In short, this theory will cover Auri's candle making. In long....
+
+-----------
+
+
+The main theory is that Auri is shaping Kvothes life from those of Lanre and Selitos. 
+
+To go further, I must be sure you understand as much about the Fae, their magic
+and alchemy's as possible. Which is to say, we know next to nothing of the full
+picture. We must also establish that Auri is Fae, and that she knows alchemy,
+and she can reach the Mauthen Farm. If you wish to accept these as facts, you
+may safely skip to "A careful look", a tomb in its own right, and its
+subsections and go right to "A humerous chandelier" where the main theory picks
+up.
+
+
+## A careful look
+
+
+Here we need to split up topics so we can digest them, and then merge them back together a bit.
+
+* Arts and Craft time: fae magic
+* Alchemy: 
+* Double Trouble: Alchemy is fae magic
+
+Each section will have summery at the top. If you agree with it, confidently move on. 
+
+### Arts and Craft time:
+
+#### Summary
+
+There are three types of fae craft:
+
+ <table style="width:100%">
+  <tr>
+    <th>Name</th>
+    <th>Translation</th>
+    <th>Description</th>
+    <th>Example</th
+
+  </tr>
+  <tr>
+    <td>Glammourie</td>
+    <td>Seeming</td>
+    <td>Change how things look</td>
+    <td>make you think a torn shirt seem like it was whole</td>
+
+  </tr>
+  <tr>
+    <td>Grammarie</td>
+    <td>Being</td>
+    <td>Change how things feel</td>
+    <td>make you love a torn shirt like your father gave it to you</td>
+  </tr>
+ <tr>
+    <td>Grammorie</td>
+    <td>Shaping</td>
+    <td>Change how things feel and seem </td>
+    <td>make you love a torn shirt like a whole shirt your father gave you</td>
+  </tr>
+</table> 
+
+More importantly fae craft works though the impressions.
+
+#### Bitter Brew
+
+I know its asking a lot, but likely a partial re-read of the lighting tree is in order. You would do yourself a huge dis-service to not have at
+least read it once before going further. So lets hear what bast has to say about fae _magic_.
+
+<img src="/img/bastvine.jpg" height="500px" width="350px">
+ 
+
+Bast, tells us, when talking to Kostrel,  directly of two types of magic the fae do. TLT::742:
+
+> “Okay. Here’s the bones of what I know. They don’t think of it as magic. They’d never use that
+> term. They’ll talk of art or craft. They talk of seeming or shaping.” He looked
+> up at the sun and pursed his lips. “But if they were being frank, and they are
+> rarely frank, mind you, they would tell you almost everything they do is either
+> glammourie or grammarie. Glammourie is the art of making something seem.
+> Grammarie is the craft of making something be.” 
+
+
+
+Kostrel cleverly deduces that these two _crafts_ could be used together
+
+> “Can you use glammourie and grammarie at the same time?”
+
+I playful dub this "ising" but more likely you know it by another name. _Shaping_
+
+Though this is never given a name, I suspect it to be _glammorie_. The root being _g*am_ being craft/art/magic while the later half _morie_ being clarifying what type. The differences in the root words _gram_ and _glam_ relate to how there used. _gram_ means measure, which you have to do when doing _grammarie_. _glam_ is akin _charm_ as in, your performance matters in the potency of the craft. So back to my guess of _glammorie_. I'm not sure of the root really, but the reason for _morie_ is from working backwards from the words chiseled above the doors to the archives. NOTW:TODO:TODO.
+
+> As I approached the Archives, its grey, windowless surface reminded me of an
+> immense greystone. It was hard to believe after all the years of waiting that
+> I was finally there. I circled around it until I found the entrance, a massive
+> pair of stone doors standing wide open. Over them, chiseled deep into the
+> stone, were the words Vorfelan Rhinata Morie. I didn’t recognize the language.
+> It wasn’t Siaru ... maybe Yllish, or Temic. Yet another question I needed
+> answers for.
+
+Wil gives us his translation. WMF:13:TODO:
+
+> “The desire for knowledge shapes a man,” he said. “Or something close to that.”
+
+Rhinata shares a common root with Rhinna, a flower and panacea. As well as Rhinta, which the Tempi explains is a "bad thing". TMWF:TODO:TODO
+
+> “A bad thing. A man who is more than a man, yet less than a man.”
+
+I can't confidently break down Vorefelan, but i suspect given how its used on the archives, wil's translation and how the word "avoi" is used by the Skindancer that "vo" is close to "want" or "desire". 
+
+So I purpose roughly that Vorefelan is desire and knowledge, Rhinata is the man
+who is changed and _Morie_ could fit as shaping. Note, _morie_ being _shaping_
+isn't necessary for the main theory. But It will allow us to communicate easier.
+
+So we have words and a rough outline
+
+* Glammourie: Seeming
+* Grammarie : Being
+* Grammorie : Ising /shaping 
+
+We also need to build a sense for these things. First off, the list of above also indicates ease of use. 
+As an example of the first, Bast tell us that turning led into gold
+is glammourie/seeming. Bast explains in TLT:
+
+> “Glammourie is easier (then grammarie). They can make a thing seem other than it is. They could make a white shirt seem
+> like it was blue. Or a torn shirt seem like it was whole. Most of the folk have
+> at least a scrap of this art. Enough to hide themselves from mortal eyes. If
+> their hair was all of silver-white, their glammourie could make it look as black
+> as night.”
+
+Note that "Silver-white to black as night" would work in reverse. Likely, this works
+with eye color as well. Colors are easier to change then the feelings those eyes
+invoke.
+
+So the more alike things are, and the better you are at understanding them, the more easily you can use glammourie to 
+make them seem similar.  A cook of some skill can substitute ingredients with some ease and convince everyone
+nothing was amiss as long as they know the chemistry.
+
+Grammarie is harder for bast to describe:
+
+> Grammarie is about …shifting. It’s about making something into more of what it already is.”
+
+i'll summarize, this is growing to large as it is and let you disagree based on your own findings. In short,
+Grammarie is about changing the feelings people have about something. Bast uses
+the example of applying the sentimental value Krostrel feels towards his knife,
+to any knife, such that anyone that looks on it feels that way. It's making
+taking the metaphysical feelings we apply to things and transferring them as if
+they were attributes. A modern day example is when a young beautiful woman
+smiles at you while a list of side effects from a medication scroll down a page.
+Those things are _not_ related, but the company would dearly love it if you
+believed it was so.
+
+Finally, Grammorie. To change how something seems and how people feel about it. We have to guess here, do we say this truly changes it? Or do we say 
+that it puts it in a prefect prison? Is there a meaningful difference between the two?
+
+To the last I say there isn't. to observers, but there might be to the larger
+world. I'll leave you to ponder what it means.
+
+Let's see at least one of the fae craft in action. A dark example, but one that its
+worth understanding because will come back to it full circle in the end.
+
+In the TLT, Rike says he will repay Bast triple for sending Jassom, his father, far away, so he can't hurt (physically and emotionally) his 
+family anymore. Bast agrees and asks him for river stone
+
+> Bast pointed at the stream. “Find a river stone with a hole in it and bring it to me.
+
+But the physical item it self isn't all that matters, but the finding matters to:
+
+> “You have to be the one to find it,” he said. “It can’t be anyone else. And you need to find it dry on the shore.
+
+Bast then asks for a needle.
+
+> “Now we need a needle. But it has to be borrowed from a house where no men live.”
+
+But not just any needle. 
+
+“Old Nan don’t like me none,” he said. “But I reckon she’d give me a pin.”
+
+And again, how its acquired matters:
+
+> “And you have to borrow it. You can’t steal it or buy it. She has to lend it to you.”
+
+Between Rike finding the pin and returning, Bast seduces Rike's mother Nettie
+and they sing a song together, I think you know the tune. Sometime Later Bast is limping, he claims 
+he was attacked by a bear. He smells of liquor. Jessom put up a fight and hurt bast with the bottle of liquor he had, 
+but in the end Bast, ran Jassom off the hill. Quite litterly, he controled his body and ran him off the hill. The towns bicker about what happen, but they all agree he fell off LittleCliff and he was drunk. As Old Cob explains. TLT:TODO:
+
+> “It weren’t a cougar,” he insisted. “He was drunk off his feet. That’s what I heard. Stumbling-lost drunk. That’s the only sense of it.
+
+TODO
+
+So after Bast spends time with Rike's mother, but before he "chases" Jassom off
+the cliff. Rike returns with the needle. Bast leads him to the greystone, the
+location matters. He tells rick that to send his father away, Rike must drop his
+blood, because its like his fathers, through the river stone. Bast mentions this
+wouldn't work on an animal because it only desires, the magic only work on those
+that have empathy, think ahead, that are civilized. He also says the charm will only work 
+for one person and is startled when Bast demand that me his mother because he is worried that
+he will be wrong like his father. It's worth feeling this moment. This is no
+fairy tale, this is flesh and blood with bone beneath:
+
+> “He’ll go far away. You have my word—” “NO!” Rike said, his face going red and
+> angry. “What if sending him isn’t enough? What if I grow up like my da? I get
+> so …” His voice choked off, and his eyes started to leak tears. “I’m not good.
+> I know it. I know better than anyone. Like you said. I got his blood in me.
+> She needs to be safe from me. If I grow up twisted up and bad, she needs the
+> charm to … she needs something to make me go a—” Rike clenched his teeth,
+> unable to continue. Bast reached out and took hold of the boy’s shoulder. He
+> was stiff and rigid as a plank of wood, but Bast gathered him in and put his
+> arms around his shoulders. Gently, because he had seen the boy’s back. They
+> stood there for a long moment, Rike stiff and tight as a bowstring, trembling
+> like a sail tight against the wind. “Rike,” Bast said softly. “You’re a good
+> boy. Do you know that?” The boy bent then, sagged against Bast and seemed like
+> he would break himself apart with sobbing. His face was pressed into Bast’s
+> stomach and he said something, but it was muffled and disjointed. Bast made a
+> soft crooning sound of the sort you’d use to calm a horse or soothe a hive of
+> restless bees. The storm passed, and Rike stepped quickly away...
+
+
+
+This moment might be the hinge on which the world turns. Bast 
+decides to split the cost with Rike and add his blood to the pact. But more then that
+he tells a pretty lie to assure Rike that he wont be like his father:
+
+> “When you give it to her, you have to tell her that you made it for her because you love
+> her.” The boy looked uncomfortable, as if he were trying to swallow a stone.
+> “It’s essential for the magic,” Bast said firmly. “And then, if you want to make
+> the magic stronger, you need to tell her every day. Once in the morning and once at night.”
+
+Then Rike and Bast put a drop of blood through the stone:
+
+> Rike braced the stone with his other hand. Bast turned his finger, and the
+> drop of blood hung in the air for a moment before falling straight through the
+> hole to strike the greystone underneath. There was no sound. No stirring in the
+> air. No distant thunder. If anything, it seemed there was a half second of
+> perfect brick-heavy silence in the air. But it was probably nothing more than a
+> brief pause in the wind. 
+
+Finally, Bast tells him to rub the wax (honeycomb) into the stone and stay with
+the stone on a high hill until sunset fades:
+
+> “Is that it?” Rike asked after a moment, clearly
+> expecting something more. “Yup,” Bast said, licking the blood from his finger
+> with a red, red tongue. Then he worked his mouth a little and spat out the wax
+> he had been chewing. He rolled it between his fingers and handed it to the boy.
+> “Rub this into the
+> stone, then take it to the top of the highest hill you can find. Stay there
+> until the last of the sunset fades, and then give to her tonight.”
+
+Note he had promised the honey comb to a girl in the village, if she would bring him twenty perfect acorns. 
+
+
+What goes into fae magic?  Honey wax, River Stones, and Blood? No. Those are simple
+things, Teccam tells us the true cost. TWMF:
+
+> It’s like what Teccam wrote, ‘The cost of a loaf is a simple thing, and so a loaf is often sought ...’
+> but some things are past valuing: laughter, land, and love are never bought.
+
+It's important that you form an opion about how Fae magic works before going further. So that when you see it
+again latter, you have some sense of what your seeing. The physical ingredients are not the fuel, its _feeling_ the _being_
+of the things. What they Stand for, who found them and what they mean to them. Angry rocks, happy honey.
+
+
+### Alchemy
+
+We know very little about Alchemy at this point, because young kvothe knows little about alchemy. Simmon actually makes him say it. TMWF:TODO
+
+> “Okay,” Sim said, exasperated. “You need to shut up and listen. This is alchemy. You know nothing about alchemy.”
+> I made a placating gesture. “I know. I know.”
+> “Say it, then. Say, ‘I know nothing about alchemy.’ ”
+> I glowered at him.
+
+When kvothe gets exposed to Plum Bob we get a glimpse of how it can be used, as kvothe seems to lose all foresight and empathy. TODO:
+
+> “How about this?” Simmon asked me. “Which is worse, stealing a pie or killing Ambrose?”
+> I gave it a moment’s hard thought. “A meat pie, or a fruit pie?”
+> “Wow,” Fela said breathlessly.
+
+ So Alchemy can alter your state of mind. This is just an example though, it hardly gives us an idea of the scope or how its done. Well we have two more sources. First, apparently, in a rare mood, 
+Rothfuss himself chimed in according to this [comment](https://www.reddit.com/r/kkcwhiteboard/comments/kjmud2/this_is_alchemy_you_know_nothing_about_alchemy/ggyq9go?utm_source=share&utm_medium=web2x&context=3):
+
+> Alchemy is a process of extracting like platonic forms from objects. So you can pull the drunkenness from wine, and have it, and put it in something else. Or you could just take the wine and pull the hangover out of it.
+
+[Platonic forms](https://owlcation.com/humanities/An-Introduction-to-Platos-Theory-of-Forms) is likely a reference to an idea put form by Plato that idealizations really exist.
+
+> The Platonic Forms, according to Plato, are just ideas of things that actually exist. They represent what each individual thing is supposed to be like in order for it to be that specific thing.
+
+Finding out which view of a philosophy Rothfuss had in mind, and then applying it the series, would be a good way to end up crocked. It seems Alchemy lets you extract how something makes people feel (litterly and physically) from an object. So you might be able to extract a bit of sadness form an a overcooked steak. But you could probably extract a lot of anger from idk Hitlers hat, because so many people there energy at it.
+
+Finally, Auri does alchemy, but sense the Alchemy she does is part of the main theory were going to ave it tell the end.
+
+
+
+
+
+
+#### Summary
+
+TODO
+
+### TODO
+
+Simmon tells us Alchemy isn't like Chemistry. NOTW:
+
+> Simmon laughed. “Everyone thinks chemistry and alchemy are so similar, but they’re really not. They’re not even related. They just happen to live in the same house.”
+
+
+### Double Trouble
+
+Recall Bast tells us that the Fae call what they do _art_ and _craft_
+
+Auri does craft
+
+TODO
+
+She calls Alchemy art. SROST:
+
+> Whoever wrought and factored this was living proof that alchemy was art.
+
 
 # A Humerus Chandelier
 
 <img src="/img/auri_honeycomb_c.jpg" height="500px" width="350px" align="right">
 
-The main theory is that the Arm bone and Cyrstal that Auri finds in the underthing are related 
+PICKUP
+
+The theory is that the Arm bone and Cyrstal that Auri finds in the Underthing are related 
 to Lanre and Selitos respectively.
 
 Four points of clarification:
 
+TODO fix this, we know how now.
 1. I say simply _related_ because it's unclear how, and for the purposes of the bulk of
 this theory, the concern is to prove how alike they are through story and metaphor. Will
 leave it to the very ending to speculate on what it means.
@@ -55,7 +379,7 @@ leave it to the very ending to speculate on what it means.
 several weak ones. Like a spiders web, the trap isn't ready tell it's fully woven. 
 
 3. I'll be carving out non essential details in order to make this concise. I expect readers
-to have combed the books many times and hopefully will do so here to help support or refute these claims. You should defiantly read around the quotes i pull. 
+to have combed the books many times and hopefully will do so here to help support or refute these claims. You should defiantly read around the quotes I pull. 
 
 4. the relationships starting point is this:
 
@@ -76,6 +400,8 @@ to have combed the books many times and hopefully will do so here to help suppor
     <td>Crystal</td>
   </tr>
 </table> 
+
+
 
 ---------------
 
@@ -108,7 +434,7 @@ in different forms at the end.
 # Breaking Bones
 <img src="/img/bone.jpg" height="250px" width="250px" align="center" vspace="20px" hspace="20px">
 
-In Slow regard of silent things (SROST), Auri finds a bone. SROST:1:24:
+In Slow Regard of Silent Things (SROST), Auri finds a bone. SROST:1:24:
 
 > she had found: a clean white bone.
 > Long, but not a leg. An arm. The prima axial. She ran her fingers down the
@@ -125,9 +451,9 @@ at the university, would know this. Her naming is deliberate. She says _arm_ bec
 for his strength of _arm_. 
 4. The arm being broken and healed is to the Lanre being killed and raised
 5. The arm being full of shadows is like Lanre being surrounded by shadows. 
-6. In Vinta's culture, a bone ring (see "tiny seam" from quote), indicates a profound and lasting debt, which Lanre has for his life returned.
+6. In Vintish culture, a bone ring (see "tiny seam" from quote), indicates a profound and lasting debt, which Lanre has for his life returned.
 
-After retrieving the bone, Auri put's it near holly at some point. SROST:1:24:
+After retrieving the bone, Auri puts it near holly at some point. SROST:1:24:
 
 > The bone nestled almost indecently close to the holly berry. 
 
@@ -143,10 +469,10 @@ Holly is what the Sithe wear when they ride out hunting skin dancers, so we pres
 
 <img src="/img/sithe.webp" height="400px" width="250px" align="right">
 
-Bast tell's us the Sithe guard the Cthaeh, and treat anyone who comes in contact
+Bast tells us the Sithe guard the Cthaeh, and treat anyone who comes in contact
 with it like a disease they need to burn out of this world. Kvothe casual walked
 up to it however, so something is amiss.I like to think they allowed it.
-Furthermore and that they are shooting down the butterfly's. Butterfly's
+Furthermore and that they are shooting down the butterflies. Butterflies
 pollinate, which help plants reproduce, by moving the male bits to the female bits on
 another plant. So is kvothe a pollinature of another sort? Felurian doesn't
 think he is bitten, but she doesn't look to hard. And she is a bit of a twilight
@@ -198,8 +524,15 @@ I dive into if this could be the sword tree or the Cthaeh's tree [here](https://
 6. Both Felurian and the Adem have _Ivy and Oak_ in their _art_, The Laurel tree
    with blue fruit isn't an oak, But there is a tree known as Laurel Oak that is
    hard to tell apart from an oak.
-7. Kovthe, mentions in song that he thinks Savien is like an "rock-old oak". Or
-   that he is, sense he is sing Savien's part.
+7. Kovthe, when he won his talent pipes singing "The Lay of Sir Savien Traliard" compares Saviens voice to a "rock-old oak". 
+
+NOTW:44:
+
+> And we sang! Her voice like burning silver, my voice an echoing answer. Savien sang solid, powerful lines, like branches of a rock-old oak, all the while Aloine was like a nightingale, moving in darting circles around the proud limbs of it.
+
+
+Except, it's him singing. So we might say kvothe considers himself an Oak.
+
 8. Auri has ivory skin and Cinder has Ivory teeth, which might indicate an
 addition of some sort. The obvious guess is Denner Resin, But i wonder if it isn't 
 Trillium, which kvothe calls Denna, which Felurian eats. aka _birthroot_:
@@ -573,8 +906,15 @@ And you should also buy all the Cool Worldbuilders KingKiller stuff, which reall
 
 Though the idea is mine and i take full responsible for any undo confusion, I
 had help in piecing together bits here and there about the story from
-u/mattytangle and Yamus (on KKC discord). They have some great KKC theories out
-there you should check out.
+
+* u/mattytangle, for deep knowing
+* u/rhinatamorie, for kind words
+* u/throwawaybreaks, for listening
+* Yamus (on KKC discord), for careful criticism
+* u/quoo, for Auri's soap
+* u/aowshadow for a detailed review of this post
+
+They have some great KKC theories out there you should check out.
 
 Thanks to the r/KingkillerChronicle and r/kkcwhiteboard. I'll be cutting back a lot on the time
 I spend theory crafting as i need to put my attention back on other matters.
@@ -591,6 +931,13 @@ Here are some questions I jotted down but didn't try to answer which putting thi
 * If the laurel tree is the borrow, what was the fruit? What does it imply?
 * Is that a hawk in that farmer picture? We should back that claim with part of the story.
 
+## TODO
+
+* hare and fox : auri and kvothe
+* newaree and mauthen farm
+* true newaree location
+* auri craft is fae
+
 ## Rights
 
 All (most) of the pictures are likely property of Worldbuilders ,I have enjoyed my
@@ -606,11 +953,21 @@ citations are as follows: Book:Chapter:page
 
 Its likely the pages are inconstant between books.
 
-* TWMF: The wise man's fears
-* NOTW: name of the wind
-* OH  : How old holly came to Be.
-* TLT : The Lighting Tree
-* SROST: Slow regard of silent things
+* TWMF : The wise man's fears
+* NOTW : Name of the Wind
+* OH   : How old holly came to Be from "Unfettered"
+* TLT  : The Lighting Tree from "Rouges"
+* SROST: Slow Regard of Silent Things
+* HOT  : History of Tak
+
+Note i'll be citing the books OH and TLT by just Book::Page leaving out the
+chapter sense each story is just one chapter itself
+
+Bonus books, it would be proper to have them, but not strictly necessary:
+
+* RMVDD: Rick and Mortry vs Dugeons and Dragons
+* TDDB : The Adventures of Mr. Whiffles and the Pinrcess in The Dark Deep Below
+* TTBB : The Adventures of Mr. Whiffles and the Princess in The Thing Beneath the Bed
 
 SROST Chapters so I can use numbers:
 
@@ -624,4 +981,3 @@ SROST Chapters so I can use numbers:
 8. all to her desire
 9. the graceful way to move
 10. the hidden heart of things
-
