@@ -62,17 +62,16 @@ understand the craft she uses to do it. Discussing the means, broadly speaking
 "fae magic" and Alchemy. Are topics in there own right and so it's better to
 break them out.
 
-If your not sure how fae do what they do, then here is a piece on [Fae
-Magic](/posts/2021-1-22-bitter-brew) , where we learn from Bast and observe him
-working his craft in the book "The Lighting Tree".
+If your not sure how Fae do what they do, then here is a piece on 
 
-Similarly, you will need to have some understanding of [Alchemy](2021-1-23-alchemy)
-in order Auri's candle making.
+<a href="https://drewverlee.github.io/posts-output/2021-1-22-bitter-brew"> Fae
+Magic</a>, where we learn from Bast and observe him working his craft in the
+book "The Lighting Tree". Similarly, you will need to have some understanding of [Alchemy](https://drewverlee.github.io/posts-output/2021-1-23-alchemy) in order Auri's candle making.
 
 If you find yourself doubting that Auri is really visiting these locations, then
-read ![How to get to Newarre](/posts/2021-1-15-how-to-get-to-newarre) where i
-isolate the topic. If you doubt that Auri could get there quickly, then read
-[Ways to safe places](/posts/2021-1-23-ways-to-safe-places)
+read <a href="https://drewverlee.github.io/posts-output/2021-1-15-how-to-get-to-newarre">How to get Newarre</a>
+where I isolate the topic. If you doubt that Auri could get there quickly, then read
+<a href="https://drewverlee.github.io/posts-output/2021-1-23-ways-to-safe-places">Ways to safe places</a>
 
 Each post will try to have summery or conclusion at the top. If you agree with
 it, confidently move on.

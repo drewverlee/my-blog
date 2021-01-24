@@ -10,8 +10,9 @@ The theory is that Newarre is near Trebon and the Mauthen farm.
 This theory relies on some several elements that will discuss individually,
 either here, or in other posts which I'll link to.
 
-The bulk of this Theory is a piece of another titled [Warren Widdershins Ways
-and Woes](/posts/2021-1-15-bone-and-crystal), in which Auri gets the ingredients
+The bulk of this Theory is a piece of another titled 
+
+<a href="https://drewverlee.github.io/posts-output/2021-1-15-bone-and-crystal">Warren Widdershins Ways and Woes</a> in which Auri gets the ingredients
 for a candle. To get those ingredients, she travels to the Mauthen Farm and the
 Williams Farm. The Williams live in Newarre, which is just some miles across the
 stream from the Mauthen Farm. Or so this theory goes.
@@ -31,7 +32,10 @@ So I'm going to break this into Three parts:
 
 # Auri visits Newarre and Mauthen Farm
 
-First, I cover how she gets there in [wayts to safe places](/posts/2021-1-23-ways-to-safe-places). So either read that first, or accept
+
+
+
+First, I cover how she gets there in <a href="https://drewverlee.github.io/posts-output/2021-1-23-ways-to-safe-places">Ways to safe places</a>. So either read that first, or accept
 that she can move around fast. What were going to do here is cover similarities
 between the places Auri visits in the SROST and the Williams Farm in Newarre
 followed by the Mauthen Farm.
