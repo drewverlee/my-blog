@@ -6,72 +6,69 @@
 
 ## Fae Magic
 
-What follows is a summary of how Fae magic works. Followed by walk through the
-book, The Lighting Tree, to understand roughly how we drew these conclusions in
-the section "Glamour". Followed by a bit of speculation further into what Bast
-did and how Fae magic works, interwoven with a bit of speculation. Finally, will
-put on our tin foil hats in "dancing lessons".
+What follows is a summary of how Fae magic works. 
 
+In the next section "Shadows on the wall", will do a partial re-read of "The lighting Tree", to 
+understand the conclusions we drew and more context.
+
+The last section, "Dancing Lessons"  will dive deeper
+and I will speculate on what happened outside the story were shown.
+
+The Lighting Tree is required reading for this to make sense. I'll site just the page number
+if its from the main book and book:chapter:page otherwise.
 
 ### Crafts
 
-There are three types of fae magic, or as they would call it. _craft or art_. 
+There are three types of fae magic, or as they would call it, fae _craft_ or _art__. 
 
- <table style="width:100%">
- <caption> Glamour </caption>
+ <table style="width:100%" style="padding:0 100px;" >
   <tr>
     <th>Name</th>
-    <th>Other term</th>
     <th>Translation</th>
     <th>Description</th>
-    <th>Example</th
+    <th>Example</th>
+  </tr>
+  <tr>
+    <td style="padding:0 15px 0 15px;">Glammourie</td>
+    <td style="padding:0 15px 0 15px;">Seeming</td>
+    <td style="padding:0 15px 0 15px;">Change how things physically are </td>
+    <td style="padding:0 15px 0 15px;">A glamoured old shirt would look new</td>
 
   </tr>
   <tr>
-    <td>Glammourie</td>
-    <td>Art</td>
-    <td>Seeming</td>
-    <td>Change how things look</td>
-    <td>make you think a torn shirt seem like it was whole</td>
-
-  </tr>
-  <tr>
-    <td>Grammarie</td>
-    <td>Craft</td>
-    <td>Being</td>
-    <td>Change how things feel</td>
-    <td>make you love a torn shirt like your father gave it to you</td>
+    <td style="padding:0 15px 0 15px;">Grammarie</td>
+    <td style="padding:0 15px 0 15px;">Being</td>
+    <td style="padding:0 15px 0 15px;">Change how you feel about something   </td>
+    <td style="padding:0 15px 0 15px;">make you love a torn shirt like your father gave it to you</td>
   </tr>
  <tr>
-    <td>Grammorie</td>
-    <td>Shaping</td>
-    <td>Ising</td>
-    <td>Change how things feel and seem </td>
-    <td>make you love a torn shirt like a whole shirt your father gave you</td>
+    <td style="padding:0 15px 0 15px;">Grammorie</td>
+    <td style="padding:0 15px 0 15px;">Shaping</td>
+    <td style="padding:0 15px 0 15px;">Change how things feel and seem </td>
+    <td style="padding:0 15px 0 15px;">make you love a torn shirt like a whole shirt your father gave you</td>
   </tr>
 </table> 
 
 What's more in order to perform these arts, fae magic, like sympathy relies on
-similarities between how people feel about things. The next section will elaborate.
+similarities, only in this case, its between how people feel about the things, rather then there physical properties. 
+The next section will elaborate.
 
-I should be clear that Bast never explicitly assign the term art or craft to
-specifically Glammourie or Grammarie, but given the descriptions I believe each
-is closer to one or the other. But like humans misusing words, the fae likely do
-as well. Similarly, its unclear if "glamour" when used through the series refers
-to glammourie or grammarie or just fae "magic" in general. For now i'm using
-Glamour to be a catch all term.
+Three points of clarification to this table:
 
-Also "ising" is A term I came up with, as it seemed right.
+1.  I'll note that I suspect if your told something is _art_ its likely glammourie
+and if its _craft_ its likely grammarie. But Bast doesn't say this, so will
+leave it out of the table. 
+2. Furthermore, were not given a word to describe the verb for grammarie. Would it be gramered? grammered? 
+3. The third row is based on speculation, which is explained below.
 
+### Shadows on the wall
 
-### Glamour
-
-I know its asking a lot, but likely a partial re-read of the lighting tree is in order. You would do yourself a huge dis-service to not have at least read it once before going further. So lets hear what bast has to say about fae _magic_.
+In part this will be a partial re-read of the Lighting tree with me highlighting parts. Bast will be 
+our main character, explaining the ins and outs of Glamour.
 
 <img src="/img/bastvine.jpg" height="500px" width="350px">
- 
 
-Bast, tells us, when talking to Kostrel,  directly of two types of magic the fae do. TLT::742:
+Bast, tells us, when talking to Kostrel,  of two types of magic the fae do. 742:
 
 > “Okay. Here’s the bones of what I know. They don’t think of it as magic. They’d never use that
 > term. They’ll talk of art or craft. They talk of seeming or shaping.” He looked
@@ -80,13 +77,20 @@ Bast, tells us, when talking to Kostrel,  directly of two types of magic the fae
 > glammourie or grammarie. Glammourie is the art of making something seem.
 > Grammarie is the craft of making something be.” 
 
-Kostrel cleverly deduces that these two _crafts_ could be used together
+Kostrel cleverly deduces that these two _crafts_ could be used together. 746:
 
 > “Can you use glammourie and grammarie at the same time?”
 
-I playful dub this "ising" but more likely you know it by another name. _Shaping_
+I playful dub this "ising" but I suspect you likely you know it by another name. _Shaping_
 
-Though this is never given a name, I suspect it to be _glammorie_. The root being _g*am_ being craft/art/magic while the later half _morie_ being clarifying what type. The differences in the root words _gram_ and _glam_ relate to how there used. _gram_ means measure, which you have to do when doing _grammarie_. _glam_ is akin _charm_ as in, your performance matters in the potency of the craft. So back to my guess of _glammorie_. I'm not sure of the root really, but the reason for _morie_ is from working backwards from the words chiseled above the doors to the archives. NOTW:36:237
+Though in the book, this is never actually given a name, I suspect it to be _glammorie_. The root
+being _g*am_ being craft/art/magic while the later half _morie_ being clarifying
+what type. The differences in the root words _gram_ and _glam_ relate to how
+there used. _gram_ means measure, which you have to do when doing _grammarie_.
+_glam_ is akin _charm_ as in, your performance matters in the potency of the
+craft. So back to my guess of _glammorie_. I'm not sure of the root really, but
+the reason for _morie_ is from working backwards from the words chiseled above
+the doors to the archives. NOTW:36:237
 
 > As I approached the Archives, its grey, windowless surface reminded me of an
 > immense greystone. It was hard to believe after all the years of waiting that
@@ -117,11 +121,11 @@ So we have words and a rough outline
 
 * Glammourie: Seeming
 * Grammarie : Being
-* Grammorie : Ising /Shaping 
+* Grammorie : Shaping 
 
 We also need to build a sense for these things. First off, the list of above also indicates ease of use. 
 As an example of the first, Bast tell us that turning led into gold
-is glammourie/seeming. Bast explains in TLT::724
+is glammourie/seeming. Bast explains. 724:
 
 > “Glammourie is easier (then grammarie). They can make a thing seem other than it is. They could make a white shirt seem
 > like it was blue. Or a torn shirt seem like it was whole. Most of the folk have
@@ -133,15 +137,16 @@ Note that "Silver-white to black as night" would work in reverse. Likely, this w
 with eye color as well. Colors are easier to change then the feelings those eyes
 invoke.
 
-So the more alike things are, and the better you are at understanding them, the more easily you can use glammourie to 
-make them seem similar.  A cook of some skill can substitute ingredients with some ease and convince everyone
-nothing was amiss as long as they know the chemistry.
+So the more alike things are, and the better you are at understanding them, the
+more easily you can use glammourie to make them seem similar. A renowned chief
+can substitute ingredients with some ease and convince everyone nothing
+was amiss as long as they know the chemistry.
 
-Grammarie is harder for bast to describe
+Grammarie is harder for bast to describe. 742:
 
 > Grammarie is about …shifting. It’s about making something into more of what it already is.”
 
-i'll summarize, this is growing to large as it is and let you disagree based on your own findings. In short,
+I'll summarize, this is growing to large as it is and let you disagree based on your own findings. In short,
 Grammarie is about changing the feelings people have about something. Bast uses
 the example of applying the sentimental value Krostrel feels towards his knife,
 to any knife, such that anyone that looks on it feels that way. It's making
@@ -151,17 +156,19 @@ smiles at you while a list of side effects from a medication scroll down a page.
 Those things are _not_ related, but the company would dearly love it if you
 believed it was so.
 
-Finally, Grammorie. To change how something seems and how people feel about it. We have to guess here, do we say this truly changes it? Or do we say 
-that it puts it in a prefect prison? Is there a meaningful difference between the two?
+Finally, Grammorie. To change how something seems and how people feel about it.
+We have to guess here, do we say this truly changes it? Or do we say that it
+puts it in a prefect prison? Is there a meaningful difference between the two?
 
-To the last I say there isn't. to observers, but there might be to the larger
-world. I'll leave you to ponder what it means.
+To the last I say there isn't to any but the most careful observers. Like a
+glass overflowing that never seems to quench your thirst, they might have a
+hollowness about them.
 
-Let's see at least one of the fae craft in action. A dark example, but one that its
-worth understanding because will come back to it full circle in the end.
+Will cover Bast main use of the art here. A dark example and complex. 
 
-In the TLT, Rike says he will repay Bast triple for sending Jassom, his father, far away, so he can't hurt (physically and emotionally) his 
-family anymore. Bast agrees and asks him for river stone. TLT::758:
+Recall that Rike says he will repay Bast triple for sending Jassom, his father, far
+away, so he can't hurt (physically and emotionally) his family anymore. Bast
+agrees and asks him for river stone. 758:
 
 > Bast pointed at the stream. “Find a river stone with a hole in it and bring it to me.
 
@@ -172,7 +179,7 @@ But the physical item it self isn't all that matters, but the finding matters to
 
 > “You have to be the one to find it,” he said. “It can’t be anyone else. And you need to find it dry on the shore.
 
-Bast then asks for a needle. TLT::766:
+Bast then asks for a needle. 766:
 
 > “Now we need a needle. But it has to be borrowed from a house where no men live.”
 
@@ -295,7 +302,7 @@ Bast played a role in Jessoms accident.
 
 But how? 
 
-remember, the faes craft works similar to sympathy, the more alike two things
+Remember, the Faes craft works similar to sympathy, the more alike two things
 are, the easier they are to bring together. e.g a pretty fae boy might use
 glammourie to seem like pretty girl. Icy dark eyes might look like chilly blue
 ones.
@@ -303,7 +310,33 @@ ones.
 > Glamour was second nature. It was just making folk see what they wanted to see. Fooling folk was
 > simple as singing. Tricking folk and telling lies, it was like breathing.
 
-There are two things that happen off screen. 
+Were going to break this into two parts. First cover the physical items, second will cover 
+the more powerful symbolic ones.
+
+The three physical items Bast uses in the craft:
+
+* river stone
+* needle 
+* honey wax 
+
+The needle is from a house with no men. That's sort of what Rike wants, he is a
+boy, his father a man, no man would mean his father has to leave. It should be
+obvious this could force Rike away later in life however. As well as his
+brothers.
+
+The honey wax Bast gets from Nettie, a gentle men would say it was given, a cynic might 
+say traded, a monster would have taken it. The feeling matters, it was given. Does it represent
+sex? love? a bit of both most likely
+
+I'm not going to cover the river stone here. It's part of a larger puzzle. That brings 
+us to this:
+
+* river stone : ?        : ?      : ?
+* needled     : borrowed : no-men : to send rikes father away
+* honey wax   : given    : romance: to give the wiliams some joy
+
+However that's not all the magic entailed. To discuss the other parts, we need
+to cover two things that happened off screen.
 
 First, when Bast visits Martin's Still he wrecks the place. This is later blamed
 on Jessom.

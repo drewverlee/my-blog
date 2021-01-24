@@ -3,7 +3,10 @@
  :klipse {:settings {:codemirror-options-out {:line-numbers false}}}
  :date "2021-1-15"
  :tags  ["KingKiller" "Fantasy"]}
- 
+
+### Warning! This is current being edited.
+
+TODO remove warning
  
 <img src="/img/picpoem.jpg" height="200px" width="200px" style="display: none">
 
@@ -35,80 +38,44 @@ you experience it yourself, rather than me rob you of the joy. Journey before
 destination, and all that.
 
 So I suggest you read around a *lot* before tackling this. That means all the
-books, see the last section "Citations" for a complete list. It also means some
-time on the forums. I'm not suggesting I have the right of things. Instead, I'm
-saying it's a lot more fun to arrive at your own conclusions before hearing
-others. So capital S Spoilers and possible BS ahead, you decided which. Enough
-of warnings, we look forward now, shadows on the horizon, drums in the deep.
+books, see the last section "Citations" for a complete list. It also means
+spending some time on the forums. I'm not suggesting I have the right of things.
+Instead, I'm saying it's a lot more fun to arrive at your own conclusions before
+hearing others. So capital S Spoilers and possible BS ahead, you decided which.
+Enough of warnings, we look forward now, shadows on the horizon, drums in the
+deep.
 
 
 -----------
 
 
-The main theory is that Auri is shaping Kvothes life from those of Lanre and Selitos. 
+The main theory is that Auri is Shaping Kvothes life from those of Lanre and Selitos. 
 
-To go further, I must be sure you understand as much about the Fae, their magic
-and alchemy's as possible. Will cover these in the section "A careful look" then pick 
-up the main theory thread in "A humerus Chandelier". 
-
+To go further, I must be sure you understand as much about the Fae, their magic,
+way stones and Alchemy as possible. I'll give an overview of this in the next section "A careful
+look" then pick up the main theory thread in "A humerus Chandelier". 
 
 # A careful look
 
-To understand the conclusion, that Auri is shaping kvothe. You need to understand the craft she uses to do it.
-Discussing the means, broadly speaking "fae magic" and "alchemy". Are topics in there own right and so it's better
-to break them out. 
+To understand the conclusion, that Auri is Shaping kvothe. You need to
+understand the craft she uses to do it. Discussing the means, broadly speaking
+"fae magic" and Alchemy. Are topics in there own right and so it's better to
+break them out.
 
-* [Glamour](/posts/2021-1-22-bitter-brew)
-* Alchemy
+If your not sure how fae do what they do, then here is a piece on [Fae
+Magic](/posts/2021-1-22-bitter-brew) , where we learn from Bast and observe him
+working his craft in the book "The Lighting Tree".
 
+Similarly, you will need to have some understanding of [Alchemy](2021-1-23-alchemy)
+in order Auri's candle making.
 
+If you find yourself doubting that Auri is really visiting these locations, then
+read ![How to get to Newarre](/posts/2021-1-15-how-to-get-to-newarre) where i
+isolate the topic. If you doubt that Auri could get there quickly, then read
+[Ways to safe places](/posts/2021-1-23-ways-to-safe-places)
 
-* Arts and Craft time ~ fae magic            
-* Don't know much about Alchemy... ~ Alchemy
-
-Each section will have summery at the top. If you agree with it, confidently move on. 
-
-## Alchemy
-
-### Summery
-
-I'll safely go with a direct quote from rothfuss which i assume to be close enough to the truth. 12-16-2019 on twitch:
-
-> > Alchemy is a process of extracting like platonic forms from objects. So you can pull the drunkenness from wine, and have it, and put it in something else. Or you could just take the wine and pull the hangover out of it.
-
-
-### Don't know much about Alchemy...
-
-We know very little about Alchemy at this point, because young kvothe knows little about alchemy. Simmon actually makes him say it. TMWF:TODO
-
-> “Okay,” Sim said, exasperated. “You need to shut up and listen. This is alchemy. You know nothing about alchemy.”
-> I made a placating gesture. “I know. I know.”
-> “Say it, then. Say, ‘I know nothing about alchemy.’ ”
-> I glowered at him.
-
-When kvothe gets exposed to Plum Bob we get a glimpse of how it can be used, as kvothe seems to lose all foresight and empathy. TODO:
-
-> “How about this?” Simmon asked me. “Which is worse, stealing a pie or killing Ambrose?”
-> I gave it a moment’s hard thought. “A meat pie, or a fruit pie?”
-> “Wow,” Fela said breathlessly.
-
- So Alchemy can alter your state of mind. This is just an example though, it hardly gives us an idea of the scope or how its done. Well we have two more sources. First, apparently, in a rare mood, 
-Rothfuss himself chimed in according to this [comment](https://www.reddit.com/r/kkcwhiteboard/comments/kjmud2/this_is_alchemy_you_know_nothing_about_alchemy/ggyq9go?utm_source=share&utm_medium=web2x&context=3):
-
-> Alchemy is a process of extracting like platonic forms from objects. So you can pull the drunkenness from wine, and have it, and put it in something else. Or you could just take the wine and pull the hangover out of it.
-
-[Platonic forms](https://owlcation.com/humanities/An-Introduction-to-Platos-Theory-of-Forms) is likely a reference to an idea put form by Plato that idealizations really exist.
-
-> The Platonic Forms, according to Plato, are just ideas of things that actually exist. They represent what each individual thing is supposed to be like in order for it to be that specific thing.
-
-<img src="/img/allegory-of-cave.jpeg" height="300px" width="500px">
- 
-
-
-Finding out which view of a philosophy Rothfuss had in mind, and then applying it the series, would be a good way to end up crocked. It seems Alchemy lets you extract how something makes people feel (litterly and physically) from an object. So you might be able to extract a bit of sadness form an a overcooked steak. But you could probably extract a lot of anger from idk Hitlers hat, because so many people there energy at it.
-
-Finally, Auri does alchemy, but sense the Alchemy she does is part of the main theory were going to ave it tell the end.
-
+Each post will try to have summery or conclusion at the top. If you agree with
+it, confidently move on.
 
 
 # A Humerus Chandelier
@@ -137,8 +104,8 @@ she finds in the Underthing. To clarify, ill be keeping track for us:
 
 We first need to establish how these items are like these figures. This is done multiple ways, mostly by association.
 
-E.g If i said, boy my new boss sure is a bear. And later I said, he is really
-grizzly today. We would count this as two connections to the bear animal.
+E.g If I said, my new boss sure is a bear. And later I said, he is really
+grizzly today. We would count this as two connections from my boss to a bear.
 
 The starting point for this theory happens in the repeated use of a single body part where typically it's counter would be
 involved forms a pattern. There are two instances of this very close together
@@ -316,6 +283,8 @@ sample of some of roaring heart wilting poetry i spin into being:
 
 Coming back to the main theory, The Mauthen farm has some strong similarities as well:
 
+TODO update with info
+
 * The Barrows are a grave/bone yard, the pig farmer mentions the Mathen's dug up bones.
 * The Oak trees at the farm could be responsible for 
 * Auri finds pine cones in the area, The Farm has pine trees which could leave them.
@@ -388,16 +357,20 @@ Crystal under the Lighting Tree near Rike's house.
 
 Relationships between the Farm Auri's visits (SROST) and the Williams Farm (TLT):
 
-* The girl that see's Auri  with her serious eye's is Nettie's daughter Tess.
+* The girl that see's Auri with her serious eye's is Nettie's daughter Tess.
 * The same dog bay's at Auri and Bast
-* Nettie has a trio of Goat's, Auri meets one.
-* The honey that Auri takes is from Nettie, who has bee hives and also used it for candles.
+* Nettie has a trio of Goat's, Auri meets one or a relative.
+* The honey that Auri takes is from Nettie, who has bee hives and also used it
+  for candles.
+* The farmhouse auri visits has a bearskin upon a rack to cure and Rikes father
+  Jessom hunts and traps.
+* Both Auri's farmhouse and the Williams have a garden
+* Both locations have a barn
 * The etymology of [Nettie](https://en.wiktionary.org/wiki/nettie) is Net - tie, where net's are like tatted lace. 
-* The farmhouse auri visits has a bearskin upon a rack to cure and Rikes father Jessom hunts and traps.
   
-This isn't the Cthaeh, so near a farm with milk and honey. This could possible
+This isn't the Cthaeh, so near a farm with milk, honey and curious eyes. This could possible
 be the Sword Tree, but while the butter has knifes. Their are no mountains to
-see. 
+see, or swords. 
 
 So then, The Lighting Tree. 
 
@@ -629,6 +602,8 @@ Auri was supposed to shape Kvothe to volatile, she _declined_. A small thing,
 and yet it might make all the difference.
 
 
+
+
 # Other
 -----------------------------
 
@@ -651,6 +626,7 @@ had help in piecing together bits here and there about the story from
 * u/quoo, for Auri's soap
 * u/aowshadow for a detailed review of this post
 * u/biologin for the Rothuss alchemy quotes, and likely other bits i picked up
+* u/mastersam for insights
 
 They have some great KKC theories out there you should check out.
 
@@ -676,6 +652,11 @@ Here are some questions I jotted down but didn't try to answer which putting thi
 * true newaree location
 * auri craft is fae
 * auri "see a woman plate as snow" Pale Alenta brings the blight and what is the blight.
+* auri does still the butter
+
+>  But it was keeping nothing cool save for a lump of yellow
+> butter, and that was full of knives, scarcely fit for eating. On the counter was
+> a fine and wondrous thing
 
 ## Rights & Art
 
