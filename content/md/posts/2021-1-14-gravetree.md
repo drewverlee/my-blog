@@ -17,9 +17,82 @@ _Or dance wayward?_
 
 _Or do all roads lead to fire?_
 
-This section is slightly more whimsical, because I am less sure. 
-Though be clear we should look for things:
 
+## which tree is the graeyard one?
+
+1. Auri described the Tree as lonely, which suits the Cthaeh very well. WMF:104:685:
+
+> And as I ran I could hear Cthaeh speaking behind me. Its dry, quiet voice
+> followed me longer than I would have thought possible. “Come back. Come back.
+> I’ve more to say. I’ve so much more to tell you, won’t you stay?”
+
+2. The Cthaeh's dead butterfly's are like a graveyard.
+3. At a long stretch, I think Kvothe will lay waste to Hearth trying to get to
+   Cinder who I believe he will find there, thus making it a graveyard.
+   So then the Adems stone houses as analogous to gravestones in two ways, which 
+   only work based on a theory I haven't substantiated.
+4. Only English/Cherry Laurel's have dark blue fruit in reality. That isn't the
+   tree featured in the book. It's possible someone: Pat or Auri is confused. It's
+   possible Auri was picking up the berries from the Ivy, which might make it
+   a Hedra _Helix_, which is a type of Ivy. The name of which is lose to Haliax. But word similarity is a
+   too thin to base an idea on alone
+5. The Sword Tree fits Lanre better, who was known for his sword prowess.
+6. Both Felurian and the Adem have _Ivy and Oak_ in their _art_, The Laurel tree
+   with blue fruit isn't an oak, But there is a tree known as Laurel Oak that is
+   hard to tell apart from an oak.
+7. Kovthe, when he won his talent pipes singing "The Lay of Sir Savien Traliard" compares Saviens voice to a "rock-old oak". 
+
+NOTW:44:
+
+> And we sang! Her voice like burning silver, my voice an echoing answer. Savien sang solid, powerful lines, like branches of a rock-old oak, all the while Aloine was like a nightingale, moving in darting circles around the proud limbs of it.
+
+
+Except, it's him singing. So we might say kvothe considers himself an Oak.
+
+8. Auri has ivory skin and Cinder has Ivory teeth, which might indicate an
+addition of some sort. The obvious guess is Denner Resin, But i wonder if it isn't 
+Trillium, which kvothe calls Denna, which Felurian eats. aka _birthroot_:
+
+<img src="/img/trill.jpeg" height="300px" width="300px">
+
+For me, If it has to be one of the two prime tree's, the Latantha is closer.
+However, graveyard and lonely make it nearly a tie. In the end, i suspect *waves
+hands* the tree's roots are linked. A theory I hope to cover _any day now_. 
+
+<img src="/img/anydaynow.jpg" height="400px" width="250px">
+
+But let's have a taste shall we?
+
+Celtic Mythology paints a picture of two who are one, but at war, warring with
+against each other, warring with themselves. The Oak and Holly. During Midsummer
+the Oak King is at the height of strength, the Holly king regains power at the
+Autumn equinox, his power peaking at midwinter, at which point the oak king is
+reborn.
+
+<img src="/img/hollyoak.jpeg" height="300px" width="400px">
+
+Guess who else dabbles in duality's?
+
+<img src="/img/summersoap.webp" height="225px" width="300px">
+<img src="/img/perfectsoap.jpeg" height="225px" width="300px">
+
+Later, you might want to read  u/quoo's master piece theory on
+Auri's [soap](https://www.reddit.com/r/KingkillerChronicle/comments/48jv6c/kkc_spoilers_all_the_allegory_of_auris_magnum/),
+
+I'm not suggesting that Celtic Mythology plays a role here, The Four
+Corners has it's own lore. For one It's Ivy climbing Oak, Holly isn't an Ivy.
+
+I'm just i'm highlighting that such devices are part of our blood, our very
+creation, a topic I tried to capture in
+[*story and art*](https://www.dropbox.com/s/wkduktjjd5rc1gq/Story.pdf?dl=0). Here is a
+sample of some of roaring heart wilting poetry i spin into being:
+
+<img src="/img/blackwhite.png" height="200px" width="400px" style="border: 5px solid #8B0000;">
+
+## Exploration
+
+This section is slightly more whimsical as it's the process of trying to connect the graveyard to another location.
+Here are the descriptions of the graveyard tree that we need to match. 
 
 * ivy 
 * graveyard / boneyard
@@ -28,7 +101,6 @@ Though be clear we should look for things:
 * roots among the stone
 * warm scent
 * lonely
-* 
 
 In some _form_ as they appear in the graveyard
 

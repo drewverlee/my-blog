@@ -32,9 +32,6 @@ So I'm going to break this into Three parts:
 
 # Auri visits Newarre and Mauthen Farm
 
-
-
-
 First, I cover how she gets there in <a href="https://drewverlee.github.io/posts-output/2021-1-23-ways-to-safe-places">Ways to safe places</a>. So either read that first, or accept
 that she can move around fast. What were going to do here is cover similarities
 between the places Auri visits in the SROST and the Williams Farm in Newarre

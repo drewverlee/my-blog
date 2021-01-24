@@ -4,10 +4,6 @@
  :date "2021-1-15"
  :tags  ["KingKiller" "Fantasy"]}
 
-### Warning! This is current being edited.
-
-TODO remove warning
- 
 <img src="/img/picpoem.jpg" height="200px" width="200px" style="display: none">
 
 <img src="/img/spoem.png" height="500px" width="400px">
@@ -52,18 +48,17 @@ deep.
 The main theory is that Auri is Shaping Kvothes life from those of Lanre and Selitos. 
 
 To go further, I must be sure you understand as much about the Fae, their magic,
-way stones and Alchemy as possible. I'll give an overview of this in the next section "A careful
-look" then pick up the main theory thread in "A humerus Chandelier". 
+Waystones and Alchemy as possible. I'll give an overview of the requirements in the next section "A careful
+look" then pick up the main theory thread in the section titled "A humerus Chandelier". 
 
 # A careful look
 
 To understand the conclusion, that Auri is Shaping kvothe. You need to
 understand the craft she uses to do it. Discussing the means, broadly speaking
-"fae magic" and Alchemy. Are topics in there own right and so it's better to
+_Fae magic_ and Alchemy. Are topics in there own right and so it's better to
 break them out.
 
 If your not sure how Fae do what they do, then here is a piece on 
-
 <a href="https://drewverlee.github.io/posts-output/2021-1-22-bitter-brew"> Fae
 Magic</a>, where we learn from Bast and observe him working his craft in the
 book "The Lighting Tree". Similarly, you will need to have some understanding of [Alchemy](https://drewverlee.github.io/posts-output/2021-1-23-alchemy) in order Auri's candle making.
@@ -82,7 +77,8 @@ it, confidently move on.
 <img src="/img/auri_honeycomb_c.jpg" height="500px" width="350px" align="right">
 
 Our theory is that Auri is shaping Kvothe From Lanre and Selitos, who are represented  by two items
-she finds in the Underthing. To clarify, ill be keeping track for us:
+she finds in the Underthing. To clarify, ill be keeping track of the items (what) and who in a table. The starting point,
+which will explain shortly, is here:
 
  <table style="width:50%">
   <tr>
@@ -133,6 +129,7 @@ From here we are going to follow these items separately for a bit tell they come
 in different forms at the end.
 
 # Breaking Bones
+
 <img src="/img/bone.jpg" height="250px" width="250px" align="center" vspace="20px" hspace="20px">
 
 In Slow Regard of Silent Things (SROST), Auri finds a bone. SROST:1:24:
@@ -142,7 +139,10 @@ In Slow Regard of Silent Things (SROST), Auri finds a bone. SROST:1:24:
 > length of it and felt a tiny seam that ran all round it like a ring, showing it
 > had broken and long-healed. It was full of pleasant shadows.
 
-Let us say how this "Prima Axial" is like Lanre:
+
+Here comes the analogies and metaphors we talked about before, were not going to
+discuss why this is important now, rather just note the alike this bone the
+"Prima Axial is" to Lanre:
 
 1. The word axial is similar to Alaxel, who the Adem's song tells us is the lord of the Seven. 
 2. prima  means "leading man" which Lanre certainly is.
@@ -156,48 +156,17 @@ at the university, would know this.
 
 Fancy that, seven associations.
 
-After retrieving the bone, Auri puts it near holly at some point. SROST:1:24:
+After retrieving the bone, Auri puts it near some holly, that she has on her.  SROST:1:24:
 
 > The bone nestled almost indecently close to the holly berry. 
 
-Holly is a topic all on it's own and so deserves some consideration.
-
-## Holly 
-
-I believe holly berry is a metaphor for creation. The Lady/Lyra uses it to bring
-back Lanre in the form of Old Holly the warrior. For further exploration,
-consult this [post](https://www.reddit.com/r/KingkillerChronicle/comments/krxwj0/lets_discuss_old_holly_berries_and_birth/), though it wasn't written with this in mind.
-
-Holly is what the Sithe wear when they ride out hunting skin dancers, so we presume it has some protective powers
-
-<img src="/img/sithe.webp" height="400px" width="250px" align="right">
-
-Bast tells us the Sithe guard the Cthaeh, and treat anyone who comes in contact
-with it like a disease they need to burn out of this world. Kvothe casual walked
-up to it however, so something is amiss.I like to think they allowed it.
-Furthermore and that they are shooting down the butterflies. Butterflies
-pollinate, which help plants reproduce, by moving the male bits to the female bits on
-another plant. So is kvothe a pollinature of another sort? Felurian doesn't
-think he is bitten, but she doesn't look to hard. And she is a bit of a twilight
-flower, if you will excuse the expression, herself.
-
-Holly is also features predominantly in How Old Holly came to be OH:
-
-> Old Holly bent his boughs again, and brought a spear, its wood of living green. Its blade as bright as berry blood. This he drove into...
-
-And has implications for our tired Inn Keeper. WMF:2:423
-
-> The innkeeper ’s fingers fumbled clumsily, snapping the holly branch and jabbing a thorn deep into the fleshy part of his thumb. The red-haired man didn’t flinch or curse, just scowled angrily down at his hand as a bead of blood welled up, bright as a berry.
-
-Will say more about holly later, but for now lets move Auri's journey forward as she visits a graveyard.
-
-##  Bones and Berries
+Holly is a topic all on it's own that I cover
+[here](https://drewverlee.github.io/posts-output/2021-1-24-holly). You might
+want to refer back to it later, for now lets move on. What Auri does next is put, I would argue
+_trades_, the bone for Laurel Fruit, by placing the Bone inside the Laurel Tree.
+SROST:4:70:
 
 <img src="/img/gravetree.jpg" height="300px" width="300px">
-
-
-There she puts, I would argue _trades_, the bone for Laurel Fruit, by placing the Bone 
-inside the Laurel Tree. SROST:4:70:
 
 > Auri reached into her gathersack and brought out the bone that she
 > had found the day before. She bent down and tucked it deep inside the dark and
@@ -205,84 +174,15 @@ inside the Laurel Tree. SROST:4:70:
 
 > Then she began to pick the small blue laurel fruit and put them in her gathersack as well.
 
-I dive into if this could be the sword tree or the Cthaeh's tree [here](https://drewverlee.github.io/posts-output/2021-1-14-gravetree). But ill summarize:
+I dive into if this could be the Latantha or the Cthaeh's tree [here](https://drewverlee.github.io/posts-output/2021-1-14-gravetree). In the 
+end I choose the Mauthen Farm. Were going to recap the similarities here, but if you want a more detailed focus look the two locations
+read  [here](https://drewverlee.github.io/posts-output/2021-1-15-how-get-get-to-newarre).
 
-1. Auri described the Tree as lonely, which suits the Cthaeh very well. WMF:104:685:
-
-> And as I ran I could hear Cthaeh speaking behind me. Its dry, quiet voice
-> followed me longer than I would have thought possible. “Come back. Come back.
-> I’ve more to say. I’ve so much more to tell you, won’t you stay?”
-
-2. The Cthaeh's dead butterfly's are like a graveyard.
-3. At a long stretch, I think Kvothe will lay waste to Hearth trying to get to
-   Cinder who I believe he will find there, thus making it a graveyard.
-   So then the Adems stone houses as analogous to gravestones in two ways, which 
-   only work based on a theory I haven't substantiated.
-4. Only English/Cherry Laurel's have dark blue fruit in reality. That isn't the
-   tree featured in the book. It's possible someone: Pat or Auri is confused. It's
-   possible Auri was picking up the berries from the Ivy, which might make it
-   a Hedra _Helix_, which is a type of Ivy. The name of which is lose to Haliax. But word similarity is a
-   too thin to base an idea on alone
-5. The Sword Tree fits Lanre better, who was known for his sword prowess.
-6. Both Felurian and the Adem have _Ivy and Oak_ in their _art_, The Laurel tree
-   with blue fruit isn't an oak, But there is a tree known as Laurel Oak that is
-   hard to tell apart from an oak.
-7. Kovthe, when he won his talent pipes singing "The Lay of Sir Savien Traliard" compares Saviens voice to a "rock-old oak". 
-
-NOTW:44:
-
-> And we sang! Her voice like burning silver, my voice an echoing answer. Savien sang solid, powerful lines, like branches of a rock-old oak, all the while Aloine was like a nightingale, moving in darting circles around the proud limbs of it.
-
-
-Except, it's him singing. So we might say kvothe considers himself an Oak.
-
-8. Auri has ivory skin and Cinder has Ivory teeth, which might indicate an
-addition of some sort. The obvious guess is Denner Resin, But i wonder if it isn't 
-Trillium, which kvothe calls Denna, which Felurian eats. aka _birthroot_:
-
-<img src="/img/trill.jpeg" height="300px" width="300px">
-
-For me, If it has to be one of the two prime tree's, the Latantha is closer.
-However, graveyard and lonely make it nearly a tie. In the end, i suspect *waves
-hands* the tree's roots are linked. A theory I hope to cover _any day now_. 
-
-<img src="/img/anydaynow.jpg" height="400px" width="250px">
-
-But let's have a taste shall we?
-
-Celtic Mythology paints a picture of two who are one, but at war, warring with
-against each other, warring with themselves. The Oak and Holly. During Midsummer
-the Oak King is at the height of strength, the Holly king regains power at the
-Autumn equinox, his power peaking at midwinter, at which point the oak king is
-reborn.
-
-<img src="/img/hollyoak.jpeg" height="300px" width="400px">
-
-Guess who else dabbles in duality's?
-
-<img src="/img/summersoap.webp" height="225px" width="300px">
-<img src="/img/perfectsoap.jpeg" height="225px" width="300px">
-
-Later, you might want to read  u/quoo's master piece theory on
-Auri's [soap](https://www.reddit.com/r/KingkillerChronicle/comments/48jv6c/kkc_spoilers_all_the_allegory_of_auris_magnum/),
-
-I'm not suggesting that Celtic Mythology plays a role here, The Four
-Corners has it's own lore. For one It's Ivy climbing Oak, Holly isn't an Ivy.
-
-I'm just i'm highlighting that such devices are part of our blood, our very
-creation, a topic I tried to capture in
-[*story and art*](https://www.dropbox.com/s/wkduktjjd5rc1gq/Story.pdf?dl=0). Here is a
-sample of some of roaring heart wilting poetry i spin into being:
-
-<img src="/img/blackwhite.png" height="200px" width="400px" style="border: 5px solid #8B0000;">
-
-### Farms, Hawks and rabbits
+### The Mauthen Farm: Hawks and rabbits
 
 <img src="/img/farmer.jpg" height="500px" width="350px">
 
-Coming back to the main theory, The Mauthen farm has some strong similarities as well:
-
-TODO update with info
+Here are the ways the graveyard visits are like the Mauthen Farm:
 
 * The Barrows are a grave/bone yard, the pig farmer mentions the Mathen's dug up bones.
 * The Oak trees at the farm could be responsible for 
@@ -294,11 +194,13 @@ TODO update with info
 * The Iron fense from the graveyard could be the Iron Wheel in Town near the farm
 * Verinan, who kvothe compares to a _Verinan_ red flower, could be the graveyard rose.
 
+So if this is the Mauthen farm whats the lesson? Is the Laurel Tree the barrow
+itself, could it stand for Kvothe's mother Laurel? What does it mean for the
+story? Will cover this at the end, in the section "The Book of Secrets".
 
-So if this is the Mauthen farm whats the lesson? Is the Laurel Tree the barrow itself?
-What does it mean for the story? 
-
-This is the end of the arm bone's story, though it contains through the Laurel Fruit which will pick up later.
+This is the end of the arm bone's story, though it contains through the Laurel
+Fruit which will pick up later. Next we will focus on the other item she finds,
+a Crystal and the similarities its shares with Selitos.
 
 # Crystal's and Blood
 
@@ -544,6 +446,15 @@ _When from darkness came_
 
 _How can we hope to keep shadows away?_
 
+
+# Book of secrets
+
+<img src="/img/book-of-secrets.webp" height="250px" width="250px">
+
+So Auri took some items that I claim are like Selitos and Lanre and traded them
+for some other items and then turned those into a candle. What of it? _what does it all mean!_
+
+Recall what you now know of the Fae craft and Alchemy. Now let your imagination run wild. 
 
 # Epilogue
 
