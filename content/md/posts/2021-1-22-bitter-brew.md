@@ -57,7 +57,7 @@ The next section will elaborate.
 
 Three points of clarification to this table:
 
-1.  I'll note that I suspect if your told something is _art_ its likely glammourie
+1. I suspect if your told something is _art_ its likely glammourie
 and if its _craft_ its likely grammarie. But Bast doesn't say this, so will
 leave it out of the table. 
 2. Furthermore, were not given a word to describe the verb for grammarie. Would it be gramered? grammered? 
