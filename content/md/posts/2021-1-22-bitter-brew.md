@@ -15,7 +15,7 @@ The last section, "Dancing Lessons"  will dive deeper
 and I will speculate on what happened outside the story were shown.
 
 The Lighting Tree is required reading for this to make sense. I'll site just the page number
-if its from the main book and book:chapter:page otherwise.
+if its from the TLT and book:chapter:page otherwise.
 
 ### Crafts
 
@@ -38,7 +38,7 @@ There are three types of fae magic, or as they would call it, fae _craft_ or _ar
   <tr>
     <td style="padding:0 15px 0 15px;">Grammarie</td>
     <td style="padding:0 15px 0 15px;">Being</td>
-    <td style="padding:0 15px 0 15px;">Change how you feel about something   </td>
+    <td style="padding:0 15px 0 15px;">Change how you feel about something </td>
     <td style="padding:0 15px 0 15px;">make you love a torn shirt like your father gave it to you</td>
   </tr>
  <tr>
@@ -367,7 +367,7 @@ sending the boy and girl to LittleCliff. Bast isn't hurt before we see him with
 Nettie, he is after. We already discounted love play as the reason. Furthermore,
 I suggest he sends the children to LittleCliff to find Bast.
 
-I have circled this topic for a reason, because the events leading up to it matter.  
+I have circled this topic for a reason, because the events leading up to it matter.
 
 Bast has power over Jessom, will discuss shortly how he uses it, but lets be clear about how it has it.
 
