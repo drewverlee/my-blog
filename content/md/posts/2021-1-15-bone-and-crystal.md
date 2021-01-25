@@ -432,20 +432,22 @@ What price would we pay for shadows to be tamed?
 
 ----
 
-_hold quiet father owl, watch close daughter beer_
+<img src="/img/foxandhare.jpeg" height="550px" width="350px">
 
+
+
+_watch carefully daughter hare, hold quiet father fox_
 
 _For she knows the cruel games names play_
-
+<br>
 _and so often finds a gentler way._
-
+<br>
 _Yet, for him, these rules she would betray._
 
-
 _set a laurel a light_
-
+<br>
 _so too this Ash will burn,_
-
+<br>
 _then to flesh all things return_
 
 
@@ -471,7 +473,7 @@ tell kvothe puts the candle in his box in Ankers. TWMF:50:358
 
 If you enjoyed this consider supporting Heifer International, either [directly](https://www.heifer.org/) through [worldbuilers](https://worldbuilders.org/).
 
-A cause which Rothfuss, the orchestrate of all good and bad times had on Temerant, believes in.
+A cause which Rothfuss, the orchestrator of all good and bad times had on Temerant, believes in.
 And you should also buy all the Cool Worldbuilders KingKiller stuff, which really helps, um, build the world?
 
 ## Credits
@@ -498,26 +500,11 @@ But discovering the book anew and community was a much needed adventure in a dar
 
 Here are some questions I jotted down but didn't try to answer which putting this together:
 
-* Is bast somehow the suet that Auri takes with here?
+* Is bast somehow the suet?
 * What are the White lace origins?
-* What/where is Trumble? Is Newaree there?
-* Is Aunt Sellie "ellie"? Elle on gravestone? A place where no men live?
-* If the laurel tree is the borrow, what was the fruit? What does it imply?
-* Is that a hawk in that farmer picture? We should back that claim with part of the story.
-* why did auri leave out the camphor, I touch on it [here](/posts/2021-1-24-camphor) but its thin.
-
-## TODO
-
-* hare and fox : auri and kvothe
-* newaree and mauthen farm
-* true newaree location
-* auri craft is fae
-* auri "see a woman plate as snow" Pale Alenta brings the blight and what is the blight.
-* auri does still the butter
-
->  But it was keeping nothing cool save for a lump of yellow
-> butter, and that was full of knives, scarcely fit for eating. On the counter was
-> a fine and wondrous thing
+* Is Aunt Sellie "ellie"? Elle on gravestone (see card)? A place where no men live?
+* If the laurel tree isn't the borrow, what was the fruit? What does it imply? Is it kvothe's mother?
+* why did auri leave out the camphor, I touch on it  <a href="https://drewverlee.github.io/posts-output/2021-1-24-camphor"> Here</a>, but its thin.
 
 ## Rights & Art
 
