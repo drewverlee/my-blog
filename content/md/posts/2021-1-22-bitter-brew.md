@@ -407,3 +407,11 @@ had done it. If he hadn't, why flee town? If bast just shoved him or skindanced
 him off, why did Bast trouble including the bit about Martin? If Jessom thought
 bast was involved, why not tell anyone else? Even as he ran off? There are no
 certain answers here, but I think it fits. 
+
+In the interest of fairness. It's also possible that:
+
+* the limp could be from his fall when spying on Emberlee
+* the cut could be from when he made his pipe. It seems to imply he drew blood, but not from where.
+* the liquor just from the bit he took from Martins Still that Reshi comments on.
+
+But those pieces don't explain what happened to Jessom.
