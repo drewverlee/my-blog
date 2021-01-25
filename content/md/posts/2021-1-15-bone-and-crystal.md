@@ -410,15 +410,6 @@ SROST:10:142:
 > 
 > And all things shook. And all things knew her will. And all things bent to please her.
 
-
-## The Breaking Way
-
-_She knows the cruel games names play_
-
-_and so she often finds a gentler way._
-
-_Yet, for him, these rules she would betray._
-
 ## All Flames are one Flame
 
 Candles feature predominantly in the narrative. 
@@ -434,18 +425,19 @@ Others there only visible if you squint...
 
 <img src="/img/myr.webp" height="500px" width="300px">
 
-And we learn early on to fear the edges of there flicking flame
+and we learn early on to fear the edges of their flicking flame
 
 <img src="/img/whifflescared.jpeg" height="300px" width="300px">
 
-_four corners to play a board_
+_What would happen, if shadows we did tame?_
 
-_Three things a flame to burn_
+_what shape would become our night?_
 
-_When from darkness came_
+_Now see a laurel a light,_
 
-_How can we hope to keep shadows away?_
+_so too this ash will burn,_
 
+_and to flesh all things return_
 
 # Book of secrets
 
@@ -458,14 +450,20 @@ Recall what you now know of the Fae craft and Alchemy. Now let your imagination 
 
 # Epilogue
 
-## In a box
+## The Breaking Way
 
+_She knows the cruel games names play_
+
+_and so she often finds a gentler way._
+
+_Yet, for him, these rules she would betray._
+
+## In a box
 
 I see no mention of the candle after he receives it from auri. As far as I can
 tell kvothe puts the candle in his box in Ankers. TWMF:50:358
 
 > I finished loading my travelsack, then packed everything else into the trunk that sat at the foot of my bed. A few worn tools, a broken piece of slate I used for ciphering, a small wooden box with the handful of small treasures Auri had given me....
-
 
 ## deceived
 
