@@ -412,8 +412,7 @@ SROST:10:142:
 
 ## All Flames are one Flame
 
-Candles feature predominantly in the narrative. 
-Sometimes, they are obvious, though the tale is hard to [read](https://www.reddit.com/r/KingkillerChronicle/comments/k7gnl1/inspecting_the_playing_cards/)
+They are all around
 
 <img src="/img/kcard.webp" height="500px" width="300px">
 
@@ -429,15 +428,26 @@ and we learn early on to fear the edges of their flicking flame
 
 <img src="/img/whifflescared.jpeg" height="300px" width="300px">
 
-_What would happen, if shadows we did tame?_
+What price would we pay for shadows to be tamed?
 
-_what shape would become our night?_
+----
 
-_Now see a laurel a light,_
+_hold quiet father owl, watch close daughter beer_
 
-_so too this ash will burn,_
 
-_and to flesh all things return_
+_For she knows the cruel games names play_
+
+_and so often finds a gentler way._
+
+_Yet, for him, these rules she would betray._
+
+
+_set a laurel a light_
+
+_so too this Ash will burn,_
+
+_then to flesh all things return_
+
 
 # Book of secrets
 
@@ -450,70 +460,12 @@ Recall what you now know of the Fae craft and Alchemy. Now let your imagination 
 
 # Epilogue
 
-## The Breaking Way
-
-_She knows the cruel games names play_
-
-_and so she often finds a gentler way._
-
-_Yet, for him, these rules she would betray._
-
 ## In a box
 
 I see no mention of the candle after he receives it from auri. As far as I can
 tell kvothe puts the candle in his box in Ankers. TWMF:50:358
 
 > I finished loading my travelsack, then packed everything else into the trunk that sat at the foot of my bed. A few worn tools, a broken piece of slate I used for ciphering, a small wooden box with the handful of small treasures Auri had given me....
-
-## deceived
-
-_In the end, they were all of them deceived_
-
-_For though they knew the safe and prideful path._
-
-_Their hearts new true._ 
-
-_And so as they turned their heads once in wrong,_ 
-
-_they turned again to renew:_
-
-SROST:10:139
-
-> Sulfonium inside a jar of stone. Racks of powders, salts and earths and herbs.
-> Oils and unguents. Fourteen waters. Twicelime. Camphor. All perfect. All true.
-
-> Honey and laurel might have been enough if this were a simple poet’s candle. But
-> he was no mere poet. She needed something more. A pinch of camphor would have
-> been ideal. Just a pinch, a spark, a hint of something volatile. But she had no
-> camphor, and there was no sense in wishing. So she fetched a daub of perfect
-> pitch instead from Port.
-
-In the interest of fairness I'll explain my idea here, rather then leave it to
-poetry. Which implies i have some deep understanding here, which i don't. I
-think both meanings to volatile are relevant here. The first being an
-inclination to change rabidly, unpredictable, for the worse. Kvothe is certainly
-that to some degree already. I suspect Auri is _deeply_ conflicted on shaping
-him more so. The second meaning, that a substance is volatile if changes from
-liquid to gas at low (say normal) temperature might be an explanation of how the
-Seven are
-[gas](https://www.reddit.com/r/KingkillerChronicle/comments/evvie5/the_chandrian_signs_are_full_of_gas/),
-and how move from place to place. NOTW:16:124
-
-> Haliax spread his arms and the shadow surrounding him bloomed like a flower
-> unfolding. Then, each of the others turned with a studied ease and took a step
-> toward Haliax, into the shadow surrounding him. But as their feet came down
-> they slowed, and gently, as if they were made of sand with wind blowing across
-> them, they faded away. Only Cinder looked back, a hint of anger in his
-> nightmare eyes.
-
-Auri was supposed to shape Kvothe to volatile, she _declined_. A small thing,
-and yet it might make all the difference.
-
-
-
-
-# Other
------------------------------
 
 ## Giving back
 
@@ -552,6 +504,7 @@ Here are some questions I jotted down but didn't try to answer which putting thi
 * Is Aunt Sellie "ellie"? Elle on gravestone? A place where no men live?
 * If the laurel tree is the borrow, what was the fruit? What does it imply?
 * Is that a hawk in that farmer picture? We should back that claim with part of the story.
+* why did auri leave out the camphor, I touch on it [here](/posts/2021-1-24-camphor) but its thin.
 
 ## TODO
 
