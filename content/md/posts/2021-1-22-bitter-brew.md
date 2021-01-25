@@ -8,14 +8,12 @@
 
 What follows in the section "Crafts" is a summary of how Fae magic works. 
 
-In the next section "Shadows on the wall", will do a partial re-read of "The lighting Tree", to 
-understand the conclusions we drew and more context.
-
-The last section, "Dancing Lessons"  will dive deeper
-and I will speculate on what happened outside the story were shown.
-
-The Lighting Tree is required reading for this to make sense. I'll site just the page number
-if its from the TLT and book:chapter:page otherwise.
+In the next section "Shadows on the wall", will do a partial re-read of "The
+lighting Tree", to understand the conclusions we drew and more context. The last
+section, "Dancing Lessons" will dive deeper and I will speculate on what
+happened outside the story were shown. The Lighting Tree is required reading for
+this to make sense. I'll site just the page number if its from the TLT and
+book:chapter:page otherwise.
 
 ### Crafts
 
