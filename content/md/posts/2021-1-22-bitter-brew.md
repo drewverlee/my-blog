@@ -64,7 +64,7 @@ leave it out of the table.
 ### Shadows on the wall
 
 In part this will be a partial re-read of the Lighting tree with me highlighting parts. Bast will be 
-our main character, explaining the ins and outs of Glamour.
+our main character, explaining the ins and outs of his craft.
 
 <img src="/img/bastvine.jpg" height="500px" width="350px">
 
@@ -81,16 +81,17 @@ Kostrel cleverly deduces that these two _crafts_ could be used together. 746:
 
 > “Can you use glammourie and grammarie at the same time?”
 
-I playful dub this "ising" but I suspect you likely you know it by another name. _Shaping_
+I playful dub this "ising" but I suspect it goes by the name _Shaping_
 
-Though in the book, this is never actually given a name, I suspect it to be _glammorie_. The root
-being _g*am_ being craft/art/magic while the later half _morie_ being clarifying
-what type. The differences in the root words _gram_ and _glam_ relate to how
-there used. _gram_ means measure, which you have to do when doing _grammarie_.
-_glam_ is akin _charm_ as in, your performance matters in the potency of the
-craft. So back to my guess of _glammorie_. I'm not sure of the root really, but
-the reason for _morie_ is from working backwards from the words chiseled above
-the doors to the archives. NOTW:36:237
+Though in the book, this is never actually given a name, Furthermore, I suspect
+the name the fae would use is _glammorie_. The root being _g*am_ being
+craft/art/magic while the later half _morie_ clarifying what type. The
+differences in the root words _gram_ and _glam_ relate to how there used. _gram_
+means measure, which you have to do when doing _grammarie_. _glam_ is akin
+_charm_ as in, your performance matters in the potency of the craft. So back to
+my guess of _glammorie_. I'm not sure of the root really, but the reason for
+_morie_ is from working backwards from the sentence chiseled above the doors to the
+archives. _Vorfelan Rhinata Morie_ NOTW:36:237
 
 > As I approached the Archives, its grey, windowless surface reminded me of an
 > immense greystone. It was hard to believe after all the years of waiting that
@@ -108,7 +109,7 @@ Rhinata shares a common root with Rhinna, a flower and panacea. As well as Rhint
 
 > “A bad thing. A man who is more than a man, yet less than a man.”
 
-I can't confidently break down Vorefelan, but i suspect given how its used on
+I can't confidently break down Vorefelan, but I suspect given how its used on
 the archives, wil's translation and how the word "avoi" is used by the
 Skindancer that "vo" is close to "want" or "desire".
 
@@ -117,13 +118,13 @@ who is changed and _Morie_ could fit as shaping.
 
 <img src="/img/archives.jpeg" height="500px" width="300px">
 
-So we have words and a rough outline
+So we have some words and a rough outline:
 
 * Glammourie: Seeming
 * Grammarie : Being
 * Grammorie : Shaping 
 
-We also need to build a sense for these things. First off, the list of above also indicates ease of use. 
+We also need to build a sense for each of these. First off, the list of above also indicates ease of use. 
 As an example of the first, Bast tell us that turning led into gold
 is glammourie/seeming. Bast explains. 724:
 
@@ -146,9 +147,8 @@ Grammarie is harder for bast to describe. 742:
 
 > Grammarie is about …shifting. It’s about making something into more of what it already is.”
 
-I'll summarize, this is growing to large as it is and let you disagree based on your own findings. In short,
-Grammarie is about changing the feelings people have about something. Bast uses
-the example of applying the sentimental value Krostrel feels towards his knife,
+In short, Grammarie is about changing the feelings people have about something. Bast uses
+the example of transferring the sentimental value Krostrel feels towards his knife,
 to any knife, such that anyone that looks on it feels that way. It's making
 taking the metaphysical feelings we apply to things and transferring them as if
 they were attributes. A modern day example is when a young beautiful woman
@@ -156,17 +156,17 @@ smiles at you while a list of side effects from a medication scroll down a page.
 Those things are _not_ related, but the company would dearly love it if you
 believed it was so.
 
-Finally, Grammorie. To change how something seems and how people feel about it.
+Finally, Grammorie is changing how something seems and how people feel about it.
 We have to guess here, do we say this truly changes it? Or do we say that it
 puts it in a prefect prison? Is there a meaningful difference between the two?
 
 To the last I say there isn't to any but the most careful observers. Like a
-glass overflowing that never seems to quench your thirst, they might have a
-hollowness about them.
+glass overflowing that never seems to quench your thirst, these things might
+have a hollowness about them yet seem full.
 
-Will cover Bast main use of the art here. A dark example and complex. 
+Will cover Bast main use of the art here. A dark example and complex, but worth the effort.
 
-Recall that Rike says he will repay Bast triple for sending Jassom, his father, far
+Recall, from the story,  that Rike says he will repay Bast triple for sending Jassom, his father, far
 away, so he can't hurt (physically and emotionally) his family anymore. Bast
 agrees and asks him for river stone. 758:
 
@@ -175,7 +175,7 @@ agrees and asks him for river stone. 758:
 <img src="/img/riverstone.jpeg" height="300px" width="300px">
  
 
-But the physical item it self isn't all that matters, but the finding matters to:
+But the physical item it self isn't all that matters, the finding matters to:
 
 > “You have to be the one to find it,” he said. “It can’t be anyone else. And you need to find it dry on the shore.
 
@@ -183,34 +183,22 @@ Bast then asks for a needle. 766:
 
 > “Now we need a needle. But it has to be borrowed from a house where no men live.”
 
-But not just any needle. 
-
-“Old Nan don’t like me none,” he said. “But I reckon she’d give me a pin.”
-
-And again, how its acquired matters:
+But not just any needle. One that is borrowed and again, how its acquired matters:
 
 > “And you have to borrow it. You can’t steal it or buy it. She has to lend it to you.”
 
 Between Rike finding the pin and returning, Bast seduces Rike's mother Nettie
-and they sing a song together, I think you know the tune. Sometime Later Bast is
-limping, he claims he was attacked by a bear. He smells of liquor. Jessom put up
-a fight and hurt bast with the bottle of liquor he had, but in the end Bast, ran
-Jassom off the hill. Quite litterly, he controlled his body and ran him off the
-hill. The towns bicker about what happen, but they all agree he fell off
-LittleCliff and he was drunk. As Old Cob explains. TLT::780:
+and they sing a song together, I think you know the tune.
 
-> “It weren’t a cougar,” he insisted. “He was drunk off his feet. That’s what I heard. Stumbling-lost drunk. That’s the only sense of it.
-
-
-So after Bast spends time with Rike's mother, but before he "chases" Jassom off
-the cliff. Rike returns with the needle. Bast leads him to the greystone, the
-location matters. He tells rick that to send his father away, Rike must drop his
-blood, because its like his fathers, through the river stone. Bast mentions this
-wouldn't work on an animal because it only desires, the magic only work on those
-that have empathy, think ahead, that are civilized. He also says the charm will only work 
-for one person and is startled when Bast demand that me his mother because he is worried that
-he will be wrong like his father. It's worth feeling this moment. This is no
-fairy tale, this is flesh and blood with bone beneath. TLT::776
+So after Bast sleeps with Nettie, Rike returns with the needle Bast
+asked him for. Bast leads him to the greystone, the location matters. He tells
+Rick that to send his father away, Rike must drop his blood, because its like
+his fathers, through the river stone. Bast mentions this wouldn't work on an
+animal because it only desires, the magic only work on those that have empathy,
+think ahead, that are civilized. He also says the charm will only work for one
+person and is startled when Bast demand that me his mother because he is worried
+that he will be wrong like his father. It's worth re-reading this moment. This is
+no fairy tale, this is flesh and blood with bone beneath. TLT::776
 
 > “He’ll go far away. You have my word—” “NO!” Rike said, his face going red and
 > angry. “What if sending him isn’t enough? What if I grow up like my da? I get
@@ -231,8 +219,6 @@ fairy tale, this is flesh and blood with bone beneath. TLT::776
 
 <img src="/img/anger.png" height="500px" width="350px">
 <img src="/img/sadness.png" height="500px" width="350px">
-
-
 
 
 This moment might be the hinge on which the world turns. Bast 
@@ -266,15 +252,17 @@ the stone on a high hill until sunset fades:
 
 Note he had promised the honey comb to a girl in the village, if she would bring him twenty perfect acorns. 
 
-
 What goes into fae magic?  Honey wax, River Stones, and Blood? No. Those are simple
 things, Teccam tells us the true cost. TWMF:51:364
 
 > It’s like what Teccam wrote, ‘The cost of a loaf is a simple thing, and so a loaf is often sought ...’
 > but some things are past valuing: laughter, land, and love are never bought.
 
-It's important that you form an opion about how Fae perform their craft  going further. So that when you see it
-again latter, you have some sense of whats possible. The physical ingredients are not the fuel, its _feeling_ the _being_ of the things. What they Stand for, who found them and what they mean to them. Angry rocks, happy honey.
+It's important that you form an opion about how Fae perform their craft going
+further. So that when you see it again latter, you have some sense of whats
+possible. The physical ingredients are not the fuel, its _feeling_ the _being_
+of the things. What they Stand for, who found them and what they mean to them.
+Angry rocks, happy honey.
 
 
 ### Dancing Lessons
@@ -283,22 +271,23 @@ The order of events in Rike's story arch look like this:
 
 * Rike asks Bast for the favor of sending Jessom far away, Bast agrees and sends Rike to get a River stone.
 * Bast visits Martins Still and drinks some of his liquor
-* Reshi notices he drank some
-* Base sleeps with Rikes mother
-* Bast limping, hurt hand, says attacked by bear, smells like liquor
+* Reshi notices Bast has been drinking a bit.
+* Bast sleeps with Rikes mother Nettie
+* Bast limping, hurt hand, says he was attacked by bear, smells like liquor
 * Bast sends boy and girl to find stuff at LittleCliff waterfall.
 * Bast completes the ritual with Rike: blood, stone,etc..
 
 You should be turning several important questions around in your head.
 
 * when, relative to these events, did Jessom go off LittleCliff
-* Why is bast hurt, his hand cut, him limping and smelling like liquor aka grandpas medicine.
+* Why is bast hurt, his hand cut, him limping and smelling like liquor.
 
 Discounting the idea that Jessom just happens to get some of Crazy Martins
-liquor, get drunk off them, and stumble off LittleCliff all on is own without
-Bast anything. While at nearly the same time shy, sad Nettie turns out to be
-such a force in the sheets that Bast is limping. I think we can safely assume
-Bast played a role in Jessoms accident. 
+liquor, get drunk off it, and stumble off LittleCliff all on is own.
+
+And that, shy, sad Nettie turns out to be such a force in the sheets that Bast
+is limping. I think we can safely assume Bast played a role in Jessoms accident
+and somehow get got hurt.
 
 But how? 
 
@@ -319,27 +308,53 @@ The three physical items Bast uses in the craft:
 * needle 
 * honey wax 
 
-The needle is from a house with no men. That's sort of what Rike wants, he is a
-boy, his father a man, no man would mean his father has to leave. It should be
-obvious this could force Rike away later in life however. As well as his
-brothers.
+
+I'll say that I'm not sure how much the needle matters as Bast seems to mostly
+be concerned with how long it will take Rike to get it. But lets assume it
+matters a bit. Bast wants a needle from a house with no men. That's sort of what Rike
+wants, he is a boy, his father a man, no man would mean his father has to leave.
+It should be obvious this could force Rike away later in life however. As well
+as his brothers.
 
 The honey wax Bast gets from Nettie, a gentle men would say it was given, a cynic might 
 say traded, a monster would have taken it. The feeling matters, it was given. Does it represent
-sex? love? a bit of both most likely
+sex? love? A bit of both most likely.
 
-I'm not going to cover the river stone here. It's part of a larger puzzle. That brings 
+I'm not going to cover the river stone here. It's part of a larger puzzle, That I cover in The Warrens Theory. That brings 
 us to this:
 
-* river stone : ?        : ?      : ?
-* needled     : borrowed : no-men : to send rikes father away
-* honey wax   : given    : romance: to give the wiliams some joy
+ <table style="width:100%" style="padding:0 100px;" >
+  <tr>
+    <th>Item</th>
+    <th>How</th>
+    <th>Represents</th>
+    <th>Purpose</th>
+  </tr>
+  <tr>
+    <td style="padding:0 15px 0 15px;">River Stone</td>
+    <td style="padding:0 15px 0 15px;">?</td>
+    <td style="padding:0 15px 0 15px;">?</td>
+    <td style="padding:0 15px 0 15px;">?</td>
+  </tr>
+  <tr>
+    <td style="padding:0 15px 0 15px;">Needle</td>
+    <td style="padding:0 15px 0 15px;">Borrowed</td>
+    <td style="padding:0 15px 0 15px;">No men  </td>
+    <td style="padding:0 15px 0 15px;">To send Ricks father away</td>
+  </tr>
+ <tr>
+    <td style="padding:0 15px 0 15px;">Honey Wax</td>
+    <td style="padding:0 15px 0 15px;">Given</td>
+    <td style="padding:0 15px 0 15px;">Romance </td>
+    <td style="padding:0 15px 0 15px;">Give Remaining Williams some Joy</td>
+  </tr>
+</table> 
 
-However that's not all the magic entailed. To discuss the other parts, we need
+However that's not all the magic entails. To discuss the other parts, we need
 to cover two things that happened off screen.
 
-First, when Bast visits Martin's Still he wrecks the place. This is later blamed
-on Jessom.
+First, I'll claim that when Bast visits Martin's Still he wrecks the place. This is later blamed
+on Jessom. Someone wrecks the place up, It makes sense it was Bast.
 
 The second event is a lot harder to understand. We should first talk about when
 Jessom fell off LittleCliff. We know it was after the deal and before the
@@ -360,7 +375,7 @@ He has permission from Jessoms Blood. His own son has asked this of him, and is
 willing to pay triple. This alone might have been enough but Bast strengthens
 the bond further. Nettie, Jessoms wife gives her self over to Bast after a
 couple kind words and the hope of something sweet in life. It should go without
-saying that Jessom and not Nettie is at fault here. Whats more then even do it at
+saying that Jessom and not Nettie is at fault here. Whats more, they even do it at
 his own home.
 
 That's Blood, Love and Land. 
@@ -369,11 +384,11 @@ Three ways Bast has filled the hole Jessom has left
 in the world. And make no mistake, Jessom is a hole, a hallow. Something less
 then a man. No, he is no Chandrian, he wields no magical power, but thats not
 what make the seven terrible. Not there strengthen, but there emptiness. The
-darkness, the terrible space they leave in the world.
+darkness and terrible space they leave in the world.
 
 So Jessom is hallow, he fills himself with drink, with anger. Bast is now more
 of what Jessom should be then he has been in years. A small thing really, to fill
-an empty hallow glass that you own and to send it shambling off a cliff to shatter like
+an empty glass that you own and to send it shambling off a cliff to shatter like
 glass below.
 
 we know bast can dance:
@@ -388,9 +403,7 @@ I say he skin danced Jessom off that cliff. That's why Bast comes back looking
 like he fell off the cliff because he did, as Jessom. Further more Jessom left
 right after he recovered. Why would he? Because Bast imprinted his own memories
 of wrecking Martins Sill and stealing his liquor in Jessom. He woke thinking he
-had done it. If he hadn't, why flee down? If bast just shoved him or skindanced
-him off, why did bast trouble including the bit about Martin? If Jessom thought
+had done it. If he hadn't, why flee town? If bast just shoved him or skindanced
+him off, why did Bast trouble including the bit about Martin? If Jessom thought
 bast was involved, why not tell anyone else? Even as he ran off? There are no
-certain answers here, but I think it fits.
-
-
+certain answers here, but I think it fits. 
