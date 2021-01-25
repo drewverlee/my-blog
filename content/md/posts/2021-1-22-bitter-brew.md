@@ -412,6 +412,7 @@ In the interest of fairness. It's also possible that:
 
 * the limp could be from his fall when spying on Emberlee
 * the cut could be from when he made his pipe. It seems to imply he drew blood, but not from where.
-* the liquor just from the bit he took from Martins Still that Reshi comments on.
+* the liquor just from when he went to Martins Still, Reshi notices he has been drinking.
 
-But those pieces don't explain what happened to Jessom.
+But those pieces don't explain what happened to Jessom. I think they are covers he can use to explain his injuries without
+lying outright.
