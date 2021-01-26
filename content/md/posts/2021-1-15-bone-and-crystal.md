@@ -3,7 +3,7 @@
  :klipse {:settings {:codemirror-options-out {:line-numbers false}}}
  :date "2021-1-15"
  :tags  ["KingKiller" "Fantasy"]}
-
+ 
 <img src="/img/picpoem.jpg" height="200px" width="200px" style="display: none">
 
 <img src="/img/spoem.png" height="500px" width="400px">
@@ -38,6 +38,7 @@ books, see the last section "Citations" for a complete list. It also means
 spending some time on the forums. I'm not suggesting I have the right of things.
 Instead, I'm saying it's a lot more fun to arrive at your own conclusions before
 hearing others. So capital S Spoilers and possible BS ahead, you decided which.
+
 Enough of warnings, we look forward now, shadows on the horizon, drums in the
 deep.
 
@@ -435,7 +436,6 @@ What price would we pay for shadows to be tamed?
 <img src="/img/foxandhare.jpeg" height="550px" width="350px">
 
 
-
 _watch carefully daughter hare, hold quiet father fox_
 
 _For she knows the cruel games names play_
@@ -456,9 +456,12 @@ _then to flesh all things return_
 <img src="/img/book-of-secrets.webp" height="250px" width="250px">
 
 So Auri took some items that I claim are like Selitos and Lanre and traded them
-for some other items and then turned those into a candle. What of it? _what does it all mean!_
+for some other items and then turned those into a candle. What of it? _what does it all mean!_ 
 
 Recall what you now know of the Fae craft and Alchemy. Now let your imagination run wild. 
+
+But if your tired of secrets, or if you feel you know all the stars and their
+names, then follow me deeper down the rabbit hole and see the [Shadows on the wal](/posts-output/2021-1-25-findings).
 
 # Epilogue
 
@@ -505,6 +508,8 @@ Here are some questions I jotted down but didn't try to answer which putting thi
 * Is Aunt Sellie "ellie"? Elle on gravestone (see card)? A place where no men live?
 * If the laurel tree isn't the borrow, what was the fruit? What does it imply? Is it kvothe's mother?
 * why did auri leave out the camphor, I touch on it  <a href="https://drewverlee.github.io/posts-output/2021-1-24-camphor"> Here</a>, but its thin.
+* Why would crystal and key fuss? What is the key?
+* look into origins of arm bone.
 
 ## Rights & Art
 
@@ -540,7 +545,7 @@ Bonus books, it would be proper to have them, but not strictly necessary:
 
 SROST Chapters so I can use numbers:
 
-1. The Far Below of things
+1. The Far Below Bottom of things
 2. what a look entails
 3. beautiful and broken
 4. A quite uncommon pleasant place

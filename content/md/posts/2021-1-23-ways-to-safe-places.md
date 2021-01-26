@@ -64,7 +64,7 @@ WMF:107:700:
 > Before I could say anything Dedan burst in. “What about his beard then? When he ran off three
 > nights ago his face was smooth as a baby’s ass.”
 
-Anything worthy of even remotely calling a "beard" would take 2 weeks, more typically 2-4 months. I suspect much longer, but will cover that below.
+Anything worthy of even remotely calling a "beard" would take 2 weeks, more typically 2-4 months. I suspect much longer, but will cover that below. 
 
 Finally we also have visual confirmation that Auri has visited the fae before:
 
@@ -113,6 +113,33 @@ So here is our table:
 
 For another take on waystones I suggest everything by mattytangle. Though, you should try your hand at it first before consulting his works
 
+
 ## rights
 
 pictures are all property of world builders
+
+## TODO
+
+* discuss time and location changes in fae here or something else. e.g
+
+Locations are bound to times:
+
+> Since I had left my mercenary companions I had slept perhaps a dozen times.
+> Despite this, the sky above Felurian’s pavilion remained the deep purpling blue
+> of summer dusk and showed no signs of changing. I had only the roughest guess as
+> to how long I had been in the Fae. More importantly, I had no idea how much time
+> might have been passing in the mortal world. Stories are full of boys who fall
+> asleep in faerie circles only to wake as old men. Young girls wander into the
+> woods and return years later, looking no older and claiming only minutes have
+> passed. For all I knew, years could pass each time I slept in Felurian’s arms. I
+> could return to find a century had passed, or no time at all.
+
+Ctheah cant sleep bc no night.
+
+
+another example of moving in the fae
+
+> As we walked the forest grew darker. At first I thought it was simply the branches of the trees
+arching over our heads. Then I realized the truth. Above us, the twilight sky was slowly growing
+darker. Eventually, the last hint of purple was gone, leaving the sky a perfect velvet black, flecked with
+

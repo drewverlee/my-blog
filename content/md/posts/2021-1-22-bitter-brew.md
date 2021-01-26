@@ -416,3 +416,18 @@ In the interest of fairness. It's also possible that:
 
 But those pieces don't explain what happened to Jessom. I think they are covers he can use to explain his injuries without
 lying outright.
+
+## TODO
+
+* felurian  references
+
+e.g
+
+> I smiled. “I already have one.” Then I checked to make sure. I was in the Fae after all.
+Felurian frowned, shaking her head at my lack of understanding. “another I would give a shield,
+and it would keep him safe from harm. another I would gift with amber, bind a scabbard tight with
+glamour, or craft a crown so men might look on you with love.”
+
+and her holding kvothe like skindancing after.
+look into eyes, etc...
+

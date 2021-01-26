@@ -85,6 +85,11 @@ Which would likely be the same stream Denna and Kvothe stop at in NOTW:72:549
 > we pushed through a thick stand of pine trees and came upon a lovely, deep
 > stream about twenty feet across.
 
+
+<img src="/img/streamkvothedenna.jpeg" height="550px" width="375px">
+
+
+
 Had they gone farther, they further they would have gotten to newarre, but they
 didn't because of those _pegs_.
 
@@ -97,10 +102,19 @@ little while before the stream. NOTW:73:562:
 I suspected the Mauthen Farm was the GraveYard were about to discuss before I
 saw this. I considered the graveyard could be the Haert or The Cthaeh's tree.
 But it isn't either, its the Mauthen Farm. Discussed in part, in a chapter
-called WayStone. Let's return to Mauthen Farm and compare it to the graveyard
-auri visits:
+of the Name of the wind, called WayStone. But Pat's hint dropping in the chapters
+doesn't stop there, recall that the chapter in SROS that were discussing is called 
 
-## Mauthen Farm / Barrow Hill / 
+A Quite Uncommon Pleasant Place. This refers to the second part of her Journey to Newarre. Which
+she found 
+
+> Surprised by pleased. It was a seemly place. 
+
+Qui*te* is often confused with Qui*et*. Another gentle nod from our author. 
+
+But Let's continue on, and return to Mauthen Farm and compare it to the graveyard auri visits:
+
+## Mauthen Farm / Barrow Hill / TODO
 
 <img src="/img/barrowhill.jpeg" height="450px" width="600px">
 
@@ -123,6 +137,7 @@ chapter in SROST chapter "A Quite Uncommon Place":
   dead_
 * The Iron fence from the graveyard could be the Iron Wheel in Town near the
   farm
+* 
 
 This is less direct evidence then we got for the Williams Farm. Lets consider
 some speculative and metaphorical evidence before going on:
@@ -242,7 +257,7 @@ No, it doesn't. How is the road to tinue, is a code phrase.
 
 >  Second, when Kvothe fakes having a bum knee in the beginning of NotW, he
 >  mentions that he got the “wound” “on my way through the Eld three summers
->  ago.  It’s what made me give up the good life on the road” (NotW, 29).
+>  ago. It’s what made me give up the good life on the road” (NotW, 29).
 >  Counterpoint: the farmer that gives Kvothe a ride to Tarbean mentions “this
 >  side of the Eld” as an idiomatic expression, so the giant forest is well
 >  known.
