@@ -5,17 +5,14 @@
  :tags  ["KingKiller" "Fantasy"]}
 
 
-The theory is that Newarre is near Trebon and the Mauthen farm.
-
-This theory relies on some several elements that will discuss individually,
-either here, or in other posts which I'll link to.
-
-The bulk of this Theory is a piece of another titled 
-
-<a href="https://drewverlee.github.io/posts-output/2021-1-15-bone-and-crystal">Warren Widdershins Ways and Woes</a> in which Auri gets the ingredients
-for a candle. To get those ingredients, she travels to the Mauthen Farm and the
-Williams Farm. The Williams live in Newarre, which is just some miles across the
-stream from the Mauthen Farm. Or so this theory goes.
+The theory is that Newarre is near Trebon and the Mauthen farm. The idea relies
+on several elements that will discuss individually, either here, or in other
+posts which I'll link to. The bulk of this Theory is a piece of another titled
+[Warren Widdershins Ways and Woes]("/posts-output/2021-1-15-bone-and-crystal")
+in which Auri gets the ingredients for a candle. To get those ingredients, she
+travels to the Mauthen Farm and the Williams Farm. The Williams are farmers live in Newarre,
+which is just some miles across the stream from the Mauthen Farm. Or so this
+theory goes.
 
  That post isn't written to highlight the locations however, it 
 covers this material, but it doesn't hammer it down like were going to do here.
@@ -24,23 +21,24 @@ your thoughts, the more specific the observation the better. e.g "but old cob
 Prefers a wine from vintas, that suggests there in Vint!". That's something we
 can all think about and I might be able to address
 
-So I'm going to break this into Three parts:
+So I'm going to break this into three parts:
 
-1. Auri's Visiting the Mauthen Farm and then Newarre
+1. Auri's visiting the Mauthen Farm and then Newarre
 2. other considerations and counter arguments
 3. Getting to Newarre
 
 # Auri visits Newarre and Mauthen Farm
 
-First, I cover how she gets there in <a href="https://drewverlee.github.io/posts-output/2021-1-23-ways-to-safe-places">Ways to safe places</a>. So either read that first, or accept
-that she can move around fast. What were going to do here is cover similarities
-between the places Auri visits in the SROST and the Williams Farm in Newarre
-followed by the Mauthen Farm.
+First, I cover how she gets there in [Ways to safe
+places]("https://drewverlee.github.io/posts-output/2021-1-23-ways-to-safe-places").
+So either read that first, or accept that she can move around fast. What were
+going to do here is cover similarities between the places Auri visits in the
+SROST and the Williams Farm in Newarre followed by the Mauthen Farm.
 
 This requires you to read the chapter "A quite uncommon pleasant place" in
 SROST. and pages 766 to 771 in TLT. pulling direct references would become
 tiresome quickly for you as it would be nearly everything between those pages
-and you wouldn't have the narrative to help. So i'm just going to bullet point
+and you wouldn't have the narrative to help. So I'm just going to bullet point
 them.
 
 ## Williams Farm 
@@ -53,22 +51,22 @@ Relationships between the Farm Auri's visits (SROST) and the Williams Farm
 * The girl that see's Auri with her serious eye's is Nettie's daughter Tess.
 * The same dog bay's at Auri and Bast
 * Nettie has a trio of Goat's, Auri meets one or a relative.
-* The honey that Auri takes is from Nettie, who has bee hives and also used it
+* The honey that Auri takes is from Nettie, who has bee hives and also uses it
   for candles.
-* The farmhouse auri visits has a bearskin upon a rack to cure and Rikes father
+* The farmhouse Auri visits has a bearskin upon a rack to cure and Rikes father
   Jessom hunts and traps.
-* Both Auri's farmhouse and the Williams have a garden
-* Both locations have a barn
+* Both Auri's farmhouse and the Williams have a garden.
+* Both locations have a barn.
 
 In terms of a time frame, Auri visits before Bast, which explains why the tall
-barn had fallen into disrepair. The bar Auri sees is stone on the bottom and
-wood on top, which why later when Bast sees it, the roof (now rotted away) is
+barn had fallen into disrepair. The barn Auri sees is stone on the bottom and
+wood on top, which why later when Bast sees it, the roof having rotted away is
 now gaping open.
 
-Note, I have left out some of the symbolic evidence, the WWWW theory, that ties
+Note, I have left out some of the symbolic evidence, the Warrens theory, that ties
 the location Auri visits to the Williams Farm even further. We are also ignoring
-the narrative that would explain how and why should. Because it would distract
-from the overwhelming physical evidence. There are around 10 similarities here.
+the narrative that would explain how and why because it would distract
+from the overwhelming physical evidence. There are around *10* similarities here.
 
 The Williams Farm is actually the second stop on Auri's trip. We started there
 because there is more evidence. Here first stop, I'll now try to convince you is
@@ -85,25 +83,17 @@ Which would likely be the same stream Denna and Kvothe stop at in NOTW:72:549
 > we pushed through a thick stand of pine trees and came upon a lovely, deep
 > stream about twenty feet across.
 
-
 <img src="/img/streamkvothedenna.jpeg" height="550px" width="375px">
 
+Had they gone farther, they would have gotten to Newarre, but they didn't
+because of those damn... _pegs_. 
 
-
-Had they gone farther, they further they would have gotten to newarre, but they
-didn't because of those _pegs_.
-
-In what I can only assume to be Pat being awful clever, were given this just a
-little while before the stream. NOTW:73:562:
-
-> “But this is nowhere.” She looked around aimlessly. “This is the outside edge
-> of nowhere....”
-
-I suspected the Mauthen Farm was the GraveYard were about to discuss before I
-saw this. I considered the graveyard could be the Haert or The Cthaeh's tree.
-But it isn't either, its the Mauthen Farm. Discussed in part, in a chapter
-of the Name of the wind, called WayStone. But Pat's hint dropping in the chapters
-doesn't stop there, recall that the chapter in SROS that were discussing is called 
+I want to underline that I suspected the Mauthen Farm was the GraveYard were
+about to discuss before I saw this. I considered the graveyard could be the
+Haert or The Cthaeh's tree. But it isn't either, its the Mauthen Farm. Discussed
+in part, in a chapter of the Name of the wind, called WayStone. But Pat's hint
+dropping in the chapters doesn't stop there, recall that the chapter in SROS
+that were discussing is called
 
 A Quite Uncommon Pleasant Place. This refers to the second part of her Journey to Newarre. Which
 she found 
@@ -114,7 +104,7 @@ Qui*te* is often confused with Qui*et*. Another gentle nod from our author.
 
 But Let's continue on, and return to Mauthen Farm and compare it to the graveyard auri visits:
 
-## Mauthen Farm / Barrow Hill / TODO
+## Mauthen Farm / Barrow Hill 
 
 <img src="/img/barrowhill.jpeg" height="450px" width="600px">
 
@@ -152,6 +142,33 @@ Those are some strong connections and some weaker ones. As it stands however,
 compares to other locations in the book, Its far more likely to be the Mauthen
 farm.
 
+## Listen three times.
+
+In what I can assume is Pat being awful clever, were given a couple hints via wordplay that likely have been
+remarked upon but not with supporting evidence. 
+
+Less easily spotted is the double meaning to _peg_. 
+
+> A peg is a bolt or pin that holds something in place or marks a location. 
+
+A head nod by Pat that this is an important location. More noticeable is the use of the word "nowhere" to
+describe the location. However, it might have slipped your attention that it's mentioned exactly three times
+
+1. Were given this hint just a little while before the stream. NOTW:73:562:
+
+> “But this is nowhere.” She looked around aimlessly. “This is the outside edge
+> of nowhere....”
+
+
+2. Then Denna, again a bit later on when they discover the Denner and the lookout. NOTW:77:590:
+
+> “At least now we know why he was hiding in the middle of nowhere with a crossbow and a lookout and all that,” Denna said. “A minor mystery solved.”
+
+3. Then Simmon when talking about Denna and Kvothe's recent trip around Trebon. NOTW:84:632:
+
+> She makes up an excuse to wander around the middle of nowhere with you for a couple of days....”
+
+Listen three times, Newaree is near Trebon. 
 
 
 # Other considerations & Counter arguments
@@ -161,9 +178,6 @@ be more specific later, but first lets address some counter arguments and
 preexisting works and see if anything blows a hole in this idea.
 
 One of the more cited pieces on Newarre is this post in 2012 on [tor](https://www.tor.com/2012/05/10/rothfuss-reread-speculative-summary-10-the-road-to-newarre/). Where the author says its conclusive and no one has challenged it. 
-
-Prepared to be challenge...
-
 
 I'll be going through this piece by piece and adding commentary. the pattern will be:
 
@@ -188,10 +202,10 @@ them down.
 > western shore (and Newarre is clearly not a port community) and none in Yll
 > appear to run north-south.
  
- 1. Everything is west of the stomwal mountains. However The mountains could be
- the Six sisters if the Skrall are coming from the Eld. Which is how Kvothe gets
+ 1. Everything is west of the Stormwal Mountains. However The mountains could be
+ the Six Sisters if the Skrall are coming from the Eld. Which is how Kvothe gets
  into the Fae. Also kvothe says "this far west". If were going off 4 corners
- map, the Vintas anything BUT far _west_. Its far _east_
+ map, the Vintas anything BUT far _west_. Its far _east_.
 
 
 > C12VT in Thread 1 pointed out this suggests a far western location, but I
@@ -199,8 +213,7 @@ them down.
 > west of a mountain range (or that the mountain range is westerly), rather than
 > on the other side of the continent.
 
-Someone suggests its far western, which is good for my theory. I can't what
-there referring to.
+Someone suggests its far western, which is good for my theory. I can't find the comment there referencing though.
 
 > This leaves us with three countries that border a sizable mountain range:
 > Ceald, Modeg and Vintas.
@@ -222,12 +235,12 @@ agreed
 > “a whole gold royal” (WMF, 18). The soldiers who attack Kvothe learns of his
 > apparent wealth by asking to break a gold coin, a “whole royal.” (WMF, 891).
 > This is confirmed to be Vintish coin when Kvothe discusses having “two gold
-> royals, four silver nobles ” after being dismissed by the Maer (WMF, 927).
+> royals, four silver nobles ” after being dismissed by the Maer (WMF, 927).
 > We know that “beer is three shims and a private room costs copper,” but that
 > doesn’t provide us with much as “shim” appears to be used generically to mean
 > a small amount of money (NotW, 44).
 
->Chronicler carries a “whole silver talent  in a jar of ink,” but he travels
+>Chronicler carries a “whole silver talent in a jar of ink,” but he travels
 >extensively and, as he noted, it’s more a “luck piece” (NotW, 20-21).
 
 
@@ -241,8 +254,7 @@ lot of unlikely this happen thats why its a story.
 > to describe how the common folk (presumably of Vintas) use rings. (WMF, 444).
 > […]
 
-Um, its just as likely that the Vintas people copy the fae. So this isn't really
-compelling to me.
+Its just as likely that the Vintas people copied the fae. 
 
 >  Now why I believe Newarre is on the Southern edge of the Eld. This is going
 > to be accomplished by a curious triangulation.
@@ -253,7 +265,7 @@ compelling to me.
 > This implies that they are currently somewhere close enough to Tinue for that
 > expression to be literally askable.
 
-No, it doesn't. How is the road to tinue, is a code phrase.
+No, it doesn't. "How is the road to tinue", is likely code phrase.
 
 >  Second, when Kvothe fakes having a bum knee in the beginning of NotW, he
 >  mentions that he got the “wound” “on my way through the Eld three summers
@@ -305,10 +317,25 @@ Another issue is that one of the soliders colors are of the Maer's house.
 > There is supporting evidence. One is that the soldiers colors are of the maers
 > house.
 
-TODO find out colors. Could this imply the Maer is the pennant king? His rule
-now extending over
+Ok. They don't mention the colors so lets go find them.
 
+----
+It's _not_ at the start of the series when chronicler is peacefully robbed.
 
+Likely there referring to this near the end of NOTW:
+
+> The door of the Waystone opened and a sudden gust of wind made the lamplight flicker. Two
+> soldiers came in, hunched against the weather, their swords sticking out like tails behind them. Dark
+> spatters of rain spotted the fabric of their blue and white tabards.
+
+blue and white
+
+> They wore the Maer ’s colors but beneath their sapphire and ivory 
+
+fair enough, they are wearing the maers colors. This likely means the are the
+Maer's men. This could mean Newaree is likely near or in land the Maer controls.
+Given there is something of a succession war going on in the background of the
+story.
 
 # Getting to Newarre.
 
@@ -411,3 +438,66 @@ feedback. Additional extra thanks to Yamus (KKC discord).
 
 The Barrow hill picture is by [Xelgot](https://www.deviantart.com/xelgot/art/Barrow-Hill-441171153) 
 Kvothe and the horse from [here](https://www.deviantart.com/dejan-delic/art/Riding-Keth-Selhan-436853308)
+
+
+# End
+
+Thanks for reading! 
+
+Here is a bonus section:
+
+## nowhere at all
+
+I want to quickly Highlight two oddities that are intentional on the authors part but I can't assign meaning to:
+
+1. Simmon comes for a visit.
+2. Elodin is in town.
+
+Two visitors that fit the descriptions of Simmon and Wil visit the Inn.
+
+>  Two young men, one sandy-haired, one dark, well dressed and well-spoken.
+
+But that's not where its stops, the sandy haired one recognizes kvothe when he heard him sing
+
+> “Kvothe the Bloodless.” The man pressed ahead with the dogged persistence of
+> the inebriated. “You looked familiar, but I couldn’t finger it.” He smiled
+> proudly and tapped a finger to his nose. “Then I heard you sing, and I knew it
+> was you. I heard you in Imre once. Cried my eyes out afterward. I never heard
+> anything like that before or since. Broke my heart.”
+
+Simmon did cry his eyes out. _But wait there is more_
+
+> tapped a finger to his nose
+
+Simmon to likes to tap his noes:
+
+> Simmon pressed on. “Yes. Some say that it’s the ghost of a student who got
+> lost in the building and starved to death.” He tapped the side of his nose
+> with a finger like an old gaffer telling a story. “They say he wanders the
+> halls even to this day, never able to find his way outside.”
+
+He even says "like an old gaffer" which cob is and he does in this rather ominous scene:
+
+> Old Cob tapped the side of his nose speculatively. “You know,” he said to the innkeeper. “You
+> should bring in a singer or sommat on nights. Hell, even the Orrison boy can play a bit of his daddy’s
+> fiddle. I bet he’d be glad to come in for the price of a couple drinks.” He looked around at the inn. “A
+> 
+> Little music is just what this place needs.”
+> The innkeeper nodded. His expression was so easy and amiable it almost wasn’t an expression at
+> all. “I expect you’re right,” Kote said. His voice was perfectly calm. It was a perfectly normal voice. It
+> was colorless and clear as window glass.
+> Old Cob opened his mouth, but before he could say anything else Bast rapped one knuckle hard on
+> the bar.
+
+But maybe noes tapping is a regional gesture?
+
+2. Elodin is in town
+
+Kvothe doesn't get along with the local priest:
+
+> “And you don’t get along with Abbe Leodin,” Bast said.
+> “And I don’t get along with the local priest,” Kvothe admitted. “But you should make an
+
+Whose last name is a just a quick 2 letter swap to "elodin". 
+
+over all conclusions? Well, maybe Kvothe is trapped within his sleeping mind. Though he doesn't exhibit any of the symptoms. 

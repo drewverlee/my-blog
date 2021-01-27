@@ -4,14 +4,19 @@
  :date "2021-1-26"
  :tags  ["KingKiller" "Fantasy"]}
 
-This Post is a continuation of [shadows on the wall](/post-output/2021-1-25-findings) you should have read that first. As such
-will continue quickly ahead. This is mostly from A SROST the chapter "Beautiful and Broken". Like Shadows on the Wall, will cover Auri's journey as she sees it. Then will walk it back and see things as I do.
+This Post is a continuation of [shadows on the
+wal](/posts-output/2021-1-25-findings) you should have read that first. As such
+will continue quickly ahead. This is mostly from A SROST the chapter "Beautiful
+and Broken". Like Shadows on the Wall, will cover Auri's journey as she sees it.
+Then will walk it back and _see_ what really happens.
 
 So, were back in Auri's sitting room, something is still wrong. Sad face. She tries
 curling up with the Fulcrum on the coach:
 
 > She sat the brazen gear upon the couch and curled up close beside it, tucking
 > her feet underneath herself. It wasn’t any more content.
+
+<img src="/img/auri-fulcrum-hold.png" height="600px" width="350px">
 
 poor lonely fulcrum:
 
@@ -80,27 +85,22 @@ A tree, with power-blue blossoms.
 > spreading willow, with broader leaves of a darker green. The tree had deep, hanging foliage scattered
 > with pale, powder-blue blossoms.
 
-Kvothe sees a tree, Auri see's a chair, but it tells us it is neither:
+Kvothe sees a tree, Auri see's a chair, but the voices tell us it's neither:
 
 > I am no tree. No more than is a man a chair.
 
-Not a chair, but a thrown, not a tree but a wheel.
+Not a chair, but a thrown, not a tree, but a brazen gear:
 
 > Fulcrum settled like a king upon the velvet chair
 
-
-
-
-
-
 Auri puts a buckle near the button, its described as:
 
-> Her hands flew to her pockets, looking for... Yes. Auri set the tarnished
+> Her hands flew to her pockets, looking for... Yes. Auri set the tarnished
 > buckle down beside the button.
 
 The buckle is 
 
-* came from old leather with curling patterns - wind?
+* came from old leather etched with curling patterns - wind?
 * black as coal - cinder has matte coal eyes. Menda to, but lets not go there right now.
 * near resin    - cinder has the perfect white teeth of someone addicted
 
@@ -121,33 +121,58 @@ it breaks into three pieces
 
 Surprise! 
 
-TODO worldbuilers wheel picture
-
 ### notes
 
-# coal 
+## coal 
 
 * menda coal black eyes and hair
 * mahne is coal
+* cinder has coal eyes
 * cinder with felurian? could be her son, cured of cinder wash.
 
-# leather
+# belt
 
+> The leather of the belt was turned against itself, but
+> at the slightest tug the buckle came away. Both of them were better off that
+> way.
+
+## leather
+
+* The leather of the belt was turned against itself
+
+bast
+
+> He felt endlessly turned against himself.
+
+lanre
+
+> turned against you,
+
+likely lanre.
+
+* The leather belt was etched in odd curling patterns. the lackless box.
+
+* The belt stayed on the central table, obviously. 382 so no holly
+
+## table
+
+* holly berries and clean cloath @ 50 but then gone
+
+## buckle
+
+* black
 * an old belt with a silver buckle so tarnished it was black as coal.
-* The leather of the belt was turned against itself, but
-at the slightest tug the buckle came away. 
-* The leather belt was etched in odd curling patterns.
-* The belt stayed on the central table, obviously.
+* on central table @ 670
+* buckled moved to rest beside the dish with resin
+* crowing the resin a bit
 
-What is table?
-
-on table
-* On the central table a handful of holly berries rested on a clean white cloth.
-old holly stayed? this is probably haliax to?
+* near bone buckle so its bast?
 
 #TODO fulcrum
 
 > Annulet (architecture), a fillet or ring encircling a column
 
-## Rights
+## Rights & Art
+
+* Auri holding the fulcrum from u/notakruskkrabb posted [here](https://www.reddit.com/r/KingkillerChronicle/comments/epvml8/i_drew_auri_for_my_new_desk_at_work/)
 

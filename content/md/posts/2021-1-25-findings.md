@@ -1,4 +1,4 @@
-{:title "Shadows on the wall"
+{:title "Shadows on the Wal"
  :layout :post
  :klipse {:settings {:codemirror-options-out {:line-numbers false}}}
  :date "2021-1-25"
@@ -38,7 +38,7 @@ _-- From The Waste Land by T.S Eliot_
 ##  A hand reaching
 
 This story is part of a bigger one called [Warrens Widdershins Ways and
-Woes](/post-output/2021-1-15-bone-and-crystal) which you should have read first
+Woes](/post-outputs/2021-1-15-bone-and-crystal) which you should have read first
 before this one. This will cover the Auri's journey to Wains, where she notices
 something is amiss, and finds a amyr doll under the couch. Then will unwind the
 journey from another perspective and you will not be happy with what I have to tell 
@@ -46,11 +46,11 @@ you. I suggest you go ahead and give fitting the pieces together yourself before
 
 See the SROST chapter "The Far Below Bottom of things", to follow along, which you probably should do.
 
-Lets join Auri on her magical trip into the Underthing where she visits Wains,
-discovers a new room, and notices something isn't quite proper. 
+Lets join Auri on her magical trip into the Underthing 
 
+<img src="/img/auri-underthing.jpeg " height="600px" width="450px">
 
-<img src="/img/auri-below.png" height="500px" width="400px">
+where she visits Wains, discovers a new room, and notices something isn't quite proper. 
 
 Lets let her describe Wains. SROST:1:35
 
@@ -110,7 +110,9 @@ she doesn't think it is:
 > button was just as it should
 
 That's it! But will take another look to be sure. This is the turn around point.
-Now we peak under the bed and into the darkness.
+
+A cliff, an edge, you step into the darkness... do you spread your
+arms to catch the wind or do you press them together and cut it like a knife? 
 
 <img src="/img/abstract-forest.jpeg" height="500px" width="600px">
 
@@ -125,7 +127,7 @@ When Auri enters Wains, were presented with a Fresco painting on the ceiling.
 > There were broad frescoes decorating the ceiling.
 
 A fresco is a technique of mural painting, commonly used in cathedrals. You have
-likely seen part of the "Creation of Adem" by Michelangeo, but take a look at
+likely seen part of the "Creation of Adem" by Michelangelo, but take a look at
 the full piece on the ceiling of the Sistine Chapel. It's worth a moment of our time here:
 
 <img src="/img/chapelle.jpeg" height="500px" width="600px">
@@ -140,14 +142,14 @@ The one Auri sees women and men scantily clothed or naked lounging and frolickin
 
 This _is_ the fae. I'm not saying she is seeing painting of the Fae. I'm saying,
 she is _seeing the Fae_. The dark wood paneling are trees, the men and women are
-Faen and mortal guest unabashedly enjoying each others company.
+Fae and mortal guest unabashedly enjoying each others company.
 
 Let me draw attention to some other aspects of "The sitting room" as Auri calls
 it. It has a chandelier with bluewhite light scattered off a Crystal chandelier.
 
 > Above her, bluewhite light scattered off a crystal chandelier. Dark wood paneling 
 
-Much like the sky above our young hero Kvothe, miles and worlds away in the Fae. TMWF:100:
+Much like the sky above our young hero Kvothe, miles, days and worlds away in the Fae. TMWF:100:
 
 > I was reminded of a vast, empty cathedral swathed in sooty velvet.
 
@@ -155,7 +157,7 @@ The roof above Auri just as he describes it.
 
 <img src="/img/auricathedral.png" height="500px" width="300px">
 
-The Chandelier's bluewhite light, shine an unfamiliar light upon his eyes:
+The Chandelier's bluewhite light, reflected on his eyes:
 
 > ...the last hint of purple was gone, leaving the sky a perfect velvet black, flecked with unfamiliar stars.
 
@@ -185,13 +187,13 @@ the surface and cant fathom the depths bellow, and so he makes a foolish show:
 > grass. Only dark moss underfoot and the arch of dark branches overhead. I was reminded of a vast,
 > empty cathedral swathed in sooty velvet.
 
-Felurian knows the rules, in jealousy the shadow can be cruel:
+Felurian heard the deep tremble and so she makes a hasty gamble, two hearts beat as one...
 
 > “ciar nalias!” Felurian snapped.
+
 > An instant later Felurian leapt at me and bore me to the ground, her lithe, naked body pressed against mine.
 
-Two bodies become one, and so who can say where one or another is from. 
-Now something wicked this way comes...
+now something wicked this way comes...
 
 > There was a soft sound of movement above us, as if someone was folding a huge piece of velvet
 > around a piece of broken glass. Saying that I realize it makes no sense, but still, that is the best way I
@@ -204,7 +206,7 @@ For though the stars seem tiny from afar...
 > and when she bent down to run her fingers over the hush of it, she glimpsed a tiny whiteness
 > underneath the couch.
 
-they to can scar...
+they too can scar...
 
 > She was full of broken glass and burrs. She was weary and disappointed with all of everything.
 
@@ -238,6 +240,7 @@ Next will sit down and consider the hidden [turnings](/posts-output/2021-1-26-tu
 featured in SROST.
 * Poem from [T.S Eliot 1922 "The Waste Land"](https://wasteland.windingway.org/poem)
 * [wasteland picture](https://www.pinterest.com/pin/198510296054351104/)
+* Order prints of Auri Underthing from [here](http://www.philmcdarby.com/index.php/digital_art/detail/auri/)
 
 ## Citations
 

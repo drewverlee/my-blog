@@ -4,7 +4,6 @@
  :date "2021-1-15"
  :tags  ["KingKiller" "Fantasy"]}
  
-<img src="/img/picpoem.jpg" height="200px" width="200px" style="display: none">
 
 <img src="/img/spoem.png" height="500px" width="400px">
  
@@ -262,12 +261,12 @@ Relationships between the Farm Auri's visits (SROST) and the Williams Farm (TLT)
 * The girl that see's Auri with her serious eye's is Nettie's daughter Tess.
 * The same dog bay's at Auri and Bast
 * Nettie has a trio of Goat's, Auri meets one or a relative.
-* The honey that Auri takes is from Nettie, who has bee hives and also used it
+* The honey that Auri takes is from Nettie, who has bee hives and also uses it
   for candles.
-* The farmhouse auri visits has a bearskin upon a rack to cure and Rikes father
+* The farmhouse Auri visits has a bearskin upon a rack to cure and Rikes father
   Jessom hunts and traps.
-* Both Auri's farmhouse and the Williams have a garden
-* Both locations have a barn
+* Both Auri's farmhouse and the Williams have a garden.
+* Both locations have a barn.
 * The etymology of [Nettie](https://en.wiktionary.org/wiki/nettie) is Net - tie, where net's are like tatted lace. 
   
 This isn't the Cthaeh, so near a farm with milk, honey and curious eyes. This could possible
@@ -290,7 +289,7 @@ That being established, we must review the trade Auri makes for the honey. This 
 
 ---------
 
-SROST:4:
+SROST:4:74
 
 1. trade. 
 
@@ -379,12 +378,11 @@ Without elaborating, the ingredients are:
 * daub of perfect pitch 
 * auri breath in whistle 
 
-Note, If the leaf kvothe swallowed on the Mauthen farm was the one Auri breathed on,
-then her whistle is the second reference to her breath going in him. 
-
-Auri find's that in the end she doesn't have time for the proper making of the candle, as too often is
-the case, when she is pressed upon time, she turns to Boundry, she goes
-beyond...
+Note, If the leaf kvothe swallowed on the Mauthen farm was the one Auri breathed
+on, then her whistle is the second reference to her breath in him. That alone,
+implies a lot. But we learn more as Auri find's that in the end she doesn't have
+time for the proper making of the candle, as too often is the case, when she is
+pressed upon time, she turns to Boundry, she goes beyond...
 
 SROST:10:142:
 
@@ -394,7 +392,7 @@ SROST:10:142:
 > Oh yes. She’d learned her craft. She knew its hidden roads and secrets. All the subtle, sweet, and coaxing ways that
 > made one skilled within the art. So many different ways. Some folk inscribed,
 > described. There were symbols. Signifiers. Byne and binding. Formulae.
-> Machineries of maths . . . But now she knew much more than that. So much of what
+> Machineries of maths... But now she knew much more than that. So much of what
 > she’d thought was truth before was merely tricks. No more than clever ways of
 > speaking to the world. They were a bargaining. A plea. A call. A cry. But
 > underneath, there was a secret deep within the hidden heart of things. Mandrag
@@ -411,7 +409,7 @@ SROST:10:142:
 > 
 > And all things shook. And all things knew her will. And all things bent to please her.
 
-## All Flames are one Flame
+## All flames are one flame
 
 They are all around
 
@@ -456,12 +454,12 @@ _then to flesh all things return_
 <img src="/img/book-of-secrets.webp" height="250px" width="250px">
 
 So Auri took some items that I claim are like Selitos and Lanre and traded them
-for some other items and then turned those into a candle. What of it? _what does it all mean!_ 
+for some other items and then turned those into a candle which she gives kvothe. What of it? _what does it all mean!_ 
 
-Recall what you now know of the Fae craft and Alchemy. Now let your imagination run wild. 
+Recall what you now know of the Fae craft and Alchemy. Now set your imagination ablaze!
 
 But if your tired of secrets, or if you feel you know all the stars and their
-names, then follow me deeper down the rabbit hole and see the [Shadows on the wal](/posts-output/2021-1-25-findings).
+names, then follow me deeper down the rabbit hole and see the [Shadows on the Wal](/posts-output/2021-1-25-findings).
 
 # Epilogue
 
@@ -495,9 +493,7 @@ had help in piecing together bits here and there about the story from
 
 They have some great KKC theories out there you should check out.
 
-Thanks to the r/KingkillerChronicle and r/kkcwhiteboard. I'll be cutting back a lot on the time
-I spend theory crafting, after i finish this, as i need to put my attention back on other matters.
-But discovering the book anew and community was a much needed adventure in a dark time.
+Additionally, Thanks to the all of r/KingkillerChronicle and r/kkcwhiteboard.
 
 ## Left over Questions
 
@@ -518,8 +514,6 @@ purchases from them greatly and hope using them this isn't stepping on any toes.
 * Celtic Holly picture from Anne Stokes 
 * Some scattered ones from Wikipedia
 * Allegory of cave picture from [here.](https://bayoakomolafe.net/project/the-allegory-of-the-pit-or-the-irony-of-victory/)
-* anger painting [here](https://fineartamerica.com/featured/anger-bertro.html)
-* archives picture [here](http://chaen-dian.com/master-lorren/)
 
 ## Citations
 

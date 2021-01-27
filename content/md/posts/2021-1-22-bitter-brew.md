@@ -53,13 +53,14 @@ What's more in order to perform these arts, fae magic, like sympathy relies on
 similarities, only in this case, its between how people feel about the things, rather then there physical properties. 
 The next section will elaborate.
 
-Three points of clarification to this table:
+Some points of clarification
 
 1. I suspect if your told something is _art_ its likely glammourie
 and if its _craft_ its likely grammarie. But Bast doesn't say this, so will
 leave it out of the table. 
 2. Furthermore, were not given a word to describe the verb for grammarie. Would it be gramered? grammered? 
 3. The third row is based on speculation, which is explained below.
+4. The first two, glammourie and grammarie are directly supported in the narrative by Bast and Felurian.
 
 ### Shadows on the wall
 
@@ -399,7 +400,7 @@ we know bast can dance:
 
 > He looked like he were dancing.
 
-I say he skin danced Jessom off that cliff. That's why Bast comes back looking
+I say he sink danced Jessom off that cliff. That's why Bast comes back looking
 like he fell off the cliff because he did, as Jessom. Further more Jessom left
 right after he recovered. Why would he? Because Bast imprinted his own memories
 of wrecking Martins Sill and stealing his liquor in Jessom. He woke thinking he
@@ -414,20 +415,31 @@ In the interest of fairness. It's also possible that:
 * the cut could be from when he made his pipe. It seems to imply he drew blood, but not from where.
 * the liquor just from when he went to Martins Still, Reshi notices he has been drinking.
 
-But those pieces don't explain what happened to Jessom. I think they are covers he can use to explain his injuries without
-lying outright.
+But those pieces don't explain what happened to Jessom. I think they are covers
+he can use to explain his injuries without lying outright. 
 
-## TODO
+A major counter to this argument would be that Bast tells Kvothe he doesn't know how skin dancing works. MWF:2:14
 
-* felurian  references
+> “You’re asking me?” He laughed incredulously. “I have no idea. Anpauen. The last of the dancers
+> were hunted down hundreds of years ago. Long before my time. I’ve just heard stories.”
 
-e.g
+Which could mean, among other things, that Bast doesn't consider what happened
+antagonistic in the Inn fight to be similar to the craft he worked over Jessom.
+It's possible the inflicted commander was more crudely and forcefully
+controlled, the dark inky fluid being used in the process.
 
-> I smiled. “I already have one.” Then I checked to make sure. I was in the Fae after all.
-Felurian frowned, shaking her head at my lack of understanding. “another I would give a shield,
-and it would keep him safe from harm. another I would gift with amber, bind a scabbard tight with
-glamour, or craft a crown so men might look on you with love.”
+## Epilogue
 
-and her holding kvothe like skindancing after.
-look into eyes, etc...
+This is a good start to understanding what the Fae's craft. But there is much
+more to cover, we didn't even touch on every example in TLT. Not to mention
+Felurian, and Auri who both could give insights. Likely the deserve there own
+space though, I presumptuously said I would provide a summery, as if, as if you
+could capture a summers day in a bottle. It would also be worth a reread where we
+look out for any subtle uses, now that we know what clues to look for.
 
+### Rights and Art
+
+Most art is from world builders. 
+
+* anger painting [here](https://fineartamerica.com/featured/anger-bertro.html)
+* archives picture [here](http://chaen-dian.com/master-lorren/)
