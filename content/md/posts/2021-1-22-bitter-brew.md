@@ -409,6 +409,8 @@ him off, why did Bast trouble including the bit about Martin? If Jessom thought
 bast was involved, why not tell anyone else? Even as he ran off? There are no
 certain answers here, but I think it fits. 
 
+## Counter arguments
+
 In the interest of fairness. It's also possible that:
 
 * the limp could be from his fall when spying on Emberlee
@@ -418,15 +420,25 @@ In the interest of fairness. It's also possible that:
 But those pieces don't explain what happened to Jessom. I think they are covers
 he can use to explain his injuries without lying outright. 
 
-A major counter to this argument would be that Bast tells Kvothe he doesn't know how skin dancing works. MWF:2:14
+A major counter to the idea that Bast can skin dance would be that Bast tells
+Kvothe he doesn't know how it works, when asked by Chronicler how they can be
+sure it hand't changed bodies. MWF:2:14
+
+> Why didn’t it hop into one of us?”
 
 > “You’re asking me?” He laughed incredulously. “I have no idea. Anpauen. The last of the dancers
 > were hunted down hundreds of years ago. Long before my time. I’ve just heard stories.”
 
-Which could mean, among other things, that Bast doesn't consider what happened
+Which could mean, among other things, that Bast doesn't know if it jumped, but
+does know about skin dancing. However, he says rather directly that the dancers
+were hunted down long ago. Which would seem to be an outright lie if he was
+capable of doing it himself.It's possible he doesn't consider what happened
 antagonistic in the Inn fight to be similar to the craft he worked over Jessom.
 It's possible the inflicted commander was more crudely and forcefully
-controlled, the dark inky fluid being used in the process.
+controlled, the dark inky fluid being used in the process. 
+
+Which would leave us to spin a story around what Bast did to Jessom that relies
+more on glammourie and maybe good old fashion threats. 
 
 ## Epilogue
 
