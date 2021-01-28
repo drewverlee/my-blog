@@ -527,7 +527,7 @@ for some other items and then turned those into a candle which she gives kvothe.
 Recall what you now know of the Fae craft and Alchemy. Now set your imagination ablaze!
 
 But if your tired of secrets, or if you feel you know all the stars and their
-names, then follow me deeper down the rabbit hole and see the [Shadows on the Wal](/posts-output/2021-1-25-findings).
+names, then follow me deeper down the rabbit hole and see... TODO
 
 # Epilogue
 
