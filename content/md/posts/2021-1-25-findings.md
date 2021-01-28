@@ -109,10 +109,12 @@ she doesn't think it is:
 > moment before giving it an understanding smile. That wasn’t it either. The
 > button was just as it should
 
-That's it! But will take another look to be sure. This is the turn around point.
+That's it! But will take another look to be sure. 
 
-A cliff, an edge, you step into the darkness... do you spread your
-arms to catch the wind or do you press them together and cut it like a knife? 
+This is the turn around point, the cliff. You step into the darkness and your
+falling... the air rolls over you, pulling at your flesh, you see nothing below
+you, but you feel the weight of the sky bearing down on you. Do you spread your
+hands to catch the wind or do you press them together and cut it like a knife?
 
 <img src="/img/abstract-forest.jpeg" height="500px" width="600px">
 
