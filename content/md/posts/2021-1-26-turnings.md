@@ -1,6 +1,5 @@
 {:title "Turnings"
  :layout :post
- :klipse {:settings {:codemirror-options-out {:line-numbers false}}}
  :date "2021-1-26"
  :tags  ["KingKiller" "Fantasy"]}
 
@@ -16,12 +15,13 @@
 
 ----
  
-This post is a continuation of [shadows on the
-wal](/posts-output/2021-1-25-findings). As what follows
+This post is a continuation of [Shadows on the
+wal](/posts-output/2021-1-25-findings). No that's not a typo. As what follows
 won't really click without the necessary context. As such will continue quickly
 ahead. Most of the content will be covering is from SROST "Beautiful and
-Broken". Like Shadows on the Wal (no that's not a typo), will cover Auri's journey as she sees it.
-Then will walk it back and _see_ what really happens.
+Broken". Similar to before, will cover Auri's journey as she sees it. Then will
+walk it back and I'll show you what I see. Broken into two parts, this gives me
+a chance to first highlight something without imposing my beliefs on you. 
 
 So, were back in Auri's sitting room, something is still wrong and on top of that she 
 can't find a proper place for fulcrum. Sad face. She tries

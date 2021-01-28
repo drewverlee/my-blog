@@ -32,18 +32,86 @@ The Kingkiller Chronicle's journey is powerful; it moves the heart. It's best if
 you experience it yourself, rather than me rob you of the joy. Journey before
 destination, and all that.
 
+Allow me to tell a brief story before we set out.
+
+----
+
+<img src="/img/twlight-reflections.jpeg" height="400px" width="400px">
+
+Once long ago, two siblings heard a tale of an old wolf who knew how all stories
+end. He lived over the winding river, beyond the last of the wheat crops past
+the tall mountains, in a dark cave. Being fierce competitors, they made a pact
+they would both learn the endings to their favorite fairly stories. They, found
+a small river stone and pricked their fingers, letting their bright blood drop
+through it into the wide rushing stream below. The boy set out immediately,
+running, his hair whipping in the wind. The sister stayed, she did not go.
+
+He ran past the winding river and saw a fair lady, her hands behind her back, she gave him an inviting smile...
+
+but he ran on
+
+He ran through the wheat crops and saw a young dark skinned man with a baby on his shoulders, they laughed and gestured to the boy
+
+but he ran on
+
+He took the mountains two steps at a time, and near the top of one he saw an old women had built an inn where weary travelers could rest, the warm fire inside called to him, 
+
+but he ran on 
+
+and so in no time at all he approached a wide cave at the end of a long road. He entered never breaking stride. An old man
+sat on a broken stump of a tree. He looked up at the young boy and he saw he was blind. Why have you come? The old man said. His voice was a whisper.
+
+"I want to know the ending to all stories!" The boy said proudly, knowing he had finally beating his sister at something. 
+
+"I want them laid out before me and analyzed." 
+
+The old man nodded once. "I will do that, but first I must hear yours in trade". He offered the boy drink and he drank. He offered the boy sit but he stood.
+
+"That will take no time at all" said, and said "I bet, ran and won!" The boy finished with a flourish. 
+
+"and now I'll have whats due"
+
+The old man. Sat, the branches from the old tree now more visible, seemed to cover the cave floor.
+And as the boys eyes adjusted he saw the old man wasn't blind. His eyes
+were all black. His face sagged to one side and his mouth opened. The boy saw
+the man was not old, but young, as if his skin had never seen a sunrise.
+
+"That will take no time at all"
+
+The old man said, his voice was endless desert sand rolling.
+
+"For there is only one story"
+
+His voice was hallow oak and shattered glass. The boy saw the roots of the tree,
+crawled and covered all the ground beneath him, all the world. The boy turned to
+run, the cave exit was no door, but a maw, it's sharp white teeth
+reflected only darkness.
+
+The voice was a one voice, then four, then seven then ... The boys heartbeat drowned out everything.
+
+"and there is only one ending"
+
+Much, Much later a women approached the same cave. Her steps touched the
+whole of the ground and though she was old, she seemed to slide, to dance upon the
+earth. In the cave there was an old man by a gentle fire. He bid her sit and share wine
+but she took water first. Then stories were told long into the night. As the
+fire faded and the dark inched close, the old man was now a wolf and she
+laid her head upon his fur and though it gave no warmth, she could hear in him
+the heartbeat of the world as she drifted into sleep.
+
+----
+
 So I suggest you read around a *lot* before tackling this. That means all the
-books, see the last section "Citations" for a complete list. It also means
+books a couple times, see the last section "Citations" for a list. It also means
 spending some time on the forums. I'm not suggesting I have the right of things.
-Instead, I'm saying it's a lot more fun to arrive at your own conclusions before
-hearing others. So capital S Spoilers and possible BS ahead, you decided which.
+Or all of it. Instead, I'm saying it's a lot more fun to arrive at your own
+conclusions before hearing others. So capital S Spoilers and possible BS ahead,
+you decided which.
 
 Enough of warnings, we look forward now, shadows on the horizon, drums in the
 deep.
 
-
 -----------
-
 
 The main theory is that Auri is Shaping Kvothes life from those of Lanre and Selitos. 
 
@@ -479,21 +547,31 @@ And you should also buy all the Cool Worldbuilders KingKiller stuff, which reall
 
 ## Credits
 
-Though the idea is mine and i take full responsible for any undo confusion, I
-had help in piecing together bits here and there about the story from
+Though the idea is mine and I take full responsible for any undo confusion, I
+had help in piecing together bits here and there about the story from.
 
 * u/mattytangle, for deep knowing
 * u/rhinatamorie, for kind words
 * u/throwawaybreaks, for listening
 * Yamus (on KKC discord), for careful criticism
-* u/quoo, for Auri's soap
+* u/quoo, for robing and saving me from writing about [Auri's soap](https://www.reddit.com/r/KingkillerChronicle/comments/a5h24v/is_kvothe_fulcrum_from_tsrost/)
 * u/aowshadow for a detailed review of this post
 * u/biologin for the Rothuss alchemy quotes, and likely other bits i picked up
 * u/mastersam for insights
+* u/opensourcespace whose work I never read, but likely who footsteps we all [follow](https://www.reddit.com/r/KingkillerChronicle/comments/a5h24v/is_kvothe_fulcrum_from_tsrost/ebpk6xz/?utm_source=share&utm_medium=web2x&context=3)
 
 They have some great KKC theories out there you should check out.
 
 Additionally, Thanks to the all of r/KingkillerChronicle and r/kkcwhiteboard.
+
+Finally, thank you to Rothfuss himself, for listening to Vi, for showing but not telling us about the
+hidden turnings of the world.
+
+SROST Authors forward
+
+> If you love words and mysteries and secrets. If you're curious about the Underthing and alchemy. If 
+> if you want to know more about the hidden turnings of my world.... Well, then this book might be for you.
+
 
 ## Left over Questions
 
@@ -506,6 +584,7 @@ Here are some questions I jotted down but didn't try to answer which putting thi
 * why did auri leave out the camphor, I touch on it  <a href="https://drewverlee.github.io/posts-output/2021-1-24-camphor"> Here</a>, but its thin.
 * Why would crystal and key fuss? What is the key?
 * look into origins of arm bone.
+* A clever reader will notice that SROST is supposedly happen _after_ Denna and Kvothes journey to the Mauthen farm, which would seem to undermine part of my theory. However if you travel further into the theory this will largely be explained through implication. But as of right now, it remains a question.
 
 ## Rights & Art
 
