@@ -39,7 +39,7 @@ and Denna dramatically use to take shelter from the draccus. NOTW:74:569:
 
 > I grabbed hold of her arm and ran toward the opposite side of the hill. Denna kept up with me at first, then planted her feet when she saw where I was headed. “Don’t be stupid,” she hissed. “We’ll break our necks if we run down that in the dark.” She cast around wildly, then looked up at the nearby greystones. “Get me up there and I’ll haul you up after.”
 
-<img src="/img/draccus-stone.png" height="400px" width="700px">
+<img src="/img/draccus-stone.png" height="300px" width="500px">
 
 Clever Pat even calls this chapter "Waystone". Coming out of this Greystone it
 would be a short trip for Auri to get the Mauthen farm. Which she describes as a

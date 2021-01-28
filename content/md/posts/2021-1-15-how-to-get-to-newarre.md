@@ -106,7 +106,7 @@ But Let's continue on, and return to Mauthen Farm and compare it to the graveyar
 
 ## Mauthen Farm / Barrow Hill 
 
-<img src="/img/barrowhill.jpeg" height="450px" width="600px">
+<img src="/img/barrowhill.jpeg" height="300px" width="450px">
 
 
 You should see Chapter seventy-two in NOTW and some of the following chapters
@@ -171,7 +171,7 @@ describe the location. However, it might have slipped your attention that it's m
 Listen three times, Newaree is near Trebon. 
 
 
-# Other considerations & Counter arguments
+## Other considerations & Counter arguments
 
 So then, I purpose that Newarre is in the Commonwealth and its near Trebon. Will
 be more specific later, but first lets address some counter arguments and
@@ -340,7 +340,7 @@ story.
 # Getting to Newarre.
 
 
-<img src="/img/kvothehorse.jpeg" height="370px" width="600px">
+<img src="/img/kvothehorse.jpeg" height="300px" width="450px">
 
 So then, where is Newarre? If were right, this is the easy part. First we get to
 Trebon, then Mauthen farm and follow it towards the stream and assume its some
@@ -425,7 +425,7 @@ On the map the Green is where It would likely have to be If the theory is
 correct. Red is where a more specific guess based on the text and what I think
 is more likely.
 
-<img src="/img/map-with-newarre.jpg" height="400px" width="400px">
+<img src="/img/map-with-newarre.jpg" height="350px" width="350px">
  
 
 

@@ -116,7 +116,7 @@ falling... the air rolls over you, pulling at your flesh, you see nothing below
 you, but you feel the weight of the sky bearing down on you. Do you spread your
 hands to catch the wind or do you press them together and cut it like a knife?
 
-<img src="/img/abstract-forest.jpeg" height="500px" width="600px">
+<img src="/img/abstract-forest.jpeg" height="400px" width="500px">
 
 ------------------
 
@@ -132,11 +132,11 @@ A fresco is a technique of mural painting, commonly used in cathedrals. You have
 likely seen part of the "Creation of Adem" by Michelangelo, but take a look at
 the full piece on the ceiling of the Sistine Chapel. It's worth a moment of our time here:
 
-<img src="/img/chapelle.jpeg" height="500px" width="600px">
+<img src="/img/chapelle.jpeg" height="400px" width="500px">
 
 The one Auri sees women and men scantily clothed or naked lounging and frolicking:
 
-<img src="/img/faerev.jpg" height="300px" width="300px" align="right">
+<img src="/img/faerev.jpg" height="300px" width="300px">
 
 > Women in gauze lounged about, whispering and rubbing oil on each other. Men
 > frolicked about in the water, flapping around ridiculously in their absolute
