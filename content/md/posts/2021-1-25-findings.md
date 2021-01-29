@@ -228,14 +228,16 @@ And pray they leave you alone.
 
 ## Dreams
 
-You enter a clearing in the woods, tall strong trees reach above. A stream
-ahead and across it a small stone inn in the distance. Your walking with Wil he
-looks sad, Sim is no where to be seen. His dark eyes find ours and he speaks. 
-You take a moment and respond, not sure you heard him right.
+Your walking in a forest, the grass is cool under your bare feet. Their dark
+trunks reach far above your forming a canopy. The moon giving you enough light
+to see a stream ahead, and across it a small stone. Wil, stops and finally breaks the silence.
+He seems sad, Sim is no where to be seen. His dark eyes find ours and he
+speaks. You listen with half an ear as a you bend to inspect what you can only describe as a perfect acorn.
+You give a slight chuckle. Then your brows furrow... You take a moment and respond, not sure you heard him right.
 
 "When your wives are angry you sleep _in_ the fire?"
 
-You turn to look at him quizzical.
+You turn to look up at him quizzical.
 
 But he is gone, instead Penthe gives you a pleasant kiss on the cheek. 
 
@@ -243,40 +245,35 @@ But he is gone, instead Penthe gives you a pleasant kiss on the cheek.
 
 "A man plays no role in it."  her eyes a twilight blue... 
 
-You know she is wrong, you are Kvothe, trained at the medica. she cuts your
+You know she is wrong, you are Kvothe, trained at the medica. She cuts your
 thoughts off by clasping your hands inside hers and bringing her head down to
 whisper between the secret space the entangled fingers make.
 
-"A man must give a woman fire if he wants to sleep" ... her lids of winged butterflies.
-
-You look intently her hands. Only find your clasping Denna's hands instead, your
-back on the greystone together.
+"A man must give a woman fire if he wants to sleep" ... her lids flicker like butterflies and her eyes are deep pools. You feel a pleasant heat start to rise. So you start intently at her hands. Only find your clasping Denna's hands instead, your back on the greystone together.
 
 “I stopped breathing for two minutes and died." she doesn't speak. Its
 written on her arms, her chest and across her face in black ink.
 
 You both hang above the Greystone in open air. You firmly
-perched on open air, her slipping from your grasp, to fall into its open door.
+perched on open air, her slipping from your grasp, to fall into its open door. 
 Your muscles ache, if only had rope, wine or time to explain.
 
 She looks through your eyes. She knows you will let her go. She doesn't blame
-you, there isn't much of her left. She has betrayed you.
+you, there isn't much of her left and he has betrayed you.
 
 You tighten, tense, a finger slips. If only could could make a binding with your
 blood, but no, you are bloodless, a hallow bell and when the wind strikes you
 there is no sound. You do not let go.
 
 You scream and the mountains tear themselves apart. Your both falling. Your
-hands bound as one. Auri holds you tightly as the darkness reaches to take you.
+hands bound as one. Auri holds you tightly in her hand as the darkness reaches to take you.
 
 "It's okay" She says softly. "I'm here. You're safe."
 
 The Draccus roars and its blue flame consumes you both.
 
-Your alone once more, only wood and stream and stone. Your knees buckle beneath
-and you sag to the ground, your tears are hot blood upon the land. 
-
-"I will sow salt, least the bitter weeds grow" It's not your voice, but it comes from your lips.
+Your alone once more, only wood and stream and stone there is no moon. Your knees buckle beneath
+and you sag to the ground, your tears are hot blood upon the land.
 
 ## Epilogue
 

@@ -228,7 +228,7 @@ After retrieving the bone, Auri puts it near some holly, that she has on her.  S
 
 > The bone nestled almost indecently close to the holly berry. 
 
-Holly is a topic all on it's own that I cover
+Holly is a topic all on it's own that I ramble about
 [here](https://drewverlee.github.io/posts-output/2021-1-24-holly). You might
 want to refer back to it later, for now lets move on. What Auri does next is put, I would argue
 _trades_, the bone for Laurel Fruit, by placing the Bone inside the Laurel Tree.
@@ -285,11 +285,11 @@ Auri finds a Crystal in the Underthing. SROST:1:27:
 The Crystal is like the mountain glass seltios used to stab his eye. The
 connection is thin here, only that Crystal is similar to glass. What do we
 know about "mountain glass"? However, the connection is immediately strengthened
-as The Crystal is put near an Amyr, given Selitos was their founder.
+as The Crystal is put near an Ciridae, given Selitos was their founder.
 
 <img src="/img/Pairs_Commonwealth_Amyr.webp" height="500px" width="350px" align="right">
 
-Here are the relevant parts about the Amyr doll. SROST:1:28
+Here are the relevant parts about the Ciridae doll. SROST:1:28
 
 > It was a tiny figurine carved from a piece of pale, retiring stone. A small
 > soldier with clever lines to show his hauberk and his shield. But his truest
@@ -305,13 +305,7 @@ Later we learn more. SROST:10:146:
 > Peering closer, Auri spied slight lines upon his arms as well. She did not
 > know how she had missed these things before. It was a tiny Ciridae.
 
-Notice, Auri, like kvothe has to look at the amyr twice before seeing it. It
-would be odd if seeing had a certain calculus to it. Given Puppet suggests you can look too much.
-Which given the strong, likelihood he is connected/is Selito's complicates matters even further. 
-I had long wondered if Kvothe's first viewing hadn't been more true, but I doubtful Auri could
-be deceived by anyone but herself.
-
-Later Auri adds white tatted lace to the same pocket as the Amyr and Crystal. SROST:1:32
+Later Auri adds white tatted lace to the same pocket as the Ciridae and Crystal. SROST:1:32
 
 > she found a length of fine white tatted lace. She folded this up carefully and
 > put it in her pocket with the crystal and the small stone soldier
@@ -426,7 +420,7 @@ This is the end of the journey for the cyrstal, the begging of the honeycombs.
   <tr>
     <td>Selitos</td>
     <td>Crystal</td>
-    <td>amyr & lace</td>
+    <td>Ciridae & lace</td>
     <td>HoneyComb & lace</td>
     <td>Lighting Tree</td>
   </tr>
