@@ -38,6 +38,8 @@ Allow me to tell a brief story before we set out.
 
 <img src="/img/twlight-reflections.jpeg" height="400px" width="400px">
 
+TODO use story from google doc, possible move this to its own post.
+
 Once long ago, two siblings heard a tale of an old wolf who knew how all stories
 end. He lived over the winding river, beyond the last of the wheat crops past
 the tall mountains, in a dark cave. Being fierce competitors, they made a pact

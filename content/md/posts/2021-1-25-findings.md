@@ -1,6 +1,7 @@
 {:title "Shadows on the Wal"
  :layout :post
  :klipse {:settings {:codemirror-options-out {:line-numbers false}}}
+ :draft? true
  :date "2021-1-25"
  :tags  ["KingKiller" "Fantasy"]}
  

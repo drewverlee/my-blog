@@ -1,5 +1,6 @@
 {:title "Turnings"
  :layout :post
+ :draft? true
  :date "2021-1-26"
  :tags  ["KingKiller" "Fantasy"]}
 
@@ -134,7 +135,7 @@ Alice's Adventures in wonderland, by Lewis Caroll
 
 ...
 
-[Down, down, down. Would the fall never come to an end?](/post-output/2021-1-26-falling)
+So follow me and Alice [Down, down, down. Would the fall never come to an end?](/post-output/2021-1-28-falling)
 
 
 
