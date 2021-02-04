@@ -32,74 +32,77 @@ The Kingkiller Chronicle's journey is powerful; it moves the heart. It's best if
 you experience it yourself, rather than me rob you of the joy. Journey before
 destination, and all that.
 
-Allow me to tell a brief story before we set out.
+Allow me to tell a brief story before we set out. It is only an echo of the
+stories told in Temerant, if side stories aren't your fancy then run on! To the _Intro_
+section. 
 
 ----
 
 <img src="/img/twlight-reflections.jpeg" height="400px" width="400px">
 
-TODO use story from google doc, possible move this to its own post.
+### The boy who ran
 
-Once long ago, two siblings heard a tale of an old wolf who knew how all stories
+Once long ago, two siblings, Te and Ve, heard a tale of an old wolf who knew how all stories
 end. He lived over the winding river, beyond the last of the wheat crops past
-the tall mountains, in a dark cave. Being fierce competitors, they made a pact
-they would both learn the endings to their favorite fairly stories. They, found
-a small river stone and pricked their fingers, letting their bright blood drop
-through it into the wide rushing stream below. The boy set out immediately,
-running, his hair whipping in the wind. The sister stayed, she did not go.
+the tall mountains, in a dark cave. So they made a pact to learn the endings to their favorite fairy stories and sealed it with spit and stone. The boy set out immediately, running, his hair whipping in the wind. The sister stayed, she did not go.
 
 He ran past the winding river and saw a fair lady, her hands behind her back, she gave him an inviting smile...
 
 but he ran on
 
-He ran through the wheat crops and saw a young dark skinned man with a baby on his shoulders, they laughed and gestured to the boy
+He ran through the wheat crops and saw a young dark skinned man with a child on his shoulders, they laughed and gestured for the boy to come stay.
 
 but he ran on
 
-He took the mountains two steps at a time, and near the top of one he saw an old women had built an inn where weary travelers could rest, the warm fire inside called to him, 
+He took the mountains two steps at a time, and near the top of one he saw an old women had built an inn where weary travelers could rest, the warm fire inside called to him.
 
-but he ran on 
+but he ran on
 
-and so in no time at all he approached a wide cave at the end of a long road. He entered never breaking stride. An old man
-sat on a broken stump of a tree. He looked up at the young boy and he saw he was blind. Why have you come? The old man said. His voice was a whisper.
+So in no time at all he approached a wide cave at the end of a long road. He
+entered never breaking stride. Hardly visible, the boy could just barely make
+out an old man sitting on a broken stump of a tree some ways in. He looked up at
+the young boy and he saw only a pale grey where iris should be, the old man was
+blind. Why have you come? The old man said. His voice was a whisper.
 
-"I want to know the ending to all stories!" The boy said proudly, knowing he had finally beating his sister at something. 
+"I want to know the ending to all the stories!" The boy said proudly, knowing in his heart that he had finally beat his sister at something.
 
-"I want them laid out before me and analyzed." 
+"I want them laid out before me and analyzed."
 
-The old man nodded once. "I will do that, but first I must hear yours in trade". He offered the boy drink and he drank. He offered the boy sit but he stood.
+The old man nodded once. "I will do that, but first I must hear yours in trade". He offered the boy a drink and he drank. He offered the boy to sit but he stood.
 
-"That will take no time at all" said, and said "I bet, ran and won!" The boy finished with a flourish. 
+"That will take no time at all" said, and said "I bet, ran and won!" The boy finished with a flourish.
 
-"and now I'll have whats due"
+"and now I'll have what's due"
 
-The old man. Sat, the branches from the old tree now more visible, seemed to cover the cave floor.
-And as the boys eyes adjusted he saw the old man wasn't blind. His eyes
-were all black. His face sagged to one side and his mouth opened. The boy saw
-the man was not old, but young, as if his skin had never seen a sunrise.
+The old man let out a mirthless chuckle. Overhead  the branches from the old tree seemed to stretch out beneath him. And as the boy’s eyes adjusted, he saw the old man wasn't blind. His eyes now a full moon rising, his face slanted, his
+mouth opened. Te saw the man was not old, but young, as if his skin had
+never seen a sunrise.
 
 "That will take no time at all"
 
-The old man said, his voice was endless desert sand rolling.
+He said, and his voice was endless desert sand rolling.
 
 "For there is only one story"
 
-His voice was hallow oak and shattered glass. The boy saw the roots of the tree,
-crawled and covered all the ground beneath him, all the world. The boy turned to
+His voice was hollow oak and shattered glass across bare skin and though the boy had never seen a thing die, he knew the shape it took. So he turned to run and  tripped on a root. He came down hard, his head ringing. He tasted blood and bitter
+green. The boy saw there was no cave, only the canopy of a great tree far above
+him.
+
+Te crawled and covered all the ground beneath him, all the world. The boy turned to
 run, the cave exit was no door, but a maw, it's sharp white teeth
 reflected only darkness.
 
-The voice was a one voice, then four, then seven then ... The boys heartbeat drowned out everything.
+The voice was a one voice, then four, then seven then ... Te’s  heartbeat drowned out everything.
 
 "and there is only one ending"
 
-Much, Much later a women approached the same cave. Her steps touched the
-whole of the ground and though she was old, she seemed to slide, to dance upon the
-earth. In the cave there was an old man by a gentle fire. He bid her sit and share wine
-but she took water first. Then stories were told long into the night. As the
-fire faded and the dark inched close, the old man was now a wolf and she
-laid her head upon his fur and though it gave no warmth, she could hear in him
-the heartbeat of the world as she drifted into sleep.
+Much, much later a woman approached the same cave. Her steps touched the whole
+of the ground and though she was old, she seemed to slide, to dance upon the
+earth. In the cave there was an old man by a gentle fire. He bid her sit and
+share wine but she took water first. With a sly smile she told him of rivers
+embrace and beating drums. She spoke of soil, toil and trough and the joy her
+son brought. She spoke of far off lands and old forgotten ways. As the fire faded and the dark inched close, the old man was now a wolf and she laid her head upon his fur and though it gave no warmth, she could hear in him the heartbeat of the world as she drifted into sleep.
+
 
 ----
 
@@ -114,6 +117,8 @@ Enough of warnings, we look forward now, shadows on the horizon, drums in the
 deep.
 
 -----------
+
+## Intro
 
 The main theory is that Auri is Shaping Kvothes life from those of Lanre and Selitos. 
 
@@ -529,8 +534,11 @@ names, then follow me deeper down the rabbit hole and see... TODO
 
 ## In a box
 
-I see no mention of the candle after he receives it from auri. As far as I can
-tell kvothe puts the candle in his box in Ankers. TWMF:50:358
+I see no mention of the candle after he receives it from auri. 
+
+> I came to my feet and she held out something wrapped in a piece of cloth. It was a thick candle that smelled of lavender. “What’s inside of it?” I asked. “Happy dreams,” she said. “I put them there for you.”
+
+As far as I can tell kvothe puts the candle in his box in Ankers. TWMF:50:358
 
 > I finished loading my travelsack, then packed everything else into the trunk that sat at the foot of my bed. A few worn tools, a broken piece of slate I used for ciphering, a small wooden box with the handful of small treasures Auri had given me....
 
@@ -543,10 +551,10 @@ And you should also buy all the Cool Worldbuilders KingKiller stuff, which reall
 
 ## Credits
 
-Though the idea is mine and I take full responsible for any undo confusion, I
-had help in piecing together bits here and there about the story from.
+Though the idea here and what follows is mine, I had plenty of help and encouragement. 
 
-* u/mattytangle, for deep knowing
+* u/mattytangle, for deep knowing. If your a fan well deep well written theory crafting his [blog](mattytangle.co.uk/) is the place for you, you can start with this post which talks about [candles](http://mattytangle.co.uk/tomes/under-lying-principals/the-chandlery/)
+
 * u/rhinatamorie, for kind words
 * u/throwawaybreaks, for listening
 * Yamus (on KKC discord), for careful criticism
@@ -555,6 +563,7 @@ had help in piecing together bits here and there about the story from.
 * u/biologin for the Rothuss alchemy quotes, and likely other bits i picked up
 * u/mastersam for insights
 * u/opensourcespace whose work I never read, but likely who footsteps we all [follow](https://www.reddit.com/r/KingkillerChronicle/comments/a5h24v/is_kvothe_fulcrum_from_tsrost/ebpk6xz/?utm_source=share&utm_medium=web2x&context=3)
+* elle, KKC discord, for encouragement and critic
 
 They have some great KKC theories out there you should check out.
 
