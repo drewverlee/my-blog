@@ -8,8 +8,8 @@
 
 What follows in the section "Crafts" is a summary of how Fae magic works. 
 
-In the next section "Shadows on the wall", will do a partial re-read of "The
-lighting Tree", to understand the conclusions we drew and more context. The last
+In the next section "Dark Dealings", will do a partial re-read of "The
+Lighting Tree", to understand the conclusions we drew and more context. The last
 section, "Dancing Lessons" will dive deeper and I will speculate on what
 happened outside the story were shown. The Lighting Tree is required reading for
 this to make sense. I'll site just the page number if its from the TLT and
@@ -62,10 +62,9 @@ leave it out of the table.
 3. The third row is based on speculation, which is explained below.
 4. The first two, glammourie and grammarie are directly supported in the narrative by Bast and Felurian.
 
-### Shadows on the wall
+### Dark Dealings
 
-In part this will be a partial re-read of the Lighting tree with me highlighting parts. Bast will be 
-our main character, explaining the ins and outs of his craft.
+In part this will be a partial re-read of the Lighting tree with me highlighting parts. Bast will be our main character, explaining the ins and outs of his craft.
 
 <img src="/img/bastvine.jpg" height="500px" width="350px">
 

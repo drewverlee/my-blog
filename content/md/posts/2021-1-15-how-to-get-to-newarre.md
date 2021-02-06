@@ -8,7 +8,7 @@
 The theory is that Newarre is near Trebon and the Mauthen farm. The idea relies
 on several elements that will discuss individually, either here, or in other
 posts which I'll link to. The bulk of this Theory is a piece of another titled
-[Warren Widdershins Ways and Woes]("/posts-output/2021-1-15-bone-and-crystal")
+[Warren Widdershins Ways and Woes](/posts-output/2021-1-15-bone-and-crystal)
 in which Auri gets the ingredients for a candle. To get those ingredients, she
 travels to the Mauthen Farm and the Williams Farm. The Williams are farmers live in Newarre,
 which is just some miles across the stream from the Mauthen Farm. Or so this
@@ -30,7 +30,7 @@ So I'm going to break this into three parts:
 # Auri visits Newarre and Mauthen Farm
 
 First, I cover how she gets there in [Ways to safe
-places]("https://drewverlee.github.io/posts-output/2021-1-23-ways-to-safe-places").
+places](/posts-output/2021-1-23-ways-to-safe-places).
 So either read that first, or accept that she can move around fast. What were
 going to do here is cover similarities between the places Auri visits in the
 SROST and the Williams Farm in Newarre followed by the Mauthen Farm.
@@ -426,25 +426,37 @@ correct. Red is where a more specific guess based on the text and what I think
 is more likely.
 
 <img src="/img/map-with-newarre.jpg" height="350px" width="350px">
- 
+
+# End
 
 
 ## Credits
 
-The ideas right are wrong, seem largely mine. But I want to thank you for reading and for any
-feedback. Additional extra thanks to Yamus (KKC discord).
+The ideas right are wrong, seem largely mine. But I want to thank you for reading and for any feedback.
 
 ## Rights
 
-The Barrow hill picture is by [Xelgot](https://www.deviantart.com/xelgot/art/Barrow-Hill-441171153) 
-Kvothe and the horse from [here](https://www.deviantart.com/dejan-delic/art/Riding-Keth-Selhan-436853308)
+* The Barrow hill picture is by [Xelgot](https://www.deviantart.com/xelgot/art/Barrow-Hill-441171153) 
+* Kvothe and the horse from [here](https://www.deviantart.com/dejan-delic/art/Riding-Keth-Selhan-436853308)
 
 
-# End
+# Other
 
 Thanks for reading! 
 
-Here is a bonus section:
+Here is are some bonus sections that are a bit rougher and more abstract.
+
+## not nowhere
+
+Pat is to clever by half. His best tricks are to set up at least three meanings to a phrase or comment. Newarre is no different. The careful observer will note it's similarity to "nowhere". But a madman will note
+it's similarity to _new warren_. 
+
+I'm not going to flush the meaning of that here, but I will suggest you ponder the word _warren_. It's use
+in the poem at the start of the post that should have lead you here: [Warren Windershins Ways and Woes](2021-1-22-bone-and-crystal). I'll even link the passage in the book that mentions warrens. TMWF:73:494:
+
+> But Denna’s version was different. In her song, Lanre was painted in tragic tones, a hero wrongly
+> used. Selitos’ words were cruel and biting, Myr Tariniel a *warren* that was better for the purifying
+> fire. Lanre was no traitor, but a fallen hero.
 
 ## nowhere at all
 

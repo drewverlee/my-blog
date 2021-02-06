@@ -74,15 +74,19 @@ Anything worthy of even remotely calling a "beard" would take 2 weeks, more
 typically 2-4 months. I suspect much Kvothe stayed much longer, but even this
 modest guess makes Auri's trip plausible.
 
-Finally, we also have visual confirmation that Auri has visited the fae before:
+We also have visual confirmation that Auri has visited the fae before:
 
 <img src="/img/auridance.jpg" height="500px" width="350px">
+
+Finally, I suspect the traveling via the way stones is why Auri is able to have surprisingly fresh lettuce:
+
+> The head of lettuce was surprisingly fresh, and I wondered where she had found it.
 
 ## end
 
 Thanks for reading!
 
-The sections below are a WIP.
+The sections below are a work in progress.
 
 ## Greystones  (WIP)
 

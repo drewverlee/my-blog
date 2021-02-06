@@ -1,6 +1,7 @@
 {:title "Warrens Widdershins Ways and Woes"
  :layout :post
  :klipse {:settings {:codemirror-options-out {:line-numbers false}}}
+ :previews? false
  :date "2021-1-15"
  :tags  ["KingKiller" "Fantasy"]}
  
@@ -20,7 +21,7 @@ _Listen close Ash and Elm_
 
 _Nekkid toes, crooked noes_
 <br>
-_Hallow fallow, butter brine_
+_Hollow fallow, butter brine_
 <br>
 _How mother Rabbit stole time_
 
@@ -30,83 +31,13 @@ In short, this theory will cover Auri's candle making. In long...
 
 The Kingkiller Chronicle's journey is powerful; it moves the heart. It's best if
 you experience it yourself, rather than me rob you of the joy. Journey before
-destination, and all that.
+destination, and all that. In that vein allow me to tell a brief story
+of a [boy who ran](/posts-output/2021-2-6-the-boy-who-ran) too fast. It is only an echo of the
+stories told in Temerant, but hopefully it will dull the ache of waiting
+for more stories from Rothfuss while appropriately setting the tone of the 
+greater story I hope to unfold here.
 
-Allow me to tell a brief story before we set out. It is only an echo of the
-stories told in Temerant, if side stories aren't your fancy then run on! To the _Intro_
-section. 
-
-----
-
-<img src="/img/twlight-reflections.jpeg" height="400px" width="400px">
-
-### The boy who ran
-
-Once long ago, two siblings, Te and Ve, heard a tale of an old wolf who knew how all stories
-end. He lived over the winding river, beyond the last of the wheat crops past
-the tall mountains, in a dark cave. So they made a pact to learn the endings to their favorite fairy stories and sealed it with spit and stone. The boy set out immediately, running, his hair whipping in the wind. The sister stayed, she did not go.
-
-He ran past the winding river and saw a fair lady, her hands behind her back, she gave him an inviting smile...
-
-but he ran on
-
-He ran through the wheat crops and saw a young dark skinned man with a child on his shoulders, they laughed and gestured for the boy to come stay.
-
-but he ran on
-
-He took the mountains two steps at a time, and near the top of one he saw an old women had built an inn where weary travelers could rest, the warm fire inside called to him.
-
-but he ran on
-
-So in no time at all he approached a wide cave at the end of a long road. He
-entered never breaking stride. Hardly visible, the boy could just barely make
-out an old man sitting on a broken stump of a tree some ways in. He looked up at
-the young boy and he saw only a pale grey where iris should be, the old man was
-blind. Why have you come? The old man said. His voice was a whisper.
-
-"I want to know the ending to all the stories!" The boy said proudly, knowing in his heart that he had finally beat his sister at something.
-
-"I want them laid out before me and analyzed."
-
-The old man nodded once. "I will do that, but first I must hear yours in trade". He offered the boy a drink and he drank. He offered the boy to sit but he stood.
-
-"That will take no time at all" said, and said "I bet, ran and won!" The boy finished with a flourish.
-
-"and now I'll have what's due"
-
-The old man let out a mirthless chuckle. Overhead  the branches from the old tree seemed to stretch out beneath him. And as the boy’s eyes adjusted, he saw the old man wasn't blind. His eyes now a full moon rising, his face slanted, his
-mouth opened. Te saw the man was not old, but young, as if his skin had
-never seen a sunrise.
-
-"That will take no time at all"
-
-He said, and his voice was endless desert sand rolling.
-
-"For there is only one story"
-
-His voice was hollow oak and shattered glass across bare skin and though the boy had never seen a thing die, he knew the shape it took. So he turned to run and  tripped on a root. He came down hard, his head ringing. He tasted blood and bitter
-green. The boy saw there was no cave, only the canopy of a great tree far above
-him.
-
-Te crawled and covered all the ground beneath him, all the world. The boy turned to
-run, the cave exit was no door, but a maw, it's sharp white teeth
-reflected only darkness.
-
-The voice was a one voice, then four, then seven then ... Te’s  heartbeat drowned out everything.
-
-"and there is only one ending"
-
-Much, much later a woman approached the same cave. Her steps touched the whole
-of the ground and though she was old, she seemed to slide, to dance upon the
-earth. In the cave there was an old man by a gentle fire. He bid her sit and
-share wine but she took water first. With a sly smile she told him of rivers
-embrace and beating drums. She spoke of soil, toil and trough and the joy her
-son brought. She spoke of far off lands and old forgotten ways. As the fire faded and the dark inched close, the old man was now a wolf and she laid her head upon his fur and though it gave no warmth, she could hear in him the heartbeat of the world as she drifted into sleep.
-
-
-----
-
-So I suggest you read around a *lot* before tackling this. That means all the
+In sort, I suggest you read around a *lot* before tackling this. That means all the
 books a couple times, see the last section "Citations" for a list. It also means
 spending some time on the forums. I'm not suggesting I have the right of things.
 Or all of it. Instead, I'm saying it's a lot more fun to arrive at your own
@@ -120,11 +51,11 @@ deep.
 
 ## Intro
 
-The main theory is that Auri is Shaping Kvothes life from those of Lanre and Selitos. 
-
-To go further, I must be sure you understand as much about the Fae, their magic,
-Waystones and Alchemy as possible. I'll give an overview of the requirements in the next section "A careful
-look" then pick up the main theory thread in the section titled "A humerus Chandelier". 
+The main theory is that Auri is Shaping Kvothes life from those of Lanre and
+Selitos. To go further, I must be sure you understand as much about the Fae,
+their magic, Waystones and Alchemy as possible. I'll give an overview of the
+requirements in the next section "A careful look" then pick up the main theory
+thread in the section titled "A Humerus Chandelier".
 
 # A careful look
 
@@ -133,23 +64,23 @@ understand the craft she uses to do it. Discussing the means, broadly speaking
 _Fae magic_ and Alchemy. Are topics in there own right and so it's better to
 break them out.
 
-If your not sure how Fae do what they do, then here is a piece on 
-<a href="https://drewverlee.github.io/posts-output/2021-1-22-bitter-brew"> Fae
-Magic</a>, where we learn from Bast and observe him working his craft in the
-book "The Lighting Tree". Similarly, you will need to have some understanding of [Alchemy](https://drewverlee.github.io/posts-output/2021-1-23-alchemy) in order Auri's candle making.
+If your not sure how Fae do what they do, then here is a piece on [Fae
+magic](/posts-output/2021-1-22-bitter-brew), where we learn from Bast and
+observe him working his craft in the book "The Lighting Tree". Similarly, you
+will need to have some understanding of [Alchemy](/posts-output/2021-1-23-alchemy) in order
+Auri's candle making.
 
 If you find yourself doubting that Auri is really visiting these locations, then
-read <a href="https://drewverlee.github.io/posts-output/2021-1-15-how-to-get-to-newarre">How to get Newarre</a>
-where I isolate the topic. If you doubt that Auri could get there quickly, then read
-<a href="https://drewverlee.github.io/posts-output/2021-1-23-ways-to-safe-places">Ways to safe places</a>
-
-Each post will try to have summery or conclusion at the top. If you agree with
-it, confidently move on.
+read [How to get to Newarre](/posts-output/2021-1-15-how-to-get-to-newarre)
+where I isolate the topic. If you doubt that Auri could get there quickly, then
+read [Ways to safe places](/posts-output/2021-1-23-ways-to-safe-places). Each
+post will try to have summery or conclusion at the top. If you agree with it,
+confidently move on.
 
 
 # A Humerus Chandelier
 
-<img src="/img/auri_honeycomb_c.jpg" height="500px" width="350px" align="right">
+<img src="/img/auri_honeycomb_c.jpg" height="500px" width="350px" >
 
 Our theory is that Auri is shaping Kvothe From Lanre and Selitos, who are represented  by two items
 she finds in the Underthing. To clarify, ill be keeping track of the items (what) and who in a table. The starting point,
@@ -205,7 +136,7 @@ in different forms at the end.
 
 # Breaking Bones
 
-<img src="/img/bone.jpg" height="250px" width="250px" align="center" vspace="20px" hspace="20px">
+<img src="/img/bone.jpg" height="250px" width="250px"  vspace="20px" hspace="20px">
 
 In Slow Regard of Silent Things (SROST), Auri finds a bone. SROST:1:24:
 
@@ -229,9 +160,7 @@ at the university, would know this.
 6. In Vintish culture, a bone ring (see "tiny seam" from quote), indicates a profound and lasting debt, which Lanre has for his life returned.
 7. That it's an arm bone, and he was known for his strength of arm.
 
-Fancy that, seven associations.
-
-After retrieving the bone, Auri puts it near some holly, that she has on her.  SROST:1:24:
+Roughly seven associations. After retrieving the bone, Auri puts it near some holly, that she has on her.  SROST:1:24:
 
 > The bone nestled almost indecently close to the holly berry. 
 
@@ -251,7 +180,7 @@ SROST:4:70:
 
 I dive into if this could be the Latantha or the Cthaeh's tree [here](https://drewverlee.github.io/posts-output/2021-1-14-gravetree). In the 
 end I choose the Mauthen Farm. Were going to recap the similarities here, but if you want a more detailed focus look the two locations
-read  [here](https://drewverlee.github.io/posts-output/2021-1-15-how-get-get-to-newarre).
+read  [here](/posts-output/2021-1-15-how-get-get-to-newarre).
 
 ### The Mauthen Farm: Hawks and rabbits
 
@@ -294,7 +223,7 @@ connection is thin here, only that Crystal is similar to glass. What do we
 know about "mountain glass"? However, the connection is immediately strengthened
 as The Crystal is put near an Ciridae, given Selitos was their founder.
 
-<img src="/img/Pairs_Commonwealth_Amyr.webp" height="500px" width="350px" align="right">
+<img src="/img/Pairs_Commonwealth_Amyr.webp" height="400px" width="320px" >
 
 Here are the relevant parts about the Ciridae doll. SROST:1:28
 
@@ -348,8 +277,6 @@ So then, The Lighting Tree.
 
 ---------------------------
 
-<img src="/img/honeytree.jpg" height="500px" width="300px">
-
 That being established, we must review the trade Auri makes for the honey. This happens in three parts:
 
 1. Auri trades for the Nettie's butter & honeycomb for her White Tatted Lace. 
@@ -395,7 +322,6 @@ adventures? Or is this a bobble, a bait, a way to float her down into the
 darkness.
 
 <img src="/img/alice.jpeg" height="500px" width="300px">
-<img src="/img/float.jpeg" height="500px" width="300px">
 
 Finally, What use does our white tatted lace find? TLT:
 
@@ -428,7 +354,7 @@ This is the end of the journey for the cyrstal, the begging of the honeycombs.
     <td>Selitos</td>
     <td>Crystal</td>
     <td>Ciridae & lace</td>
-    <td>HoneyComb & lace</td>
+    <td>Honey & lace</td>
     <td>Lighting Tree</td>
   </tr>
 </table> 
@@ -478,29 +404,7 @@ SROST:10:142:
 > 
 > And all things shook. And all things knew her will. And all things bent to please her.
 
-## All flames are one flame
-
-They are all around
-
-<img src="/img/kcard.webp" height="500px" width="300px">
-
-Some hang brightly above us
-
-<img src="/img/diamond.jpeg" height="500px" width="300px">
-
-Others there only visible if you squint...
-
-<img src="/img/myr.webp" height="500px" width="300px">
-
-and we learn early on to fear the edges of their flicking flame
-
-<img src="/img/whifflescared.jpeg" height="300px" width="300px">
-
-What price would we pay for shadows to be tamed?
-
-----
-
-<img src="/img/foxandhare.jpeg" height="550px" width="350px">
+<img src="/img/foxandhare.jpeg" height="450px" width="300px">
 
 
 _watch carefully daughter hare, hold quiet father fox_
@@ -523,12 +427,13 @@ _then to flesh all things return_
 <img src="/img/book-of-secrets.webp" height="250px" width="250px">
 
 So Auri took some items that I claim are like Selitos and Lanre and traded them
-for some other items and then turned those into a candle which she gives kvothe. What of it? _what does it all mean!_ 
+for some other items and then turned those into a candle which she gives kvothe.
+What of it? _what does it all mean!_
 
-Recall what you now know of the Fae craft and Alchemy. Now set your imagination ablaze!
-
-But if your tired of secrets, or if you feel you know all the stars and their
-names, then follow me deeper down the rabbit hole and see... TODO
+Recall what you now know of the Fae craft and Alchemy. Now set your imagination
+ablaze. But if your tired of secrets, or if you feel you know all the stars and
+their names, then follow me deeper down the rabbit hole and see... _To be
+continued_
 
 # Epilogue
 
@@ -577,19 +482,6 @@ SROST Authors forward
 > If you love words and mysteries and secrets. If you're curious about the Underthing and alchemy. If 
 > if you want to know more about the hidden turnings of my world.... Well, then this book might be for you.
 
-
-## Left over Questions
-
-Here are some questions I jotted down but didn't try to answer which putting this together:
-
-* Is bast somehow the suet?
-* What are the White lace origins?
-* Is Aunt Sellie "ellie"? Elle on gravestone (see card)? A place where no men live?
-* If the laurel tree isn't the borrow, what was the fruit? What does it imply? Is it kvothe's mother?
-* why did auri leave out the camphor, I touch on it  <a href="https://drewverlee.github.io/posts-output/2021-1-24-camphor"> Here</a>, but its thin.
-* Why would crystal and key fuss? What is the key?
-* look into origins of arm bone.
-* A clever reader will notice that SROST is supposedly happen _after_ Denna and Kvothes journey to the Mauthen farm, which would seem to undermine part of my theory. However if you travel further into the theory this will largely be explained through implication. But as of right now, it remains a question.
 
 ## Rights & Art
 

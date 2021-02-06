@@ -14,6 +14,11 @@
 
 "The nine fingered man! The one with the cripple!"
 
+
+
+
+
+
 ----
  
 This post is a continuation of [Shadows on the
@@ -137,9 +142,7 @@ Alice's Adventures in wonderland, by Lewis Caroll
 
 So follow me and Alice [Down, down, down. Would the fall never come to an end?](/post-output/2021-1-28-falling)
 
-
-
 ## Rights & Art
 
 * Auri holding the fulcrum from u/notakruskkrabb posted [here](https://www.reddit.com/r/KingkillerChronicle/comments/epvml8/i_drew_auri_for_my_new_desk_at_work/)
-* all other art is worldbuilers
+* all other art is Worldbuilers
