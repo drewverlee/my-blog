@@ -10,7 +10,7 @@ on several elements that will discuss individually, either here, or in other
 posts which I'll link to. The bulk of this Theory is a piece of another titled
 [Warren Widdershins Ways and Woes](/posts-output/2021-1-15-bone-and-crystal)
 in which Auri gets the ingredients for a candle. To get those ingredients, she
-travels to the Mauthen Farm and the Williams Farm. The Williams are farmers live in Newarre,
+travels to the Mauthen Farm and the Williams Farm. The Williams are farmers who live in Newarre,
 which is just some miles across the stream from the Mauthen Farm. Or so this
 theory goes.
 
@@ -361,7 +361,7 @@ University.
 > “No,” the fat one said. “We’re down from Trebon.”
 
 
-So Trebon, isn't no any official map, so we can't just hope there. Were told you
+So Trebon, isn't on any official map, so we can't just hope there. Were told you
 can reach trebon by the Omethi river upstream of the university by a couple
 days:
 
