@@ -15,10 +15,10 @@ which is just some miles across the stream from the Mauthen Farm. Or so this
 theory goes.
 
  That post isn't written to highlight the locations however, it 
-covers this material, but it doesn't hammer it down like were going to do here.
+covers this material, but it doesn't hammer it down like we're going to do here.
 So I'll be recovering the relevant parts here. In the end, I would like to hear
 your thoughts, the more specific the observation the better. e.g "but old cob
-Prefers a wine from vintas, that suggests there in Vint!". That's something we
+Prefers a wine from Vintas, that suggests they're in Vint!". That's something we
 can all think about and I might be able to address
 
 So I'm going to break this into three parts:
@@ -27,12 +27,12 @@ So I'm going to break this into three parts:
 2. other considerations and counter arguments
 3. Getting to Newarre
 
-# Auri visits Newarre and Mauthen Farm
+# Auri visit's Newarre and Mauthen Farm
 
 First, I cover how she gets there in [Ways to safe
 places](/posts-output/2021-1-23-ways-to-safe-places).
 So either read that first, or accept that she can move around fast. What were
-going to do here is cover similarities between the places Auri visits in the
+going to do here is cover similarities between the places Auri visit's in the
 SROST and the Williams Farm in Newarre followed by the Mauthen Farm.
 
 This requires you to read the chapter "A quite uncommon pleasant place" in
@@ -45,7 +45,7 @@ them.
 
 <img src="/img/farmer.jpg" height="500px" width="350px">
 
-Relationships between the Farm Auri's visits (SROST) and the Williams Farm
+Relationships between the Farm Auri's visit's (SROST) and the Williams Farm
 (TLT):
 
 * The girl that see's Auri with her serious eye's is Nettie's daughter Tess.
@@ -53,24 +53,24 @@ Relationships between the Farm Auri's visits (SROST) and the Williams Farm
 * Nettie has a trio of Goat's, Auri meets one or a relative.
 * The honey that Auri takes is from Nettie, who has bee hives and also uses it
   for candles.
-* The farmhouse Auri visits has a bearskin upon a rack to cure and Rikes father
+* The farmhouse Auri visit's has a bearskin upon a rack to cure and Rikes father
   Jessom hunts and traps.
 * Both Auri's farmhouse and the Williams have a garden.
 * Both locations have a barn.
 
-In terms of a time frame, Auri visits before Bast, which explains why the tall
+In terms of a time frame, Auri visit's before Bast, which explains why the tall
 barn had fallen into disrepair. The barn Auri sees is stone on the bottom and
-wood on top, which why later when Bast sees it, the roof having rotted away is
-now gaping open.
+wood on top, which why later when Bast sees it, the roof had rotted away is
+and now gaping open.
 
 Note, I have left out some of the symbolic evidence, the Warrens theory, that ties
-the location Auri visits to the Williams Farm even further. We are also ignoring
+the location Auri visit's to the Williams Farm even further. We are also ignoring
 the narrative that would explain how and why because it would distract
 from the overwhelming physical evidence. There are around *10* similarities here.
 
 The Williams Farm is actually the second stop on Auri's trip. We started there
 because there is more evidence. Here first stop, I'll now try to convince you is
-the Mauthen farm. In order to get to get their auri has to cross a stream:
+the Mauthen farm. In order to get to get their Auri has to cross a stream:
 
 > Later still, Auri crossed a creek she’d never seen before and was surprised to
 > find a tiny farmhouse tucked among the trees.
@@ -90,7 +90,7 @@ because of those damn... _pegs_.
 
 I want to underline that I suspected the Mauthen Farm was the GraveYard were
 about to discuss before I saw this. I considered the graveyard could be the
-Haert or The Cthaeh's tree. But it isn't either, its the Mauthen Farm. Discussed
+Haert or The Cthaeh's tree. But it isn't either, it's the Mauthen Farm. Discussed
 in part, in a chapter of the Name of the wind, called WayStone. But Pat's hint
 dropping in the chapters doesn't stop there, recall that the chapter in SROS
 that were discussing is called
@@ -102,7 +102,7 @@ she found
 
 Qui*te* is often confused with Qui*et*. Another gentle nod from our author. 
 
-But Let's continue on, and return to Mauthen Farm and compare it to the graveyard auri visits:
+But Let's continue on, and return to Mauthen Farm and compare it to the graveyard Auri visit's:
 
 ## Mauthen Farm / Barrow Hill 
 
@@ -112,24 +112,24 @@ But Let's continue on, and return to Mauthen Farm and compare it to the graveyar
 You should see Chapter seventy-two in NOTW and some of the following chapters
 for reference.
 
-Here are the ways in which the Mauthen Farm is like the graveyard Auri visits in
+Here are the ways in which the Mauthen Farm is like the graveyard Auri visit's in
 chapter in SROST chapter "A Quite Uncommon Place":
 
-* Auri visits a graveyard, The Barrows/Mauthen Farm are a grave/bone yard as the
+* Auri visit's a graveyard, The Barrows/Mauthen Farm are a grave/bone yard as the
   pig farmer mentions the Mathen's dug up bones.
 * Auri finds pine cones in the area, The Mauthen Farm has pine trees which could
   leave them.
 * The Mauthen Farm is said to have a "stone outcropping", which might be
   gravestones Auri sees.
 * They both have mushrooms.
-* The monument auri sees could be the Borrow itself. Note, a monumnnt can refer
+* The monument Auri sees could be the Borrow it'self. Note, a monumnnt can refer
   to _a statue or other structure placed by or over a grave in memory o the
   dead_
 * The Iron fence from the graveyard could be the Iron Wheel in Town near the
   farm
 * 
 
-This is less direct evidence then we got for the Williams Farm. Lets consider
+This is less direct evidence than we got for the Williams Farm. Let's consider
 some speculative and metaphorical evidence before going on:
 
 * The leaf Auri breaths on could be the one Kvothe swallows.
@@ -139,12 +139,12 @@ some speculative and metaphorical evidence before going on:
   rose.
 
 Those are some strong connections and some weaker ones. As it stands however,
-compares to other locations in the book, Its far more likely to be the Mauthen
+compares to other locations in the book, It's far more likely to be the Mauthen
 farm.
 
 ## Listen three times.
 
-In what I can assume is Pat being awful clever, were given a couple hints via wordplay that likely have been
+In what I can assume is Pat being awful clever, were given a couple of hints via wordplay that likely have been
 remarked upon but not with supporting evidence. 
 
 Less easily spotted is the double meaning to _peg_. 
@@ -168,16 +168,16 @@ describe the location. However, it might have slipped your attention that it's m
 
 > She makes up an excuse to wander around the middle of nowhere with you for a couple of days....”
 
-Listen three times, Newaree is near Trebon. 
+Listen three times, Newarre is near Trebon. 
 
 
 ## Other considerations & Counter arguments
 
-So then, I purpose that Newarre is in the Commonwealth and its near Trebon. Will
+So then, I purpose that Newarre is in the Commonwealth and it's near Trebon. Will
 be more specific later, but first lets address some counter arguments and
 preexisting works and see if anything blows a hole in this idea.
 
-One of the more cited pieces on Newarre is this post in 2012 on [tor](https://www.tor.com/2012/05/10/rothfuss-reread-speculative-summary-10-the-road-to-newarre/). Where the author says its conclusive and no one has challenged it. 
+One of the more cited pieces on Newarre is this post in 2012 on [tor](https://www.tor.com/2012/05/10/rothfuss-reread-speculative-summary-10-the-road-to-newarre/). Where the author says it's conclusive and no one has challenged it. 
 
 I'll be going through this piece by piece and adding commentary. the pattern will be:
 
@@ -205,7 +205,7 @@ them down.
  1. Everything is west of the Stormwal Mountains. However The mountains could be
  the Six Sisters if the Skrall are coming from the Eld. Which is how Kvothe gets
  into the Fae. Also kvothe says "this far west". If were going off 4 corners
- map, the Vintas anything BUT far _west_. Its far _east_.
+ map, the Vintas anything BUT far _west_. It's far _east_.
 
 
 > C12VT in Thread 1 pointed out this suggests a far western location, but I
@@ -213,7 +213,7 @@ them down.
 > west of a mountain range (or that the mountain range is westerly), rather than
 > on the other side of the continent.
 
-Someone suggests its far western, which is good for my theory. I can't find the comment there referencing though.
+Someone suggests it's far western, which is good for my theory. I can't find the comment there referencing though.
 
 > This leaves us with three countries that border a sizable mountain range:
 > Ceald, Modeg and Vintas.
@@ -247,14 +247,14 @@ agreed
 This is strong evidence they are in land control by the king of Vint. But where?
 The king of vint could have conquered lands between when kote tells his story
 and when the map and younger story frame happened. I admit it's unlikely, but a
-lot of unlikely this happen thats why its a story.
+lot of unlikely this happen thats why it's a story.
 
 > Next, Bast has on his shelf “[r]ings of horn and leather and woven grass”
 > (WMF, 985). Coincidentally, those are the exact three examples used by Bredon
 > to describe how the common folk (presumably of Vintas) use rings. (WMF, 444).
 > […]
 
-Its just as likely that the Vintas people copied the fae. 
+It's just as likely that the Vintas people copied the fae. 
 
 >  Now why I believe Newarre is on the Southern edge of the Eld. This is going
 > to be accomplished by a curious triangulation.
@@ -289,7 +289,7 @@ A point in favor of Trebon!
 > Kingdoms, but quite close to the Aturan Empire. It also is fairly west of the
 > Stormwal Mountains.
 
-in an area controlled by vintas, likely so. near atur, tinue and eld? i don't
+in an area controlled by Vintas, likely so. near atur, tinue and eld? i don't
 see why that would have to be.
 
 The strongest evidence against it is concerning the currency. Which As i stated
@@ -308,11 +308,11 @@ Ben
 > afraid of at night in Vintas then?” “The Fae,” my mother said. My father spoke
 > at the same time. “Draugar.”
 
-Their afraid of Demons in Newaree. Which would put them close to Atur. While not
-_in_ Atur, Trebon and likely Newaree is close enough to it to pick up some echos
-of it. Especially sense Atur controlled those lands in the past.
+Their afraid of Demons in Newarre. Which would put them close to Atur. While not
+_in_ Atur, Trebon and likely Newarre is close enough to it to pick up some echos
+of it. Especially since Atur controlled those lands in the past.
 
-Another issue is that one of the soliders colors are of the Maer's house.
+Another issue is that one of the soldiers colors are of the Maer's house.
 
 > There is supporting evidence. One is that the soldiers colors are of the maers
 > house.
@@ -333,7 +333,7 @@ blue and white
 > They wore the Maer ’s colors but beneath their sapphire and ivory 
 
 fair enough, they are wearing the maers colors. This likely means the are the
-Maer's men. This could mean Newaree is likely near or in land the Maer controls.
+Maer's men. This could mean Newarre is likely near or in land the Maer controls.
 Given there is something of a succession war going on in the background of the
 story.
 
@@ -343,7 +343,7 @@ story.
 <img src="/img/kvothehorse.jpeg" height="300px" width="450px">
 
 So then, where is Newarre? If were right, this is the easy part. First we get to
-Trebon, then Mauthen farm and follow it towards the stream and assume its some
+Trebon, then Mauthen farm and follow it towards the stream and assume it's some
 distance beyond that. Feel free to skip to the map a the bottom as this is
 mostly book keeping. All of this is from NOTW chapters 70 onward.
 
@@ -367,7 +367,7 @@ days:
 
 > “How far is it to Trebon?” I asked. “Upriver? A couple days.”
 
-The road must wind a bit more then the river, as its longer by road:
+The road must wind a bit more then the river, as it's longer by road:
 
 > “I asked how far,” she snapped at him. “Is it longer than the riverway?”
 
@@ -430,7 +430,7 @@ is more likely.
 # End
 
 
-## Credits
+## Credit's
 
 The ideas right are wrong, seem largely mine. But I want to thank you for reading and for any feedback.
 
@@ -469,7 +469,7 @@ Two visitors that fit the descriptions of Simmon and Wil visit the Inn.
 
 >  Two young men, one sandy-haired, one dark, well dressed and well-spoken.
 
-But that's not where its stops, the sandy haired one recognizes kvothe when he heard him sing
+But that's not where it's stops, the sandy haired one recognizes kvothe when he heard him sing
 
 > “Kvothe the Bloodless.” The man pressed ahead with the dogged persistence of
 > the inebriated. “You looked familiar, but I couldn’t finger it.” He smiled
