@@ -8,7 +8,7 @@
 
 The theory is that Auri can use Greystones to travel and she does so in the SROST
 to visit the Mauthen farm. Comparing the Mauthen farm to the location she visits is covered [How to
-get to Newarre ](/posts-output/2021-1-23-how-toget-to-newarre) and what she does there
+get to Newarre ](/posts-output/2021-1-23-how-to-get-to-newarre) and what she does there
 is covered in [Warren Widdershins Ways and
 Woes](/posts-output/2021-1-15-bone-and-crystal). 
 
