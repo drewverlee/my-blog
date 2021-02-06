@@ -23,7 +23,7 @@ can all think about and I might be able to address
 
 So I'm going to break this into three parts:
 
-1. Auri's visiting the Mauthen Farm and then Newarre
+1. Auri visiting the Mauthen Farm and then Newarre
 2. other considerations and counter arguments
 3. Getting to Newarre
 
@@ -31,12 +31,12 @@ So I'm going to break this into three parts:
 
 First, I cover how she gets there in [Ways to safe
 places](/posts-output/2021-1-23-ways-to-safe-places).
-So either read that first, or accept that she can move around fast. What were
+So either read that first or accept that she can move around fast. What were
 going to do here is cover similarities between the places Auri visit's in the
 SROST and the Williams Farm in Newarre followed by the Mauthen Farm.
 
 This requires you to read the chapter "A quite uncommon pleasant place" in
-SROST. and pages 766 to 771 in TLT. pulling direct references would become
+SROST. and pages 766 to 771 in TLT. Pulling direct references would become
 tiresome quickly for you as it would be nearly everything between those pages
 and you wouldn't have the narrative to help. So I'm just going to bullet point
 them.
@@ -45,22 +45,22 @@ them.
 
 <img src="/img/farmer.jpg" height="500px" width="350px">
 
-Relationships between the Farm Auri's visit's (SROST) and the Williams Farm
+Relationships between the Farm Auri's visit (SROST) and the Williams Farm
 (TLT):
 
-* The girl that see's Auri with her serious eye's is Nettie's daughter Tess.
+* The girl that sees Auri with her serious eyes is Nettie's daughter Tess.
 * The same dog bay's at Auri and Bast
 * Nettie has a trio of Goat's, Auri meets one or a relative.
 * The honey that Auri takes is from Nettie, who has bee hives and also uses it
   for candles.
-* The farmhouse Auri visit's has a bearskin upon a rack to cure and Rikes father
+* The farmhouse Auri visits has a bearskin upon a rack to cure and Rikes father
   Jessom hunts and traps.
-* Both Auri's farmhouse and the Williams have a garden.
+* Both the farmhouse Auri visits farmhouse and the Williams have a garden.
 * Both locations have a barn.
 
 In terms of a time frame, Auri visit's before Bast, which explains why the tall
 barn had fallen into disrepair. The barn Auri sees is stone on the bottom and
-wood on top, which why later when Bast sees it, the roof had rotted away is
+wood on top, which is why later when Bast sees it, the roof had rotted away is
 and now gaping open.
 
 Note, I have left out some of the symbolic evidence, the Warrens theory, that ties
@@ -122,7 +122,7 @@ chapter in SROST chapter "A Quite Uncommon Place":
 * The Mauthen Farm is said to have a "stone outcropping", which might be
   gravestones Auri sees.
 * They both have mushrooms.
-* The monument Auri sees could be the Borrow it'self. Note, a monumnnt can refer
+* The monument Auri sees could be the Borrow itself. Note, a monumnnt can refer
   to _a statue or other structure placed by or over a grave in memory o the
   dead_
 * The Iron fence from the graveyard could be the Iron Wheel in Town near the
@@ -174,7 +174,7 @@ Listen three times, Newarre is near Trebon.
 ## Other considerations & Counter arguments
 
 So then, I purpose that Newarre is in the Commonwealth and it's near Trebon. Will
-be more specific later, but first lets address some counter arguments and
+be more specific later, but first, let us address some counter-arguments and
 preexisting works and see if anything blows a hole in this idea.
 
 One of the more cited pieces on Newarre is this post in 2012 on [tor](https://www.tor.com/2012/05/10/rothfuss-reread-speculative-summary-10-the-road-to-newarre/). Where the author says it's conclusive and no one has challenged it. 
@@ -202,7 +202,7 @@ them down.
 > western shore (and Newarre is clearly not a port community) and none in Yll
 > appear to run north-south.
  
- 1. Everything is west of the Stormwal Mountains. However The mountains could be
+ 1. Everything is west of the Stormwal Mountains. However, The mountains could be
  the Six Sisters if the Skrall are coming from the Eld. Which is how Kvothe gets
  into the Fae. Also kvothe says "this far west". If were going off 4 corners
  map, the Vintas anything BUT far _west_. It's far _east_.
@@ -308,7 +308,7 @@ Ben
 > afraid of at night in Vintas then?” “The Fae,” my mother said. My father spoke
 > at the same time. “Draugar.”
 
-Their afraid of Demons in Newarre. Which would put them close to Atur. While not
+They are afraid of Demons in Newarre. Which would put them close to Atur. While not
 _in_ Atur, Trebon and likely Newarre is close enough to it to pick up some echos
 of it. Especially since Atur controlled those lands in the past.
 
@@ -320,7 +320,7 @@ Another issue is that one of the soldiers colors are of the Maer's house.
 Ok. They don't mention the colors so lets go find them.
 
 ----
-It's _not_ at the start of the series when chronicler is peacefully robbed.
+It's _not_ at the start of the series when Chronicler is peacefully robbed.
 
 Likely there referring to this near the end of NOTW:
 
@@ -342,10 +342,10 @@ story.
 
 <img src="/img/kvothehorse.jpeg" height="300px" width="450px">
 
-So then, where is Newarre? If were right, this is the easy part. First we get to
+So then, where is Newarre? If we're right, this is the easy part. First, we get to
 Trebon, then Mauthen farm and follow it towards the stream and assume it's some
 distance beyond that. Feel free to skip to the map a the bottom as this is
-mostly book keeping. All of this is from NOTW chapters 70 onward.
+mostly book-keeping. All of this is from NOTW chapters 70 onward.
 
 Kvothe starts from dockside inn. Somewhere near the Omethi river and the
 University.
@@ -362,12 +362,12 @@ University.
 
 
 So Trebon, isn't no any official map, so we can't just hope there. Were told you
-can reach trebon by the omethi river upstream of the university by a couple
+can reach trebon by the Omethi river upstream of the university by a couple
 days:
 
 > “How far is it to Trebon?” I asked. “Upriver? A couple days.”
 
-The road must wind a bit more then the river, as it's longer by road:
+The road must wind a bit more than the river, as it's longer by road:
 
 > “I asked how far,” she snapped at him. “Is it longer than the riverway?”
 
@@ -378,7 +378,7 @@ A league: 2-3.5 miles, that information doesn't seem to help much because no map
 has a scale to speak of. Nor likely could we trust one.
 
 Kvothe tells the tinker, who he wouldn't lie to, that he did travel about 70
-miles. We assume this leads him close to the omethi, but which side. It's not
+miles. We assume this leads him close to the Omethi, but which side. It's not
 clear. But i'm guessing east side, given there is more land there. On the way
 back he asks people if there are headed up Imre way, which could imply on Imre
 side.
