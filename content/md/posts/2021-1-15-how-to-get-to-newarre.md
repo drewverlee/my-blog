@@ -617,17 +617,14 @@ agreed
 >Chronicler carries a “whole silver talent in a jar of ink,” but he travels
 >extensively and, as he noted, it’s more a “luck piece” (NotW, 20-21).
 
-
-This is strong evidence they are in land control by the king of Vint. But what does that include in Kotes timeline?
-The king of Vint could have conquered lands between when kote tells his story
-and when the map and younger story frame happened. I cover this in Coins and Colors
+I cover this in Coins and Colors
 
 > Next, Bast has on his shelf “[r]ings of horn and leather and woven grass”
 > (WMF, 985). Coincidentally, those are the exact three examples used by Bredon
 > to describe how the common folk (presumably of Vintas) use rings. (WMF, 444).
 > […]
 
-It's just as likely that the Vintas people copied the Fae. I cover this more in Rings and Wings.
+I cover this more in Rings and Wings.
 
 >  Now why I believe Newarre is on the Southern edge of the Eld. This is going
 > to be accomplished by a curious triangulation.
@@ -638,7 +635,7 @@ It's just as likely that the Vintas people copied the Fae. I cover this more in 
 > This implies that they are currently somewhere close enough to Tinue for that
 > expression to be literally askable.
 
-No, it doesn't. "How is the road to tinue", is likely code phrase. I cover this briefly in Roads and Codes.
+I cover this in Roads and Codes.
 
 >  Second, when Kvothe fakes having a bum knee in the beginning of NotW, he
 >  mentions that he got the “wound” “on my way through the Eld three summers
