@@ -498,6 +498,9 @@ next.
 
 ## Roads and Codes
 
+<img src="/img/kote-nameless.jpg" height="400px" width="280px">
+
+
 Early on in their meeting, Kvothe asks Chronicler about the Road to Tinuë? NOTW:
 
 > “Before we discuss the possibility that you’ve addled your wits with that crack to the head, tell me, how is the road to Tinuë?”
