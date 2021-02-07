@@ -8,24 +8,25 @@
 
 The theory is that Newarre is near Trebon and the Mauthen farm. The idea relies
 on several elements that will discuss individually, either here, or in other
-posts which I'll link to. The bulk of this Theory is a piece of another titled
+posts which I'll link to. The bulk of this theory is a piece of another titled
 [Warren Widdershins Ways and Woes](/posts-output/2021-1-15-bone-and-crystal)
 in which Auri gets the ingredients for a candle. To get those ingredients, she
 travels to the Mauthen Farm and the Williams Farm. The Williams are farmers who live in Newarre,
 which is just some miles across the stream from the Mauthen Farm.
 
-That post isn't written to highlight the locations however, it 
-covers this material, but it doesn't hammer it down like we're going to do here.
-So I'll be recovering the relevant parts here. In the end, I would like to hear
-your thoughts, the more specific the observation the better. e.g "but old cob
-Prefers a wine from Vintas, that suggests they're in Vint!". That's something we
-can all think about and I might be able to address
+That post isn't written to highlight the locations however, it covers this
+material, but it doesn't hammer it down like we're going to do here. In the end,
+I would like to hear your thoughts, the more specific the observation the
+better. e.g "but old cob prefers a wine from Vintas, that suggests they're in
+Vint!". That's something we can all think about and I might be able to address.
 
-So I'm going to break this into several parts
+So I'm going to break this into several parts:
 
 1. Auri visiting the Mauthen Farm and then Newarre
-2. Other considerations and counter arguments
-3. Getting to Newarre
+2. listening to the Author
+3. Maps
+4. Other considerations and counter arguments
+5. Getting to Newarre
 
 # Auri visit's Newarre and Mauthen Farm
 
@@ -33,7 +34,7 @@ First, I cover how she gets there in [Ways to safe
 places](/posts-output/2021-1-23-ways-to-safe-places).
 So either read that first or accept that she can move around fast. What were
 going to do here is cover similarities between the places Auri visit's in the
-SROST and the Williams Farm in Newarre followed by the Mauthen Farm.
+SROST and the Williams Farm in Newarre (from TLT) followed by the Mauthen Farm.
 
 This requires you to read the chapter "A quite uncommon pleasant place" in
 SROST. and pages 766 to 771 in TLT. Pulling direct references would become
@@ -69,7 +70,7 @@ the narrative that would explain how and why because it would distract
 from the overwhelming physical evidence. There are around *10* similarities here.
 
 The Williams Farm is actually the second stop on Auri's trip. We started there
-because there is more evidence. Here first stop, I'll now try to convince you is
+because there is more evidence. Her first stop, I'll now try to convince you is
 the Mauthen farm. In order to get to get their Auri has to cross a stream:
 
 > Later still, Auri crossed a creek she’d never seen before and was surprised to
@@ -91,16 +92,14 @@ because of those damn... _pegs_.
 I want to underline that I suspected the Mauthen Farm was the GraveYard were
 about to discuss before I saw this. I considered the graveyard could be the
 Haert or The Cthaeh's tree. But it isn't either, it's the Mauthen Farm. Discussed
-in part, in a chapter of the Name of the wind, called WayStone. But Pat's hint
+in part, in a chapter of the Name of the wind, called Waystone. But Pat's hint
 dropping in the chapters doesn't stop there, recall that the chapter in SROS
-that were discussing is called
-
-A Quite Uncommon Pleasant Place. This refers to the second part of her Journey to Newarre. Which
+that were discussing is called "A Quite Uncommon Pleasant Place". This refers to the second part of her Journey to Newarre. Which
 she found 
 
 > Surprised by pleased. It was a seemly place. 
 
-Qui*te* is often confused with Qui*et*. Another gentle nod from our author. 
+Qui*te* is often confused with Qui*et*. Another gentle nod from our author referencing Kote's silence. 
 
 But Let's continue on, and return to Mauthen Farm and compare it to the graveyard Auri visit's:
 
@@ -118,12 +117,12 @@ chapter in SROST chapter "A Quite Uncommon Place":
 * Auri visit's a graveyard, The Barrows/Mauthen Farm are a grave/bone yard as the
   pig farmer mentions the Mathen's dug up bones.
 * Auri finds pine cones in the area, The Mauthen Farm has pine trees which could
-  leave them.
+  drop them.
 * The Mauthen Farm is said to have a "stone outcropping", which might be
   gravestones Auri sees.
 * They both have mushrooms.
 * The monument Auri sees could be the Borrow itself. Note, a monumnnt can refer
-  to _a statue or other structure placed by or over a grave in memory o the
+  to a statue or other structure placed by or over a grave in memory o the
   dead_
 * The Iron fence from the graveyard could be the Iron Wheel in Town near the
   farm
@@ -135,11 +134,11 @@ some speculative and metaphorical evidence before going on:
 * The leaf Auri breaths on could be the one Kvothe swallows.
 * The graveyard Ivy could be how The Denner Tree's near the farm make addicts
   teeth white.
-* Verinan, who kvothe compares to a _Verinan_ red flower, could be the graveyard
-  rose.
+* Verinan, who kvothe compares to a _Verinan_, a red flower, and could be the graveyard's
+  roses.
 
 Those are some strong connections and some weaker ones. As it stands however,
-compares to other locations in the book, It's far more likely to be the Mauthen
+compared to other locations in the book, It's far more likely to be the Mauthen
 farm.
 
 # Listen three times.
@@ -152,7 +151,7 @@ Less easily spotted is the double meaning to _peg_.
 > A peg is a bolt or pin that holds something in place or marks a location. 
 
 A head nod by Pat that this is an important location. More noticeable is the use of the word "nowhere" to
-describe the location. However, it might have slipped your attention that it's mentioned exactly three times
+describe the location. However, it might have slipped your attention that it's mentioned exactly three times in our main series:
 
 1. Were given this hint just a little while before the stream. NOTW:73:562:
 
@@ -170,7 +169,6 @@ describe the location. However, it might have slipped your attention that it's m
 
 Listen three times, Newarre is near Trebon. 
 
-
 # Maps
 
 It might be useful to have one or both maps of the Four Corners at hand. As
@@ -184,9 +182,9 @@ I'll use the old map and old ways are best.
 This section will cover hints we get from Kote's time line that suggest the
 location of Newarre.
 
-1. Rings and Wings  : discussing Bast's rings
+1. Rings and Wings  : covering Bast's rings
 2. Colors and Coins : discussing the colors the soliders wear that visit Newarre
-3. Roads and Codes
+3. Roads and Codes  : suggesting that some interactions and phrases, like water before wine, are codes.
 4. Counter arguments: where I addresses some sorted questions that suggest the location is in Vintas
 
 ## Rings, Wings and the beast within
@@ -200,7 +198,7 @@ the rings that rest on his shelves. TWMF::10
 
 Rings of horn, leather and woven grass. Those particular _kinds_
 of rings however are conspicuously mentioned by another enigma half a world
-away.TMWF::446
+away. TMWF::446
 
 > “That’s true for the most part,” Bredon said. “But the giving of rings goes back quite a ways. The
 > common folk were doing it long before it became a game for the gentry. And while Stapes may
@@ -219,7 +217,7 @@ Bredon conspicuously describes the same kinds rings Bast has in his possession:
 
 It's worth considering here, in a post about the location of Newarre, because
 because were shown that ring giving is a Vintish tradition. Overall this implies
-Bast has a relationship with Vintas, the tradition of rings and it's history or
+Bast has a relationship with Vintas, the tradition of rings, it's history or
 Bredon himself. Bredon says the custom of ring giving goes way back? How far
 back? I think Skarpi tells us of one of the first examples of ring giving, if
 not _the first_. NOTW::198
@@ -247,7 +245,7 @@ Enough that we might see some form of it everywhere. Indeed we see an example fi
 > Fela held out her other hand, and Elodin slid the ring of stone easily onto her finger.
 
 
-<img src="/img/fela.jpg" height="400px" width="225px">
+<img src="/img/fela.jpg" height="400px" width="250px">
 
 
 I also suspect the universities admissions process, of drawing random tiles from
@@ -276,13 +274,13 @@ _black velvet bag_ as well, how delightful unnerving is that? TWMF::390
 > I play a longer, more subtle game.” He began to work the drawstring loose on
 > the *black velvet bag**.
 
-Tak is a beautiful game, for some it's about mastery for others about elegance
-and grace. The materials, rules and names changing from place to place. True
-artist make a game of the game itself, using items of power, prestige layered
-with hidden meaning to up the anti. Indeed some games were played for the
-position of the board and materials itself. I would dearly love to see our Tak
-teacher, use his wolf's head to _beat_ Kvothe in a game, it might improve his
-game a good deal to be humbled.
+Tak is a beautiful game, for some it's about mastery and wealth for others about
+courtly elegance. The materials, rules and names changing from place to place.
+True artist make a game of the game itself, using items of power, prestige
+layered with hidden meaning to up the anti. Indeed some games were played for
+the position of the board and materials itself. I would dearly love to see our
+Tak teacher, use his walking stick's wolf's head (as a capstone) to _beat_
+Kvothe in a game, it might improve his game a good deal to be humbled further.
 
 TWMF:
 
@@ -298,7 +296,7 @@ physical mistreatment but a Tak term used to describe winning the game. HOT:
 
 > The gathered crowd were rapt withal To see the stranger burn.
 
-used in a famous game played in *Abbot's Ford*. However, its bets to be to harsh
+The term used in a famous game played in *Abbot's Ford*. However, its bets to be to harsh
 as you always want your dancing partner to come back.
 
 It's possible if you play enough games you might have get a chance many would dread
@@ -357,7 +355,7 @@ service. TWMF:54:374
 I think it's unlikely Rothfuss would trick us so cheaply by having someone take
 his colors; it would also be very awkward politically. This doesn't necessarily
 mean Newarre is near Severen. This indicates Newarre is accessible to
-Soldiers or deserters of the Maer's army.
+soldiers or deserters of the Maer's army.
 
 When we leave Kote at the end of TMWF, we know there is a war going on. One that
 Kote doesn't approve of, which is evident when he tries to talk the smith's
@@ -366,8 +364,10 @@ apprentice out of joining it. TMWF:2:371
 > “I know how this war started. I know the truth of it. Once you hear that, you
 > won’t be nearly so eager to run off and die fighting in the middle of it.”
 
-(the Peerage). That are dropping off the map. Lets recap the Peerage here,
-though this topic likely needs its own space. Sim gives us a start. NOTW:43:309
+The war was gong on in Kvothe's time-frame as well, only it hadn't come to armies
+marching. A slow secret war where members of the Peerage seemed to be dropping
+off the board. Lets recap the Peerage here, though this topic likely needs its
+own space. Sim gives us a start. NOTW:43:309
 
 > “Actually he’s sixteenth in the peerage,” Sim said matter-of-factly “You’ve
 > got the royal family, the prince regents, Maer Alveron, Duchess Samista,
@@ -379,16 +379,13 @@ though this topic likely needs its own space. Sim gives us a start. NOTW:43:309
 4. Duchess Samista
 5. Aculeus and Meluan Lackless
 
-We know the Maer is taking Meluan to wife, which likely greatly strengths his
+with Barron Jackass a bit further down
+
+We know the Maer is taking Meluan to wife, which greatly strengths his
 position. We also know that some people a bit further down this list between
-Baron Jakins and the throw have meet with some tragic events we can assume are
-likely the part of the Baron's power grab given he owns the Pirate Isles. TWMF:1:944
-
-> “In this and many other things, I aim to disappoint,” I said. “I was sure he’d
-> done it,” Devi continued. “His father ’s barony is called the Pirate Isles. I
-> was sure
-
-and the Surthen family which stood between him and the thrown were lost at Sea. NOT::309
+Baron Jakis and the thrown have meet with some tragic events we can assume are
+likely in part due to the Baron's power grab. The easiest to spot is the tragic
+loss of the Surthen family, who were lost at Sea. NOT::309
 
 > “His father ’s one of the most powerful men in Vintas,” Manet added, then
 > turned to Simmon. “What is he, sixteenth in line to the throne?” “Thirteenth,”
@@ -396,29 +393,38 @@ and the Surthen family which stood between him and the thrown were lost at Sea. 
 > ago. Ambrose won’t shut up about the fact that his father ’s barely a dozen
 > steps from being king.”
 
-The reason for highlighting this because there is a war brewing in the
-background and a war _outright_ in the frame of the story. Power and likely land
-is changing hands. The Maer's reach might be far greater then our maps imply.
+An accident the Baron could likely arrange given turning your navy into pirates
+is just a matter of a wardrobe change and he controls the area around which they
+disappeared. TWMF:1:944
+
+> “In this and many other things, I aim to disappoint,” I said. “I was sure he’d
+> done it,” Devi continued. “His father ’s barony is called the Pirate Isles. I
+> was sure
+
+The reason for highlighting this is because, as suggested earlier, there is a
+war brewing in the background and a war _outright_ in Kote's timeframe.
+Power and likely land is changing hands. The Maer's reach might be far greater
+then our maps imply.
 
 We have further implicit evidence that Newarre is far from the Maer's seat of
-power in Severen. For one, it wouldn't be _terrible Clever_ for Kvothe to hide
+power in Severen. For one, it wouldn't be _terrible clever_ for Kvothe to hide
 near the people who are hunting him. Keep in mind we haven't established the
-Mear put the bounty on Kvothe's head. But we have some hints as to who did. NOTW:2:521
+Maer put the bounty on Kvothe's head. But we have some hints as to who did. NOTW:2:521
 
 > The innkeeper nodded. “Right. So if you were Kvothe, and terrible clever, as
 > you say. And suddenly your head was worth a thousand royals and a duchy to
 > whoever cut it off, what would you do?” The smith’s prentice shook his head
 > and shrugged, plainly at a loss.
 
-Royals are likely the official Currency in Vintas.
+Royals are part of the official currency in Vintas.
 
-<img src="/img/Royals.jpg" height="550px" width="375px">
+<img src="/img/Royals.jpg" height="350px" width="350px">
 
 A Gold Royal is the coin that the smiths apprentice is tempted by. TWMF::483
 
 > These days they hand you over a royal when you sign up. A whole gold royal.”
 
-It's at the coin we see the Bandits stealing from the Maer. TWMF:1:5:
+It's at the coin we see the bandits stealing from the Maer. TWMF:1:5:
 
 > At a rough count, there were over two hundred royals. While I’d never actually
 > held one, I knew a single gold royal was worth eighty bits, almost as much as
@@ -432,22 +438,21 @@ As well as the coin, carried by the solider who beat up Kote. TWMF::898
 > “This is all the money I have on me. I don’t suppose you have enough to break
 > a whole royal, would you?
 
-Both the Maer and the King of Vintas use the Royal. But another hint from Kvothe
-in the reward offered to him. TWMF::521
+Both the Maer and the King of Vintas use the Royal. But there is another hint from Kvothe
+in the reward offered to capture him. TWMF::521
 
 > And suddenly your head was worth a thousand royals and a duchy to whoever cut
 > it off, what would you do?”
 
-So who could or would offer a duchy? We know that Sim's father is a duke and has
+So who could offer a duchy? What culture even used duchies in the first place? We know that Sim's father is a duke and has
 a duchy. NOTW:290
 
 > “Sim’s father holds a duchy in Atur. Good land, but—”
 
-Duke's have duches, but what area has Dukes? Gibea was a Duke and sim grew up
-not far from his lands. So its safe to say Atur.
+Duke's have duches. Gibea was a Duke and Sim grew up not far from his lands. So its safe to say Atur.
 
 This is all strong evidence that the current (_kotes_ timeline) King of Vint is the one who put a
-bounty on Kvothes head. But we don't know who that is. Lets stow this idea for a
+bounty on Kvothes head. How would the King of Vint be offering a Duchy from Atur? Lets stow this idea for a
 moment and touch on one more piece of evidence were given early in the books,
 when Kote suggests the he thinks the mountains have slowed down the Scrael. NOTW::7
 
@@ -462,7 +467,7 @@ travel _far west_. NOTW::228
 > softly.
 
 Severen and Vintas isn't _far west_ compared to most of the rest of the four
-corners. And if the Scrael are coming from the Eld, its very possible Kote is
+corners. If the Scrael are coming from the Eld, its very possible Kote is
 talking about The Six Sisters mountain range.
 
 Time to take off your tin foil hats and put on your thinking caps.
@@ -480,20 +485,20 @@ there in the middle of nowhere.
 
 If it's the current king of Vintas, that put the bounty out, why are the
 soldiers wearing the Maers colors? The obvious answer is that the King has
-brought the Maer into his service as is likely his right. But the soliders claim
+brought the Maer into his service as is likely his right. But the soldiers claim
 to have _just taken_ the Kings coin and they show the it off to prove it. This
 implies they just joined the kings ranks and they were clothed in the Maer's
 colors. So maybe the Maer is the new King of Vintas, but then how is the Maer offering an Aturn
-Dutchy? The answer is simple, there is a war, the Maer now controls Vintias, part of Atur
+Dutchy? The answer is simple, there is a war, the Maer now controls Vintas, part of Atur
 and his reach extends into the Commonwealth. 
 
-The word is on fire, ancient wars are burning bright and somewhere near Trebon
-an inn keeper stars into the night sky and wanders what the winds will bring him
+The world is on fire, ancient wars are burning bright and somewhere near Trebon
+an inn keeper stares into the night sky and wanders what the winds will bring him
 next.
 
 ## Roads and Codes
 
-Early on in there meeting, Kvothe asks Chronicler about the Road to Tinuë? NOTW:
+Early on in their meeting, Kvothe asks Chronicler about the Road to Tinuë? NOTW:
 
 > “Before we discuss the possibility that you’ve addled your wits with that crack to the head, tell me, how is the road to Tinuë?”
 
@@ -508,25 +513,27 @@ he replies more or less that's not going well.
 
 Now, I have theories about that word that would leave you frothing at the mouth
 and tearing our your hair, but I'll contain myself and suggest that the question
-has little to do with the physical "Free city of Tinuë" as displayed on the map.
+has little to do with the physical location of "Free city of Tinuë" as displayed on the map.
 
 Wil remarks that the language of the commonwealth is rich with idioms, and that
 "How is the road to Tinuë" is one of the worst offenders.
 
-Jax Passed through Tinuë, the Lackless once controlled it, Sceop was on his way
-to it and Denna says she has visited it. Tinkers suggest you try there limes
-from there. It once was a shining beacon of _art_ during the reign of _Verian_.
-Once there was a vicious game of *Tak*et played there between a brewer and a
-tanner. The book on Tak is called "The Road to Tinuë: A history of Tak". A
-drunken Tinker might turn our map upside a couple times and wonder if the great
-stone road isn't a _bridge_ of another sort. Lastly, *Tinusa* was one of the eight
-remaining cities in Skarpi's story. Was this the city that remembered the
-Lethani?
+Jax passed through Tinuë, the Lackless once controlled it, Sceop was on his way
+to it and Denna says she has visited it. Tinkers suggest you try their limes. It
+once was a shining beacon of _art_ during the reign of _Verian_. Once there was
+a vicious game of *Tak*et played there between a brewer and a
+tanner played there. The book on Tak is called "The Road to Tinuë: A history of Tak". 
 
-In short, Tinuë is a mystery and it's enough for our purposes here to say it might
-easily refer to something other then the city marked on our map.
+A drunken Tinker might turn our map upside a couple times, let his eyes glaze
+over, and start wonder if the great stone road isn't a _bridge_ of another sort.
+Lastly, *Tinusa* was one of the eight remaining cities in Skarpi's story. Was
+this the city that remembered the Lethani?
 
-For my part, I think Rike in his heart knows the way things are going. TLT:
+In short, Tinuë is a mystery and it's enough for our purposes here to say asking
+about it might mean more then referring to the city on our map. I suspect it's a
+code phrase to see if you understand the hidden turnings of the world. Maybe the
+Chronicler got it right. But it doubt it, for my part, I think Rike in his heart
+knows the way things are going. TLT:
 
 > “Rike.” Bast’s voice held none of the friendly,
 > bantering tone he’d used with the town’s other children. “How’s the road to
@@ -871,6 +878,13 @@ Over all conclusions and tin foil guesses? Well, maybe Kvothe is trapped within
 his sleeping mind, maybe the whole world is. Maybe something has robbed Kvoth of
 his name and history so that even now people who grew up with only remember his a
 story the heard.
+
+## Giving back
+
+If you enjoyed this consider supporting Heifer International, either [directly](https://www.heifer.org/) through [worldbuilers](https://worldbuilders.org/).
+
+A cause which Rothfuss, the orchestrator of all good and bad times had on Temerant, believes in.
+And you should also buy all the cool Worldbuilders KingKiller stuff, which really helps, um, build the world?
 
 ## Rights & Art
 
