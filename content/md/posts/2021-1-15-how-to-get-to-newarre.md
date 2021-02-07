@@ -501,7 +501,7 @@ next.
 <img src="/img/kote-nameless.jpg" height="400px" width="280px">
 
 
-Early on in their meeting, Kvothe asks Chronicler about the Road to Tinuë? NOTW:
+Early on in their meeting, Kvothe asks Chronicler about the Road to Tinuë. NOTW:
 
 > “Before we discuss the possibility that you’ve addled your wits with that crack to the head, tell me, how is the road to Tinuë?”
 
@@ -519,7 +519,8 @@ and tearing our your hair, but I'll contain myself and suggest that the question
 has little to do with the physical location of "Free city of Tinuë" as displayed on the map.
 
 Wil remarks that the language of the commonwealth is rich with idioms, and that
-"How is the road to Tinuë" is one of the worst offenders.
+"How is the road to Tinuë" is one of the worst offenders. Idioms hide secrets in plan sight, 
+and this one is no different. Tinue comes up in the background _alot_:
 
 Jax passed through Tinuë, the Lackless once controlled it, Sceop was on his way
 to it and Denna says she has visited it. Tinkers suggest you try their limes. It
