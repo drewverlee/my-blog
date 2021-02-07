@@ -4,6 +4,7 @@
  :date "2021-1-23"
  :tags  ["KingKiller" "Fantasy"]}
 
+# Intro
 
 The theory is that Newarre is near Trebon and the Mauthen farm. The idea relies
 on several elements that will discuss individually, either here, or in other
@@ -11,17 +12,16 @@ posts which I'll link to. The bulk of this Theory is a piece of another titled
 [Warren Widdershins Ways and Woes](/posts-output/2021-1-15-bone-and-crystal)
 in which Auri gets the ingredients for a candle. To get those ingredients, she
 travels to the Mauthen Farm and the Williams Farm. The Williams are farmers who live in Newarre,
-which is just some miles across the stream from the Mauthen Farm. Or so this
-theory goes.
+which is just some miles across the stream from the Mauthen Farm.
 
- That post isn't written to highlight the locations however, it 
+That post isn't written to highlight the locations however, it 
 covers this material, but it doesn't hammer it down like we're going to do here.
 So I'll be recovering the relevant parts here. In the end, I would like to hear
 your thoughts, the more specific the observation the better. e.g "but old cob
 Prefers a wine from Vintas, that suggests they're in Vint!". That's something we
 can all think about and I might be able to address
 
-So I'm going to break this into three parts:
+So I'm going to break this into several parts
 
 1. Auri visiting the Mauthen Farm and then Newarre
 2. other considerations and counter arguments
@@ -142,7 +142,7 @@ Those are some strong connections and some weaker ones. As it stands however,
 compares to other locations in the book, It's far more likely to be the Mauthen
 farm.
 
-## Listen three times.
+# Listen three times.
 
 In what I can assume is Pat being awful clever, were given a couple of hints via wordplay that likely have been
 remarked upon but not with supporting evidence. 
@@ -170,12 +170,296 @@ describe the location. However, it might have slipped your attention that it's m
 
 Listen three times, Newarre is near Trebon. 
 
+# Other considerations & Counter arguments
 
-## Other considerations & Counter arguments
+This section will cover a couple things
 
-So then, I purpose that Newarre is in the Commonwealth and it's near Trebon. Will
-be more specific later, but first, let us address some counter-arguments and
-preexisting works and see if anything blows a hole in this idea.
+1. Rings and Wings  : discussing Bast's rings
+2. Colors and Coins : discussing the colors the soliders wear that visit Newarre
+3. Counter arguments: where I addresses some sorted questions that suggest the location is in Vintas
+
+## Rings and Wings
+
+
+
+Bast's room is likely full of little delights and mysteries I haven't picked apart. One thing we need to take note of here is
+the rings that rest on his shelves. TWMF:
+
+> > There were shelves filled with pictures, trinkets, and oddments. Locks of hair wrapped in ribbon.
+> Whistles carved from wood. Dried flowers. Rings of horn and leather and woven grass. A handdipped candle with leaves pressed into the wax.
+
+Rings of horn, leather and woven grass. And a candle.... which I won't think
+about now. Our rings however are conspicuously mentioned by another enigma half
+a world away. 
+
+> “That’s true for the most part,” Bredon said. “But the giving of rings goes back quite a ways. The
+> common folk were doing it long before it became a game for the gentry. And while Stapes may
+> breathe the rarified air with the rest of us, his family is undeniably common.”
+> Bredon set the white ring back onto the board and folded his hands over it. “Those rings were made
+> of things ordinary folk might find easily at hand. A young lover might give a ring of new green grass
+> to someone he was courting. A ring of leather promises service. And so on.”
+> “And a ring of horn?”
+> “A ring of horn shows enmity,” Bredon said. “Powerful and lasting enmity.”
+
+Bredon conspicuously describes the same rings Bast has in his possession:
+
+* green grass : romantic interest
+* leather     : service
+* horn        : powerful and lasting enmity
+
+It's also worth considering that ring giving is a Vintish tradition. Overall this implies
+Bast has a relationship with Vintas, the tradition of rings and it's history or Bredon himself. 
+Bredon says the custom of ring giving goes way back? How far back? I think
+Skarpi tells us of one of the first examples of ring giving, if not _they
+first_.
+
+> They came to Aleph, and he touched them. He touched their hands and eyes and
+> hearts. The last time he touched them there was pain, and wings tore from
+> their backs that they might go where they wished. Wings of fire and shadow.
+> Wings of iron and glass. Wings of stone and blood.
+
+Time tends to warp stories,like a game of whispers played through the ages, but
+that isn't the case here as our story teller was likely around to see it
+himself, being on a first name with Tehlu and all. However, he gives us the wiggle room
+we need by implying he might have fudged some details:
+
+> “More or less. You have to be a bit of a liar to tell a story the right way. Too much truth confuses the facts. Too much honesty makes you sound insincere.”
+
+So, considering we have meet anyone with _wings_ of power, but plenty of people
+with _rings_ of power. It's reasonable to assume ring goes way back, older then tree or stone. 
+Enough that we might see some form of it everywhere. Indeed we see an example first hand at the University. TWMF::317
+
+> “Fela,” he said seriously. “I hereby promote you to the rank of Re’lar.” He held up the ring. “Your
+> hand.”
+> Almost shyly, Fela held out her hand. But Elodin shook his head. “Left hand,” he said firmly. “The
+> right means something else entirely. None of you are anywhere near ready for that.”
+> Fela held out her other hand, and Elodin slid the ring of stone easily onto her finger.
+
+I also suspect the universities admissions process, of drawing random tiles from
+a bag, might share a historical lineage with the giving of rings and possible
+Tak. 
+
+> I drew a tile out of the
+> *black velvet bag*. It read “Hepten: Noon.” Five days from now, plenty of time
+> to prepare.
+
+Were told at least one of the types tiles is _ivory_. NOTW::74
+
+> I drew the ivory admissions tile out of my purse
+
+Fela's tile was ivory too, and as their marked, I assume there all Ivory.
+
+Ivory is from tusks and teeth of animals, horn refers specifically to
+projections off the animal. There likely close enough to be interchangeable. If
+the admissions process traces its roots back to the same origins as ring giving,
+the implications are unsettling to say the least. 
+
+Coming full circle, we travel back across the world where Bredon teaches
+Kvothe a game nearly as subtle as naming called Tak. Where tiles are also drawn from
+_black velvet bag_ as well, how delightful unnerving is that? TWMF::390
+
+> I play a longer, more subtle game.” He began to work the drawstring loose on
+> the *black velvet bag**.
+
+Tak is a beautiful game, for some it's about master for others about elegance and grace. It's
+possible if you play enough games you might have get a chance many would dread
+and some envy, of playing Breon Mercer, who was said to be a "beast in the
+skin of man". History Of Tak:
+
+> It is said that Jezzered played with an emerald capstone carved in the shape
+> of flower, until he lost it to Breon Mercer, to whom he later referred as "a
+> beast in the skin of a man."
+
+Yes, even the Fae and possible skin dancers of old enjoyed a good game once and a while.
+Bredon... oh, I'm sorry the Breon, traveled the world:
+
+> Breon Mercer, a charming rogue who traveled the world in high style, financed mainly by his winnings at Tak
+
+Breon traveled the world and so did Tak, it's name and rules have changed
+through time and spread through out the world to fit the people and customs of
+the four corners. What was it called originally? I suspect that would be telling
+indeed. Before this turns into a lesson on Tak, which I'm not ready to gave.
+Let's refocus.
+
+Ring giving and Tak likely go way back and our subtle games that rely on knowing
+the board, your opponents and mostly importantly yourself. Kvothe hasn't taken
+us to much of the world but I suspect will see the giving or rings in some and the
+playing of Tak there as well.
+
+In short, trying to place Bast's rings is problematic as he isn't a stone and might
+have moved around and agreed them else where. It's possible his rings are more 
+of a commentary on his relationship with another man, who plays like a beast when pushed:
+
+> > It is with deference and respect that I offer my own suggestion, that this
+> term refers to the infamous Breon Mercer, who traveled the world living by his
+> wits and his winnings from Tak. Reportedly, Mercer was capable of playing the
+> subtlest of courtly games, but when money was on the line, he was known to
+> eschew the niceties of play, and destroy his opponents with astonishing
+> tactical brutality.
+
+Finally, they could be Kvothe's rings, after all Kvothe gave Bast his sword. 
+
+## Colors and Coins
+
+The interludes from Kvothe's story give us some hints about the current state of
+the world that Kote is living in. One of the strongest hints in terms of Newarre's
+location comes from the colors the soldiers that give Kote a _licking_ near the
+end of TWMF:136:897
+
+> The door of the Waystone opened and a sudden gust of wind made the lamplight
+> flicker. Two soldiers came in, hunched against the weather, their swords
+> sticking out like tails behind them. Dark spatters of rain spotted the fabric
+> of their blue and white tabards.
+
+They wear blue and white, which strongly indicates they were or are in the Maer's
+service. TWMF:54:374
+
+> They wore the Maer’s colors but beneath their sapphire and ivory
+
+I think it's unlikely Rothfuss would trick us so cheaply by having someone take
+his colors; it would also be very awkward politically. This doesn't necessarily
+mean Newarre is near Severan. This indicates Newarre is accessible to
+Soldiers or deserters of the Maer's army.
+
+When we leave Kote at the end of TMWF, we know there is a war going on. One that
+Kote doesn't approve of, which is evident when he tries to talk the smith's
+apprentice out of joining it. TMWF:2:371
+
+> “I know how this war started. I know the truth of it. Once you hear that, you
+> won’t be nearly so eager to run off and die fighting in the middle of it.”
+
+(the Peerage). That are dropping off the map. Lets recap the Peerage here,
+though this topic likely needs its own space. Sim gives us a start. NOTW:43:309
+
+> “Actually he’s sixteenth in the peerage,” Sim said matter-of-factly “You’ve
+> got the royal family, the prince regents, Maer Alveron, Duchess Samista,
+> Aculeus and Meluan Lackless....” He trailed off under Manet’s glare.
+
+1. Royal Family
+2. The Prince Reagents
+3. Maer Alveron
+4. Duchess Samista
+5. Aculeus and Meluan Lackless
+
+We know the Maer is taking Meluan to wife, which likely greatly strengths his
+position. We also know that some people a bit further down this list between
+Baron Jakins and the throw have meet with some tragic events we can assume are
+likely the part of the Baron's power grab given he owns the Pirate Isles. TWMF:1:944
+
+> “In this and many other things, I aim to disappoint,” I said. “I was sure he’d
+> done it,” Devi continued. “His father ’s barony is called the Pirate Isles. I
+> was sure
+
+and the Surthen family which stood between him and the thrown were lost at Sea. NOT::309
+
+> “His father ’s one of the most powerful men in Vintas,” Manet added, then
+> turned to Simmon. “What is he, sixteenth in line to the throne?” “Thirteenth,”
+> Simmon said sullenly. “The entire Surthen family was lost at sea two months
+> ago. Ambrose won’t shut up about the fact that his father ’s barely a dozen
+> steps from being king.”
+
+The reason for highlighting this because there is a war brewing in the
+background and a war _outright_ in the frame of the story. Power and likely land
+is changing hands. The Maer's reach might be far greater then our maps imply.
+
+We have further implicit evidence that Newarre is far from the Maer's seat of
+power in Severen. For one, it wouldn't be _terrible Clever_ for Kvothe to hide
+near the people who are hunting him. Keep in mind we haven't established the
+Mear put the bounty on Kvothe's head. But we have some hints as to who did. NOTW:2:521
+
+> The innkeeper nodded. “Right. So if you were Kvothe, and terrible clever, as
+> you say. And suddenly your head was worth a thousand royals and a duchy to
+> whoever cut it off, what would you do?” The smith’s prentice shook his head
+> and shrugged, plainly at a loss.
+
+Royals are likely the official Currency in Vintas.
+
+<img src="/img/streamkvothedenna.jpeg" height="550px" width="375px">
+
+A Gold Royal is the coin that the smiths apprentice is tempted by. TWMF::483
+
+> These days they hand you over a royal when you sign up. A whole gold royal.”
+
+It's at the coin we see the Bandits stealing from the Maer. TWMF:1:5:
+
+> At a rough count, there were over two hundred royals. While I’d never actually
+> held one, I knew a single gold royal was worth eighty bits, almost as much as
+> the Maer had given me to finance this entire trip
+
+As well as the coin, carried by the solider who beat up Kote. TWMF::898
+
+> “Well that’s a difficulty,” the blonde soldier said with a bit of an
+> embarrassed smile. “I’d dearly love a drink, but my friend and I just took the
+> king’s coin.” He reached into his pocket and brought out a bright gold coin.
+> “This is all the money I have on me. I don’t suppose you have enough to break
+> a whole royal, would you?
+
+Both the Maer and the King of Vintas use the Royal. But another hint from Kvothe
+in the reward offered to him. TWMF::521
+
+> And suddenly your head was worth a thousand royals and a duchy to whoever cut
+> it off, what would you do?”
+
+So who could or would offer a duchy? We know that Sim's father is a duke and has
+a duchy. NOTW:290
+
+> “Sim’s father holds a duchy in Atur. Good land, but—”
+
+Duke's have duches, but what area has Dukes? Gibea was a Duke and sim grew up
+not far from his lands. So its safe to say Atur.
+
+This is all strong evidence that the current (_kotes_ timeline) King of Vint is the one who put a
+bounty on Kvothes head. But we don't know who that is. Lets stow this idea for a
+moment and touch on one more piece of evidence were given early in the books,
+when Kote suggests the he thinks the mountains have slowed down the Scrael. NOTW::7
+
+> The innkeeper’s eyes were distant. “Scrael,” he said distractedly. “I’d
+> thought the mountains—”
+
+Again, this is hardly definitive as there are mountains _everywhere_. But it's
+worth keeping in mind. More helpful is that Kote suggests the Scrael had to
+travel _far west_. NOTW::228
+
+> The innkeeper frowned. “They can’t have made it this far west yet,” he said
+> softly.
+
+Severen and Vintas isn't _far west_ compared to most of the rest of the four
+corners. And if the Scrael are coming from the Eld, its very possible Kote is
+talking about The Six Sisters mountain range.
+
+Time to take off your tin foil hats and put on your thinking caps.
+
+If you were Kvothe, and terrible clever, would you settle in Modeg or Ceald,
+where you would stick out like a sore thumb? Would you settle in Vintas or Atur,
+either or both of which were controlled by the ruler who has put a bounty on
+your head? Where you name and description are likely being circulated?
+
+The two soldier's are likely deserters. Or can you come up with a reason why
+there wandering around as only pair and beating up inn keepers. They don't seem
+overly worried about keeping there colors on, which would be extra foolish if
+they were in the strong hold of Vintish power. No, there not worried because
+there in the middle of nowhere.
+
+If it's the current king of Vintas, that put the bounty out, why are the
+soldiers wearing the Maers colors? The obvious answer is that the King has
+brought the Maer into his service as is likely his right. But the soliders claim
+to have _just taken_ the Kings coin and they show the it off to prove it. This
+implies they just joined the kings ranks and they were clothed in the Maer's
+colors. So maybe the Maer is the new King of Vintas, but then how is the Maer offering an Aturn
+Dutchy? The answer is simple, there is a war, the Maer now controls Vintias, part of Atur
+and his reach extends into the Commonwealth. 
+
+The word is on fire, ancient wars are burning bright and somewhere near Trebon
+an inn keeper stars into the night sky and wanders what the winds will bring him
+next.
+
+
+
+So then, I purpose that Newarre is in the Commonwealth and it's near Trebon.
+Will be more specific later, but first, let us address some counter-arguments
+and preexisting works and see if anything blows a hole in this idea. Parts of my
+answers will be covered else where in this post but I want to respond to these
+concerns one at time so we don't overlook anything.
 
 One of the more cited pieces on Newarre is this post in 2012 on [tor](https://www.tor.com/2012/05/10/rothfuss-reread-speculative-summary-10-the-road-to-newarre/). Where the author says it's conclusive and no one has challenged it. 
 
@@ -332,7 +616,7 @@ blue and white
 
 > They wore the Maer ’s colors but beneath their sapphire and ivory 
 
-fair enough, they are wearing the maers colors. This likely means the are the
+fair enough, they are wearing the Maer's colors. This likely means the are the
 Maer's men. This could mean Newarre is likely near or in land the Maer controls.
 Given there is something of a succession war going on in the background of the
 story.
@@ -512,4 +796,8 @@ Kvothe doesn't get along with the local priest:
 
 Whose last name is a just a quick 2 letter swap to "elodin". 
 
-over all conclusions? Well, maybe Kvothe is trapped within his sleeping mind. Though he doesn't exhibit any of the symptoms. 
+Over all conclusions and tin foil guesses? Well, maybe Kvothe is trapped within
+his sleeping mind, maybe the whole world is. Maybe something has robbed Kvoth of
+his name and history so that even now people who grew up with only remember his a
+story the heard.
+
