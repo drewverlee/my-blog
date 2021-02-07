@@ -183,14 +183,14 @@ This section will cover a couple things
 
 
 Bast's room is likely full of little delights and mysteries I haven't picked apart. One thing we need to take note of here is
-the rings that rest on his shelves. TWMF:
+the rings that rest on his shelves. TWMF::10
 
-> > There were shelves filled with pictures, trinkets, and oddments. Locks of hair wrapped in ribbon.
+>  There were shelves filled with pictures, trinkets, and oddments. Locks of hair wrapped in ribbon.
 > Whistles carved from wood. Dried flowers. Rings of horn and leather and woven grass. A handdipped candle with leaves pressed into the wax.
 
-Rings of horn, leather and woven grass. And a candle.... which I won't think
-about now. Our rings however are conspicuously mentioned by another enigma half
-a world away. 
+Rings of horn, leather and woven grass. Those particular _kinds_
+of rings however are conspicuously mentioned by another enigma half a world
+away.TMWF::446
 
 > “That’s true for the most part,” Bredon said. “But the giving of rings goes back quite a ways. The
 > common folk were doing it long before it became a game for the gentry. And while Stapes may
@@ -201,27 +201,28 @@ a world away.
 > “And a ring of horn?”
 > “A ring of horn shows enmity,” Bredon said. “Powerful and lasting enmity.”
 
-Bredon conspicuously describes the same rings Bast has in his possession:
+Bredon conspicuously describes the same kinds rings Bast has in his possession:
 
 * green grass : romantic interest
 * leather     : service
 * horn        : powerful and lasting enmity
 
-It's also worth considering that ring giving is a Vintish tradition. Overall this implies
-Bast has a relationship with Vintas, the tradition of rings and it's history or Bredon himself. 
-Bredon says the custom of ring giving goes way back? How far back? I think
-Skarpi tells us of one of the first examples of ring giving, if not _they
-first_.
+It's worth considering here, in a post about the location of Newarre, because
+because were shown that ring giving is a Vintish tradition. Overall this implies
+Bast has a relationship with Vintas, the tradition of rings and it's history or
+Bredon himself. Bredon says the custom of ring giving goes way back? How far
+back? I think Skarpi tells us of one of the first examples of ring giving, if
+not _the first_. NOTW::198
 
 > They came to Aleph, and he touched them. He touched their hands and eyes and
 > hearts. The last time he touched them there was pain, and wings tore from
 > their backs that they might go where they wished. Wings of fire and shadow.
 > Wings of iron and glass. Wings of stone and blood.
 
-Time tends to warp stories,like a game of whispers played through the ages, but
+Time tends to warp stories, like a game of whispers played through the ages, but
 that isn't the case here as our story teller was likely around to see it
 himself, being on a first name with Tehlu and all. However, he gives us the wiggle room
-we need by implying he might have fudged some details:
+we need by implying he might have fudged some details. NOWT:192
 
 > “More or less. You have to be a bit of a liar to tell a story the right way. Too much truth confuses the facts. Too much honesty makes you sound insincere.”
 
@@ -237,7 +238,7 @@ Enough that we might see some form of it everywhere. Indeed we see an example fi
 
 I also suspect the universities admissions process, of drawing random tiles from
 a bag, might share a historical lineage with the giving of rings and possible
-Tak. 
+Tak. NOTW::413
 
 > I drew a tile out of the
 > *black velvet bag*. It read “Hepten: Noon.” Five days from now, plenty of time
@@ -247,7 +248,7 @@ Were told at least one of the types tiles is _ivory_. NOTW::74
 
 > I drew the ivory admissions tile out of my purse
 
-Fela's tile was ivory too, and as their marked, I assume there all Ivory.
+Fela's tile was ivory too, and as their marked, I assume they are all Ivory.
 
 Ivory is from tusks and teeth of animals, horn refers specifically to
 projections off the animal. There likely close enough to be interchangeable. If
@@ -261,43 +262,60 @@ _black velvet bag_ as well, how delightful unnerving is that? TWMF::390
 > I play a longer, more subtle game.” He began to work the drawstring loose on
 > the *black velvet bag**.
 
-Tak is a beautiful game, for some it's about master for others about elegance and grace. It's
-possible if you play enough games you might have get a chance many would dread
+Tak is a beautiful game, for some it's about mastery for others about elegance
+and grace. The materials, rules and names changing from place to place. True
+artist make a game of the game itself, using items of power, prestige layered
+with hidden meaning to up the anti. Indeed some games were played for the
+position of the board and materials itself. I would dearly love to see our Tak
+teacher, use his wolf's head to _beat_ Kvothe in a game, it might improve his
+game a good deal to be humbled.
+
+TWMF:
+
+> “Of course,” I said graciously. “Please have a seat.” I gestured toward the new table by the window.
+> “Such aplomb,” he chuckled, leaning his walking stick against the window sill. The sunlight caught
+> on the polished silver handle wrought in the shape of a snarling wolf ’s head.
+> Bredon was older.
+
+<img src="/img/capstone" height="300px" width="500px">
+
+I'm sure he wouldn't _burn_ him to badly, you always want your dancing partner to come back.
+
+It's possible if you play enough games you might have get a chance many would dread
 and some envy, of playing Breon Mercer, who was said to be a "beast in the
-skin of man". History Of Tak:
+skin of man". History Of Tak (HOT):
 
 > It is said that Jezzered played with an emerald capstone carved in the shape
 > of flower, until he lost it to Breon Mercer, to whom he later referred as "a
 > beast in the skin of a man."
 
 Yes, even the Fae and possible skin dancers of old enjoyed a good game once and a while.
-Bredon... oh, I'm sorry the Breon, traveled the world:
+Bred... oh, I'm sorry the Breon, certainly traveled the world and became famous for it. HOT:
 
 > Breon Mercer, a charming rogue who traveled the world in high style, financed mainly by his winnings at Tak
 
 Breon traveled the world and so did Tak, it's name and rules have changed
 through time and spread through out the world to fit the people and customs of
 the four corners. What was it called originally? I suspect that would be telling
-indeed. Before this turns into a lesson on Tak, which I'm not ready to gave.
-Let's refocus.
+indeed. Before this turns into a lesson on Tak, which I'm not ready to gave,
+let's refocus.
 
-Ring giving and Tak likely go way back and our subtle games that rely on knowing
+Ring giving and Tak are ancient subtle games that rely on knowing
 the board, your opponents and mostly importantly yourself. Kvothe hasn't taken
-us to much of the world but I suspect will see the giving or rings in some and the
-playing of Tak there as well.
+us to much of the world, but I suspect will see them played everywhere. 
 
-In short, trying to place Bast's rings is problematic as he isn't a stone and might
-have moved around and agreed them else where. It's possible his rings are more 
-of a commentary on his relationship with another man, who plays like a beast when pushed:
+In short, trying to place Newarre based on Bast's rings is problematic as he isn't a stone and might
+have moved around and found them else where. It's possible his rings are more 
+of a commentary on his relationship with another man, who plays like a beast when pushed. HOT:
 
-> > It is with deference and respect that I offer my own suggestion, that this
+> It is with deference and respect that I offer my own suggestion, that this
 > term refers to the infamous Breon Mercer, who traveled the world living by his
 > wits and his winnings from Tak. Reportedly, Mercer was capable of playing the
 > subtlest of courtly games, but when money was on the line, he was known to
 > eschew the niceties of play, and destroy his opponents with astonishing
 > tactical brutality.
 
-Finally, they could be Kvothe's rings, after all Kvothe gave Bast his sword. 
+Finally, they could be Kvothe's rings, after all Kvothe gave Bast his folly. 
 
 ## Colors and Coins
 
