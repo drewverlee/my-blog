@@ -24,7 +24,7 @@ can all think about and I might be able to address
 So I'm going to break this into several parts
 
 1. Auri visiting the Mauthen Farm and then Newarre
-2. other considerations and counter arguments
+2. Other considerations and counter arguments
 3. Getting to Newarre
 
 # Auri visit's Newarre and Mauthen Farm
@@ -170,16 +170,26 @@ describe the location. However, it might have slipped your attention that it's m
 
 Listen three times, Newarre is near Trebon. 
 
+
+# Maps
+
+It might be useful to have one or both maps of the Four Corners at hand. As
+misleading as they are at times, its better then nothing. You should head down to Worldbuilders and buy everything they have. 
+I'll use the old map and old ways are best.
+
+<img src="/img/old-kkc-map.jpg" height="325px" width="450px">
+
 # Other considerations & Counter arguments
 
-This section will cover a couple things
+This section will cover hints we get from Kote's time line that suggest the
+location of Newarre.
 
 1. Rings and Wings  : discussing Bast's rings
 2. Colors and Coins : discussing the colors the soliders wear that visit Newarre
-3. Counter arguments: where I addresses some sorted questions that suggest the location is in Vintas
+3. Roads and Codes
+4. Counter arguments: where I addresses some sorted questions that suggest the location is in Vintas
 
-## Rings and Wings
-
+## Rings, Wings and the beast within
 
 
 Bast's room is likely full of little delights and mysteries I haven't picked apart. One thing we need to take note of here is
@@ -236,6 +246,10 @@ Enough that we might see some form of it everywhere. Indeed we see an example fi
 > right means something else entirely. None of you are anywhere near ready for that.”
 > Fela held out her other hand, and Elodin slid the ring of stone easily onto her finger.
 
+
+<img src="/img/fela.jpg" height="400px" width="225px">
+
+
 I also suspect the universities admissions process, of drawing random tiles from
 a bag, might share a historical lineage with the giving of rings and possible
 Tak. NOTW::413
@@ -277,9 +291,15 @@ TWMF:
 > on the polished silver handle wrought in the shape of a snarling wolf ’s head.
 > Bredon was older.
 
-<img src="/img/capstone" height="300px" width="500px">
+<img src="/img/capstone.jpg" height="215px" width="400px">
 
-I'm sure he wouldn't _burn_ him to badly, you always want your dancing partner to come back.
+I'm sure he wouldn't _burn_ him to badly. Burn of course not referring to a
+physical mistreatment but a Tak term used to describe winning the game. HOT:
+
+> The gathered crowd were rapt withal To see the stranger burn.
+
+used in a famous game played in *Abbot's Ford*. However, its bets to be to harsh
+as you always want your dancing partner to come back.
 
 It's possible if you play enough games you might have get a chance many would dread
 and some envy, of playing Breon Mercer, who was said to be a "beast in the
@@ -317,11 +337,11 @@ of a commentary on his relationship with another man, who plays like a beast whe
 
 Finally, they could be Kvothe's rings, after all Kvothe gave Bast his folly. 
 
-## Colors and Coins
+## Colors, Coins and what comes in time
 
 The interludes from Kvothe's story give us some hints about the current state of
 the world that Kote is living in. One of the strongest hints in terms of Newarre's
-location comes from the colors the soldiers that give Kote a _licking_ near the
+location comes from the colors the soldiers that give Kote a beating near the
 end of TWMF:136:897
 
 > The door of the Waystone opened and a sudden gust of wind made the lamplight
@@ -336,7 +356,7 @@ service. TWMF:54:374
 
 I think it's unlikely Rothfuss would trick us so cheaply by having someone take
 his colors; it would also be very awkward politically. This doesn't necessarily
-mean Newarre is near Severan. This indicates Newarre is accessible to
+mean Newarre is near Severen. This indicates Newarre is accessible to
 Soldiers or deserters of the Maer's army.
 
 When we leave Kote at the end of TMWF, we know there is a war going on. One that
@@ -392,7 +412,7 @@ Mear put the bounty on Kvothe's head. But we have some hints as to who did. NOTW
 
 Royals are likely the official Currency in Vintas.
 
-<img src="/img/streamkvothedenna.jpeg" height="550px" width="375px">
+<img src="/img/Royals.jpg" height="550px" width="375px">
 
 A Gold Royal is the coin that the smiths apprentice is tempted by. TWMF::483
 
@@ -471,17 +491,62 @@ The word is on fire, ancient wars are burning bright and somewhere near Trebon
 an inn keeper stars into the night sky and wanders what the winds will bring him
 next.
 
+## Roads and Codes
 
+Early on in there meeting, Kvothe asks Chronicler about the Road to Tinuë? NOTW:
 
-So then, I purpose that Newarre is in the Commonwealth and it's near Trebon.
+> “Before we discuss the possibility that you’ve addled your wits with that crack to the head, tell me, how is the road to Tinuë?”
+
+This is important to touch on, because if we assume he is talking about "The
+free City of Tinue" in Vintas, this again would imply Newarre is in
+Vintas. Chronicler is confused at first, but he recovers, remembering something,
+he replies more or less that's not going well.
+
+>“What?” Chronicler asked, irritated. “I wasn’t heading to Tinuë. I was ... oh.
+> Well even aside from last night, the road’s been pretty rough. I was robbed off
+> by *Abbot’s Ford*, and I’ve been on foot ever since.
+
+Now, I have theories about that word that would leave you frothing at the mouth
+and tearing our your hair, but I'll contain myself and suggest that the question
+has little to do with the physical "Free city of Tinuë" as displayed on the map.
+
+Wil remarks that the language of the commonwealth is rich with idioms, and that
+"How is the road to Tinuë" is one of the worst offenders.
+
+Jax Passed through Tinuë, the Lackless once controlled it, Sceop was on his way
+to it and Denna says she has visited it. Tinkers suggest you try there limes
+from there. It once was a shining beacon of _art_ during the reign of _Verian_.
+Once there was a vicious game of *Tak*et played there between a brewer and a
+tanner. The book on Tak is called "The Road to Tinuë: A history of Tak". A
+drunken Tinker might turn our map upside a couple times and wonder if the great
+stone road isn't a _bridge_ of another sort. Lastly, *Tinusa* was one of the eight
+remaining cities in Skarpi's story. Was this the city that remembered the
+Lethani?
+
+In short, Tinuë is a mystery and it's enough for our purposes here to say it might
+easily refer to something other then the city marked on our map.
+
+For my part, I think Rike in his heart knows the way things are going. TLT:
+
+> “Rike.” Bast’s voice held none of the friendly,
+> bantering tone he’d used with the town’s other children. “How’s the road to
+> Tinuë?” “It’s a long damn way,” the boy said bitterly, not meeting Bast’s eye.
+> “We live in the ass of nowhere.”
+
+A long damn way indeed.
+
+## counter arguments
+
+I purpose that Newarre is in the Commonwealth and it's near Trebon.
 Will be more specific later, but first, let us address some counter-arguments
 and preexisting works and see if anything blows a hole in this idea. Parts of my
 answers will be covered else where in this post but I want to respond to these
 concerns one at time so we don't overlook anything.
 
-One of the more cited pieces on Newarre is this post in 2012 on [tor](https://www.tor.com/2012/05/10/rothfuss-reread-speculative-summary-10-the-road-to-newarre/). Where the author says it's conclusive and no one has challenged it. 
-
-I'll be going through this piece by piece and adding commentary. the pattern will be:
+One of the more cited pieces on Newarre is this post in 2012 on
+[tor](https://www.tor.com/2012/05/10/rothfuss-reread-speculative-summary-10-the-road-to-newarre/).
+Where the author says it's conclusive and no one has challenged it. I'll be
+going through this piece by piece and adding commentary. the pattern will be:
 
 > quote from post
 
@@ -493,7 +558,7 @@ My commentary.
 > Newarre is most likely in western Vintas, probably on the southern border of
 > the Eld.
 
-The first piece of evidence we have is Kvothe/Kote’s admission that the Scrael
+The first piece of evidence we have is Kvothe's admission that the Scrael
 come from the east and his surprise that they’ve “made it this far west yet.”
 He “thought the mountains” presumably would have stopped them or slowed
 them down.
@@ -505,9 +570,9 @@ them down.
 > appear to run north-south.
  
  1. Everything is west of the Stormwal Mountains. However, The mountains could be
- the Six Sisters if the Skrall are coming from the Eld. Which is how Kvothe gets
- into the Fae. Also kvothe says "this far west". If were going off 4 corners
- map, the Vintas anything BUT far _west_. It's far _east_.
+ the Six Sisters if the Scrael are coming from the Eld. Which is how Kvothe gets
+ into the Fae. Also Kvothe says "this far west". If were going off 4 corners
+ map, the Vintas anything but far _west_. It's actually far _east_.
 
 
 > C12VT in Thread 1 pointed out this suggests a far western location, but I
@@ -546,17 +611,16 @@ agreed
 >extensively and, as he noted, it’s more a “luck piece” (NotW, 20-21).
 
 
-This is strong evidence they are in land control by the king of Vint. But where?
-The king of vint could have conquered lands between when kote tells his story
-and when the map and younger story frame happened. I admit it's unlikely, but a
-lot of unlikely this happen thats why it's a story.
+This is strong evidence they are in land control by the king of Vint. But what does that include in Kotes timeline?
+The king of Vint could have conquered lands between when kote tells his story
+and when the map and younger story frame happened. I cover this in Coins and Colors
 
 > Next, Bast has on his shelf “[r]ings of horn and leather and woven grass”
 > (WMF, 985). Coincidentally, those are the exact three examples used by Bredon
 > to describe how the common folk (presumably of Vintas) use rings. (WMF, 444).
 > […]
 
-It's just as likely that the Vintas people copied the fae. 
+It's just as likely that the Vintas people copied the Fae. I cover this more in Rings and Wings.
 
 >  Now why I believe Newarre is on the Southern edge of the Eld. This is going
 > to be accomplished by a curious triangulation.
@@ -567,7 +631,7 @@ It's just as likely that the Vintas people copied the fae.
 > This implies that they are currently somewhere close enough to Tinue for that
 > expression to be literally askable.
 
-No, it doesn't. "How is the road to tinue", is likely code phrase.
+No, it doesn't. "How is the road to tinue", is likely code phrase. I cover this briefly in Roads and Codes.
 
 >  Second, when Kvothe fakes having a bum knee in the beginning of NotW, he
 >  mentions that he got the “wound” “on my way through the Eld three summers
@@ -729,24 +793,13 @@ is more likely.
 
 <img src="/img/map-with-newarre.jpg" height="350px" width="350px">
 
+
 # End
-
-
-## Credit's
-
-The ideas right are wrong, seem largely mine. But I want to thank you for reading and for any feedback.
-
-## Rights
-
-* The Barrow hill picture is by [Xelgot](https://www.deviantart.com/xelgot/art/Barrow-Hill-441171153) 
-* Kvothe and the horse from [here](https://www.deviantart.com/dejan-delic/art/Riding-Keth-Selhan-436853308)
-
-
-# Other
 
 Thanks for reading! 
 
-Here is are some bonus sections that are a bit rougher and more abstract.
+Here is are some bonus sections that are a bit rougher and more abstract. Those are "not nowhere" and "nowhere at all", where we go down the rabbit whole.
+That's followed by some necessary book keeping: credits, citations and rights.
 
 ## not nowhere
 
@@ -819,3 +872,49 @@ his sleeping mind, maybe the whole world is. Maybe something has robbed Kvoth of
 his name and history so that even now people who grew up with only remember his a
 story the heard.
 
+## Rights & Art
+
+* All (most) of the pictures are likely property of Worldbuilders ,I have enjoyed my
+purchases from them greatly and hope using them this isn't stepping on any toes.
+* The Barrow hill picture is by [Xelgot](https://www.deviantart.com/xelgot/art/Barrow-Hill-441171153) 
+* Kvothe and the horse from [here](https://www.deviantart.com/dejan-delic/art/Riding-Keth-Selhan-436853308)
+
+## credit
+
+Thanks to Yamus and Biologin, who might not agree with my ideas, but are
+critical thinkers and ask good questions.
+
+## Citations
+
+citations are as follows: Book:Chapter:page
+
+Its likely the pages are inconstant between books.
+
+* TWMF : The wise man's fears
+* NOTW : Name of the Wind
+* OH   : How old holly came to Be from "Unfettered"
+* TLT  : The Lighting Tree from "Rouges"
+* SROST: Slow Regard of Silent Things
+* HOT  : History of Tak
+
+Note i'll be citing the books OH and TLT by just Book::Page leaving out the
+chapter sense each story is just one chapter itself
+
+Bonus books, it would be proper to have them, but not strictly necessary:
+
+* RMVDD: Rick and Mortry vs Dugeons and Dragons
+* TDDB : The Adventures of Mr. Whiffles and the Pinrcess in The Dark Deep Below
+* TTBB : The Adventures of Mr. Whiffles and the Princess in The Thing Beneath the Bed
+
+SROST Chapters so I can use numbers:
+
+1. The Far Below Bottom of things
+2. what a look entails
+3. beautiful and broken
+4. A quite uncommon pleasant place
+5. hollow
+6. The angry dark
+7. ash and ember
+8. all to her desire
+9. the graceful way to move
+10. the hidden heart of things
