@@ -20,7 +20,9 @@ It would also help to have read "History of Tak", but it isn't strictly necessar
 Without careful inspection of each of these books, most of this theory will be
 confusing or worse, ruin the fun for you. Ideally, any reader considers
 themselves well versed in KKC lore and feel there are few if any doors left to
-open before book three is released.
+open before book three is released. Put frankly, _spoilers_ or _fan fiction_
+ahead. You decide which!
+
 
 ----
 
@@ -1212,9 +1214,9 @@ Kvothe doesn't get along with the local priest:
 Whose last name is a just a quick 2 letter swap to "elodin". 
 
 Over all conclusions and tin foil guesses? Well, maybe Kvothe is trapped within
-his sleeping mind, maybe the whole world is. Maybe something has robbed Kvoth of
-his name and history so that even now people who grew up with only remember his a
-story the heard.
+his sleeping mind, maybe the whole world is. Maybe something has robbed Kvothe of
+his name and history, so that even his close friends only remember the story, and not the man 
+they grew up with.
 
 ## Giving back
 
@@ -1225,7 +1227,7 @@ And you should also buy all the cool Worldbuilders KingKiller stuff, which reall
 
 ## Rights & Art
 
-* All (most) of the pictures are likely property of Worldbuilders ,I have enjoyed my
+* All (most) of the pictures are likely property of Worldbuilders, I have enjoyed my
 purchases from them greatly and hope using them this isn't stepping on any toes.
 * The Barrow hill picture is by [Xelgot](https://www.deviantart.com/xelgot/art/Barrow-Hill-441171153) 
 * Kvothe and the horse from [here](https://www.deviantart.com/dejan-delic/art/Riding-Keth-Selhan-436853308)
