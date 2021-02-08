@@ -15,11 +15,12 @@ that you have read several books that used to bring it together:
 * The Lighting Tree (TLT) 
 * The Slow Regard of Silent Things (SROST). 
 
-It would also help to have read "History of Tak", but isn't critical. 
+It would also help to have read "History of Tak", but it isn't strictly necessary.
 
-Without careful inspection of each of these, most of this theory will be confusing or worse, ruin
-the fun for you. Ideally, any reader considers themselves well versed in KKC lore and feels
-there are few if any doors left to open before book three. 
+Without careful inspection of each of these books, most of this theory will be
+confusing or worse, ruin the fun for you. Ideally, any reader considers
+themselves well versed in KKC lore and feel there are few if any doors left to
+open before book three is released.
 
 ----
 
