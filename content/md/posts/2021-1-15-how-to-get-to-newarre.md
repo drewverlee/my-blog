@@ -127,7 +127,6 @@ chapter in SROST chapter "A Quite Uncommon Place":
   dead_
 * The Iron fence from the graveyard could be the Iron Wheel in Town near the
   farm
-* 
 
 This is less direct evidence than we got for the Williams Farm. Let's consider
 some speculative and metaphorical evidence before going on:
@@ -185,15 +184,68 @@ Auri visits Newarre and the Mauthen Farm on _her_ 2nd day.
 > WHAT A LOOK ENTAILS
 > THE SECOND DAY, Auri woke to silence in the perfect dark. That meant a turning day.
 
-This corresponds to Hepten the week of admissions for kvothe in TWMF. see wasn't that easy? Oh you want proof. 
+This corresponds to Hepten, the same span as admissions for kvothe in TWMF. Auri
+gives the candle to Kvothe on Cendling/10. Which has a nice ring to it, a candle
+on C*a*ndlng. Almost like its on purpose? The day before admissions, kvothe was
+stuck in his rooms crying. This was a *g*reaving day. This would place the day
+Auri's day 3 where she wept with Chaen/7. That number seems to cause a lot of
+pain. She starts gathering her candle materials, from the The Twelve (a pool),
+on Orden. Which I always get confused with Ordal. 
 
+Here is a table, that will likely come in handy in future posts. Note that
+"-" just means I'm not commenting, not that nothing happened.
 
-Auri gives the candle to Kvothen on Cendling/10. The same day Kvothe goes through admissions
+ <table style="width:100%">
+  <tr>
+    <td>Span Day</td>
+    <td>Auri Day</td>
+    <td>Auri</td>
+    <td>kvothe</td>
+  </tr>
+  <tr>
+    <th>Orden/5 </th>
+    <th>1</th>
+    <th>Started Candle</th>
+    <th>-</th>
+  </tr>
+  <tr>
+    <th>Hepten/6</th>
+    <th>2</th>
+    <th>Newarre</th>
+    <th>-</th>
+  </tr>
+  <tr>
+    <th>Chaen/7 </th>
+    <th>3</th>
+    <th>wept</th>
+    <th>-</th>
+  </tr>
+  <tr>
+    <th>Felling/8 </th>
+    <th>4</th>
+    <th>-</th>
+    <th>plumed</th>
+  </tr>
+  <tr>
+    <th>Reaving/9 </th>
+    <th>5</th>
+    <th>-</th>
+    <th>wept</th>
+  </tr>
+  <tr>
+    <th>Cendling/10 </th>
+    <th>6</th>
+    <th>gave candle</th>
+    <th>admission</th>
+  </tr>
+</table> 
 
-Which is day 6 for Auri. This makes day 5 (Orden) Auri's day 1. So auri's day 3 would be day 7.  Chaen/Caenin.
-
-
-
+If your playing attention, this would make it hard for _Auri_ to have breathed
+on the candle that kvothe caught in his mouth at the Mauthen Farm, sense this
+implies her trip happened long after Kvothe's visit there. For now, I'll say
+that when were done with the Warrens series, this will be the least troubling
+thing on your mind. Put another way, I promise to explain the time issues
+latter. Nor is that part of the theory critical to anything _yet_.
 
 # Other considerations & Counter arguments
 
