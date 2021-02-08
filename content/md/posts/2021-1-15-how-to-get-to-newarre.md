@@ -3,8 +3,15 @@
  :klipse {:settings {:codemirror-options-out {:line-numbers false}}}
  :date "2021-1-23"
  :tags  ["KingKiller" "Fantasy"]}
-
+ 
+ 
 ### Intro
+
+A prerequisite for enjoying and understanding this theory is
+that you have read Name of the Wind (NOTW), The Wise Mans Fears (TWMF), The
+Lighting Tree (TLT) and The Slow Regard of Silent Things (SROST). 
+
+----
 
 The theory is that Newarre is near Trebon and the Mauthen farm. The idea relies
 on several elements that will discuss individually, either here, or in other
@@ -20,28 +27,32 @@ I would like to hear your thoughts, the more specific the observation the
 better. e.g "but old cob prefers a wine from Vintas, that suggests they're in
 Vint!". That's something we can all think about and I might be able to address.
 
-So I'm going to break this into several parts:
+I'm going to break theory into  several parts:
 
-1. Auri visiting the Mauthen Farm and then Newarre
-2. listen three times
-3. Maps
-4. Time
-4. Other considerations and counter arguments
-5. Getting to Newarre
+* Auri visiting the Mauthen Farm and then Newarre
+* listen three times
+* Maps
+* Time
+* Other considerations and counter arguments
+* Getting to Newarre
+* Covering the text
 
 # Auri visit's Newarre and Mauthen Farm
 
-First, I cover how she gets there in [Ways to safe
-places](/posts-output/2021-1-23-ways-to-safe-places).
-So either read that first or accept that she can move around fast. What were
-going to do here is cover similarities between the places Auri visit's in the
-SROST and the Williams Farm in Newarre (from TLT) followed by the Mauthen Farm.
+First, I cover the means by which she gets there in [Ways to safe
+places](/posts-output/2021-1-23-ways-to-safe-places). So either read that first
+or accept that she can cover the necessary distance in a relatively short amount
+of time. What were going to do _here_ is cover similarities between the places
+Auri visit's in the SROST and the Williams Farm in Newarre (from TLT) followed
+by the Mauthen Farm.
 
 This requires you to read the chapter "A quite uncommon pleasant place" in
 SROST. and pages 766 to 771 in TLT. Pulling direct references would become
 tiresome quickly for you as it would be nearly everything between those pages
-and you wouldn't have the narrative to help. So I'm just going to bullet point
-them.
+and you wouldn't have the narrative to help. That being said, I'll go ahead and
+cover that in a section called "Covering the text"
+
+For now, I'm just going to bullet point them.
 
 ## Williams Farm 
 
@@ -50,25 +61,35 @@ them.
 Relationships between the Farm Auri's visit (SROST) and the Williams Farm
 (TLT):
 
-* The girl that sees Auri with her serious eyes is Nettie's daughter Tess.
-* The same dog bay's at Auri and Bast
+* The girl that sees Auri with her serious eyes is one of Nettie's daughters.
+  Likely the younger of the two, or possible a Child Nettie had with Bast. Given
+  they sleep together and some rather strong fore shadowing about "catching the
+  queen".
+* The same *black dog* bay's at Auri and Bast*
 * Nettie has a trio of Goat's, Auri meets one or a relative.
 * The honey that Auri takes is from Nettie, who has bee hives and also uses it
   for candles.
 * The farmhouse Auri visits has a bearskin upon a rack to cure and Rikes father
-  Jessom hunts and traps.
+  Jessom hunts, traps and tans.
 * Both the farmhouse Auri visits farmhouse and the Williams have a garden.
+* Both have gardens
 * Both locations have a barn.
+* Auri's Farmhouse has a Churn which could be used to make butter, which the
+  Williams have.
+* Auri finds suet, and Nettie makes candles which are made suing suet.
 
 In terms of a time frame, Auri visit's before Bast, which explains why the tall
 barn had fallen into disrepair. The barn Auri sees is stone on the bottom and
 wood on top, which is why later when Bast sees it, the roof had rotted away is
 and now gaping open.
 
-Note, I have left out some of the symbolic evidence, the Warrens theory, that ties
-the location Auri visit's to the Williams Farm even further. We are also ignoring
-the narrative that would explain how and why because it would distract
-from the overwhelming physical evidence. There are around *10* similarities here.
+Note, I have left out some of the symbolic evidence, the Warrens theory, that
+ties the location Auri visit's to the Williams Farm even further. We are also
+ignoring the narrative that would explain how and why because it would distract
+from the overwhelming physical evidence. There are around *10 plus* similarities
+here. Ask your self how much discussion is had about other idea's which only a
+fraction of the connections? Rothfuss hide a lot of details in SROST that are
+easy to over look because of Auri's nature.
 
 The Williams Farm is actually the second stop on Auri's trip. We started there
 because there is more evidence. Her first stop, I'll now try to convince you is
@@ -121,8 +142,8 @@ chapter in SROST chapter "A Quite Uncommon Place":
   drop them.
 * The Mauthen Farm is said to have a "stone outcropping", which might be
   gravestones Auri sees.
-* They both have mushrooms.
-* The monument Auri sees could be the Borrow itself. Note, a monumnnt can refer
+* They both have mushrooms & acorns.
+* The monument Auri sees could be the Barrow itself. Note, a monumnnt can refer
   to a statue or other structure placed by or over a grave in memory o the
   dead_
 * The Iron fence from the graveyard could be the Iron Wheel in Town near the
@@ -141,6 +162,10 @@ Those are some strong connections and some weaker ones. As it stands however,
 compared to other locations in the book, It's far more likely to be the Mauthen
 farm.
 
+
+
+
+
 # Listen three times.
 
 In what I can assume is Pat being awful clever, were given a couple of hints via wordplay that likely have been
@@ -150,7 +175,10 @@ Less easily spotted is the double meaning to _peg_.
 
 > A peg is a bolt or pin that holds something in place or marks a location. 
 
-A head nod by Pat that this is an important location. More noticeable is the use of the word "nowhere" to
+A head nod by Pat that this is an important location. Figuratively, _peg_ is "A support; a reason; a pretext." Here the
+_pegs_ serve as the reason Kvothe and Denna give up there hunt.
+
+More noticeable is the use of the word "nowhere" to
 describe the location. However, it might have slipped your attention that it's mentioned exactly three times in our main series:
 
 1. Were given this hint just a little while before the stream. NOTW:73:562:
@@ -250,7 +278,9 @@ named _master ash_ for Denna's mysterious Patron. sense this implies Auri's trip
 happened long after Kvothe's visit there. I'll note the leaf has little to do with
 the rest of the theory and so if it helps you can ignore that part of the theory for now.
 
-I would caution 
+Secondly, Auri's perception of time and our understanding of it might be skewed. I'll ask you to kindle consider
+that Auri might have visited either or both locations _long_ before the timeframe suggested here. Shifting
+some facts. e.g the girl that sees Auri _being Nettie_, etc... rather then her daughter. Best to keep an open mind.
 
 # Other considerations & Counter arguments
 
@@ -877,16 +907,262 @@ is more likely.
 <img src="/img/map-with-newarre.jpg" height="350px" width="350px">
 
 
+# Covering the text
+
+* SROST chapter "A quite uncommon pleasant place", is where Auri visits these locations.
+* The Williams farm is covered in "The Lighting Tree". 
+
+Auri visits a graveyard, which I suggest is really the Mauthen farm. As you
+gathered reading SROST, Auri views things quite differently then most people.
+She assigns meaning to things based on attributes she finds interesting, not
+just there physical appearance. e.g _Rude pipes_. This skews her perception and
+so we have to sometimes compare based on symbolism and how things feel. If you
+read my post on [Alchemy](/posts-output/2021-1-23-alchemy) and [Fae
+magic](/posts-output/2021-1-22-bitter-brew), you might be able to find an in universe
+reason why she would have this outlook.
+
+## Mauthen farm ~ Graveyard Auri visits
+
+### Graveyard with Auri
+
+Notable, the evidence for the Muathen farm is thinner, I suspect I might be missing
+some meaning to _ivy_ and the _stone with letters worn away_. I have 
+
+
+> Auri found the place while picking *pine cones*. A small, *forgotten graveyard,
+> stones overgrown with ivy*. *Roses* ran wild, climbing the remains of an ancient
+> wrought *iron fence*. Arms close to her body, hands beneath her chin, Auri stepped
+> into the graveyard. Her tiny feet were silent as she moved among the stones. The
+> moon was out again, but she was lower now, and bashful. Auri smiled at her, glad
+> for the company now that she was no longer On Top of Things and Haven was far
+> gone behind. Here on the edge of the clearing the moon showed *acorns* scattered
+> on the ground. Auri spent a few minutes picking up the ones with perfect hats
+> and tucking them into her gathersack. She strolled between the stones, stopping
+> at a *broken one, the letters worn away with rain and age*. She touched it with
+> two fingers and moved on. She lifted up the *ivy on a monument*, then turned to
+> see the *laurel tree* that loomed in the far corner of the yard. Its roots were
+> all among the stones, its branches spread above. It was a lonely thing. All odd
+> and out of place. Stepping close, her small feet fitting neatly in between the
+> roots, Auri pressed her hand against the tree’s dark trunk. She breathed in deep
+> the warm scent of its leaves. She slowly circled it and spied a dark gap down
+> among the roots.
+> 
+> Nodding, Auri reached into her gathersack and brought out the *bone* that she had
+> found the day before. She bent down and tucked it deep inside the dark and
+> hollow space beneath the tree. She smiled with satisfaction.
+> 
+> Standing, she dusted off her knees and stretched. Then she began to pick the
+> *small blue laurel fruit* and put them in her gathersack as well.
+> 
+> She explored the forest after that. She found a *mushroom*, which she ate. She
+> found a leaf and *breathed* on it. She looked up at the stars.
+
+One idea is that this could be the cite of Myr Tariniel. Which might also be the
+tower mentioned in old holly that is covered in _vines_. This idea won't feel
+compelling to you now, but we might be able to justify it later, so it's worth
+keeping in your back pocket. 
+
+
+### Mauthen Farm with Kvothe and Denna
+
+Note because Kvothe never goes into the house, due largely to Denna, we don't see what i'm guessing is Auri's _Monument_.
+
+Here are the references in the book beyond that:
+
+NOTW:72:549
+
+> After five minutes I began to sense the futility of it. There was just too much forest. I could tell that Denna quickly came to the same conclusion. The storybook clues we hoped to find once again failed to show themselves. There were no torn scraps of cloth clinging to branches, no deep bootprints or abandoned campsites. We did find *mushrooms*, *acorns*, mosquitoes, and raccoon scat cleverly concealed by *pine needles*.
+
+NOTW:73:559
+
+> “Man wants his daughter tae have a fine house wit a view, that’s all tae the good,” Schiem conceded. “But when ye’re diggen the foundation an’ yeh find *bones* an’ such, an’ yeh don’t stop ... that’s a whole new type of stupid.”
+
+> Schiem nodded, leaning forward. “An that weren’t the worst o’ it. He keeps diggen, an’ he hits *stones*. Then does he stop?” He sniffed. “He starts pullen ’em up, looken for more so he can use them for the house!”
+
+> I looked out over the rolling hills, gold with autumn leaves and wheat fields, green with pasture and stands of pine and fir. Scattered throughout were the dark scars of bluffs and *stone outcroppings*. “There’s a lot of ground to cover....” I said.
+
+NOTW:71:234
+
+> The Tehlin church was the nicest building in town, three stories tall and made of quarried stone. Nothing odd about that, but bolted above the front doors, high above the ground, was one of the biggest iron wheels I’d ever seen.
+
+## stream ~ creek
+
+### Auri
+
+> Later still, Auri
+> crossed a *creek* she’d never seen before and was surprised to find a tiny
+> farmhouse tucked among the trees.
+
+### Kvothe And Denna
+
+NOTW:72:
+
+> We wandered wordlessly away from our search, neither one of us wanting to admit that we were eager to give it up, both of us feeling in our bones how pointless it was. We followed the sound of running water down the hill until we pushed through a thick stand of *pine trees* and came upon a lovely, deep *stream* about twenty feet across.
+
+## Williams Farm ~ farm Auri visits
+
+### Farm Auri Visits
+
+You should make special note of the ways both Bast and Auri _feel_ about things. e.g _baying and bay_
+
+I'll leave Auri's as one whole piece and i'll chop up what Bast sees
+and highlight similarities. 
+
+> Later still, Auri
+> crossed a *creek* she’d never seen before and was surprised to find a 
+> *tiny farmhouse* tucked among the trees. Surprised but pleased. It was a seemly place.
+> *All stone, with slate upon its pointed roof*. 
+
+> Auri made her way around the *garden* to the *barn*. There was a strange
+> *dog there, all gristle and bay*. It massed half again as much as her, its
+> shoulders coming nearly to her chest. It stepped out of the shadows when she
+> came close to the *barn*. It was *black*, with a thick neck and scars all cross its
+> face. One ear was ragged and chewed from some forgotten
+> fight. It padded closer to her, massive head held low, moving suspiciously
+> from side to side, eyeing her. Auri grinned and held out her hand. The dog
+> snuffled at her, then licked her fingers before making a great gawp of a yawn
+> and settling down to sleep. *The barn was huge: stone below with painted wood
+> above.* The doors were closed and fastened with a fat iron paddock lock. But high
+> above, the hayloft was thrown wide to greet the night. Auri climbed the
+> ivy-knotted stone as quickly as a squirrel. She went slower up the second half,
+> the barn-boards odd against her fingers and her feet. The barn was full of musk
+> and sleep. Dark too, save for a few thin bands of moonlight slanting through the
+> wooden walls. Auri opened Foxen’s tiny box, and his blue-green light welled out
+> to fill the open space. An old horse nuzzled Auri’s neck as she walked by his
+> stall. She smiled at him and took the time to brush his tail and mane. There was
+> a pregnant nanny *goat* which bleated out a greeting. Auri scooped some grain into
+> her trough. There was a cat, and they ignored each other. Auri spent some time
+> there, looking over everything. The grindstone. The quern. The small,
+> well-fitted *churn*. A *bearskin* stretched upon a rack to cure. *It was a quite
+> uncommon, pleasant place.* Everything was tended to and loved. Nothing she could
+> see was useless, lost, or wrong. Well, nearly nothing. Even the tightest ship
+> lets slip a little water. A single turnip had gone tumbling from its bin to lie
+> abandoned on the floor. Auri put it in her gathersack. There was a large stone
+> sweatbox, too. It was stacked with slabs of ice, each thicker than a cinder
+> brick and twice as long. Inside she found butchered meat and *sweet cream butter*.
+> There was a lump of *suet in a bowl*, a sheet of **honeycomb upon a tray. The suet
+> was enraged. It was a storm of autumn apples, age, and anger. It wanted nothing
+> more than to be on its way. She tucked it deep inside her bag. Oh. But the
+> honeycomb. It was lovely. Not one bit stolen. The farmer loved the bees and did
+> things in the proper way. It was full of silent bells and drowsy summer
+> afternoon. Auri felt inside her pockets. Her fingers passed over the crystal and
+> the small stone doll. The rock wasn’t proper for this place either. She reached
+> inside her gathersack and felt around among the acorns she’d collected. For a
+> long moment, it seemed like nothing she had brought would make a proper fit. But
+> then her fingers found it and she knew. Carefully she brought out the length of
+> fine white tatted lace. She folded it and left it near the *churn*. It was the
+> careful work of many long and drowsy autumn days. It would find purpose in a
+> place like this. Then Auri took the clean white cloth that had held the
+> hollyberry earlier and rubbed it with some butter. Then she broke off a piece of
+> sticky comb the size of her spread hand and wrapped it up as tidy as can be. She
+> would have loved to have some butter too, as hers was full of knives. There were
+> eleven squared-off pats of it lined up upon the sweatbox shelf. Full of clover
+> and birdsong and, oddly, sullen hints of clay. Even so they were all lovely.
+> Auri searched her gathersack and looked through all her pockets twice, but in
+> the end she still came up alack. She closed the sweatbox tight. Then up the
+> ladder to the open window of the loft. She put Foxen away, then made her slow
+> way down the side of the barn, gathersack slung tight across her back. On the
+> ground Auri brushed her floating hair out of her face, then kissed the hulking
+> dog atop his sleeping head. She skipped around the corner of the barn and took a
+> dozen steps before the prickle on her neck told her that she was being watched.
+> She froze mid-step, gone still as stone. Touched by the wind, her hair moved of
+> its own accord, slowly drifting to surround her face as gently as a puff of
+> smoke. Moving nothing but her eyes, Auri saw her. Up on the second floor, in the
+> blackness of an open window, Auri saw a pale face even smaller than her own. A
+> *little girl was watching her*, eyes wide, a tiny hand against her mouth. What had
+> she seen? Foxen’s green light shining through the slats? Auri’s tiny shape,
+> obscured by hair like thistlepuff, barefoot in the moonlight? Auri’s sudden
+> smile was hidden by the curtain of her hair. She did a cartwheel then. Her first
+> in ages. Her fine hair following, a comet tail. She cast her eyes around and saw
+> a tree, a dark hole in its trunk. Auri danced toward it, twirling and leaping,
+> then bent to look inside the hole. Then, her back o the farmhouse, Auri opened
+> Foxen’s box and heard a single tiny gasp thread through the silent night behind
+> her. She pressed one hand against her mouth so that she wouldn’t laugh. The hole
+> was perfect, just deep enough so that a little girl could reach inside and feel
+> around. If she were curious, that is. If she were brave enough to stick her arm
+> in nearly to her shoulder.
+> 
+> Auri pulled the crystal from her pocket. She kissed it, brave explorer that it
+> was, and lucky too. It was the perfect thing. This was the perfect place. True,
+> she was no longer in the Underthing. But even so, this was so true it could not
+> be denied. She wrapped the crystal in a leaf and lay it in the bottom of the
+> hole. Then she ran into the trees, dancing, leaping, giggling high and wild.
+
+
+
+
+### The Williams Farm
+
+Bast visit is sometime after Auri's likely 5 plus years.
+
+Both Auri and Bast see a Barn. Given several _hard_ years have come to the Willams, 
+its not surprising the barn has fallen in to disrepair:
+
+> The tall *barn* had fallen into disrepair and half the
+> roof gaped open to the sky. Walking up the long path through the
+> fields, Bast turned a corner and saw Rike’s house. It told a different story
+> than the *barn*. It was small but tidy. The shingles needed some repair, but other
+> than that, it looked well loved and tended-to. 
+
+
+Auri see a dog "all gristle and bay". A dog at the Williams farm bays at Bast.
+Auri sees goats,garden and honey all which the williams have as well: 
+
+> There was a pen with a trio of *goats* on one side of the house, and a
+> large welltended *garden* on the other. It was fenced thickly with lashed-together
+> sticks, but Bast could see straight lines of flourishing greenery inside.
+> Carrots. He still needed carrots. Craning his neck a bit, Bast saw several
+> large, square boxes behind the house. He took a few more steps to the side and
+> eyed them before he realized
+> they were beehives. Just then there was a great storm of barking and two great
+> black, floppyeared dogs came bounding from the house toward Bast, *baying* for all
+> they were worth. 
+
+Either child of Nettie could be the one Auri see's, likely the baby: 
+
+> A little girl peeked
+> out from around the woman’s faded blue skirt, nothing more than a pair of
+> serious *dark eyes*.
+
+> The darkeyed girl emerged from behind her mother and went to peer down at
+> the baby. 
+
+Auri sees the bearskin Jessom got from hunting:
+
+> “He (Jessom) *traps and hunts* for the most part these
+
+Nettie has bee's and so her farm would have honey which Auir takes:
+
+>  She (Nettie) looked a little puzzled at that until Bast nodded toward the
+> *wooden hives*
+
+Nettie makes candles which explains the *suet* Auri sees:
+
+> ..  “Oh,” she (Nettie) said, as if remembering a
+> halfforgotten dream. “I used to do *candles and honey*. 
+
 # End
 
 Thanks for reading! 
 
-Here is are some bonus sections that are a bit rougher and more abstract. Those are "not nowhere" and "nowhere at all", where we go down the rabbit whole.
+Here is are some bonus sections that are a bit rougher and more abstract. Those "lighting Tree and silence"
+are "not nowhere" and "nowhere at all", where we go down the rabbit whole.
 That's followed by some necessary book keeping: credits, citations and rights.
+
+## Lighting Tree
+
+Later, Auri mentions to Kvothe that she saw a tree that looks like lighting in TWMF::195
+
+> “I was looking at the lightning,” she said, sniffling. Then, “I saw one that looked like a tree.”
+> “What was in the lightning?” I asked softly.
+> “Galvanic ionization,” she said. Then, after a pause, she added, “And river-ice. And the sway a
+> cattail makes.”
+
+I'll leave you to ponder the implications. We will return to this later in the Warrens series.
 
 ## not nowhere
 
-Pat is to clever by half. His best tricks are to set up at least three meanings to a phrase or comment. Newarre is no different. The careful observer will note it's similarity to "nowhere". But a madman will note
+Pat is to clever by half. His best tricks are to set up at least three meanings to a phrase, comment or word. Newarre is no different. The careful observer will note it's similarity to "nowhere". But a madman will note
 it's similarity to _new warren_. 
 
 I'm not going to flush the meaning of that here, but I will suggest you ponder the word _warren_. It's use
@@ -971,8 +1247,11 @@ purchases from them greatly and hope using them this isn't stepping on any toes.
 
 ## credit
 
-Thanks to Yamus and Biologin, who might not agree with my ideas, but are
-critical thinkers and ask good questions.
+Special thanks to 
+
+* u/playtheboard and u/RhinataMorie for reviewing and chatting with me.
+* Yamus and u/Biologin, who might not agree with my ideas, but are critical thinkers and ask good questions.
+* u/Drue80, who played no role in this theory, but deserves far more respect then they [got](https://www.reddit.com/r/KingkillerChronicle/comments/ez5qyi/auri_why/?utm_source=share&amp;amp;amp;amp;amp;amp;utm_medium=ios_app&amp;amp;amp;amp;amp;amp;utm_name=iossmf)
 
 ## Citations
 
