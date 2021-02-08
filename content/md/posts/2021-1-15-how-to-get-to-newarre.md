@@ -1119,7 +1119,7 @@ Likely, its Nettie's daughter with the _serious dark eyes_ that spots Auri, only
 > out from around the woman’s faded blue skirt, nothing more than a pair of
 > serious *dark eyes*.
 
-Auri sees the bearskin Jessom got from hunting:
+Auri sees the bearskin, with wouldn't be out of place given Jessom hunts:
 
 > “He (Jessom) *traps and hunts* for the most part these
 
@@ -1128,7 +1128,7 @@ Nettie has bee's and so her farm would have honey which Auir takes:
 >  She (Nettie) looked a little puzzled at that until Bast nodded toward the
 > *wooden hives*
 
-Nettie makes candles which explains the *suet* Auri sees:
+Nettie makes candles which explains the *suet* Auri sees and takes:
 
 > ..  “Oh,” she (Nettie) said, as if remembering a
 > halfforgotten dream. “I used to do *candles and honey*. 
@@ -1137,9 +1137,10 @@ Nettie makes candles which explains the *suet* Auri sees:
 
 Thanks for reading! 
 
-Here is are some bonus sections that are a bit rougher and more abstract. Those "lighting Tree and silence"
-are "not nowhere" and "nowhere at all", where we go down the rabbit whole.
-That's followed by some necessary book keeping: credits, citations and rights.
+Here is are some bonus sections that are a bit rougher and more abstract. Those
+"lighting Tree and silence" are "not nowhere" and "nowhere at all", where we go
+down the rabbit whole. That's followed by some necessary book keeping: credits,
+citations and rights.
 
 ## Lighting Tree
 
@@ -1147,8 +1148,7 @@ Later, Auri mentions to Kvothe that she saw a tree that looks like lighting in T
 
 > “I was looking at the lightning,” she said, sniffling. Then, “I saw one that looked like a tree.”
 > “What was in the lightning?” I asked softly.
-> “Galvanic ionization,” she said. Then, after a pause, she added, “And river-ice. And the sway a
-> cattail makes.”
+> “Galvanic ionization,” she said. Then, after a pause, she added, “And river-ice. And the sway a cattail makes.”
 
 I'll leave you to ponder the implications. We will return to this later in the Warrens series.
 
