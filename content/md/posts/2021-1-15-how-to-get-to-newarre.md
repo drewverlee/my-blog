@@ -23,8 +23,9 @@ Vint!". That's something we can all think about and I might be able to address.
 So I'm going to break this into several parts:
 
 1. Auri visiting the Mauthen Farm and then Newarre
-2. listening to the Author
+2. listen three times
 3. Maps
+4. Time
 4. Other considerations and counter arguments
 5. Getting to Newarre
 
@@ -176,6 +177,23 @@ misleading as they are at times, its better then nothing. You should head down t
 I'll use the old map and old ways are best.
 
 <img src="/img/old-kkc-map.jpg" height="325px" width="450px">
+
+# Time
+
+Auri visits Newarre and the Mauthen Farm on _her_ 2nd day. 
+
+> WHAT A LOOK ENTAILS
+> THE SECOND DAY, Auri woke to silence in the perfect dark. That meant a turning day.
+
+This corresponds to Hepten the week of admissions for kvothe in TWMF. see wasn't that easy? Oh you want proof. 
+
+
+Auri gives the candle to Kvothen on Cendling/10. The same day Kvothe goes through admissions
+
+Which is day 6 for Auri. This makes day 5 (Orden) Auri's day 1. So auri's day 3 would be day 7.  Chaen/Caenin.
+
+
+
 
 # Other considerations & Counter arguments
 
