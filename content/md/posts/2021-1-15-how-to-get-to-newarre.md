@@ -1008,7 +1008,7 @@ and highlight similarities.
 > **tiny farmhouse** tucked among the trees. Surprised but pleased. It was a seemly place.
 > **All stone, with slate upon its pointed roof**. 
 > Auri made her way around the **garden** to the **barn**. There was a strange
-> *dog there, all gristle and bay*. It massed half again as much as her, its
+> **dog there, all gristle and bay**. It massed half again as much as her, its
 > shoulders coming nearly to her chest. It stepped out of the shadows when she
 > came close to the **barn**. It was **black**, with a thick neck and scars all cross its
 > face. One ear was ragged and chewed from some forgotten
