@@ -50,7 +50,7 @@ This requires you to read the chapter "A quite uncommon pleasant place" in
 SROST. and pages 766 to 771 in TLT. Pulling direct references would become
 tiresome quickly for you as it would be nearly everything between those pages
 and you wouldn't have the narrative to help. That being said, I'll go ahead and
-cover that in a section called "Covering the text"
+do that in a section called "Covering the text"
 
 For now, I'm just going to bullet point them.
 
@@ -61,19 +61,18 @@ For now, I'm just going to bullet point them.
 Relationships between the Farm Auri's visit (SROST) and the Williams Farm
 (TLT):
 
-* The girl that sees Auri with her serious eyes is one of Nettie's daughters.
-  Likely the younger of the two, or possible a Child Nettie had with Bast. Given
-  they sleep together and some rather strong fore shadowing about "catching the
-  queen".
-* The same *black dog* bay's at Auri and Bast*
+* The girl that sees Auri with her serious eyes is likely Nettie's older daughter.
+* The same *black dog* bay's at Auri and Bast
 * Nettie has a trio of Goat's, Auri meets one or a relative.
 * The honey that Auri takes is from Nettie, who has bee hives and also uses it
   for candles.
 * The farmhouse Auri visits has a bearskin upon a rack to cure and Rikes father
-  Jessom hunts, traps and tans.
+  Jessom hunts, traps and likely tans.
 * Both the farmhouse Auri visits farmhouse and the Williams have a garden.
 * Both have gardens
-* Both locations have a barn.
+* Both locations have a barn and the _hard years_ between when Auri visits and 
+when Bast does would explain why its in disarray, the stone bottom remains, but in Bast's timeframe
+the wooden roof has rotted off.
 * Auri's Farmhouse has a Churn which could be used to make butter, which the
   Williams have.
 * Auri finds suet, and Nettie makes candles which are made suing suet.
@@ -137,15 +136,15 @@ Here are the ways in which the Mauthen Farm is like the graveyard Auri visit's i
 chapter in SROST chapter "A Quite Uncommon Place":
 
 * Auri visit's a graveyard, The Barrows/Mauthen Farm are a grave/bone yard as the
-  pig farmer mentions the Mathen's dug up bones.
+  pig farmer mentions the Mauthen's dug up bones.
 * Auri finds pine cones in the area, The Mauthen Farm has pine trees which could
   drop them.
 * The Mauthen Farm is said to have a "stone outcropping", which might be
   gravestones Auri sees.
 * They both have mushrooms & acorns.
 * The monument Auri sees could be the Barrow itself. Note, a monumnnt can refer
-  to a statue or other structure placed by or over a grave in memory o the
-  dead_
+  to a statue or other structure placed by or over a grave in memory of the
+  dead
 * The Iron fence from the graveyard could be the Iron Wheel in Town near the
   farm
 
@@ -161,10 +160,6 @@ some speculative and metaphorical evidence before going on:
 Those are some strong connections and some weaker ones. As it stands however,
 compared to other locations in the book, It's far more likely to be the Mauthen
 farm.
-
-
-
-
 
 # Listen three times.
 
@@ -278,9 +273,9 @@ named _master ash_ for Denna's mysterious Patron. sense this implies Auri's trip
 happened long after Kvothe's visit there. I'll note the leaf has little to do with
 the rest of the theory and so if it helps you can ignore that part of the theory for now.
 
-Secondly, Auri's perception of time and our understanding of it might be skewed. I'll ask you to kindle consider
-that Auri might have visited either or both locations _long_ before the timeframe suggested here. Shifting
-some facts. e.g the girl that sees Auri _being Nettie_, etc... rather then her daughter. Best to keep an open mind.
+Secondly, Auri's perception of time and our understanding of it might be skewed. Making it hard
+to be sure how much time has passed between Kvothes, Auri's and Bast's visit.
+
 
 # Other considerations & Counter arguments
 
@@ -1095,7 +1090,7 @@ and highlight similarities.
 
 Bast visit is sometime after Auri's likely 5 plus years.
 
-Both Auri and Bast see a Barn. Given several _hard_ years have come to the Willams, 
+Both Auri and Bast see a Barn. Given several _hard_ years have come to the Williams, 
 its not surprising the barn has fallen in to disrepair:
 
 > The tall *barn* had fallen into disrepair and half the
@@ -1118,14 +1113,11 @@ Auri sees goats,garden and honey all which the williams have as well:
 > black, floppyeared dogs came bounding from the house toward Bast, *baying* for all
 > they were worth. 
 
-Either child of Nettie could be the one Auri see's, likely the baby: 
+Likely, its Nettie's daughter with the _serious dark eyes_ that spots Auri, only several years younger:
 
 > A little girl peeked
 > out from around the woman’s faded blue skirt, nothing more than a pair of
 > serious *dark eyes*.
-
-> The darkeyed girl emerged from behind her mother and went to peer down at
-> the baby. 
 
 Auri sees the bearskin Jessom got from hunting:
 
