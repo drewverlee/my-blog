@@ -179,18 +179,15 @@ I'll use the old map and old ways are best.
 
 # Time
 
-Auri visits Newarre and the Mauthen Farm on _her_ 2nd day. 
-
-> WHAT A LOOK ENTAILS
-> THE SECOND DAY, Auri woke to silence in the perfect dark. That meant a turning day.
-
-This corresponds to Hepten, the same span as admissions for kvothe in TWMF. Auri
-gives the candle to Kvothe on Cendling/10. Which has a nice ring to it, a candle
-on C*a*ndlng. Almost like its on purpose? The day before admissions, kvothe was
-stuck in his rooms crying. This was a *g*reaving day. This would place the day
-Auri's day 3 where she wept with Chaen/7. That number seems to cause a lot of
-pain. She starts gathering her candle materials, from the The Twelve (a pool),
-on Orden. Which I always get confused with Ordal. 
+Auri visits Newarre and the Mauthen Farm on _her_ 2nd day. This corresponds to
+Hepten, in the same span as admissions for kvothe at the start of TWMF. 
+Working backward Auri gives the candle to
+Kvothe on Cendling/10. Which has a nice ring to it, a candle on C*a*ndlng.
+Almost like its on purpose? The day before admissions, kvothe was stuck in his
+rooms crying. This was a *g*reaving day. This would place the day Auri's day 3
+where she wept with Chaen/7. That number seems to cause a lot of pain. She
+starts gathering her candle materials, from the The Twelve (a pool), on Orden.
+Which I always get confused with Ordal. 
 
 Here is a table, that will likely come in handy in future posts. Note that
 "-" just means I'm not commenting, not that nothing happened.
