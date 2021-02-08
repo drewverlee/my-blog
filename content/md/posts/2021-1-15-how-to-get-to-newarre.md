@@ -8,8 +8,18 @@
 ### Intro
 
 A prerequisite for enjoying and understanding this theory is
-that you have read Name of the Wind (NOTW), The Wise Mans Fears (TWMF), The
-Lighting Tree (TLT) and The Slow Regard of Silent Things (SROST). 
+that you have read several books that used to bring it together: 
+
+* Name of the Wind (NOTW)
+* The Wise Mans Fears (TWMF)
+* The Lighting Tree (TLT) 
+* The Slow Regard of Silent Things (SROST). 
+
+It would also help to have read "History of Tak", but isn't critical. 
+
+Without careful inspection of each of these, most of this theory will be confusing or worse, ruin
+the fun for you. Ideally, any reader considers themselves well versed in KKC lore and feels
+there are few if any doors left to open before book three. 
 
 ----
 
@@ -19,9 +29,9 @@ posts which I'll link to. The bulk of this theory is a piece of another titled
 [Warren Widdershins Ways and Woes](/posts-output/2021-1-15-bone-and-crystal)
 in which Auri gets the ingredients for a candle. To get those ingredients, she
 travels to the Mauthen Farm and the Williams Farm. The Williams are farmers who live in Newarre,
-which is just some miles across the stream from the Mauthen Farm.
+which, as this theory claims, is just some miles across the stream from the Mauthen Farm.
 
-That post isn't written to highlight the locations however, it covers this
+_That_ post isn't written to highlight the locations however, it covers _some_ of this
 material, but it doesn't hammer it down like we're going to do here. In the end,
 I would like to hear your thoughts, the more specific the observation the
 better. e.g "but old cob prefers a wine from Vintas, that suggests they're in
