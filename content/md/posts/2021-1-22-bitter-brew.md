@@ -320,8 +320,7 @@ The honey wax Bast gets from Nettie, a gentle men would say it was given, a cyni
 say traded, a monster would have taken it. The feeling matters, it was given. Does it represent
 sex? love? A bit of both most likely.
 
-I'm not going to cover the river stone here. It's part of a larger puzzle, That I cover in The Warrens Theory. That brings 
-us to this:
+I'm not going to cover the river stone here. It's part of a larger puzzle, that I cover in the larger Warrens Theory. That brings us to this:
 
  <table style="width:100%" style="padding:0 100px;" >
   <tr>
@@ -339,7 +338,7 @@ us to this:
   <tr>
     <td style="padding:0 15px 0 15px;">Needle</td>
     <td style="padding:0 15px 0 15px;">Borrowed</td>
-    <td style="padding:0 15px 0 15px;">No men  </td>
+    <td style="padding:0 15px 0 15px;">No men </td>
     <td style="padding:0 15px 0 15px;">To send Ricks father away</td>
   </tr>
  <tr>
