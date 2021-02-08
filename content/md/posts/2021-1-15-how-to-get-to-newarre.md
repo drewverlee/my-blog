@@ -924,33 +924,33 @@ Notable, the evidence for the Muathen farm is thinner, I suspect I might be miss
 some meaning to _ivy_ and the _stone with letters worn away_. I have 
 
 
-> Auri found the place while picking *pine cones*. A small, *forgotten graveyard,
-> stones overgrown with ivy*. *Roses* ran wild, climbing the remains of an ancient
-> wrought *iron fence*. Arms close to her body, hands beneath her chin, Auri stepped
+> Auri found the place while picking **pine cones**. A small, **forgotten graveyard,
+> stones overgrown with ivy**. **Roses** ran wild, climbing the remains of an ancient
+> wrought **iron fence**. Arms close to her body, hands beneath her chin, Auri stepped
 > into the graveyard. Her tiny feet were silent as she moved among the stones. The
 > moon was out again, but she was lower now, and bashful. Auri smiled at her, glad
 > for the company now that she was no longer On Top of Things and Haven was far
-> gone behind. Here on the edge of the clearing the moon showed *acorns* scattered
+> gone behind. Here on the edge of the clearing the moon showed **acorns** scattered
 > on the ground. Auri spent a few minutes picking up the ones with perfect hats
 > and tucking them into her gathersack. She strolled between the stones, stopping
-> at a *broken one, the letters worn away with rain and age*. She touched it with
-> two fingers and moved on. She lifted up the *ivy on a monument*, then turned to
-> see the *laurel tree* that loomed in the far corner of the yard. Its roots were
+> at a **broken one, the letters worn away with rain and age**. She touched it with
+> two fingers and moved on. She lifted up the **ivy on a monument**, then turned to
+> see the **laurel tree** that loomed in the far corner of the yard. Its roots were
 > all among the stones, its branches spread above. It was a lonely thing. All odd
 > and out of place. Stepping close, her small feet fitting neatly in between the
 > roots, Auri pressed her hand against the tree’s dark trunk. She breathed in deep
 > the warm scent of its leaves. She slowly circled it and spied a dark gap down
 > among the roots.
 > 
-> Nodding, Auri reached into her gathersack and brought out the *bone* that she had
+> Nodding, Auri reached into her gathersack and brought out the **bone** that she had
 > found the day before. She bent down and tucked it deep inside the dark and
 > hollow space beneath the tree. She smiled with satisfaction.
 > 
 > Standing, she dusted off her knees and stretched. Then she began to pick the
-> *small blue laurel fruit* and put them in her gathersack as well.
+> **small blue laurel fruit** and put them in her gathersack as well.
 > 
-> She explored the forest after that. She found a *mushroom*, which she ate. She
-> found a leaf and *breathed* on it. She looked up at the stars.
+> She explored the forest after that. She found a **mushroom**, which she ate. She
+> found a **leaf and breathed*** on it...
 
 One idea is that this could be the cite of Myr Tariniel. Which might also be the
 tower mentioned in old holly that is covered in _vines_. This idea won't feel
@@ -985,14 +985,14 @@ NOTW:71:234
 ### Auri
 
 > Later still, Auri
-> crossed a *creek* she’d never seen before and was surprised to find a tiny
+> crossed a **creek** she’d never seen before and was surprised to find a tiny
 > farmhouse tucked among the trees.
 
 ### Kvothe And Denna
 
 NOTW:72:
 
-> We wandered wordlessly away from our search, neither one of us wanting to admit that we were eager to give it up, both of us feeling in our bones how pointless it was. We followed the sound of running water down the hill until we pushed through a thick stand of *pine trees* and came upon a lovely, deep *stream* about twenty feet across.
+> We wandered wordlessly away from our search, neither one of us wanting to admit that we were eager to give it up, both of us feeling in our bones how pointless it was. We followed the sound of running water down the hill until we pushed through a thick stand of **pine trees** and came upon a lovely, deep **stream** about twenty feet across.
 
 ## Williams Farm ~ farm Auri visits
 
@@ -1004,20 +1004,19 @@ I'll leave Auri's as one whole piece and i'll chop up what Bast sees
 and highlight similarities. 
 
 > Later still, Auri
-> crossed a *creek* she’d never seen before and was surprised to find a 
-> *tiny farmhouse* tucked among the trees. Surprised but pleased. It was a seemly place.
-> *All stone, with slate upon its pointed roof*. 
-
-> Auri made her way around the *garden* to the *barn*. There was a strange
+> crossed a **creek** she’d never seen before and was surprised to find a 
+> **tiny farmhouse** tucked among the trees. Surprised but pleased. It was a seemly place.
+> **All stone, with slate upon its pointed roof**. 
+> Auri made her way around the **garden** to the **barn**. There was a strange
 > *dog there, all gristle and bay*. It massed half again as much as her, its
 > shoulders coming nearly to her chest. It stepped out of the shadows when she
-> came close to the *barn*. It was *black*, with a thick neck and scars all cross its
+> came close to the **barn**. It was **black**, with a thick neck and scars all cross its
 > face. One ear was ragged and chewed from some forgotten
 > fight. It padded closer to her, massive head held low, moving suspiciously
 > from side to side, eyeing her. Auri grinned and held out her hand. The dog
 > snuffled at her, then licked her fingers before making a great gawp of a yawn
-> and settling down to sleep. *The barn was huge: stone below with painted wood
-> above.* The doors were closed and fastened with a fat iron paddock lock. But high
+> and settling down to sleep. **The barn was huge: stone below with painted wood
+> above.** The doors were closed and fastened with a fat iron paddock lock. But high
 > above, the hayloft was thrown wide to greet the night. Auri climbed the
 > ivy-knotted stone as quickly as a squirrel. She went slower up the second half,
 > the barn-boards odd against her fingers and her feet. The barn was full of musk
@@ -1025,17 +1024,17 @@ and highlight similarities.
 > wooden walls. Auri opened Foxen’s tiny box, and his blue-green light welled out
 > to fill the open space. An old horse nuzzled Auri’s neck as she walked by his
 > stall. She smiled at him and took the time to brush his tail and mane. There was
-> a pregnant nanny *goat* which bleated out a greeting. Auri scooped some grain into
+> a pregnant nanny **goat** which bleated out a greeting. Auri scooped some grain into
 > her trough. There was a cat, and they ignored each other. Auri spent some time
 > there, looking over everything. The grindstone. The quern. The small,
-> well-fitted *churn*. A *bearskin* stretched upon a rack to cure. *It was a quite
-> uncommon, pleasant place.* Everything was tended to and loved. Nothing she could
+> well-fitted **churn**. A **bearskin** stretched upon a rack to cure. **It was a quite
+> uncommon, pleasant place.** Everything was tended to and loved. Nothing she could
 > see was useless, lost, or wrong. Well, nearly nothing. Even the tightest ship
 > lets slip a little water. A single turnip had gone tumbling from its bin to lie
 > abandoned on the floor. Auri put it in her gathersack. There was a large stone
 > sweatbox, too. It was stacked with slabs of ice, each thicker than a cinder
 > brick and twice as long. Inside she found butchered meat and *sweet cream butter*.
-> There was a lump of *suet in a bowl*, a sheet of **honeycomb upon a tray. The suet
+> There was a lump of **suet in a bowl**, a sheet of **honeycomb** upon a tray. The suet
 > was enraged. It was a storm of autumn apples, age, and anger. It wanted nothing
 > more than to be on its way. She tucked it deep inside her bag. Oh. But the
 > honeycomb. It was lovely. Not one bit stolen. The farmer loved the bees and did
@@ -1064,24 +1063,7 @@ and highlight similarities.
 > its own accord, slowly drifting to surround her face as gently as a puff of
 > smoke. Moving nothing but her eyes, Auri saw her. Up on the second floor, in the
 > blackness of an open window, Auri saw a pale face even smaller than her own. A
-> *little girl was watching her*, eyes wide, a tiny hand against her mouth. What had
-> she seen? Foxen’s green light shining through the slats? Auri’s tiny shape,
-> obscured by hair like thistlepuff, barefoot in the moonlight? Auri’s sudden
-> smile was hidden by the curtain of her hair. She did a cartwheel then. Her first
-> in ages. Her fine hair following, a comet tail. She cast her eyes around and saw
-> a tree, a dark hole in its trunk. Auri danced toward it, twirling and leaping,
-> then bent to look inside the hole. Then, her back o the farmhouse, Auri opened
-> Foxen’s box and heard a single tiny gasp thread through the silent night behind
-> her. She pressed one hand against her mouth so that she wouldn’t laugh. The hole
-> was perfect, just deep enough so that a little girl could reach inside and feel
-> around. If she were curious, that is. If she were brave enough to stick her arm
-> in nearly to her shoulder.
-> 
-> Auri pulled the crystal from her pocket. She kissed it, brave explorer that it
-> was, and lucky too. It was the perfect thing. This was the perfect place. True,
-> she was no longer in the Underthing. But even so, this was so true it could not
-> be denied. She wrapped the crystal in a leaf and lay it in the bottom of the
-> hole. Then she ran into the trees, dancing, leaping, giggling high and wild.
+> **little girl was watching her**, eyes wide, a tiny hand against her mouth...
 
 
 
@@ -1093,45 +1075,45 @@ Bast visit is sometime after Auri's likely 5 plus years.
 Both Auri and Bast see a Barn. Given several _hard_ years have come to the Williams, 
 its not surprising the barn has fallen in to disrepair:
 
-> The tall *barn* had fallen into disrepair and half the
+> The tall **barn** had fallen into disrepair and half the
 > roof gaped open to the sky. Walking up the long path through the
 > fields, Bast turned a corner and saw Rike’s house. It told a different story
-> than the *barn*. It was small but tidy. The shingles needed some repair, but other
+> than the **barn**. It was small but tidy. The shingles needed some repair, but other
 > than that, it looked well loved and tended-to. 
 
 
 Auri see a dog "all gristle and bay". A dog at the Williams farm bays at Bast.
 Auri sees goats,garden and honey all which the williams have as well: 
 
-> There was a pen with a trio of *goats* on one side of the house, and a
-> large welltended *garden* on the other. It was fenced thickly with lashed-together
+> There was a pen with a trio of **goats** on one side of the house, and a
+> large welltended **garden** on the other. It was fenced thickly with lashed-together
 > sticks, but Bast could see straight lines of flourishing greenery inside.
 > Carrots. He still needed carrots. Craning his neck a bit, Bast saw several
 > large, square boxes behind the house. He took a few more steps to the side and
 > eyed them before he realized
 > they were beehives. Just then there was a great storm of barking and two great
-> black, floppyeared dogs came bounding from the house toward Bast, *baying* for all
+> black, floppyeared dogs came bounding from the house toward Bast, **baying** for all
 > they were worth. 
 
 Likely, its Nettie's daughter with the _serious dark eyes_ that spots Auri, only several years younger:
 
 > A little girl peeked
 > out from around the woman’s faded blue skirt, nothing more than a pair of
-> serious *dark eyes*.
+> ** serious dark eyes**.
 
 Auri sees the bearskin, with wouldn't be out of place given Jessom hunts:
 
-> “He (Jessom) *traps and hunts* for the most part these
+> “He (Jessom) **traps and hunts** for the most part these
 
 Nettie has bee's and so her farm would have honey which Auir takes:
 
 >  She (Nettie) looked a little puzzled at that until Bast nodded toward the
-> *wooden hives*
+> **wooden hives**
 
 Nettie makes candles which explains the *suet* Auri sees and takes:
 
 > ..  “Oh,” she (Nettie) said, as if remembering a
-> halfforgotten dream. “I used to do *candles and honey*. 
+> halfforgotten dream. “I used to do **candles and honey**. 
 
 # End
 
