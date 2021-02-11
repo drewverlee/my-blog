@@ -31,11 +31,13 @@ on several elements that will discuss individually, either here, or in other
 posts which I'll link to. The bulk of this theory is a piece of another titled
 [Warren Widdershins Ways and Woes](/posts-output/2021-1-15-bone-and-crystal)
 in which Auri gets the ingredients for a candle. To get those ingredients, she
-travels to the Mauthen Farm and the Williams Farm. The Williams are farmers who live in Newarre,
-which, as this theory claims, is just some miles across the stream from the Mauthen Farm.
+travels to the Mauthen farm and the Williams farm. The Williams are farmers who live in Newarre,
+which, as this theory claims, is just some miles across the stream from the Mauthen arm.
 
-_That_ post isn't written to highlight the locations however, it covers _some_ of this
-material, but it doesn't hammer it down like we're going to do here. In the end,
+_That_ post isn't written to highlight the locations however, it covers what she
+is doing at the Farms and doesn't try to prove that they _are_ the Williams and
+Mauthens Farms.
+
 I would like to hear your thoughts, the more specific the observation the
 better. e.g "but old cob prefers a wine from Vintas, that suggests they're in
 Vint!". That's something we can all think about and I might be able to address.
@@ -659,13 +661,17 @@ knows the way things are going. TLT:
 
 A long damn way indeed.
 
-## counter arguments
+## What no defense?
 
-I purpose that Newarre is in the Commonwealth and it's near Trebon.
-Will be more specific later, but first, let us address some counter-arguments
-and preexisting works and see if anything blows a hole in this idea. Parts of my
-answers will be covered else where in this post but I want to respond to these
-concerns one at time so we don't overlook anything.
+<img src="/img/abenthy.webp" height="270px" width="350px">
+
+
+I purpose that Newarre is in the Commonwealth and it's near Trebon. This idea
+likely isn't new, but it has some issues that need to be resolves. So let us
+address some counter-arguments and preexisting works and see if anything blows a
+hole in this idea. Parts of my answers will be covered else where in this post
+but I want to respond to these concerns one at time so we don't overlook
+anything.
 
 One of the more cited pieces on Newarre is this post in 2012 on
 [tor](https://www.tor.com/2012/05/10/rothfuss-reread-speculative-summary-10-the-road-to-newarre/).

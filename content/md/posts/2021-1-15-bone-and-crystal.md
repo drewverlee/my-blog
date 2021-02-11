@@ -70,9 +70,11 @@ observe him working his craft in the book "The Lighting Tree". Similarly, you
 will need to have some understanding of [Alchemy](/posts-output/2021-1-23-alchemy) in order
 Auri's candle making.
 
-If you find yourself doubting that Auri is really visiting these locations, then
-read [How to get to Newarre](/posts-output/2021-1-15-how-to-get-to-newarre)
-where I isolate the topic. If you doubt that Auri could get there quickly, then
+Most importantly, if you find your self in doubt that Auri is visiting *Newarre and the Mauthen farm* the read 
+[How to get to Newarre](/posts-output/2021-1-15-how-to-get-to-newarre)
+where I isolate the topic. I won't be covering that here, as it's too distracting
+
+If you doubt that Auri could get there quickly, then
 read [Ways to safe places](/posts-output/2021-1-23-ways-to-safe-places). Each
 post will try to have summery or conclusion at the top. If you agree with it,
 confidently move on.
@@ -166,9 +168,9 @@ Roughly seven associations. After retrieving the bone, Auri puts it near some ho
 
 Holly is a topic all on it's own that I ramble about
 [here](https://drewverlee.github.io/posts-output/2021-1-24-holly). You might
-want to refer back to it later, for now lets move on. What Auri does next is put, I would argue
-_trades_, the bone for Laurel Fruit, by placing the Bone inside the Laurel Tree.
-SROST:4:70:
+want to refer back to it later, for now lets move on. What Auri does next is
+put, I would argue _trades_, the bone for Laurel Fruit, by placing the Bone
+inside the Laurel Tree. SROST:4:70:
 
 <img src="/img/gravetree.jpg" height="300px" width="300px">
 
@@ -178,31 +180,23 @@ SROST:4:70:
 
 > Then she began to pick the small blue laurel fruit and put them in her gathersack as well.
 
-I dive into if this could be the Latantha or the Cthaeh's tree [here](https://drewverlee.github.io/posts-output/2021-1-14-gravetree). In the 
-end I choose the Mauthen Farm. Were going to recap the similarities here, but if you want a more detailed focus look the two locations
-read  [here](/posts-output/2021-1-15-how-get-get-to-newarre).
-
-### The Mauthen Farm: Hawks and rabbits
+I dive into if this could be the Latantha or the Cthaeh's tree
+[here](https://drewverlee.github.io/posts-output/2021-1-14-gravetree). In the
+end I chose the Mauthen Farm, because there is more evidence. A gentle reminder
+that I cover the locations in detail in my post [How to get to
+Newarre](/posts-output/2021-1-15-how-get-get-to-newarre).
 
 <img src="/img/farmer.jpg" height="500px" width="350px">
 
-Here are the ways the graveyard visits are like the Mauthen Farm:
+More importantly, what is our little Auri doing at barrow-hill? Is she just
+being cute whimsical harmless Auri? Dancing around seeing the proper ways of
+things? Is this connected to some magic we have seen or have yet to see? I don't
+recall an emphasis being put on any particular tree on the Farm, could the
+Laurel tree represent something else to Auri? The barrow itself? Could it stand
+for Kvothe's mother Laurel? What does it mean for the story? Will cover this at
+the end, in the section "The Book of Secrets".
 
-* The Barrows are a grave/bone yard, the pig farmer mentions the Mathen's dug up bones.
-* The Oak trees at the farm could be responsible for 
-* Auri finds pine cones in the area, The Farm has pine trees which could leave them.
-* The Farm is said to have a "stone outcropping", which might be gravestones auri sees.
-* They both have mushrooms.
-* The leaf Auri breaths on could be the one Kvothe swallows. 
-* The graveyard Ivy could be how The Denner Tree's near the farm make addicts teeth white. 
-* The Iron fense from the graveyard could be the Iron Wheel in Town near the farm
-* Verinan, who kvothe compares to a _Verinan_ red flower, could be the graveyard rose.
-
-So if this is the Mauthen farm whats the lesson? Is the Laurel Tree the barrow
-itself, could it stand for Kvothe's mother Laurel? What does it mean for the
-story? Will cover this at the end, in the section "The Book of Secrets".
-
-This is the end of the arm bone's story, though it contains through the Laurel
+This is the end of the arm bone's journey, though it continues through the Laurel
 Fruit which will pick up later. Next we will focus on the other item she finds,
 a Crystal and the similarities its shares with Selitos.
 
@@ -218,14 +212,16 @@ Auri finds a Crystal in the Underthing. SROST:1:27:
 > close, she saw a crystal had fallen from the chandelier to lay unbroken on the
 > floor. It was a lucky thing, and brave.
 
-The Crystal is like the mountain glass seltios used to stab his eye. The
-connection is thin here, only that Crystal is similar to glass. What do we
-know about "mountain glass"? However, the connection is immediately strengthened
-as The Crystal is put near an Ciridae, given Selitos was their founder.
+The Crystal is like the mountain glass Seltios used to stab his eye. The
+relationship here is thin here, only that Crystal is similar to glass. But it's
+immediately strengthened as the Crystal is put near a Ciridae doll. Given Selitos was the
+founder of the Amyr, of whom the Ciridae were the highest rank, this gives us two connections
+to the lord of Myr Tariniel.
 
 <img src="/img/Pairs_Commonwealth_Amyr.webp" height="400px" width="320px" >
 
-Here are the relevant parts about the Ciridae doll. SROST:1:28
+Let's take a look at the relevant parts in SROST about the doll, just to show that
+indeed, she calls it a Ciridae and groups it with the Crystal. SROST:1:28
 
 > It was a tiny figurine carved from a piece of pale, retiring stone. A small
 > soldier with clever lines to show his hauberk and his shield. But his truest
@@ -234,42 +230,29 @@ Here are the relevant parts about the Ciridae doll. SROST:1:28
 > room. The poor thing was simply lost. Auri smiled and put the doll in her
 > pocket with the crystal
 
-Later we learn more. SROST:10:146:
+Later we learn more about the doll. SROST:10:146:
 
 > the design upon its shield. It was so faint. But yes. There was the tower
 > wrapped up in a tongue of flame. No mere soldier, it was a small stone Amyr.
 > Peering closer, Auri spied slight lines upon his arms as well. She did not
 > know how she had missed these things before. It was a tiny Ciridae.
 
-Later Auri adds white tatted lace to the same pocket as the Ciridae and Crystal. SROST:1:32
+After that, Auri adds white tatted lace to the same pocket as the Ciridae and Crystal. SROST:1:32
 
 > she found a length of fine white tatted lace. She folded this up carefully and
 > put it in her pocket with the crystal and the small stone soldier
 
-The white tatted lace is likely related to Nettie William, Rike's mom. A
-connection which, will I'll explain shortly. 
+The white tatted lace is likely symbolizes Nettie Williams, Rike's mom. 
 
 <img src="/img/bastandgirl.jpg" height="350px" width="210px" align="right">
 
-Finally, Auri trades the Crystal for butter & honeycomb, when she leaves the
-Crystal under the Lighting Tree near Rike's house. 
+Finally, Auri trades the Crystal for the William's butter & honeycomb. She
+leaves the Crystal under the Lighting Tree near the Williams house. For reasons only Auri 
+can truly understand. Though later, will do our best to put it all together.
 
-Relationships between the Farm Auri's visits (SROST) and the Williams Farm (TLT):
-
-* The girl that see's Auri with her serious eye's is Nettie's daughter Tess.
-* The same dog bay's at Auri and Bast
-* Nettie has a trio of Goat's, Auri meets one or a relative.
-* The honey that Auri takes is from Nettie, who has bee hives and also uses it
-  for candles.
-* The farmhouse Auri visits has a bearskin upon a rack to cure and Rikes father
-  Jessom hunts and traps.
-* Both Auri's farmhouse and the Williams have a garden.
-* Both locations have a barn.
-* The etymology of [Nettie](https://en.wiktionary.org/wiki/nettie) is Net - tie, where net's are like tatted lace. 
-  
-This isn't the Cthaeh, so near a farm with milk, honey and curious eyes. This could possible
-be the Sword Tree, but while the butter has knifes. Their are no mountains to
-see, or swords. 
+This Tree isn't the Cthaeh, so near a farm with milk, honey and curious eyes. This
+could possible be the Sword Tree, but while the butter has knifes, their are no
+mountains, mercenaries or swords to see.
 
 So then, The Lighting Tree. 
 
@@ -277,7 +260,8 @@ So then, The Lighting Tree.
 
 ---------------------------
 
-That being established, we must review the trade Auri makes for the honey. This happens in three parts:
+I gave an overview, but let me highlight the relevant sections in SROST where
+Auri makes this trade. This happens in three parts:
 
 1. Auri trades for the Nettie's butter & honeycomb for her White Tatted Lace. 
 2. She is spotted by Tess, this increases the cost of the trade.
@@ -287,23 +271,23 @@ That being established, we must review the trade Auri makes for the honey. This 
 
 SROST:4:74
 
-1. trade. 
+1. The trade:
 
 > Carefully she brought out the length of fine white tatted lace. She folded it
 > and left it near the churn. It was the careful work of many long and drowsy
-> autumn days. It would find purpose in a place like this. Then Auri took the
+> autumn days. It would find **purpose** in a place like this. Then Auri took the
 > clean white cloth that had held the hollyberry earlier and rubbed it with some
 > butter.
 
-Sense she only takes a bit of butter, lets just round this down to honeycomb.
+She only takes a bit of butter and the honeycomb.
 
 <img src="/img/honey.jpg" height="200px" width="200px">
 
-2. spotted. 
+2. She is spotted by Tess. 
 
 > a prickle on her neck told her that she was being watched... A little girl was watching her
 
-3. debt paid 
+3. The debt between them is now higher, Auri has to give a bit more:
 
 > She cast her eyes around and saw a tree, a dark hole in its trunk ...
 
@@ -317,20 +301,21 @@ Sense she only takes a bit of butter, lets just round this down to honeycomb.
 > be denied. She wrapped the crystal in a leaf and lay it in the bottom of the
 > hole. 
 
-Does she mean for the girl to fall down the rabbit hole and go on mad fun
-adventures? Or is this a bobble, a bait, a way to float her down into the
-darkness.
+Does Auri mean for the girl go after this Crystal and fall down the rabbit hole.
+Going on mad fun adventures with queens and Cheshire cats? Or is this a bobble,
+a bait, a way to float her down into the maw of darkness.
 
 <img src="/img/alice.jpeg" height="500px" width="300px">
 
-Finally, What use does our white tatted lace find? TLT:
+Finally, what **purpose** does our white tatted lace find? TLT:
 
 > “I learned loads of things today, Reshi,” Bast protested. The
 > innkeeper sat up, looking more attentive. “Really?” he said. “Impress me then.”
 > Bast thought for a moment. “Nettie Williams found a wild hive of bees today,” he
 > said. “And she managed to catch the queen …”
 
-This is the end of the journey for the cyrstal, the begging of the honeycombs.
+I'll leave you to ponder the implications for now. This is the end of the
+journey for the cyrstal, the begging of the honeycombs.
 
 ## Interlude: tables
 
@@ -348,23 +333,22 @@ This is the end of the journey for the cyrstal, the begging of the honeycombs.
     <td>Arm Bone</td>
     <td>Holly Berry</td>
     <td>Laurel Fruit</td>
-    <td>Barrow, Sword, Cthaeh? </td>
+    <td>Barrow?</td>
   </tr>
   <tr>
     <td>Selitos</td>
     <td>Crystal</td>
     <td>Ciridae & lace</td>
-    <td>Honey & lace</td>
+    <td>Honey, butter & lace</td>
     <td>Lighting Tree</td>
   </tr>
 </table> 
 
 --------------------
 
-# The Light's Boundary
+# A flickering look
 
-Auri use's the honeycomb and laurel fruit to make a candle for kvothe. Much could be said, here. 
-Without elaborating, the ingredients are:
+ Auri use's the honeycomb and laurel fruit to make a candle for kvothe. Without elaborating, the ingredients are:
 
 * laurel fruit 
 * honey 
@@ -373,54 +357,8 @@ Without elaborating, the ingredients are:
 * daub of perfect pitch 
 * auri breath in whistle 
 
-Note, If the leaf kvothe swallowed on the Mauthen farm was the one Auri breathed
-on, then her whistle is the second reference to her breath in him. That alone,
-implies a lot. But we learn more as Auri find's that in the end she doesn't have
-time for the proper making of the candle, as too often is the case, when she is
-pressed upon time, she turns to Boundry, she goes beyond...
-
-SROST:10:142:
-
-> The other piece? That slender tenth part of a tenth? The heart of alchemy was
-> something Auri had learned long ago. She’d studied it before she came to
-> understand the true shape of the world. Before she knew the key to being small.
-> Oh yes. She’d learned her craft. She knew its hidden roads and secrets. All the subtle, sweet, and coaxing ways that
-> made one skilled within the art. So many different ways. Some folk inscribed,
-> described. There were symbols. Signifiers. Byne and binding. Formulae.
-> Machineries of maths... But now she knew much more than that. So much of what
-> she’d thought was truth before was merely tricks. No more than clever ways of
-> speaking to the world. They were a bargaining. A plea. A call. A cry. But
-> underneath, there was a secret deep within the hidden heart of things. Mandrag
-> never told her that. She did not think he knew. Auri found that secret for
-> herself. She knew the true shape of the world. All else was shadow and the sound
-> of distant drums. Auri nodded to herself. Her tiny face was grave. She scooped
-> the waxy fineground fruit into a sieve and set the sieve atop a gather jar. She
-> closed her eyes. She drew her shoulders back. She took a slow and steady breath.
-> There was a tension in the air. A weight. A wait. There was no wind. She did not
-> speak. The world grew stretched and tight. Auri drew a breath and opened up her
-> eyes. Auri was urchin small. Her tiny feet upon the stone were bare. Auri stood,
-> and in the circle of her golden hair she grinned and brought the weight of her
-> desire down full upon the world.
-> 
-> And all things shook. And all things knew her will. And all things bent to please her.
-
-<img src="/img/foxandhare.jpeg" height="450px" width="300px">
-
-
-_watch carefully daughter hare, hold quiet father fox_
-
-_For she knows the cruel games names play_
-<br>
-_and so often finds a gentler way._
-<br>
-_Yet, for him, these rules she would betray._
-
-_set a laurel a light_
-<br>
-_so too this Ash will burn,_
-<br>
-_then to flesh all things return_
-
+Sought, brought and paid for. She brings what craft she possess to bare to
+finish it just in time for him to arrive.
 
 # Book of secrets
 
@@ -431,9 +369,17 @@ for some other items and then turned those into a candle which she gives kvothe.
 What of it? _what does it all mean!_
 
 Recall what you now know of the Fae craft and Alchemy. Now set your imagination
-ablaze. But if your tired of secrets, or if you feel you know all the stars and
-their names, then follow me deeper down the rabbit hole and see... _To be
-continued_
+ablaze... 
+
+But if your tired of secrets, or if you feel you know all the stars and
+their names, then follow me deeper down the rabbit hole. Not a gentle fall, this
+is no fairy tale, pitch into black, the ground rushes to meet us... and we shatter upon
+it's [truth](/posts-output/2021-2-11-betrayed).
+
+>  “Nothing but the truth could break me. What is harder than the truth?” A
+>  sickly, mocking smile flickered across his face. For a long moment, only the
+>  gentle tapping of drops against the floor kept the silence at bay.
+
 
 # Epilogue
 
@@ -456,7 +402,7 @@ And you should also buy all the Cool Worldbuilders KingKiller stuff, which reall
 
 ## Credits
 
-Though the idea here and what follows is mine, I had plenty of help and encouragement. 
+Though the idea and what follows is mine, I had plenty of help and encouragement through the process:
 
 * u/mattytangle, for deep knowing. If your a fan well deep well written theory crafting his [blog](mattytangle.co.uk/) is the place for you, you can start with this post which talks about [candles](http://mattytangle.co.uk/tomes/under-lying-principals/the-chandlery/)
 
@@ -525,3 +471,20 @@ SROST Chapters so I can use numbers:
 8. all to her desire
 9. the graceful way to move
 10. the hidden heart of things
+
+<img src="/img/foxandhare.jpeg" height="450px" width="300px">
+
+_watch carefully daughter hare, hold quiet father fox_
+
+_For she knows the cruel games names play_
+<br>
+_and so often finds a gentler way._
+<br>
+_Yet, for him, these rules she would betray._
+
+_set a laurel a light_
+<br>
+_so too this Ash will burn,_
+<br>
+_then to flesh all things return_
+

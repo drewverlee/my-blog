@@ -175,12 +175,12 @@ it's pleasant touch one Felurian knows:
 
 Now, like Kvothe we travel naked and unprepared, and with some trepidation, for
 on the edges of our memory we know what comes next. It reaches from the dark
-corners of our mind, the air is drawn tight in our throats...
+corners of our mind, the air draws tight in our throats...
 
 <img src="/img/darkforest.jpg" height="600px" width="400px">
 
 Kvothe knows neither the names of the stars, or the secrets they hold. He sees
-the surface and cant fathom the depths bellow, and so he makes a foolish show:
+the surface and can't fathom the depths bellow, and so he makes a foolish show:
 
 > Thinking myself clever, I made a sympathetic binding for light and held my hand
 > above my head as if it were a torch. I was more than slightly proud of this, as the motion-to-light
@@ -220,21 +220,31 @@ And you would not want to meet them as they truly are...
 
 so stay small as selas, still as stone...
 
+> There was a soft sound of movement above us, as if someone was folding a huge piece of velvet
+> around a piece of broken glass. Saying that I realize it makes no sense, but still, that is the best way I
+> can describe the sound. It was a soft noise, the half-heard sound of deliberate movement. I cannot tell
+> you why it made me think of something terrible and sharp, but it did. My forehead prickled with
+> sweat, and I was filled with a sudden pure and breathless terror.
+
+And pray they leave you alone.
+
 > She pulled up the edge of the carpet, rolled
 > it back, and found a small bone button underneath. Auri eyed it for a long
 > moment before giving it an understanding smile. That wasn’t it either. The
 > button was just as it should
 
-And pray they leave you alone.
+> A languid moment passed, then she laughed, her body shaking with it. It was
+> wild and delighted, as if she had just played the most marvelous joke.
 
 ## Dreams
 
-Your walking in a forest, the grass is cool under your bare feet. Their dark
-trunks reach far above your forming a canopy. The moon giving you enough light
-to see a stream ahead, and across it a small stone. Wil, stops and finally breaks the silence.
-He seems sad, Sim is no where to be seen. His dark eyes find ours and he
-speaks. You listen with half an ear as a you bend to inspect what you can only describe as a perfect acorn.
-You give a slight chuckle. Then your brows furrow... You take a moment and respond, not sure you heard him right.
+Your walking through a forest, the grass is cool under your bare feet. The dark
+trunks reach far above, forming a scattered canopy. The moon gives enough light
+to see a gentle stream ahead, and across it a stone inn. Wil, just ahead, stops
+and finally breaks the silence. He seems sad, Sim is no where to be seen. His
+dark eyes find ours and he speaks. You listen with half an ear as a you bend to
+inspect three perfect pinecones in a row. You give a slight chuckle. Then your
+brows furrow... You take a moment and respond, sure you misheard him.
 
 "When your wives are angry you sleep _in_ the fire?"
 
@@ -250,10 +260,14 @@ You know she is wrong, you are Kvothe, trained at the medica. She cuts your
 thoughts off by clasping your hands inside hers and bringing her head down to
 whisper between the secret space the entangled fingers make.
 
-"A man must give a woman fire if he wants to sleep" ... her lids flicker like butterflies and her eyes are deep pools. You feel a pleasant heat start to rise. So you start intently at her hands. Only find your clasping Denna's hands instead, your back on the greystone together.
+"A man must give a woman fire if he wants to sleep" ... her lids flicker like
+butterflies and her eyes are deep pools you could drown in. You feel a pleasant
+heat start to rise. To off set it you stare intently at her hands, only to find
+your clasping Denna's hands instead. Your back on the greystone with her. The
+winter fills your lungs and cuts deep into your blood.
 
-“I stopped breathing for two minutes and died." she doesn't speak. Its
-written on her arms, her chest and across her face in black ink.
+“I stopped breathing for two minutes and died." she doesn't speak the words.
+There written on her arms, her chest and across her face in black ink.
 
 You both hang above the Greystone in open air. You firmly
 perched on open air, her slipping from your grasp, to fall into its open door. 
@@ -264,7 +278,9 @@ you, there isn't much of her left and he has betrayed you.
 
 You tighten, tense, a finger slips. If only could could make a binding with your
 blood, but no, you are bloodless, a hallow bell and when the wind strikes you
-there is no sound. You do not let go.
+there is no sound. 
+
+_You do not let go._
 
 You scream and the mountains tear themselves apart. Your both falling. Your
 hands bound as one. Auri holds you tightly in her hand as the darkness reaches to take you.
@@ -273,8 +289,12 @@ hands bound as one. Auri holds you tightly in her hand as the darkness reaches t
 
 The Draccus roars and its blue flame consumes you both.
 
-Your alone once more, only wood and stream and stone there is no moon. Your knees buckle beneath
-and you sag to the ground, your tears are hot blood upon the land.
+Your alone once more, only wood and stream and stone. You see flames lick at
+trees off to the south, hear their cries for help and the sound of true copper
+as it strides upon the land.
+
+Your knees buckle beneath and you sag to the ground, your tears are hot blood
+upon the ground.
 
 ## Epilogue
 
