@@ -215,8 +215,7 @@ Auri finds a Crystal in the Underthing. SROST:1:27:
 The Crystal is like the mountain glass Seltios used to stab his eye. The
 relationship here is thin here, only that Crystal is similar to glass. But it's
 immediately strengthened as the Crystal is put near a Ciridae doll. Given Selitos was the
-founder of the Amyr, of whom the Ciridae were the highest rank, this gives us two connections
-to the lord of Myr Tariniel.
+founder of the Amyr, of whom the Ciridae were the highest rank, this gives us two connections to the lord of Myr Tariniel.
 
 <img src="/img/Pairs_Commonwealth_Amyr.webp" height="400px" width="320px" >
 
@@ -368,24 +367,18 @@ So Auri took some items that I claim are like Selitos and Lanre and traded them
 for some other items and then turned those into a candle which she gives kvothe.
 What of it? _what does it all mean!_
 
-Recall what you now know of the Fae craft and Alchemy. Now set your imagination
-ablaze... 
+Were barefoot and covered in darkness. A light breaks though the night clouds
+and the road before us sparkles. It shimmers and shines, we draw sharp steal, we
+prepare powerful magics. But nothing comes for us, there is only the path. Our
+eyes adjust, the road is broken glass.
 
-But if your tired of secrets, or if you feel you know all the stars and
-their names, then follow me deeper down the rabbit hole. Not a gentle fall, this
-is no fairy tale, pitch into black, the ground rushes to meet us... and we shatter upon
-it's [truth](/posts-output/2021-2-11-betrayed).
-
->  “Nothing but the truth could break me. What is harder than the truth?” A
->  sickly, mocking smile flickered across his face. For a long moment, only the
->  gentle tapping of drops against the floor kept the silence at bay.
-
+What comes next is no fairy tale. It's flesh and the [blood that lies beneath.](/post-outputs/2021-2-11-below)
 
 # Epilogue
 
 ## In a box
 
-I see no mention of the candle after he receives it from auri. 
+I see no mention of the candle after he receives it from Auri. 
 
 > I came to my feet and she held out something wrapped in a piece of cloth. It was a thick candle that smelled of lavender. “What’s inside of it?” I asked. “Happy dreams,” she said. “I put them there for you.”
 
@@ -436,6 +429,7 @@ purchases from them greatly and hope using them this isn't stepping on any toes.
 * Celtic Holly picture from Anne Stokes 
 * Some scattered ones from Wikipedia
 * Allegory of cave picture from [here.](https://bayoakomolafe.net/project/the-allegory-of-the-pit-or-the-irony-of-victory/)
+*[ Auri and gear](https://www.artpal.com/Ultraanimegirl4?i=128531-2)
 
 ## Citations
 

@@ -16,9 +16,6 @@
 
 
 
-
-
-
 ----
  
 This post is a continuation of [Shadows on the
