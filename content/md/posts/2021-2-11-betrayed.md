@@ -31,38 +31,74 @@ _Take me now!_
 
 -- "To tell you the Truth" ~ written by wolves.
 
->  “Nothing but the truth could break me. What is harder than the truth?” 
+## Intro
 
-## Intro: The sound a tear makes
+This post is a continuation of [Blood Beneath](/posts-output/2021-2-11-below)
+and it and it's precursors should be read first. What follows is another look
+into Auri as she slides, skids and bustles here way through another day. Our
+last look was unsettling and I sorry to tell you thing's are going to get better
+any time soon. That part is up to us. Will have to find Auri in the dark and see
+if we can make it back out.
 
-This post is a continuation of [Blood Beneath](/posts-output/2021-2-11-below) and it and it's precursors
-should be read first. TODO
+Note, citations are as follows "Book:Chapter:page:Auri Day:Day" This is useful
+for keeping track of time between events. It connects the two timelines and so you
+can infer between the two. Occasionally i'll add Auri's location at the end
 
-_Note all quotes are in the section *Citations* at the end._
 
-## TODO
+## The price of admission
 
 You should recall from Auri's trip to
 [Newarre](/posts-output/2021-1-23-how-to-get-to-newarre) that her Candle
-making concluded on Cendling, as if it couldn't be any other way. 
+making concluded on Cendling, as if God willed it, as if it couldn't be any other way. 
+By Auri's estimations Kvothe came early, she expected him on the _7th day_ but 6 was the 
+lucky number. How easy it is to fool ourselves.... But she also expected him to only have one gift!
+Friendly falling fulcrum simple shattering shows the way of things.
 
-Auri wasn't ideal before her trip to Newarre, not by a twig or an oak tree.
-The Underthing won't tend to itself, and what if things were to break? Clamor and Calamity.
+> If anything her grin grew wider then. Oh. Oh. Oh. Of course. It wasn’t something
+> she was looking for. No wonder all her searching was for naught. No wonder
+> everything was canted wrong. It was three things. He was bringing three, and so
+> must she. Three perfect threes would be her gift for him. Auri’s brow furrowed
+> and she turned to look back up the stairs. --SROST:9:134:A6:10:2072
+
+But she learns that much later on her 6th day which is Cendling, just in time! Until then she
+is all a tangle and a bustle. She was busy and at least three bees. She needs a
+gift for him. This she sets to with a will, eyeing everything emphatically: 
+
+> A nice thing to
+> have settled early on, his gift all ready with his visit days away. Auri eyed
+> the buckle sharply. Was it a proper gift for him? He was a tangled sort. And he
+> was much hidden, too. Nodding, she reached out to touch the cool dark metal. But
+> no. It didn’t suit him. She should have known. He was not a one for fastening.
+> For holding closed. Neither was he dark. Oh no. He was emberant. Incarnadine. He
+> was bright with better bright beneath, like copper-gilded gold. --SROST:1:23:A1:D5:PORT
+
+So from buckles to gears she turns over all tings looking for that perfect gift for him.
+
+> Auri staggered just a bit, all sudden dizzy. After it passed, she walked
+> slowly to Cricklet and took a long, deep drink. She felt the cool water run all
+> along her insides with nothing to stop it. She felt hollow inside. Her stomach
+> was an empty fist. Her feet wanted to go to Applecourt, but she knew there were
+> no apples left. He wouldn’t be waiting there, anyway. Not until the seventh day.
+> Which was good, really. She had nothing suitable to share. Nor nothing halfway
+> good enough to be a proper gift. --SROST:1:436:A2:6
+
+So much so she is nearly dizzy from it.
+
+
+But the world doesn't stop just because there is a man, oh no. The Underthing
+won't tend to itself. What if things were to break? Clamor and Calamity.
 
 So she moves things to their proper places, she opens doors that want opening
-and avoid those to shy or to black to consider.
+and avoid those to shy or to black or brackish to consider. From our last look,
+we suspect Auri might be doing something to ease the pain. Though we know not
+for sure it's cause or cure addiction, alchemy or other. But we can leave that
+for now and focus on one part of her journey.
 
-
-Her first day is a finding day, she does that in spades. But will focus on one leg of her journey.
-
-It
-
-
-Let's follow her to Wains, with it's colorful fresco, where she opens the 9th
+So, let's follow her to Wains, with it's colorful fresco, where she opens the 9th
 door for the first time and finds a _sitting room_. But we won't
 rest there for now, instead we follow her up the _broken stars_ and into _Tumbrel_.
 
-There she finds everything a apetalous young lady might need for a night out on the town. SROST:1:31:
+There she finds everything a apetalous young lady might need for a night out on the town.
 
 > In the unfallen portion of the room, there was a
 > triune mirror vanity and a dark wooden wardrobe taller than a tall woman
@@ -71,63 +107,89 @@ There she finds everything a apetalous young lady might need for a night out on 
 > silk. Some gauzy bits of the sort the women wore in the frescoes down in Wains.
 > The vanity was a rakish thing: garrulous and unashamed. The top was scattered
 > with pots of **powders, small brushes, sticks of eyepaint. Bracelets and rings.**
-> Combs of *horn and ivory and wood***.There were pins and pens and a dozen bottles,
-> some substantial, some delicate as petals.
+> Combs of **horn and ivory and wood**. There were pins and pens and a dozen bottles,
+> some substantial, some delicate as petals. -- SROST:1:31:A1:D5:495:Tumbrel
 
 Velvet is a soft, luxurious fabric that is characterized by a dense pile of
 evenly cut fibers that have a smooth nap. You often see it used with rich dark
 colors like burgundy.
 
-Much later, but will mention it here, will note the vanity also contains some gloves.
+Much later (but will mention it now) she will note the vanity also contains some gloves.
 
-SROST:6:TODO:1531
 > She removed the pair of *gloves* from the right-hand
-> drawer and set them near the mirror by a pot of *rouge*.
-
+> drawer and set them near the mirror by a pot of *rouge*. 
+>
+> -- SROST:6:97:1531:A4:D8:Tumbrel
 
 <img src="/img/bur-dress.jpg" height="350px" width="350px">
 
-On her second day we followed her to Newarre. On the third day she _wept_ and we 
-see here again on the fourth day, though she is still a mess. She needs music, laughter
-and fire. SROST:5:80:1246
+Such lovely items, feel the sly softness of the gloves. Imagine what they might
+feel like against... Ahem.. sorry. Let's move on.
+
+On her second day we followed her to Newarre. On the third day she _wept_ (we have all had those kinds of days) and we 
+see here again on the fourth day, though she is still, if you will forgive the expression,  a _bit of mess_. She needs music, laughter
+and fire. 
 
 > She had been sitting like this, empty as eggshell. Hollow and chest-heavy in the
 > angry dark when she’d first heard him playing. Back before he’d given her her
 > sweet new perfect name. A piece of sun that never left her. It was a bite of
 > bread. A flower in her heart. Thinking of this made it easier for her to stand.
+> 
+> -- SROST:5:80:1246
 
-But her gift isn't ready. Not proper at all. SROST:5:81:1257
+But her gift isn't ready. Not proper at all. 
 
 > Three days. He would come visiting in three short
 > days. And for all her work and wander, she hadn’t found a proper present for him
 > yet. For all that she was wise about the way of things, she hadn’t caught an
 > empty echo of anything that she could bring. No proper gift nor nothing yet to
 > share. It simply wouldn’t do.
-
-We have reached a turning point. From here things start to smuge, white into
-black. Forming a a grey, a haze, a _hole_ wanting for all the world to feel the
-safety of strong hands, the caress of soft skin and the promise of a bright
-morning. But darkness comes before the dark, and cannot mend what we do not understand. 
-
-_onward we go then._
-
------
+> 
+> -- SROST:5:81:1257
 
 Auri has so little time and she is so little herself. She is so hollow and empty and
 upset with all of everything. Without music or love, with darkness as your only
-neighbor what else can any of us turn to?
+neighbor what else can any of us turn to? She eats of course, what were you expecting?
 
-SROST:6:5:1283:A4
+She heads to Tree, which has more tools then treats, more the pity. She eats a turnip
+and her last fit. She is visited by the smell of nutmeg, which seems reasonable, there are nutmeg pittems
+in the room.
 
 > Then she sat
 > down on the floor and ate the turnip in small bites. Then she ate her last
 > remaining fig. Her tiny face was grave. The smell of _nutmeg_ prickled in the air.
+>
+> -- SROST:6:5:1283:A4:D8:Tree:1285
 
-Kvothe, on the _same day_ can relate to the feeling. TMWF:1:64
+
+We have reached a turning point. From here things start to blur, gold into
+black. Forming a haze, a _hole_, wanting for all the world to feel the
+safety of strong hands, the caress of soft skin and the promise of a bright
+morning. But darkness comes before the light, and cannot mend what we do not understand. 
+
+_onward we go then._
+
+<img src="/img/abstract-plum.png" height="400px" width="400px">
+
+----------
+
+Kvothe, on the _same day_, at Ankers, can relate to the sudden smell of nutmeg in the air.
 
 > I could suddenly smell nutmeg and plum.
+> 
+> -- TMWF:1:64:A4:D8
 
-A young lady does what she must, he is bringing three things and so must she. She _needs_ more time.
+He is inadvertently iridescent, He will have
+things to rights. It's Auri that's amiss and missing the notes the world is
+playing for her.  It's admissions day for Kvothe, he will dazzle the masters
+and shortly be off to see Auri. But she _needs_ more time. It simply won't do...
+
+> For all that she was wise about the way of things, she hadn’t caught an
+> empty echo of anything that she could bring. No proper gift nor nothing yet to
+> share. It simply wouldn’t do. -1262:A4:D8
+
+So a young lady does what she must, whiners fuss, but winers now the way of things, 
+some times you have to crush a few grapes to turn things to sweet...
 
 > I looked up to see a woman sitting at the bar. She wasn’t dressed like a student. She wore an
 > elaborate **burgundy dress** with long skirts, a tight waist, and matching **burgundy gloves** that rose all
@@ -163,8 +225,8 @@ A young lady does what she must, he is bringing three things and so must she. Sh
 > She looked down at her **gloved hands and shook her head. She peeled off the wet one**, looked at me,
 > and sobbed out a dozen words of Modegan.
 > “I’m sorry,” I said helplessly. “I don’t speak—”
-
-TODO eyes wide due to denner.
+>
+> -- TWMF:1:63:A4:D8
 
 Auri washed her face her hand her feet. She put on her new unashmed embroidered
 burgundy dress and matching glove. Combed golden hair with Ivory and wood and
@@ -175,40 +237,58 @@ though out of practice, it's like riding a horse... she picked lovely dark eye
 paint full of midnight star gazing and secret glances. Finally she dawned her
 brackets and rings and one more thing.... will cover later.
 
-TODO hair
-TODO spigot
-TODO fall in a well and die
+She went from beneath the Underthing up on top of things, all a glamoured,
+adorned and asweat. Auri cheated time and fate, seeing him early and giving
+herself wiggle room to find his gifts... She regrets it,
+oh the improper nature of the world forces her to be wicked at times. Her eyes
+are red and she is ridged. She has cried like a turned spigot and Auri knows all
+about pipes and turnings. Knows all about the kinds of mess a spill can make.
+She hates _hates_ the way it must be. She is wishes the cruel way of it would
+_fall into the dark and die._
 
-SROST:6:97:1532:A4:
+> She raised her own glass, filled with a deep red wine. “To Ambrose Jakis,” she said with sudden
+> fierceness. “May he fall into a well and die.” -- TWMF:7:64:A4:D8
+
+> She hoped it's
+> hit its awful self inside-out and backward, then fell into a crack and lost
+> its name and died alone and hollowempty in the angry dark. She threw the tuft of
+> fur down on the floor. --SROST:4:84:A4:D8
+
+She peels off her gloves wet with tears and unbound principles.
 
 > An unwashed, red-eyed, tangled mess.
 > She removed the pair of gloves from the right-hand
 > drawer and set them near the mirror by a pot of rouge.
+> 
+> -- SROST:6:97:1532 TODO:A4:D8:Tumbrel
 
-We want darkness to be an angry bear, a restless beast and nameless face. But
-it's here, it's within us. It's lost love, it's lonely nights and desperate
-hopeless need. It's a mirror... 
+The conclusion here is heartbreaking and bitter. We want darkness to be an angry
+bear, a restless beast and nameless face. But it's here, it's within us. It's
+lost love, it's lonely nights, tangled thoughts, and desperate hopeless need. It's a mirror...
 
-SROST:1:31:487:A1
 > ...here was a triune mirror vanity...
+> 
+> -- SROST:1:31:487:A1:D5:Tumbrel
 
-we cannot face. SROST:4:91:1418:A4
+we cannot face. 
 
 > Full of looming fear and
 > disappointment. And when her eyes passed over the vanity, she saw it
 > differently. It was not rakish now. In the shifting light she saw it had a
-> sinister bent, and caught a glimpse of what was turning it from true. She could
+> **sinister bent**, and caught a glimpse of what was turning it from true. She could
 > feel the tattered edges of its disarray. But tanglehaired and sticky, all
 > unwashed and hollow as she was, she was hardly in the proper state for mending.
 > She was in no mood to tend to the ungrateful thing. 
+> 
+> -- SROST:4:91:1418: TODO :A4:D8:Tumbrel
 
 <img src="/img/red-painting.jpg" height="400px" width="400px">
 
 TODO 
 
-Auri isn't hateful or cruel. She is beautiful and broken. She comes to Kvothe, she knows all is not right...
-
-TWMF:7:75:
+Auri isn't hateful or cruel... no, that's not true. She can be that, we all can. But
+she is that and more. She is also beautiful and broken. She comes to Kvothe, she
+knows all is not right...
 
 > Then there came a small tapping at my window. A sound so tiny I didn’t notice it until it stopped.
 > Then I heard the window ease open behind me.
@@ -240,11 +320,16 @@ TWMF:7:75:
 > “You can say it,” Auri said softly. “It’s okay if you say it.”
 > “I’m never going to see her again,” I choked out. Then I began to cry in earnest.
 > “It’s okay,” Auri said softly. “I’m here. You’re safe.”
+> 
+> -- TWMF:7:75:A4 night:D8 night~(admissions)
 
+She came in the night on either felling or her unnamed day, she brought him... a
+stone of regret and the comfort of touch. Some of the motives are clear, the
+means are within Auri's grasp, the time and locations are within reason. Though
+we might not want to admit it, the story remains It does not go simply because
+we wish to see it.
 
-TODO add holly
-
-## Stones falling...
+## Stones falling.
 
 * AD: Auri Day
 * D : normal day
@@ -288,29 +373,23 @@ It is the first note of the song that burns in me.
 
 TODO
 
+> “Nothing but the truth could break me. What is harder than the truth?” 
+>
+> -- Kvothe NOTW:6:47
+
 ## Credits
 
 To u/drue801 who got the heart of the
 [story](https://www.reddit.com/r/KingkillerChronicle/comments/ez5qyi/auri_why/)
-correct. I needed to recap it, make some important corrections and add necessary details, otherwise a simple citation would have sufficed.
-
-TODO move
-Why Auri? Such an important question. Maybe the question that lies at the heart of 
-the world. Auri is taking medication to ease her pain and her accounting there is
-accurate. She also played her role in Kvothe's admissions troubles, but not in the time frame that
-Drue purposed. If anything, her insight is more clever for having judged the character and shape of the 
-plot correctly, if the exact date and means. 
+correct. I needed to revisit it, make some, what I presume are important
+corrections and add necessary details, otherwise a simple citation would have
+sufficed.
 
 ## Citations
 
-citations are as follows: Book:Chapter:page
-
-TODO add instead of having everywhere
-
+citations are as follows: Book:Chapter:page:Auri Day: Day
 
 ### reference
-
-Its likely the pages are inconstant between books.
 
 * TWMF : The wise man's fears
 * NOTW : Name of the Wind
@@ -341,13 +420,14 @@ SROST Chapters so I can use numbers:
 9. the graceful way to move
 10. the hidden heart of things
 
-
-
 ## Rights & Art
 
 * "Secrets album" art property of "writtenbywolves"
 * Any unmentioned art belongs to worldbuilders.
 * bella Ballerinna for purchase [here](https://www.touchofclass.com/bella-ballerina-canvas-wall-art-burgundy/p/N441-002/)
 * Abstract red piece by [Arnold Danilov](https://www.artmajeur.com/en/arnold-danilov/artworks/12570173/burgundy-mood)
+* [Abstract plum and gold](https://www.walmart.com/ip/Runway-Avenue-Abstract-Wall-Art-Canvas-Prints-Plum-and-Gold-Agate-Home-D-cor-36-x-36-Purple-Gold/345000076)
 
 ----
+
+TODO bonus

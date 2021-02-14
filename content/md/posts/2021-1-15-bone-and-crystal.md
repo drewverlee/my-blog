@@ -372,7 +372,7 @@ and the road before us sparkles. It shimmers and shines, we draw sharp steal, we
 prepare powerful magics. But nothing comes for us, there is only the path. Our
 eyes adjust, the road is broken glass.
 
-What comes next is no fairy tale. It's flesh and the [blood that lies beneath.](/post-outputs/2021-2-11-below)
+What comes next is no fairy tale. It's flesh and the [blood that lies beneath.](/posts-output/2021-2-11-below)
 
 # Epilogue
 
