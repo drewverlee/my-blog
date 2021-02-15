@@ -1,6 +1,7 @@
 {:title "To tell you the Truth"
  :layout :post
  :previews? false
+ :draft? true
  :date "2021-2-11"
  :tags  ["KingKiller" "Fantasy"]}
  
