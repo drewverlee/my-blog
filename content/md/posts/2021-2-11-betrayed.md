@@ -434,7 +434,7 @@ certainly isn't pale like Auri:
 > 
 > -- TMWF:All this knowing.
 
- <img src="/img/fela-picture.png" height="300px" width="300px">
+ <img src="/img/fela-headshot.jpg" height="350px" width="300px">
  
  This is likely an issue an clever girl, and Auri is that in spades, could
  overcome with the powders on her new found vanity. Especially to trick a drowsy
