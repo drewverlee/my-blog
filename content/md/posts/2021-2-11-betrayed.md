@@ -476,7 +476,7 @@ not. The pressure builds and our heart beat drowns out everything. We relax,
 draw ourselves into the heart of stone, and look again. Their is no door, only
 darkness, we hear the first notes of melody in the distance. It lays deep in the
 stone archway, in the cold clear light of the moon and in the bare feet of a
-tiny broken girl. It's the luting lonely song of a woman waiting to live.
+tiny broken girl. It's the luting lonely sound of a woman waiting to live.
 
 _to be continued..._
 
