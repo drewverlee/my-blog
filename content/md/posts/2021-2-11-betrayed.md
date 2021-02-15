@@ -426,7 +426,7 @@ What in the world gives him the idea Devi didn't intend the lingering effects. W
 sense that Auri got involved to buy herself more time for making her candle. Our rich tosh could have been
 hired by Amborse and then passed it off to Auri, playing the role of distraught vengefully Modegan
 
- Likely many of you are busy tearing your hair out thinking of the obvious
+Likely many of you are busy tearing your hair out thinking of the obvious
 differences physical differences between those from Modeg and Auri. Kvothe never comments on the Modegan woman's skin
 tone, so will assume its typically. The stories suggest Modegan's are typically olive or have darker complexions. Fela
 certainly isn't pale like Auri:
@@ -443,32 +443,42 @@ certainly isn't pale like Auri:
  is more then wise in the ways of womenly enchanment. She also likely knows a
  bit of [_fae craft_](/posts-output/2021-1-22-bitter-brew). She thinks of
  [Alchemy](/posts-output/2021-1-23-alchemy) in terms of _art_ and _craft_ the
- same words used by bast to describe the magic fae do. 
+ same words used by Bast to describe the magic fae do. 
  
 > Whoever wrought and factored this was living proof that alchemy was **art**.
 > It showed pure mastery of **craft**. -SROST:2:52
 
-She can use waystones, imagine the kinds of places she might have visited and
+She can use waystones, so imagine the kinds of places she might have visited and
 who she might have talked to along the way. With just a touch of glammourie she
 would likely slide past Kvothe on his best day. All except his sleeping mind,
-which likens her eye's to a turned on spigot. But even without that, were left
+which likens her eye's to a turned on **spigot**. But even without that, were left
 with a more then a scattered puzzle pieces. That we don't know the picture it's
 forming doesn't discount the fit even if it leaves us a bit tight in the throat.
 
 The timelines sync, Auri has the wardrobe: dress, gloves, powders and eyeliner.
 Making pale golden hair into curly blonde doesn't even require glamor, which I
 suspect she has more then a passing knowledge of. We have motive, even if
-abstract. However, were left with more Whys then why we started.
+abstract. However, were left with more whys then why we started.
 
-# End
+## Epilogue
 
 > “Nothing but the truth could break me. What is harder than the truth?” 
 >
 > -- Kvothe NOTW:6:47
 
- 
+All this, the trip to Newarre, explaining the magic, traveling with
+Auri through the Underthing. Hearing her struggled breath, watching breathless as she
+does the unthinkable....
 
+All this. A prelude, a curtain, a door. We find our hands pressed firmly upon
+it's black surface. Though to push it open or keep what's inside out, we know
+not. The pressure builds and our heart beat drowns out everything. We relax,
+draw ourselves into the heart of stone, and look again. Their is no door, only
+darkness, we hear the first notes of melody in the distance. It lays deep in the
+stone archway, in the cold clear light of the moon and in the bare feet of a
+tiny broken girl. It's the luting lonely song of a woman waiting to live.
 
+_to be continued..._
 
 ## Credits
 

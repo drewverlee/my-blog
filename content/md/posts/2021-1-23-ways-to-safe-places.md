@@ -12,16 +12,16 @@ get to Newarre ](/posts-output/2021-1-23-how-to-get-to-newarre) and what she doe
 is covered in [Warren Widdershins Ways and
 Woes](/posts-output/2021-1-15-bone-and-crystal). 
 
-Here we will just be discussing Greystones. First will quickly cover that Auri could use one to visit the Mauthen farm quickly
-(in mortal time), and then will discuss the larger topic of Greystones in general. If this seems backwards to you, then by all means
-do them in reverse.
+Here we will just be discussing Greystones. First will quickly cover that Auri
+could use one to visit the Mauthen farm quickly (in mortal time), and then will
+discuss the larger topic of Greystones in general. If this seems backwards to
+you, then by all means do them in reverse.
 
 ## Auri goes to Mauthen farm
 
-southwest, barely two miles away,
 
 Concisely, Auri would have taken the Greystone near the Omethi bridge, traveled
-through the Fae, and come out the one around 2 miles north east of Trebon, near
+through the Fae, and come out the waystone/door-post*1 around 2 miles north east of Trebon, near
 the Mauthen farm. Likely the journey took under an hour from when she leaves the
 Underthing tell when she ends up in the Mauthen Farm. I don't think we can
 figure out how much distance or time she had to cover in the Fae.
@@ -116,8 +116,6 @@ Bast explaining:
 
 So here is our table:
 
-
-
 | Where                      | Standing/laying       | High/low               | Type                   | Rawness                |
 | :------------------------- | :-------------------- | :--------------------- | :--------------------- | :--------------------- |
 | Newarre                    | Titled                | Low                    | Greystone              | TODO                   |
@@ -125,8 +123,7 @@ So here is our table:
 | Post Trope Death           | Laying                | Level                  | TODO                   | TODO                   |
 
 
-<img src="/img/ruins.jpg" height="200px" width="200px">
-
+<img src="/img/ruins.jpg" height="200px" width="200px
 
 
 For another take on waystones I suggest everything by mattytangle. Though, you should try your hand at it first before consulting his works
@@ -135,3 +132,24 @@ For another take on waystones I suggest everything by mattytangle. Though, you s
 ## rights
 
 pictures are all property of world builders
+
+## quotes
+
+
+1. The book simmon reads suggests waystones lead to the fae. It makes particular note of a 3 stones that create a doorway. 
+> “. . . a pair of matched stone monoliths with a third across the top,” Simmon read. “The locals refer
+> to it as the door-post. While spring and summer pageants involve decorating and dancing around the
+> stone, parents forbid their children from spending time near it when the moon is full. One wellrespected and otherwise reasonable old man claimed . . .”
+> Sim broke off reading. “Whatever,” he said disgustedly and moved to close the book.
+> “Claimed what?” Wilem asked, his curiosity piqued.
+> Simmon rolled his eyes and continued reading, “Claimed at certain times men could pass through
+> the stone door into the fair land where Felurian herself abides, loving and destroying men with her
+> embrace.”
+>
+> -- TWMF::292
+
+Which is exactly the type of waystone  we see at near the Mauthen Farm:
+ 
+> The only thing on the top of the hill was a handful of greystones. Three of the massive stones were stacked together to form a huge arch, like a massive doorway. The other two lay on their sides, as if lounging in the thick grass. I found their presence comforting, like the unexpected company of old friends. 
+> 
+> -- NOTW
