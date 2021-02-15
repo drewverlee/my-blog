@@ -112,10 +112,15 @@ she doesn't think it is:
 
 That's it! But will take another look to be sure. 
 
-This is the turn around point, the cliff. You step into the grey below and your
-falling... the air rolls over you, pulling at your flesh, you see nothing below
-you, but you feel the weight of the sky bearing down on you. Do you spread your
-hands to catch the wind or do you press them together and cut it like a knife?
+This is our greatest turn yet. We grip the world and we pull it against itself.
+The sky falls and the ground tears. Were left stand on cliff's edge. You step
+into the grey below and your falling... the air rolls over you, pulling at your
+flesh, you see nothing below you, but you feel the weight of the sky bearing
+down. 
+
+_Do you spread your hands to catch the wind or do you press them together
+and cut it like a knife?_ 
+
 
 <img src="/img/abstract-forest.jpeg" height="400px" width="500px">
 

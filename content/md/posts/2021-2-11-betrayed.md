@@ -1,11 +1,10 @@
 {:title "To tell you the Truth"
  :layout :post
  :previews? false
- :draft? true
  :date "2021-2-11"
  :tags  ["KingKiller" "Fantasy"]}
  
- <img src="/img/secrets-album.jpg" height="300px" width="300px">
+ <img src="/img/autumn-leaves.jpg" height="300px" width="300px" style="border:1px solid #021a40;padding:1px;">
  
 _Watch the stars as they're dancin'_
 <br>
@@ -36,20 +35,18 @@ _Take me now!_
 This post is a continuation of [Blood Beneath](/posts-output/2021-2-11-below)
 and it and it's precursors should be read first. What follows is another look
 into Auri as she slides, skids and bustles here way through another day. Our
-last look was unsettling and I sorry to tell you thing's are going to get better
-any time soon. That part is up to us. Will have to find Auri in the dark and see
-if we can make it back out.
+last look was unsettling and I sorry to tell you thing's aren't going to get better
+any time soon. That part is up to us. Will have to find out way through the dark.
 
-Note, citations are as follows "Book:Chapter:page:Auri Day:Day" This is useful
-for keeping track of time between events. It connects the two timelines and so you
-can infer between the two. Occasionally i'll add Auri's location at the end
-
+Note, citations are as follows "Book:Chapter:page:Auri Day:Day". Consult the
+section at the end for more. This is useful for keeping track of time between
+events. Occasionally, I'll add Auri's location as well at the end.
 
 ## The price of admission
 
 You should recall from Auri's trip to
 [Newarre](/posts-output/2021-1-23-how-to-get-to-newarre) that her Candle
-making concluded on Cendling, as if God willed it, as if it couldn't be any other way. 
+making concluded on Cendling, as if Tehlu willed it, as if it couldn't be any other way. 
 By Auri's estimations Kvothe came early, she expected him on the _7th day_ but 6 was the 
 lucky number. How easy it is to fool ourselves.... But she also expected him to only have one gift!
 Friendly falling fulcrum simple shattering shows the way of things.
@@ -57,46 +54,48 @@ Friendly falling fulcrum simple shattering shows the way of things.
 > If anything her grin grew wider then. Oh. Oh. Oh. Of course. It wasn’t something
 > she was looking for. No wonder all her searching was for naught. No wonder
 > everything was canted wrong. It was three things. He was bringing three, and so
-> must she. Three perfect threes would be her gift for him. Auri’s brow furrowed
-> and she turned to look back up the stairs. --SROST:9:134:A6:10:2072
+> must she. **Three perfect threes would be her gift for him.** .
+> 
+> --SROST:9:134:A6:10:2072
 
-But she learns that much later on her 6th day which is Cendling, just in time! Until then she
+But she learns that **much later** on her 6th day (Cendling), just in the nick of time! Until then she
 is all a tangle and a bustle. She was busy and at least three bees. She needs a
-gift for him. This she sets to with a will, eyeing everything emphatically: 
+gift for him. This she sets to it with a will, eyeing everything emphatically: 
 
 > A nice thing to
 > have settled early on, his gift all ready with his visit days away. Auri eyed
-> the buckle sharply. Was it a proper gift for him? He was a tangled sort. And he
+> the buckle sharply. **Was it a proper gift for him? ** He was a tangled sort. And he
 > was much hidden, too. Nodding, she reached out to touch the cool dark metal. But
 > no. It didn’t suit him. She should have known. He was not a one for fastening.
 > For holding closed. Neither was he dark. Oh no. He was emberant. Incarnadine. He
-> was bright with better bright beneath, like copper-gilded gold. --SROST:1:23:A1:D5:PORT
+> was bright with better bright beneath, like copper-gilded gold. 
+> 
+> --SROST:1:23:A1:D5:PORT
+
 
 So from buckles to gears she turns over all tings looking for that perfect gift for him.
 
-> Auri staggered just a bit, all sudden dizzy. After it passed, she walked
+> Auri staggered just a bit, all **sudden dizzy**. After it passed, she walked
 > slowly to Cricklet and took a long, deep drink. She felt the cool water run all
 > along her insides with nothing to stop it. She felt hollow inside. Her stomach
 > was an empty fist. Her feet wanted to go to Applecourt, but she knew there were
 > no apples left. He wouldn’t be waiting there, anyway. Not until the seventh day.
-> Which was good, really. She had nothing suitable to share. Nor nothing halfway
-> good enough to be a proper gift. --SROST:1:436:A2:6
+> Which was good, really. She had nothing suitable to share. **Nor nothing halfway
+> good enough to be a proper gift.** 
+> 
+> --SROST:1:436:A2:6
 
-So much so she is nearly dizzy from it.
-
-
-But the world doesn't stop just because there is a man, oh no. The Underthing
-won't tend to itself. What if things were to break? Clamor and Calamity.
+She is nearly tipsy from all that looking. But the world doesn't stop just
+because there is a man, oh no. The Underthing won't tend to itself. What if
+things were to break? Clamor and Calamity. Boot's on stairs coming down... It
+must not happen.
 
 So she moves things to their proper places, she opens doors that want opening
-and avoid those to shy or to black or brackish to consider. From our last look,
-we suspect Auri might be doing something to ease the pain. Though we know not
-for sure it's cause or cure addiction, alchemy or other. But we can leave that
-for now and focus on one part of her journey.
-
-So, let's follow her to Wains, with it's colorful fresco, where she opens the 9th
-door for the first time and finds a _sitting room_. But we won't
-rest there for now, instead we follow her up the _broken stars_ and into _Tumbrel_.
+and avoid those to shy or to black or brackish to consider. Let's now follow her
+to Wains, a wondrous place in her underground world. It has a colorful fresco,
+where she opens the 9th door for the first time and finds a _sitting room_. But
+we won't rest there for now, instead we follow her up the _broken stars_ and
+into _Tumbrel_.
 
 There she finds everything a apetalous young lady might need for a night out on the town.
 
@@ -108,7 +107,9 @@ There she finds everything a apetalous young lady might need for a night out on 
 > The vanity was a rakish thing: garrulous and unashamed. The top was scattered
 > with pots of **powders, small brushes, sticks of eyepaint. Bracelets and rings.**
 > Combs of **horn and ivory and wood**. There were pins and pens and a dozen bottles,
-> some substantial, some delicate as petals. -- SROST:1:31:A1:D5:495:Tumbrel
+> some substantial, some delicate as petals. 
+> 
+> -- SROST:1:31:A1:D5:495:Tumbrel
 
 Velvet is a soft, luxurious fabric that is characterized by a dense pile of
 evenly cut fibers that have a smooth nap. You often see it used with rich dark
@@ -149,7 +150,7 @@ But her gift isn't ready. Not proper at all.
 
 Auri has so little time and she is so little herself. She is so hollow and empty and
 upset with all of everything. Without music or love, with darkness as your only
-neighbor what else can any of us turn to? She eats of course, what were you expecting?
+neighbor what else can any of us turn to? ...she gets something to eat of course, what were you expecting?
 
 She heads to Tree, which has more tools then treats, more the pity. She eats a turnip
 and her last fit. She is visited by the smell of nutmeg, which seems reasonable, there are nutmeg pittems
@@ -162,7 +163,10 @@ in the room.
 > -- SROST:6:5:1283:A4:D8:Tree:1285
 
 
-We have reached a turning point. From here things start to blur, gold into
+ <img src="/img/underthing-tree.png" height="300px" width="300px">
+
+
+We have reached another turning point. From here things start to blur, gold into
 black. Forming a haze, a _hole_, wanting for all the world to feel the
 safety of strong hands, the caress of soft skin and the promise of a bright
 morning. But darkness comes before the light, and cannot mend what we do not understand. 
@@ -186,7 +190,9 @@ and shortly be off to see Auri. But she _needs_ more time. It simply won't do...
 
 > For all that she was wise about the way of things, she hadn’t caught an
 > empty echo of anything that she could bring. No proper gift nor nothing yet to
-> share. It simply wouldn’t do. -1262:A4:D8
+> share. It simply wouldn’t do. 
+>
+> --SROST:1:81:A4:D8
 
 So a young lady does what she must, whiners fuss, but winers now the way of things, 
 some times you have to crush a few grapes to turn things to sweet...
@@ -247,12 +253,16 @@ She hates _hates_ the way it must be. She is wishes the cruel way of it would
 _fall into the dark and die._
 
 > She raised her own glass, filled with a deep red wine. “To Ambrose Jakis,” she said with sudden
-> fierceness. “May he fall into a well and die.” -- TWMF:7:64:A4:D8
+> fierceness. “May he fall into a well and die.” 
+> 
+> -- TWMF:7:64:A4:D8
 
 > She hoped it's
 > hit its awful self inside-out and backward, then fell into a crack and lost
 > its name and died alone and hollowempty in the angry dark. She threw the tuft of
-> fur down on the floor. --SROST:4:84:A4:D8
+> fur down on the floor. 
+> 
+> --SROST:4:84:A4:D8
 
 She peels off her gloves wet with tears and unbound principles.
 
@@ -260,7 +270,7 @@ She peels off her gloves wet with tears and unbound principles.
 > She removed the pair of gloves from the right-hand
 > drawer and set them near the mirror by a pot of rouge.
 > 
-> -- SROST:6:97:1532 TODO:A4:D8:Tumbrel
+> -- SROST:6:97:A4:D8:Tumbrel
 
 The conclusion here is heartbreaking and bitter. We want darkness to be an angry
 bear, a restless beast and nameless face. But it's here, it's within us. It's
@@ -280,13 +290,11 @@ we cannot face.
 > unwashed and hollow as she was, she was hardly in the proper state for mending.
 > She was in no mood to tend to the ungrateful thing. 
 > 
-> -- SROST:4:91:1418: TODO :A4:D8:Tumbrel
+> -- SROST:4:91::A4:D8:Tumbrel
 
 <img src="/img/red-painting.jpg" height="400px" width="400px">
 
-TODO 
-
-Auri isn't hateful or cruel... no, that's not true. She can be that, we all can. But
+Auri isn't ever cruel... no, that's not true. She can be that, we all can. But
 she is that and more. She is also beautiful and broken. She comes to Kvothe, she
 knows all is not right...
 
@@ -343,47 +351,134 @@ we wish to see it.
 | Ash & Ember  | 5  |         | 9  | Reaving  | crying | crying |
 | Coda         | 6  |         | 10 | Cendling | candle | candle |
 
-## blurred vision
+## the details in the devil
 
 Were ragging and weary, but we must have a full accounting. To do that we must
-talk a bit about Devi and a bit about [Glammourie and Grammarie](/posts-output/2021-1-22-bitter-brew). 
+talk a bit about Devi and Ambrose. Or at least I must acknowledge there roles and relationships.
 
+> “What’s more,” I said, meeting her eye. “It is entirely possible that my irrational behavior might
+> have been partially due to the lingering effect of an **alchemical poison** I was subjected to earlier this
+> term.”
+> Devi’s expression went stiff. “What?”
 
+> She hadn’t known then. That was something of a relief. “Ambrose arranged to have me dosed with
+> the plum bob about an hour before my admissions interview,” I said. “And you sold him the formula.”
+> “You have a lot of gall!” Devi’s pixie face was outraged and indignant, but it wasn’t convincing.
+> She was off balance and trying too hard.
+> 
+> “What I have,” I said calmly, “is the lingering taste of plum and nutmeg in my mouth, and the
+> occasional irrational desire to choke people for doing nothing more offensive than jostling me on the
+> street.”
+> Her false outrage fell away. “You can’t prove anything,” she said.
+> “I don’t need to prove anything,” I said. “I have no desire to see you in trouble with the masters or
+> up against the iron law.” I looked at her. “I just thought you might be interested in the fact that I was
+> poisoned.”
+> Devi sat very still. She fought to maintain her composure, but guilt was creeping onto her
+> expression. “Was it bad?”
+> “It was,” I said quietly.
+> Devi looked away and crossed her arms in front of her chest. “I didn’t know it was for Ambrose,”
+> she said. “Some rich tosh came around. Made a stunningly good offer. . . .”
+> She looked back at me. Now that the chilly anger had left her, she looked surprisingly small. “I’d
+> never do business with Ambrose,” she said. “And I didn’t know it was for you. I swear.”
+> “You knew it was for someone,” I said.
+> 
+> -- TMMF:42:310
 
-Auri knows Alchemy
+What's important note is that Devi claims a rich tosh came around to buy it.
+Kvothe assumes it wasn't Ambrose directly, which is likely the case. As an aside, [tosh](https://en.wiktionary.org/wiki/tosh) is an interesting word. 
 
-SROST:
-_alchemy_ was _art_. It showed pure mastery of _craft_
+It's used once more when Kvothe refers to Ambrose:
 
-Auri knows [Glammourie and Grammarie](/posts-output/2021-1-22-bitter-brew). But she 
+> “Rich tosh. Get whatever yeh can off him, that’s what I say.” 
+>
+> -- TMWF:147:965
 
+There are enough
+meanings to the word that it would be had for me to make a persuasive claim on
+which one was intended by Rothfuss. Could it be derive from
+the British etymology and mean _crown, a 5 shilling silver coin_, the slang
+_rubbish?_ Or he Scottish use _to make tidy_. It doesn't give us much to go on.
 
+The deal was for at _least_ a full set of books._
 
+> But the fellow offered me a full set of the Vautium Tegnostae.” She waved to
+> the bookshelves. “Normally I’d never make something like that, but unexpurgated copies are just
+> impossible to find.”
+> 
+> -- TMMF:42:311
 
-## Auri why?
+Unexpurgated, meaning _uncensored_. I'm terrible curious what those books might
+be about and who would censoring them. She lets Kvothe look through them, so he knows. My quick attempts at
+translation yielded nothing. Nor are they mentioned again.
 
-u/drue801 titled her piece that touched on this [Why Auri?](https://www.reddit.com/r/KingkillerChronicle/comments/ez5qyi/auri_why/) 
-The comments are largely depressing
-I know why and now you start to see the edges of it. 
+Kvothe finds out Devi made the plum bob her self.
 
-It is the first note of the song that burns in me. 
+> I turned to look at her, surprised. “You made it for him?”
+> “It’s better than handing over the formula,” Devi said defensively.
+> Part of me felt like I should be angry, but the majority of me was simply happy that I was warm and
+> dry, with no threat of death hanging over me. I shrugged it off. “Simmon says you can’t factor worth
+> half a damn,” I said conversationally.
+> 
+> -- TMMF:42:311
 
+What in the world gives him the idea Devi didn't intend the lingering effects. We have some vague
+sense that Auri got involved to buy herself more time for making her candle. Our rich tosh could have been
+hired by Amborse and then passed it off to Auri, playing the role of distraught vengefully Modegan
+
+ Likely many of you are busy tearing your hair out thinking of the obvious
+differences physical differences between those from Modeg and Auri. Kvothe never comments on the Modegan woman's skin
+tone, so will assume its typically. The stories suggest Modegan's are typically olive or have darker complexions. Fela
+certainly isn't pale like Auri:
+
+> “Keh,” Wil said. “Too pale. Fela. 
+> 
+> -- TMWF:All this knowing.
+
+ <img src="/img/fela-picture.png" height="300px" width="300px">
+ 
+ This is likely an issue an clever girl, and Auri is that in spades, could
+ overcome with the powders on her new found vanity. Especially to trick a drowsy
+ young man whose mind is on admissions. But I'll go as far to suggest that Auri
+ is more then wise in the ways of womenly enchanment. She also likely knows a
+ bit of [_fae craft_](/posts-output/2021-1-22-bitter-brew). She thinks of
+ [Alchemy](/posts-output/2021-1-23-alchemy) in terms of _art_ and _craft_ the
+ same words used by bast to describe the magic fae do. 
+ 
+> Whoever wrought and factored this was living proof that alchemy was **art**.
+> It showed pure mastery of **craft**. -SROST:2:52
+
+She can use waystones, imagine the kinds of places she might have visited and
+who she might have talked to along the way. With just a touch of glammourie she
+would likely slide past Kvothe on his best day. All except his sleeping mind,
+which likens her eye's to a turned on spigot. But even without that, were left
+with a more then a scattered puzzle pieces. That we don't know the picture it's
+forming doesn't discount the fit even if it leaves us a bit tight in the throat.
+
+The timelines sync, Auri has the wardrobe: dress, gloves, powders and eyeliner.
+Making pale golden hair into curly blonde doesn't even require glamor, which I
+suspect she has more then a passing knowledge of. We have motive, even if
+abstract. However, were left with more Whys then why we started.
 
 # End
-
-TODO
 
 > “Nothing but the truth could break me. What is harder than the truth?” 
 >
 > -- Kvothe NOTW:6:47
 
+ 
+
+
+
 ## Credits
 
-To u/drue801 who got the heart of the
+* To u/drue801 who got the heart of the
 [story](https://www.reddit.com/r/KingkillerChronicle/comments/ez5qyi/auri_why/)
 correct. I needed to revisit it, make some, what I presume are important
 corrections and add necessary details, otherwise a simple citation would have
 sufficed.
+* To u/playtheboard, who brought u/drue801 theory to my attention. For that 
+and for feedback on this entire process.
+
 
 ## Citations
 
@@ -427,7 +522,8 @@ SROST Chapters so I can use numbers:
 * bella Ballerinna for purchase [here](https://www.touchofclass.com/bella-ballerina-canvas-wall-art-burgundy/p/N441-002/)
 * Abstract red piece by [Arnold Danilov](https://www.artmajeur.com/en/arnold-danilov/artworks/12570173/burgundy-mood)
 * [Abstract plum and gold](https://www.walmart.com/ip/Runway-Avenue-Abstract-Wall-Art-Canvas-Prints-Plum-and-Gold-Agate-Home-D-cor-36-x-36-Purple-Gold/345000076)
+* [abstract red tree](https://www.etsy.com/listing/171656565/abstract-painting-art-original-landscape?utm_source=Pinterest&utm_medium=PageTools&utm_campaign=Share)
 
 ----
 
-TODO bonus
+ <img src="/img/abstract-red-tree.png" height="300px" width="300px">
