@@ -1,4 +1,4 @@
-{:title "To tell you the Truth"
+{:title "Painful Treasures of the Mind"
  :layout :post
  :previews? false
  :date "2021-2-11"
