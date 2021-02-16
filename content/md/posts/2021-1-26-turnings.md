@@ -13,7 +13,7 @@
 
 "The man who killed with arrows made from his own heart!"
 
-"I wanna hear about the stormwal, and the last dessert, and the gods who li.."
+"I wanna hear about the stormwall, and the last dessert, and the gods who li.."
 
 ----
  
@@ -119,8 +119,6 @@ _What’s their plan? What’s their plan?_
 
 _Chandrian. Chandrian._
 
-
-
 ### Alice's Adventures in wonderland, by Lewis Caroll
 
 > There was nothing so very remarkable in that; nor did Alice think it so very
@@ -174,13 +172,7 @@ Verb:
 
 > to cover with or as if with a mantle : cloak
 
-
 <img src="/img/cloak-moon.jpg" height="700px" width="200px">
-
-
-
-
-
 
 ## Rights & Art
 
