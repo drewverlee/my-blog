@@ -479,6 +479,7 @@ tiny broken girl. It's the luting lonely sound of a woman waiting to live.
 
 _to be continued..._
 
+
 ## Credits
 
 * To u/drue801 who got the heart of the
@@ -537,3 +538,24 @@ SROST Chapters so I can use numbers:
 ----
 
  <img src="/img/abstract-red-tree.png" height="300px" width="300px">
+
+## possible pat hints
+
+Credit to u/playtheboard for pointing the plum to crystal potential link.
+
+The crystal Auri finds, though this already enough meaning tied to it:
+
+ <img src="/img/crystal.jpg" height="350px" width="300px">
+
+compared to a picture of a plumb bob:
+
+ <img src="/img/real-plum-bob.jpg" height="300px" width="300px">
+
+Here is another, the frame pictured in SROST
+
+ <img src="/img/auri-wooden-frame.png" height="300px" width="300px">
+
+compared to a [_plumb square_](https://en.wikipedia.org/wiki/Plumb_bob)
+
+ <img src="/img/wooden-frame.png" height="300px" width="300px">
+
