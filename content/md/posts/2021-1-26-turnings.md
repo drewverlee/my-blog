@@ -20,11 +20,226 @@
 This post is a continuation of [Shadows on the
 wal](/posts-output/2021-1-25-findings). As such, we will quickly continue on.
 Similar to before, will cover Auri's journey as she sees it. Then will walk it
-back and I'll show you what I see. As such, this is broken into two parts.
+back and I'll show you what I see. As such, this is broken into two parts. I
+feel broken into parts to, I feel a sharp ringing and try pull myself together.
+The world seems to swirl around, and final slows and coalesces into something
+reasonable. blue, bottles and I catch my breath. Were back in Auri's sitting
+room. Something real, something we can touch. I put my hand upon the velvet
+chair, it feels normal, like sunlight and hard, honesty wood beneath.
 
-So, were back in Auri's sitting room, something is still _wrong_ and on top of
-that she can't find a proper place for Fulcrum. Which is sad, all things deserve
-their place. She tries curling up with the Fulcrum on the, coach to see if that will help:
+Auri insists something is still _wrong_ with the place. On top of that, she
+can't find a proper place for Fulcrum. Which is sad, all things deserve their
+place. Oh, I'm sorry I haven't introduced you to fulcrum. I'm terrible sorry, how very rude of me.
+
+## A hard heavy weight of answers
+
+Fulcrum didn't always go by that name. Auri gave it to it when ... what I doing? A _proper_ story starts at the beginning. 
+So let's have a proper telling. On the first day, Auri found it in the deep dark below of the Twelve.
+
+> Down to the dark. The stone. The timber. Then nothing but dim Foxen’s
+> light, coloring her outstretched hand a pale blue-green. It looked the way a
+> water nixie’s must. Her knuckles brushed the bottom and she spun a bit to orient
+> herself. She kicked and swept her hand about, skimming smoothly out along the
+> black stone bottom of the pool. Then she saw a glint of light and her fingers
+> bumped something solid and cold, all hard lines and smooth. It was full of love
+> and answers, so full she felt them spilling out at just her briefest touch. For
+> the space of ten hard heartbeats Auri thought it must be fastened to the stone.
+> Then it slid and she realized the truth. It was a weighty thing.
+> 
+> -- TODO:228
+
+A heavy burden indeed, enough to jostle her about and let foxen slip..
+
+> Auri snatched with her free hand, but her knuckles only batted Foxen
+> farther off away. And for a moment, Auri froze. To let the metal drop would be
+> unthinkable. But Foxen. He had been with her forever....
+> 
+> -- TODO:254
+
+<img src="/img/auri-water-foxen.png" height="600px" width="350px">
+
+But duty is foremost in Auri's heart, and to lose the gear is unimaginable.
+
+> Losing Foxen was bad. It would leave her blind and lonely in
+> the dark. Being trapped beneath the pipes and choking out her life was awful
+> too. But neither of those things were wrong. Letting the metal slide into the
+> dark simply could not be done. It was unthinkable.
+>
+>  --TODO:284
+
+and so she does it! Nearly drowned, but full of joy:
+
+> Auri heaved the thing out of the water, and it struck the stone floor with the
+> sound of a bell. It was a bright brass gear, big as a platter. Thicker than her
+> thumb with some to spare. It had a hole in the middle, nine teeth, and a jagged
+> gap where a tenth had long ago been torn away. It was full of true answers and
+> love and hearthlight. It was beautiful. Auri smiled and heaved up half a
+> stomachful of water on the stones. Then heaved again, turning her head so that
+> it didn’t splash against the bright brass gear. She coughed then, took a
+> mouthful of water, and spat it back into the pool. The brass gear lay heavy as a
+> heart on the cold stones of The Yellow Twelve. The light from up above made the
+> surface of it shimmerant and gold. It looked like a piece of sun she’d brought
+> up from the deep. Auri coughed again and shivered. Then she reached out and
+> touched it with one finger. She smiled to look at it. Her lips were blue. She
+> trembled. Her heart was full of joy.
+> 
+> -- TODO:298
+
+Auri is kind and the world is kind in turn, and so foxen from it's depths is returned:
+
+> But the thought of
+> leaving Foxen in the dark was enough to put a fine, thin crack straight through
+> her heart. To lose him after all this time.... Then Auri caught a glimpse of
+> something deep below the surface. A glint. A glow. She grinned. Foxen looked for
+> all the world like a great bumbrous firefly as he bobbled and bumped his slow
+> way slowly up through all the tangled pipes. She waited five long minutes,
+> watching Foxen’s bottle bob and drift until it finally popped up to the surface
+> like a duck. Then she caught it up and kissed it. She held it to her chest. Oh
+> yes. It was well worth it, doing things the proper way.
+> 
+> --TODO:310
+
+She carries the gear, along with her other gifts back to port:
+
+> The great
+> brass gear was bright straight through. The key was black as black.
+> 
+> -- TODO:324
+
+The gear would _almost_ make a gift for him...
+
+> The gear would
+> need consideration. It almost felt like it could be for him—but that could wait.
+>
+> -- TODO:351
+
+But, it wasn't right yet and whats worse she can't see to find the right place for it!
+
+> The gear
+> was troublesome in this regard. She set it on the bookshelf, then moved it to
+> the table in the corner. It leaned against the wall, the gap from its lost tooth
+> pointing up into the air. Auri frowned. It wasn’t quite the proper place. Auri
+> brought out the key and held it in front of the gear. Black and brass. Both for
+> turning. They had twelve teeth between them.... She shook her head and sighed.
+> She put the key back into her pocket and left the great brass gear on the
+> bookshelf. It wasn’t the proper place for it, but it was the best that she could
+> do for now.
+> 
+> -- TODO:362
+
+She see's if the crystal will put it to rights, she even tries resting it in mantle but it seems most content vexing her.
+she leaves it there to sulk. Then resorts to flattery by placing it atop the mantelpiece beside her box of stone. What could possible resist.... but no not a peep from it. Auri is nearly angry with everything, but no, she knows its her fault for not knowing it's proper place. Maybe it doesn't want to be with her at all? A sad thought, but it may be the way of things and that's the way things have to go. So she takes it back to the Twelve. She places it by the edge of the pool and gives it a moment to consider. To her delight it doesn't want to go. She considers some other locations, but nothing feels right. She rushes to see whats wrong with Tenance and see to a leaky pipe, the whole business is quite distressing and she heads back to Mantle to calm down. After setting yourself to rights, she gathers up the brazen gear. She carries it own to wains, maybe it belonged there or maybe it could help her find out what was wrong with the place. So she took it to her
+new sitting room, and placed it upon the couch:
+
+> Then into her new sitting room. She sat the brazen gear upon the couch
+> and curled up close beside it, tucking her feet underneath herself. It wasn’t
+> any more content. Auri sighed and cocked her head at it. Poor thing. To be so
+> lovely and so lost. To be all answerful with all that knowing trapped inside. To
+> be beautiful and broken.
+> 
+> -- TODO:965
+
+Though she can't see to help the Fulcrum it finds the strength to help her. As she runs her hands along is broken tooth
+it shows her whats amiss in the room. The bone button is in need of companionship. 
+
+
+> Auri set the tarnished buckle
+> down beside the button. She nudged it closer. Turned it. There. She trembled
+> slightly as she put the carpet back in place. She smoothed it flat with both her
+> hands. She came to her feet and there was a click inside her like a key inside a
+> lock. The room was perfect as a circle now. Like a bell. Like the moon when it
+> was perfect full. Auri laughed in delight, and every piece of the laughing was a
+> tiny bird come tumbling out to fly around the room. She stood in the center of
+> the room and spun in a circle to see it all.
+> 
+> -- TODO:980
+
+Things more set to right she gathers the gear and heads back to mantle where set sets it above the fireplace, where it
+seems sullen again. Maybe The sitting room was better? Auri has other things to be about. But she finds her self all turned untrue inside when she finds her blanket twisted in the corner. She tries to see if the gear will help, horrid galling stubborn thing might it lend a hand? But no, of course not. She would like to blame things on the brazen thing, but she knows its not true. She wishes the world would run like a well oiled gear, but the oil seem to always run out. She is so chafed and chaffed inside, rubbed raw and empty. Later she tries to set her self to rights by making more of her perfect soap, you can't clean the world if your a mess after all. All seems right as honey, until she see's the pomace is full of red screaming.  
+
+> It was full of screaming. Days of endless dark red screaming. It had been hidden
+> by the mysteries before, but now the selas-sweet had stolen those away, and Auri
+> saw the screaming clear as day.
+> 
+> -- TODO:1768
+
+She knew enough of red and screaming. It wouldn't do, she takes it to Boundry. Which isn't her place any longer. The experience leaves her ragged. She can't seem to fix anything, she wants some honey, but she knows she mustn't....
+she feels the panic start to rise.
+
+> She felt the panic rising in her
+> then. She knew. She knew how quickly things could break. You did the things you
+> could. You tended to the world for the world’s sake. You hoped you would be
+> safe. But still she knew. It could come crashing down and there was nothing you
+> could do. And yes. She knew she wasn’t right. She knew her everything was canted
+> wrong. She knew her head was all unkilter. She knew she wasn’t true inside. She
+> knew. Her breath was coming harder now. Her heart a hammer in her chest. The
+> light was brighter and she heard the sound of things that normally she couldn’t
+> hear. A keening of the world all out of place. A howl of everything all turned
+> from true.... Auri looked around the room, all startle sweat and fear. She was
+> tangle and cut-string. Even here. She could see traces. Mantle was all eggshell.
+> Even her most perfect place. Her bed was almost not her bed. Her perfect leaf so
+> frail. Her box of stone so far away. Her lavender no help at all and growing
+> pale.... She looked down at her shaking hands. Was she all full of screaming
+> now? Again? No. No no. It wasn’t her. Not just. It was all everything. All
+> everything unravelding and thin and tatter. She could not even stand. The light
+> was jagged, scraping like a knife against her teeth. And underneath it was the
+> hollow dark. The nameless empty everything was clawing at the fraying edges of
+> the walls. Even Foxen wasn’t even nearly. The stones were strange. The air. She
+> went looking for her name and couldn’t even find it flickering. She was just
+> hollow in. Everything was. Everything was everything. Everything was everything
+> else. Even here in her most perfect place. She needed. Please she needed
+> please.... But there. Against the wall she saw the brazen gear was all
+> unchanged. It was too full of love. Nothing could shift it. Nothing could turn
+> it from itself. When all the world was palimpsest, it was a perfect palindrome.
+> Inviolate. It was all the way across the room. So far she feared she could not
+> reach it. Not with the stones below her gone so rough. Not hollow as she was.
+> But when she moved a bit she saw it was not hard at all. It was downhill. The
+> proud, bright brazen gear was true enough, it pressed down hard against the thin
+> frayed tatter world and made a dent. Then she was touching it. It was so smooth
+> and warm along its face. And all a sweat breathless desperate Auri pressed her
+> forehead up against its cool. She took hold of it with both her hands. The
+> sharpness of its edges on her palms was like a calming knife. She clung to it at
+> first, like someone in a shipwreck grips the stone of shore. But all the world
+> around her was still storm. All tumbledown. All crumble pale and ache. And so,
+> with shaking arms she strained against it. She pulled to turn the gear upon its
+> narrow ledge of rock. She spun it widdershins. The breaking way. It tipped from
+> tooth to tooth. She spun the brazen gear and only then did Auri understand the
+> fearsome weight of it. It was a fulcrum thing. It was a pin. A pivot. It
+> shifted, tilted, but truthfully it only seemed to turn. In truth, it stayed. It
+> staid. In truth the whole world spun. One final weighty tip and now the space
+> left by the missing tooth was turned straight down. And as the edges of the gear
+> grit hard into the stone Auri felt the whole world jar around her. It ticked.
+> Clicked. Fit. Fixed. Trembling, she looked around and saw that everything was
+> fine. Her bed was just her bed. All of everything in Mantle: fine. Nothing was
+> nothing else. Nothing was anything it shouldn’t be.
+> 
+> Auri sat down hard upon the floor. So sudden-full of sweet relief she gasped.
+> She laughed and gathered up the gear and held it to her chest. She kissed it.
+> She closed her eyes and wept.
+
+> -- TODO:1806-1855
+
+So Fulcrum is her rock on a storm night. It's pride a pedestal, it's shimmerant
+a guiding light. As a reward she takes Fulcrum to see Tree, it's the least she
+could do for it's help. She makes some pea soup, she is nearly out of food...
+but she puts that out of her mind. After her soup, on the way back to Mantle they encounter
+some leaves, a bit of a mystery really. She ends finding the leaves origins and leaving her silver etched plate there. TODO
+She checks on the vanity in Tumbrel again, and then finally takes a well deserved rest in Annulet.(TODO meaning)
+
+> She paused to rest in Annulet, her new and perfect circle of a sitting room.
+> Fulcrum settled like a king upon the velvet chair while Auri lounged upon the
+> fainting couch and let her arms recover from the oh sweet ache of holding him.
+> But she was too busy for long lounging. 
+
+There isn't much left to Fulcrums journey, but we can save the last bit for later. 
+
+
+
+
+## rest
+
+She tries curling up with the Fulcrum on the, coach to see if that will
+help:
 
 
 > She sat the brazen gear upon the couch and curled up close beside it, tucking
