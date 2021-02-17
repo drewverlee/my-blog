@@ -1,32 +1,27 @@
-{:title "Dayward"
+{:title "What comes with shadows and sleeping"
  :layout :post
  :date "2021-1-26"
  :tags  ["KingKiller" "Fantasy"]}
 
 “I want a faerie story!”
 
-"... There and back again! ..."
+ &ensp;&ensp;"... There and back again! ..."
 
 "The one with the turtle, horse and princess with no name!"
 
-"The nine fingered man!"
+&ensp;&ensp;&ensp; "_The nine fingered man!!_"
 
-"The man who killed with arrows made from his own heart!"
+&ensp;&ensp; "The man who killed with arrows made from his own heart!"
 
-"I wanna hear about the stormwall, and the last dessert, and the gods who li.."
+&ensp;&ensp;&ensp;&ensp;&ensp; "I wanna hear about the stormwall, and the last dessert, and the gods who li.."
 
 ----
- 
-This post is a continuation of [Shadows on the
-wal](/posts-output/2021-1-25-findings). As such, we will quickly continue on.
-Similar to before, will cover Auri's journey as she sees it. Then will walk it
-back and I'll show you what I see. As such, this is broken into two parts. I
-feel broken into parts to, I feel a sharp ringing and try pull myself together.
-The world seems to swirl around, and final slows and coalesces into something
-reasonable. blue, bottles and I catch my breath. Were back in Auri's sitting
-room. Something real, something we can touch. I put my hand upon the velvet
-chair, it feels normal, like sunlight and hard, honesty wood beneath.
 
+<img src="/img/auri-poster.jpg" height="600px" width="330px">
+
+ 
+
+This post is a continuation of [Shadows on the wal](/posts-output/2021-1-25-findings). As such, we will quickly continue on. Similar to before will cover Auri's journey as she sees it. Then will walk it back and I'll show you what I see. As such, this is broken into two parts. I feel broken into pieces, too; I hear a sharp ringing and try to pull myself together. The world seems to swirl around and finally slows and coalesces into something reasonable. Blue, bottles, and I catch my breath. We are back in Auri's sitting room. Something real, something we can touch. I put my hand upon the velvet chair. It feels normal, like sunlight and rugged, honesty wood beneath.
 Auri insists something is still _wrong_ with the place. On top of that, she
 can't find a proper place for Fulcrum. Which is sad, all things deserve their
 place. Oh, I'm sorry I haven't introduced you to fulcrum. I'm terrible sorry, how very rude of me.
@@ -46,7 +41,7 @@ So let's have a proper telling. On the first day, Auri found it in the deep dark
 > the space of ten hard heartbeats Auri thought it must be fastened to the stone.
 > Then it slid and she realized the truth. It was a weighty thing.
 > 
-> -- TODO:228
+> -- 14:TODO:228
 
 A heavy burden indeed, enough to jostle her about and let foxen slip..
 
@@ -54,7 +49,7 @@ A heavy burden indeed, enough to jostle her about and let foxen slip..
 > farther off away. And for a moment, Auri froze. To let the metal drop would be
 > unthinkable. But Foxen. He had been with her forever....
 > 
-> -- TODO:254
+> -- 17:TODO:254
 
 <img src="/img/auri-water-foxen.png" height="600px" width="350px">
 
@@ -65,7 +60,7 @@ But duty is foremost in Auri's heart, and to lose the gear is unimaginable.
 > too. But neither of those things were wrong. Letting the metal slide into the
 > dark simply could not be done. It was unthinkable.
 >
->  --TODO:284
+>  --18:TODO:284
 
 and so she does it! Nearly drowned, but full of joy:
 
@@ -83,7 +78,7 @@ and so she does it! Nearly drowned, but full of joy:
 > touched it with one finger. She smiled to look at it. Her lips were blue. She
 > trembled. Her heart was full of joy.
 > 
-> -- TODO:298
+> -- 19:TODO:298
 
 Auri is kind and the world is kind in turn, and so foxen from it's depths is returned:
 
@@ -97,23 +92,23 @@ Auri is kind and the world is kind in turn, and so foxen from it's depths is ret
 > like a duck. Then she caught it up and kissed it. She held it to her chest. Oh
 > yes. It was well worth it, doing things the proper way.
 > 
-> --TODO:310
+> --20:TODO:310
 
 She carries the gear, along with her other gifts back to port:
 
 > The great
 > brass gear was bright straight through. The key was black as black.
 > 
-> -- TODO:324
+> -- 23:TODO:324
 
 The gear would _almost_ make a gift for him...
 
 > The gear would
 > need consideration. It almost felt like it could be for him—but that could wait.
 >
-> -- TODO:351
+> -- 23:TODO:351
 
-But, it wasn't right yet and whats worse she can't see to find the right place for it!
+But, it wasn't right yet and whats worse she can't seem to find the right place for it!
 
 > The gear
 > was troublesome in this regard. She set it on the bookshelf, then moved it to
@@ -125,11 +120,10 @@ But, it wasn't right yet and whats worse she can't see to find the right place f
 > bookshelf. It wasn’t the proper place for it, but it was the best that she could
 > do for now.
 > 
-> -- TODO:362
+> -- 24:TODO:362
 
-She see's if the crystal will put it to rights, she even tries resting it in mantle but it seems most content vexing her.
-she leaves it there to sulk. Then resorts to flattery by placing it atop the mantelpiece beside her box of stone. What could possible resist.... but no not a peep from it. Auri is nearly angry with everything, but no, she knows its her fault for not knowing it's proper place. Maybe it doesn't want to be with her at all? A sad thought, but it may be the way of things and that's the way things have to go. So she takes it back to the Twelve. She places it by the edge of the pool and gives it a moment to consider. To her delight it doesn't want to go. She considers some other locations, but nothing feels right. She rushes to see whats wrong with Tenance and see to a leaky pipe, the whole business is quite distressing and she heads back to Mantle to calm down. After setting yourself to rights, she gathers up the brazen gear. She carries it own to wains, maybe it belonged there or maybe it could help her find out what was wrong with the place. So she took it to her
-new sitting room, and placed it upon the couch:
+She sees if the crystal will put it to rights, she even tries resting it in Mantle, but it seems most content vexing her.
+She leaves it there to sulk. Then resorts to flattery by placing it atop the mantelpiece beside her box of stone. What could possibly resist.... but no, not a peep from it. Auri is nearly angry with everything, but no, she knows it's her fault for not knowing its proper place. Maybe it doesn't want to be with her at all? A sad thought, but it may be the way of things, and that's the way things have to go. So she takes it back to the Twelve. She places it by the edge of the pool and gives it a moment to consider. To her delight, it doesn't want to go. She weighs some other locations, but nothing feels right. She rushes to see what's wrong with Tenance and sees to fixing a leaky pipe, the whole business is quite distressing, and she heads back to Mantle to calm down. After setting yourself to rights, she gathers up the brazen gear. She carries it on to Wains, maybe it belonged there, or perhaps it could help her find out what was wrong with the place. So she took it to her new sitting room and placed it upon the couch:
 
 > Then into her new sitting room. She sat the brazen gear upon the couch
 > and curled up close beside it, tucking her feet underneath herself. It wasn’t
@@ -137,10 +131,9 @@ new sitting room, and placed it upon the couch:
 > lovely and so lost. To be all answerful with all that knowing trapped inside. To
 > be beautiful and broken.
 > 
-> -- TODO:965
+> -- 59:TODO:965
 
-Though she can't see to help the Fulcrum it finds the strength to help her. As she runs her hands along is broken tooth
-it shows her whats amiss in the room. The bone button is in need of companionship. 
+Though she can't see to help the Fulcrum, it finds the strength to help her. As she runs her hands along its broken tooth it shows her what's amiss in the room. The bone button needs companionship. 
 
 
 > Auri set the tarnished buckle
@@ -152,19 +145,20 @@ it shows her whats amiss in the room. The bone button is in need of companionshi
 > tiny bird come tumbling out to fly around the room. She stood in the center of
 > the room and spun in a circle to see it all.
 > 
-> -- TODO:980
+> -- 60:TODO:980
 
-Things more set to right she gathers the gear and heads back to mantle where set sets it above the fireplace, where it
-seems sullen again. Maybe The sitting room was better? Auri has other things to be about. But she finds her self all turned untrue inside when she finds her blanket twisted in the corner. She tries to see if the gear will help, horrid galling stubborn thing might it lend a hand? But no, of course not. She would like to blame things on the brazen thing, but she knows its not true. She wishes the world would run like a well oiled gear, but the oil seem to always run out. She is so chafed and chaffed inside, rubbed raw and empty. Later she tries to set her self to rights by making more of her perfect soap, you can't clean the world if your a mess after all. All seems right as honey, until she see's the pomace is full of red screaming.  
+Things more set to right, she gathers the gear and heads back to mantle where set sets it above the fireplace, where it
+seems sullen again. Maybe The sitting room was better? Auri has other things to be about. But she finds herself all turned untrue inside when she finds her blanket twisted in the corner. She tries to see if the gear will help, the horrid galling stubborn thing might it lend a hand? But no, of course not. She would like to blame things on the brazen thing, but she knows it's not true. She wishes the world would run like a well-oiled gear, but the oil seems to always run out. She is so chafed and chaffed inside, rubbed raw and empty. Later she tries to set herself to rights by making more of her perfect soap. You can't clean the world if you're a mess, after all. All seems right as honey until she sees the pomace is full of red screaming.  
+
 
 > It was full of screaming. Days of endless dark red screaming. It had been hidden
 > by the mysteries before, but now the selas-sweet had stolen those away, and Auri
 > saw the screaming clear as day.
 > 
-> -- TODO:1768
+> -- 113:TODO:1768
 
-She knew enough of red and screaming. It wouldn't do, she takes it to Boundry. Which isn't her place any longer. The experience leaves her ragged. She can't seem to fix anything, she wants some honey, but she knows she mustn't....
-she feels the panic start to rise.
+She knew enough of red and screaming. It wouldn't do. She takes it to Boundry. Which isn't her place any longer. The experience leaves her ragged. She can't seem to fix anything, she wants some honey, but she knows she mustn't....
+She feels the panic start to rise.
 
 > She felt the panic rising in her
 > then. She knew. She knew how quickly things could break. You did the things you
@@ -217,60 +211,37 @@ she feels the panic start to rise.
 > She laughed and gathered up the gear and held it to her chest. She kissed it.
 > She closed her eyes and wept.
 
-> -- TODO:1806-1855
+> -- 115:TODO:1806-1855
 
-So Fulcrum is her rock on a storm night. It's pride a pedestal, it's shimmerant
-a guiding light. As a reward she takes Fulcrum to see Tree, it's the least she
-could do for it's help. She makes some pea soup, she is nearly out of food...
-but she puts that out of her mind. After her soup, on the way back to Mantle they encounter
-some leaves, a bit of a mystery really. She ends finding the leaves origins and leaving her silver etched plate there. TODO
-She checks on the vanity in Tumbrel again, and then finally takes a well deserved rest in Annulet.(TODO meaning)
+<img src="/img/auri-fulcrum-hold.png" height="600px" width="350px">
+
+So Fulcrum is her rock on a stormy night. It's pride a pedestal; it's shimmerant a guiding light. As a reward, she takes Fulcrum to see Tree. It's the least she could do for its help. She makes some pea soup. She is nearly out of food... but she puts that out of her mind. After her soup, on the way back to Mantle, they encounter some scattered leaves, a bit of a mystery, really. She discovers where they came from and leaves her silver etched plate there. She checks on the vanity in Tumbrel again and then finally takes a well-deserved rest in Annulet.
 
 > She paused to rest in Annulet, her new and perfect circle of a sitting room.
 > Fulcrum settled like a king upon the velvet chair while Auri lounged upon the
 > fainting couch and let her arms recover from the oh sweet ache of holding him.
 > But she was too busy for long lounging. 
+> 
+> -- 130:TODO:
 
 There isn't much left to Fulcrums journey, but we can save the last bit for later. 
 
 
+## Interlude: fourths and fallings
 
+Whew, so now you have traveled around a bit with Fulcrum. He has been brazen, proud, sullen, vexing, stubborn, and answerful. He came from below, and he helped Auri in a tight spot. He is a symbol of motion, movement, and turnings. But he is also beautiful and broken.
 
-## rest
-
-She tries curling up with the Fulcrum on the, coach to see if that will
-help:
-
-
-> She sat the brazen gear upon the couch and curled up close beside it, tucking
-> her feet underneath herself. It wasn’t any more content. -- TODO
-
-<img src="/img/auri-fulcrum-hold.png" height="600px" width="350px">
-
-poor lonely fulcrum. 
-
-> To be all answerful with all that knowing trapped inside. To be beautiful and
-> broken. Auri nodded and lay her hand gently on the gear’s smooth face consolingly. -- TODO
-
-Where at one point she takes a rest from carrying Fulcrum around, setting him on velvet
-chair.
-
-> Fulcrum settled
-> like a king upon the velvet chair while Auri lounged upon the fainting couch and
-> let her arms recover from the oh sweet ache of holding him. But she was too busy
-> for long lounging. -- TODO
+Three times now, we have reached a turning point. Three times is the proper way, what the world will bear. All the stories agree on this: three gifts, three calls, three parts of silence. But we, like Auri, are not always proper. And so a final turn, hidden from the slight of men. A desperate gentle thing, a breath to set it into motion. So soft and pure creation itself bends, and bends and bends ... bends... and breaks. There is no thunderclap, no distant drum. The stars hang silently in the sky—only a slight change in the wind, a hesitation, a pull upward. As if the world hung by a string, now cut, and is falling.
 
 <img src="/img/sunsetpurple.jpeg" height="400px" width="400px">
 
-------
+----
 
-We know from our last post this is "Sitting Room" is part of the Fea. 
-It has two pieces of furniture you can sit on: a couch and a velvet chair. Recall that
-Auri's hand, reached under the couch to find the bone button. That implies some
-separation between things under the couch and things near the chair. 
 
-It means a border, moving from darkness to the lights of the chandelier above. We are
-brave, young and far from home and hearth. Our eyes, like our red haired heros, used to twilight's haze,
+We know from our last read this "Sitting Room" is part of the Fea. 
+It has two pieces of furniture you can sit on: a couch and a velvet chair. Recall that Auri's hand reached under the couch to find the bone button. That implies some separation between things under the couch and things near the chair. 
+
+It means a border, moving from darkness to the lights of the chandelier above. We are brave, young, and far from home and hearth. Our eyes, like our red haired heroes, used to twilight's haze,
 adjust to daylight... 
 
 > Still, I knew I wouldn’t be welcome back in the clearing for some time. So I
@@ -287,7 +258,7 @@ adjust to daylight...
 > the dim twilight of Felurian’s glade. 
 
 > The trail I followed seemed to be leading to a lone tree standing in the
-> grassy field. I decided I would go as far as that tree, then head back. -- TWMF:104:TODO
+> grassy field. I decided I would go as far as that tree, then head back. -- TWMF:104:680
 
 A tree, with power-blue blossoms.
 
@@ -307,10 +278,11 @@ Not a chair, but a thrown, not a tree, but a brazen gear:
 
 <img src="/img/brazen.jpg" height="300px" width="300px">
 
+
 ## Epilogue
 
 The world fails to make sense. Were spinning because if we stop then things will
-come back into focus and that's so much worse. Down, down, down. Would the fall
+come back into focus and that's so much worse. _Down, down, down._ Would this the fall
 never come to an end? What are we to do...
 
 _When the hearthfire turns to blue,_
@@ -333,6 +305,14 @@ _Silent come and silent go._
 _What’s their plan? What’s their plan?_
 
 _Chandrian. Chandrian._
+
+
+Annulet. 
+
+Both a ring (top of tower), and a symbol of the amyr
+
+TODO amyr picture
+
 
 ### Alice's Adventures in wonderland, by Lewis Caroll
 
@@ -392,6 +372,7 @@ Verb:
 ## Rights & Art
 
 * Auri holding the fulcrum from u/notakruskkrabb posted [here](https://www.reddit.com/r/KingkillerChronicle/comments/epvml8/i_drew_auri_for_my_new_desk_at_work/)
+* Mantle picture origins unknown, I merged it with a slender moon on Primsa.
 * all other art is Worldbuilers
 
 ## citations
