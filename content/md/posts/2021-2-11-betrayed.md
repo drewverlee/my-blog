@@ -1,10 +1,13 @@
-{:title "A Secret of the heart"
+{:title "A secret of the heart"
  :layout :post
  :previews? false
  :date "2021-2-11"
  :tags  ["KingKiller" "Fantasy"]}
  
- <img src="/img/autumn-leaves.jpg" height="300px" width="300px" style="border:1px solid #021a40;padding:1px;">
+
+  <img src="/img/abstract-red-tree.png" height="300px" width="300px">
+
+
  
 _Watch the stars as they're dancin'_
 <br>
@@ -536,8 +539,6 @@ SROST Chapters so I can use numbers:
 * [abstract red tree](https://www.etsy.com/listing/171656565/abstract-painting-art-original-landscape?utm_source=Pinterest&utm_medium=PageTools&utm_campaign=Share)
 
 ----
-
- <img src="/img/abstract-red-tree.png" height="300px" width="300px">
 
 ## possible pat hints
 
