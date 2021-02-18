@@ -1,4 +1,4 @@
-{:title "Painful Treasures of the Mind"
+{:title "A Secret of the heart"
  :layout :post
  :previews? false
  :date "2021-2-11"
