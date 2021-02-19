@@ -459,7 +459,7 @@ look in the flickering light of the mirror as it shows her for who she truly is.
 > sinister bent, and caught a glimpse of what was turning it from true. She could
 > feel the tattered edges of its disarray. -- Auri SROST:4:91::A4:D8:Tumbrel 
 
-Shifting light seems to undo glammouries effects which we learn from Bast:
+Shifting light seems to undo glammouries effects, which we learn from Bast:
 
 > Beneath the water, a careful observer might note the young man’s legs looked
 > somewhat … odd. But it was shady there, and everyone knows that water bends

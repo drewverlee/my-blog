@@ -447,6 +447,22 @@ space though, I presumptuously said I would provide a summery, as if, as if you
 could capture a summers day in a bottle. It would also be worth a reread where we
 look out for any subtle uses, now that we know what clues to look for.
 
+### breaking
+
+Bast is worried his young clever friend might ask how to break fae magic. So we should be on the look out for that to.
+As a starting point, it would seem "shifting light" might undo glammourie as implied here:
+
+> Beneath the water, a careful observer might note the young man’s legs looked
+> somewhat … **odd**. But it was shady there, and everyone knows that water bends
+> light strangely, making things look other than they are. 
+> But it was shady there, and everyone knows that water **bends light**
+> strangely, making things look other than they are.
+> 
+> -- Bast TLT:749
+
+Maybe the key is randomness? 
+
+
 ### Rights and Art
 
 Most art is from world builders. 
