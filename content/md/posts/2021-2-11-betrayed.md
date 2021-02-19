@@ -448,12 +448,29 @@ certainly isn't pale like Auri:
  same words used by Bast to describe the magic fae do. 
  
 > Whoever wrought and factored this was living proof that alchemy was **art**.
-> It showed pure mastery of **craft**. -SROST:2:52
+> It showed pure mastery of **craft**. --Auri SROST:2:52
 
 She can use waystones, so imagine the kinds of places she might have visited and
 who she might have talked to along the way. With just a touch of glammourie she
-would likely slide past Kvothe on his best day. All except his sleeping mind,
-which likens her eye's to a turned on **spigot**. But even without that, were left
+would likely slide past most people with ease. Which is likely why she can't bare to 
+look in the flickering light of the mirror as it shows her for who she truly is...
+
+> In the **shifting light** she saw it had a
+> sinister bent, and caught a glimpse of what was turning it from true. She could
+> feel the tattered edges of its disarray. -- Auri SROST:4:91::A4:D8:Tumbrel 
+
+Shifting light seems to undo glammouries effects which we learn from Bast:
+
+> Beneath the water, a careful observer might note the young man’s legs looked
+> somewhat … odd. But it was shady there, and everyone knows that water bends
+> light strangely, making things look other than they are. 
+> But it was shady there, and everyone knows that water **bends light**
+> strangely, making things look other than they are.
+> 
+> -- Bast TLT:749
+
+But while Kvothe's waking mind might be tricked, his sleeping mind tries to give him a hint,
+as it likens her eye's to a turned on **spigot**. But even without that, were left
 with a more then a scattered puzzle pieces. That we don't know the picture it's
 forming doesn't discount the fit even if it leaves us a bit tight in the throat.
 
@@ -492,6 +509,7 @@ corrections and add necessary details, otherwise a simple citation would have
 sufficed.
 * To u/playtheboard, who brought u/drue801 theory to my attention. For that 
 and for feedback on this entire process.
+* To u/rhintamorie for friendship and for the hint about shifting light as it related to her mirror.
 
 
 ## Citations

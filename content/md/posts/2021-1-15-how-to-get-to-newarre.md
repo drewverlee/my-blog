@@ -920,6 +920,24 @@ is more likely.
 
 <img src="/img/map-with-newarre.jpg" height="350px" width="350px">
 
+There might be some information in the History of Tak, which clarifies the location of Newaree.  
+Specifically, there is mention of Abbot's Ford, where a historic game of tak is played:
+
+> In Abbot's Ford we lay our scene...
+
+This is a place mentioned a couple times in the frame in relation to Chronicler's journey to Newarre:
+
+>“I am behind schedule,” Chronicler admitted. “My horse was stolen near **Abbott’s
+>Ford**.” He glanced out the window at the darkening sky. “But I’m willing to lose
+>some sleep. I’ll be off in the morning and out of your hair.”
+
+The term Tak is relatively modern and in wide use around the four corners.
+Though variants still exist. It might be possible to narrow down where Abbott's
+ford down even further by examining the story and comparing the game to how tak
+is played in various places. My gut tells me that Abbott's _ford_ might be related to **Ford**ell,
+which is a land sound of the university and by my guess, Newarre.
+
+
 
 # Covering the text
 
