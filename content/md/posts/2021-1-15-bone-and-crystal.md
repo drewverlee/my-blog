@@ -406,7 +406,6 @@ Though the idea and what follows is mine, I had plenty of help and encouragement
 * u/aowshadow for a detailed review of this post
 * u/biologin for the Rothuss alchemy quotes, and likely other bits i picked up
 * u/mastersam for insights
-* u/opensourcespace whose work I never read, but likely who footsteps we all [follow](https://www.reddit.com/r/KingkillerChronicle/comments/a5h24v/is_kvothe_fulcrum_from_tsrost/ebpk6xz/?utm_source=share&utm_medium=web2x&context=3)
 * elle, KKC discord, for encouragement and critic
 
 They have some great KKC theories out there you should check out.
