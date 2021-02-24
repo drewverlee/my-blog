@@ -8,7 +8,7 @@
 
 <img src="/img/spoem.png" height="500px" width="400px">
  
-_Come sister Sparrow come Brother wolf_
+_Come sister Sparrow come brother Wolf_
 
 _Warrens widdershins ways and woes_
 <br>
@@ -332,7 +332,7 @@ journey for the cyrstal, the begging of the honeycombs.
     <td>Arm Bone</td>
     <td>Holly Berry</td>
     <td>Laurel Fruit</td>
-    <td>Barrow?</td>
+    <td>Barrow</td>
   </tr>
   <tr>
     <td>Selitos</td>
@@ -425,10 +425,6 @@ SROST Authors forward
 
 * All (most) of the pictures are likely property of Worldbuilders ,I have enjoyed my
 purchases from them greatly and hope using them this isn't stepping on any toes.
-* Celtic Holly picture from Anne Stokes 
-* Some scattered ones from Wikipedia
-* Allegory of cave picture from [here.](https://bayoakomolafe.net/project/the-allegory-of-the-pit-or-the-irony-of-victory/)
-*[ Auri and gear](https://www.artpal.com/Ultraanimegirl4?i=128531-2)
 
 ## Citations
 

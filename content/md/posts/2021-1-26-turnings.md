@@ -308,7 +308,8 @@ _What’s their plan? What’s their plan?_
 _Chandrian. Chandrian._
 
 
-Annulet. 
+TODO Annulet. chandrian deck symbol 3
+TODO TWMF 88 listening what jax isn't ~ what auri is? ~ rhin ~
 
 Both a ring (top of tower), and a symbol of the amyr
 
