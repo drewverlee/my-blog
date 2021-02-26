@@ -15,7 +15,7 @@ _run, boy run_
 
 _hush, quietly they come_
 <br>
-_faint as foxfire_
+_faint as flickerlight foxfire_
 <br>
 _giving up their little lights for you_
 <br>
@@ -34,7 +34,7 @@ _away, away, away..._
 
 _why won't you stay?_
 <br>
-_you have such left to play_
+_you have so much left to play_
 
 # The Prince of Shadow
 
