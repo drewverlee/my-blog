@@ -26,15 +26,18 @@ _over sunny meadow_
 <br>
 _your breath like pleading piper_
 <br>
-_your canter like tabor beats,_
-<br>
-_you can't catch your shadow_
+_your canter like tabor beats_
 
 _away, away, away..._
 
 _why won't you stay?_
 <br>
 _you have so much left to play_
+<br>
+_and you can't outrun shadow_
+<br>
+
+
 
 # The Prince of Shadow
 
