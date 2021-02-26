@@ -24,11 +24,11 @@ _run, boy run_
 
 _over sunny meadow_
 <br>
-_your breath like lilting lute,_
+_your breath like pleading piper_
 <br>
 _your canter like tabor beats,_
 <br>
-_you can't leave your shadow_
+_you can't catch your shadow_
 
 _away, away, away..._
 
