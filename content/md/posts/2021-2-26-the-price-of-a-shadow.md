@@ -51,19 +51,12 @@ _The fox and hair and the space between_
 <img src="/img/E-image.png" height=100px width=100px>
 
 
-_The &#xe6;sc_
 <br>
-_The H&#xe6;rt_
+_The Sh&#xe6;d_
 <br>
 _The F&#xe6;_
 <br>
 _The Cth&#xe6;h_
 
 
-
-
 <img src="/img/the-prince-of-shadow.png" >
-
-
-
-
