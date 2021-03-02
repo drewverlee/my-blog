@@ -17,7 +17,7 @@ _hush, quietly they come_
 <br>
 _faint as flickerlight foxfire_
 <br>
-_giving up their little lights for you_
+_giving up their little souls_
 <br>
 
 _run, boy run_
@@ -34,11 +34,36 @@ _why won't you stay?_
 <br>
 _you have so much left to play_
 <br>
-_and you can't outrun shadow_
+_and you can't outrun your shadow_
 <br>
 
+--------------
+
+_The annulet_
+<br>
+_The broken circle_
+<br>
+_The fulcrum_
+<br>
+_The fox and hair and the space between_
+
+<img src="/img/a-image.png" height=100px width=100px>
+<img src="/img/E-image.png" height=100px width=100px>
 
 
-# The Prince of Shadow
+_The &#xe6;sc_
+<br>
+_The H&#xe6;rt_
+<br>
+_The F&#xe6;_
+<br>
+_The Cth&#xe6;h_
+
+
+
 
 <img src="/img/the-prince-of-shadow.png" >
+
+
+
+
