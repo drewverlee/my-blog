@@ -51,7 +51,6 @@ _The fox and hair and the space between_
 <img src="/img/E-image.png" height=100px width=100px>
 
 
-<br>
 _The Sh&#xe6;d_
 <br>
 _The F&#xe6;_
