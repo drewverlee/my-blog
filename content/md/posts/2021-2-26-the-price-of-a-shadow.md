@@ -45,7 +45,7 @@ _The broken circle_
 <br>
 _The fulcrum_
 <br>
-_The fox and hair and the space between_
+_The fox and hare and the space between_
 
 <img src="/img/a-image.png" height=100px width=100px>
 <img src="/img/E-image.png" height=100px width=100px>
