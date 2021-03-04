@@ -1,6 +1,6 @@
-{:title "The King"
+{:title "A Crown, A "
  :layout :post
- :date "2021-1-26"
+ :date "2021-3-4"
  :tags  ["KingKiller" "Fantasy"]}
 
 “I want a faerie story!”
@@ -17,9 +17,10 @@
 
 ----
 
-# Intro: The Arborist's hemp
 
-<img src="/img/auri-poster.jpg" height="600px" width="330px">
+<img src="/img/climbing.jpg" height="450px" width="275px">
+
+# Intro: The Arborist's hemp
 
 This post is a continuation of [Shadows on the
 wal](/posts-output/2021-1-25-findings). This story is intended to be read from the start,
@@ -39,7 +40,7 @@ sorry, how very rude of me.
 
 Will need to focus our Alar and follow several paths at once. 
 
-## First Binding: A hard heavy weight of answers
+## 1st Binding: A hard heavy weight of answers
 
 Fulcrum didn't always go by that name. Auri gave it when... what I doing?
 A _proper_ story starts at the beginning. So let's have a proper telling. On the
@@ -55,17 +56,16 @@ slow going, but worth doing.
 > bumped something solid and cold, all hard lines and smooth. It was full of love
 > and answers, so full she felt them spilling out at just her briefest touch. For
 > the space of ten hard heartbeats Auri thought it must be fastened to the stone.
-> Then it slid and she realized the truth. It was a weighty thing.
-> 
-> -- 14:TODO:228
+> Then it slid and she realized the truth. It was a weighty thing. --15G
+<!-- 228 -->
 
 A heavy burden indeed, enough to jostle her about and let foxen slip..
 
 > Auri snatched with her free hand, but her knuckles only batted Foxen
 > farther off away. And for a moment, Auri froze. To let the metal drop would be
-> unthinkable. But Foxen. He had been with her forever....
-> 
-> -- 17:TODO:254
+> unthinkable. But Foxen. He had been with her forever.... --17
+<!-- 254 -->
+
 
 <img src="/img/auri-water-foxen.png" height="600px" width="350px">
 
@@ -74,9 +74,8 @@ But duty is foremost in Auri's heart, and to lose the gear is unimaginable.
 > Losing Foxen was bad. It would leave her blind and lonely in
 > the dark. Being trapped beneath the pipes and choking out her life was awful
 > too. But neither of those things were wrong. Letting the metal slide into the
-> dark simply could not be done. It was unthinkable.
->
->  --18:TODO:284
+> dark simply could not be done. It was unthinkable.  --18
+<!-- 284 -->
 
 and so she does it! Nearly drowned, but full of joy:
 
@@ -92,9 +91,8 @@ and so she does it! Nearly drowned, but full of joy:
 > surface of it shimmerant and gold. It looked like a piece of sun she’d brought
 > up from the deep. Auri coughed again and shivered. Then she reached out and
 > touched it with one finger. She smiled to look at it. Her lips were blue. She
-> trembled. Her heart was full of joy.
-> 
-> -- 19:TODO:298
+> trembled. Her heart was full of joy. --19
+<!-- 298 -->
 
 Auri is kind and the world is kind in turn, and so foxen from it's depths is returned:
 
@@ -106,23 +104,19 @@ Auri is kind and the world is kind in turn, and so foxen from it's depths is ret
 > way slowly up through all the tangled pipes. She waited five long minutes,
 > watching Foxen’s bottle bob and drift until it finally popped up to the surface
 > like a duck. Then she caught it up and kissed it. She held it to her chest. Oh
-> yes. It was well worth it, doing things the proper way.
-> 
-> --20:TODO:310
+> yes. It was well worth it, doing things the proper way. --20
+<!-- 310 -->
 
 She carries the gear, along with her other gifts back to port:
 
-> The great
-> brass gear was bright straight through. The key was black as black.
-> 
-> -- 23:TODO:324
+> The great brass gear was bright straight through. The key was black as black. --23
+<!-- 324 -->
 
 The gear would _almost_ make a gift for him...
 
 > The gear would
-> need consideration. It almost felt like it could be for him—but that could wait.
->
-> -- 23:TODO:351
+> need consideration. It almost felt like it could be for him—but that could wait. --23
+<!-- 351 -->
 
 But, it wasn't right yet and whats worse she can't seem to find the right place for it!
 
@@ -134,9 +128,8 @@ But, it wasn't right yet and whats worse she can't seem to find the right place 
 > turning. They had twelve teeth between them.... She shook her head and sighed.
 > She put the key back into her pocket and left the great brass gear on the
 > bookshelf. It wasn’t the proper place for it, but it was the best that she could
-> do for now.
-> 
-> -- 24:TODO:362
+> do for now. -- 24
+<!-- 362 -->
 
 She sees if the crystal will put it to rights, she even tries resting it in Mantle, but it seems most content vexing her.
 She leaves it there to sulk. Then resorts to flattery by placing it atop the mantelpiece beside her box of stone. What could possibly resist.... but no, not a peep from it. Auri is nearly angry with everything, but no, she knows it's her fault for not knowing its proper place. Maybe it doesn't want to be with her at all? A sad thought, but it may be the way of things, and that's the way things have to go. So she takes it back to the Twelve. She places it by the edge of the pool and gives it a moment to consider. To her delight, it doesn't want to go. She weighs some other locations, but nothing feels right. She rushes to see what's wrong with Tenance and sees to fixing a leaky pipe, the whole business is quite distressing, and she heads back to Mantle to calm down. After setting yourself to rights, she gathers up the brazen gear. She carries it on to Wains, maybe it belonged there, or perhaps it could help her find out what was wrong with the place. So she took it to her new sitting room and placed it upon the couch:
@@ -145,9 +138,8 @@ She leaves it there to sulk. Then resorts to flattery by placing it atop the man
 > and curled up close beside it, tucking her feet underneath herself. It wasn’t
 > any more content. Auri sighed and cocked her head at it. Poor thing. To be so
 > lovely and so lost. **To be all answerful with all that knowing trapped inside. To
-> be beautiful and broken.**
-> 
-> -- 59:TODO:965
+> be beautiful and broken.** -- 59
+<!-- 965 -->
 
 Though she can't see to help the Fulcrum, it finds the strength to help her. As she runs her hands along its broken tooth it shows her what's amiss in the room. The bone button needs companionship. 
 
@@ -159,9 +151,8 @@ Though she can't see to help the Fulcrum, it finds the strength to help her. As 
 > lock. The room was perfect as a circle now. Like a bell. Like the moon when it
 > was perfect full. Auri laughed in delight, and every piece of the laughing was a
 > tiny bird come tumbling out to fly around the room. She stood in the center of
-> the room and spun in a circle to see it all.
-> 
-> -- 60:TODO:980
+> the room and spun in a circle to see it all. -- 60
+<!-- 980 -->
 
 Things more set to right, she gathers the gear and heads back to mantle where
 set puts it above the fireplace, where it seems sullen again. Maybe the sitting
@@ -198,7 +189,8 @@ because something has taken her perfect soap!
 > snagged up in her tangleness. For a second her hard eyes went all brimful, but
 > she blinked them back. Hot from Bakery, and all asweat with rage and the
 > unrightness of it all, Auri turned and stormed away, her bare feet slapping
-> angrily against the stone. --1297-1321
+> angrily against the stone. --83
+<!-- 1297-1321 -->
 
 Auri settles for a less satisfying bath in Mantle. But her rest is short, as she hears
 a cry for help. 
@@ -223,37 +215,43 @@ a cry for help.
 > the tippad of her smallest finger. But by then she’d reached the nearest grate.
 > She lifted up her hand and nudged the poor lost thing outside. Out of the
 > Underthing and back toward its proper nighttime place of mothers, bins, and
-> cobblestones. -- Auri 1335-1355
+> cobblestones. --85
+<!-- 1335-1355 -->
 
-As so often is the case her, her kindness goes unrewarded. 
+As so often is the case her, her kindness goes unrewarded. What's more something has also put her perfect
+place into disarray. Her blanket all twisted and turned, it's enough to make her nearly cry.
 
+> she might cry, but when she felt around inside herself she found she had no
+> crying left. She was full of broken glass and burrs. She was weary and
+> disappointed with all of everything. --89
 
-TODO move this?
-Later she tries to set herself to rights by making more of her perfect soap. You
-can't clean the world if you're a mess, after all.
+She tried everything to set it to rights, even seeing if her new _living_ room might have the answers...
 
 > Auri carried the blanket all the way down to Wains and
 > into her new perfect sitting room. She draped it over the **back of the couch**. She
 > folded it and set it in the **chair**. Finally, in true desperation, Auri set her
-> jaw and spread her blanket flat across the **lush red rug** in the center of the
+> jaw and **spread her blanket flat across the lush red rug**  in the center of the
 > room. She smoothed it with both hands, careful not to let it touch the stone of
 > the floor. It overlapped the rug almost perfectly. And for a second she felt
 > hope rise in her chest that— But no. It didn’t fix things at all. She knew it
 > then. She’d known all along, really. Nothing was going to make the blanket right
 > again. Scowling, Auri snatched the blanket up, wadded the ungrateful thing into
-> a ball, and headed up the unnamed stair. ~ Auri 1413
+> a ball, and headed up the unnamed stair. --90
+<!-- 1413 -->
 
-
-All seems right as honey until she sees the pomace is full of red screaming.  
+Later she tries to set herself to rights by making more of her perfect soap. You
+can't clean the world if you're a mess, after all. All seems right as honey until she 
+sees the pomace is full of red screaming.
 
 > It was full of screaming. Days of endless dark red screaming. It had been hidden
 > by the mysteries before, but now the selas-sweet had stolen those away, and Auri
-> saw the screaming clear as day.
-> 
-> -- 113:TODO:1768
+> saw the screaming clear as day. --113
+<!-- 1768 -->
 
-She knew enough of red and screaming. It wouldn't do. She takes it to Boundry. Which isn't her place any longer. The experience leaves her ragged. She can't seem to fix anything, she wants some honey, but she knows she mustn't....
-She feels the panic start to rise.
+She knew enough of red and screaming. It wouldn't do. She takes it to Boundry.
+Which isn't her place any longer. The experience leaves her ragged. She can't
+seem to fix anything, she wants some honey, but she knows she mustn't.... She
+feels the panic start to rise.
 
 > She felt the panic rising in her
 > then. She knew. She knew how quickly things could break. You did the things you
@@ -304,21 +302,24 @@ She feels the panic start to rise.
 > 
 > Auri sat down hard upon the floor. So sudden-full of sweet relief she gasped.
 > She laughed and gathered up the gear and held it to her chest. She kissed it.
-> She closed her eyes and wept.
-
-> -- 115:TODO:1806-1855
+> She closed her eyes and wept. --115
+<!-- 1806-1855 -->
 
 <img src="/img/auri-fulcrum-hold.png" height="600px" width="350px">
 
-So Fulcrum is her rock on a stormy night. It's pride a pedestal; it's shimmerant a guiding light. As a reward, she takes Fulcrum to see Tree. It's the least she could do for its help. She makes some pea soup. She is nearly out of food... but she puts that out of her mind. After her soup, on the way back to Mantle, they encounter some scattered leaves, a bit of a mystery, really. She discovers where they came from and leaves her silver etched plate there. She checks on the vanity in Tumbrel again and then finally takes a well-deserved rest in Annulet.
+So Fulcrum is her rock on a stormy night. It's pride a pedestal; it's shimmerant
+a guiding light. As a reward, she takes Fulcrum to see Tree. It's the least she
+could do for its help. She makes some pea soup. She is nearly out of food... but
+she puts that out of her mind. After her soup, on the way back to Mantle, they
+encounter some scattered leaves, a bit of a mystery, really. She discovers where
+they came from and leaves her silver etched plate there. She checks on the
+vanity in Tumbrel again and then finally takes a well-deserved rest in Annulet.
 
 > She paused to rest in Annulet, her new and **perfect circle** of a sitting room.
 > Fulcrum settled like a king upon the **velvet chair** while Auri lounged upon the
 > fainting couch and let her arms recover from the oh sweet ache of holding him.
-> But she was too busy for long lounging. 
-> 
-> --2018:130:TODO:
-
+> But she was too busy for long lounging. --130
+<!-- 2018: -->
 
 There isn't much left to Fulcrums journey, but we can save the last bit for
 later. Let's travel through the second door Auri finds in Annulet. She finds
@@ -331,31 +332,34 @@ some worrisome stairs, but nothing she can't navigate.
 > different place entirely. Auri’s heart beat faster then. It had been ages since
 > she’d come on somewhere wholly new. A place that dared to be entirely itself.
 > Still, carefully. In Foxen’s steady light Auri looked closely at the walls and
-> ceiling. ~ Auri srost 452
+> ceiling. --29
+<!-- 452 -->
 
 The ceiling above had collapsed.
 
 > At the top of the stairs the ceiling had collapsed, but there was a gap made by
 > a broken wall. Auri stepped through and found herself grinning with the thrill
-> of it. Another new place. ~ 478
+> of it. Another new place. --30
+<!-- 478 -->
 
-> Half the ceiling had fallen in and everything was covered in dust. ~483
+> Half the ceiling had fallen in and everything was covered in dust. --31
+<!-- 483 -->
 
 In the room she finds a vanity mirror, a _proud_ place indeed.
 
 > In the unfallen portion of the room, there was a
 > triune mirror vanity and a dark wooden wardrobe taller than a tall woman
-> standing on her toes.
+> standing on her toes. --31
 
 It's a bit of a mess, but Auri is use to places being untidy.
 
-> It was half-buried by a broken beam and blocks of **shattered stone**.
+> It was half-buried by a broken beam and blocks of **shattered stone**. --31
 
 She finds a white tatted lace that goes nicely with her crystal and her ciridae.
 
 > She found the wreckage of a small table underneath the stones, and amid
 > the splintered wood she found a length of fine white tatted lace. She folded
-> this up carefully and put it in her pocket with the **crystal** and the **small stone soldier**.
+> this up carefully and put it in her pocket with the **crystal** and the **small stone soldier**. --32
 
 There is much more to Tumbrel, you doubtless recall this is where Auri found her
 going out dress and face. No doubt a clever reader will be able to find much more, especially once
@@ -365,7 +369,11 @@ they learn the proper way of looking. But for now, lets move on...
 
 <img src="/img/fulcrum-arch.jpg" height="400px" width="500px">
 
-## Second Binding: Towards the dark of a grim winters night.
+<img src="/img/niche.png" height="150px" width="300px">
+
+
+## 2nd Binding: Towards the dark of a grim winters night.
+
 
 We catch up with Kvothe and Felurian after their terrifying experience in the Fae. Kvothe wisely asks
 no questions and together then continue their journey. The travel nightward, in search of darkness and a shaed.
@@ -375,7 +383,8 @@ no questions and together then continue their journey. The travel nightward, in 
 > enough to give an impression of the ground and surrounding trees. Felurian’s slender form was a
 > silver shadow in the darkness.
 > We kept walking, and the trees grew taller and thicker, blocking out the pale starlight bit by bit.
-> Then it became truly dark. Felurian was little more than a piece of pale darkness ahead of me. ~ TODO 19145
+> Then it became truly dark. Felurian was little more than a piece of pale darkness ahead of me. --TMMF this and below Chapter 100 shaed
+<!-- 19145 -->
 
 As they start to lose the light Felurian calls out more gently then a cat and is answered by hundreds of small
 flickering moth lights.
@@ -386,7 +395,8 @@ flickering moth lights.
 > I cringed at the thought of a loud noise invading the warm quiet of this place. But instead of a shout
 > there was nothing. No. Not nothing. It was like a low, slow purr. Not anything so loud and rough as a
 > **cat’s purr**. It was closer to the sound a heavy snowfall makes, a muffled hush that almost makes less
-> noise than no noise at all.  ~ felurian/kvothe walk 19156
+> noise than no noise at all. 
+<!-- ~ felurian/kvothe walk 19156 -->
 
 > I could no longer see even the faintest shape of her.
 > After the final pause, Felurian stepped close to me in the dark, pressing her body to mine. She gave
@@ -403,7 +413,8 @@ flickering moth lights.
 > Then they were all around us, startling me. The lights were smaller than I’d thought, and closer. I
 > heard the hushed snowfall sound again, this time from all around me. I still couldn’t guess what they
 > might be until one of them brushed my arm as lightly as a feather. They were moths of some sort.
-> Moths with luminescent patches on their wings. ~ k/f walk 19174
+> Moths with luminescent patches on their wings. 
+<!-- ~ k/f walk 19174 -->
 
 They pass over soft soil, a farmers field, twisting stone path and then a high bridge.
 
@@ -415,7 +426,8 @@ They pass over soft soil, a farmers field, twisting stone path and then a high b
 > **grass soft** beneath my bare feet instead of moss, then there was soft **soil**, as if we were crossing a
 > **farmer ’s fresh-tilled field**. For a time we followed a **twisting path of smooth paved stone**  that led us
 > over the arch of a **high bridge**. All the while the moths followed us, giving me only the dimmest
-> impression of our surroundings. ~ K/f walk 19182
+> impression of our surroundings. 
+<!-- ~ K/f walk 19182 -->
 
 
 They find themselves in an open space, with vast darkness overhead. Kovthe feels the presence of 
@@ -425,15 +437,13 @@ something great sleeping there.
 > There were no stars above us. If we were in a clearing, the trees must be vast for their branches to
 > meet overhead. But for all I knew we could just as easily be **deep underground**. Or perhaps the sky
 > was black and empty in this portion of the Fae. It was a strangely unsettling thought.
-> The subtle feeling of sleeping alertness was stronger here. If the rest of the Fae felt like it was
+> The subtle feeling of **sleeping alertness was stronger here**. If the rest of the Fae felt like it was
 > sleeping, this place felt like it had stirred half a moment ago and hovered on the **verge of waking**. It
-> was disconcerting.  kvothe/felurian 19193
+> was disconcerting. 
+<!-- kvothe/felurian 19193 -->
 
-1. at center
-2. felurian pick from trees. TODO she is the books, the lights themselves, the soap? I would say soap is likely
-but what is the soap? can be individual books, might be the idea. Might be the lights
-
-Felurian finds what she needs at the _center of the fae_. Kvoth can't really make it out. 
+Felurian finds what she needs at the _center of the fae_. Kvoth watches like a new born lamb as she picks 
+_things_ from all around.
 
 > Felurian gently pressed the flat of her hand against my chest, then a finger against my lips. I
 > watched as she moved away from me, softly humming a little snatch of the song I had made for her.
@@ -444,16 +454,17 @@ Felurian finds what she needs at the _center of the fae_. Kvoth can't really mak
 > picking things out of the trees, from behind or beneath bushes or stones. A warm breeze sighed
 > through the clearing, and I felt strangely comforted as it brushed my bare skin.
 > After about ten minutes, Felurian came back and kissed me. She held something soft and warm in
-> her arms. kvothe/felurian walk ~ 19202 TWMF
+> her arms. 
+<!-- ~ kf 19202 TWMF -->
 
-They had back, until the reach a cleaning. Felurian stops kvothe from looking past the curtain.
-TODO puppet has a curtain with flames (see todo section) also pat describes the night above imre as full of diamonds (also see todo section)
+They had back, until they reach a cleaning. Felurian stops kvothe from looking past the curtain and then watches
+patiently as she weaves starlight into his shaed.
 
 > We walked back the way we had come. The moths gradually lost interest in us, leaving us with less
 > and less of an impression of our surroundings. After what seemed an interminable amount of time I
 > saw light filtering through a break in the trees ahead. It was only faint starlight, but at that moment it
-> seemed bright as a **curtain of burning diamonds.** ~ Kvoteh/felurian walk 19027 twmf
-
+> seemed bright as a **curtain of burning diamonds.**
+<!-- ~ Kvoteh/felurian walk 19027 twmf -->
 
 > I started to walk through it, but **Felurian took hold of my arm to stop me**. Without a word she sat me
 > down where the first faint beams of starlight lanced through the trees to touch the ground.
@@ -462,22 +473,15 @@ TODO puppet has a curtain with flames (see todo section) also pat describes the 
 > She held whatever she had collected in her lap, but other than the fact that it was shapeless and dark I
 > could tell nothing about it.
 > Then Felurian reached out a hand, took hold of one of the thin beams of starlight, and pulled it
-> toward the dark shape in her lap.
-
-NOTE: thumb and forefinger section
-
+> toward the dark shape in her lap. 
 > I might have been more surprised if Felurian’s manner hadn’t been so casual. In the dim light, I saw
 > her hands make a familiar motion. A second later she reached out again, almost absentmindedly, and
 > grasped another narrow strand of starlight between her **thumb and forefinger**.
-
-NOTE i'm guessing this is also remicent of Denna playing the harp but that would seem too much to try in.
-
 > She drew it in as easily as the first and manipulated it in the same way. Again the motion struck me
 > as familiar, but it was nothing I could press my finger to.
 > Felurian started to hum quietly to herself as she gathered in the next beam of starlight, brightening
 > things an imperceptible amount. The shape in her lap looked like thick, dark cloth. Seeing this I
-> realized what she reminded me of: my father sewing. Was she sewing by starlight?
-
+> realized what she reminded me of: my father sewing. Was she sewing by starlight? 
 
 > Sewing with starlight. Realization came to me in a flood. Shaed meant shadow. She had somehow
 > brought back an armful of shadow and was sewing it with starlight. Sewing me a cloak of shadow.
@@ -496,7 +500,7 @@ NOTE i'm guessing this is also remicent of Denna playing the harp but that would
 > offended, then I was terribly jealous.
 
 > I remembered when I’d found the name of the wind in her **pavilion**. It had felt as if I were truly
-> awake for the first time, true knowledge running like ice in my blood.
+> awake for the first time, true knowledge running like ice in my blood. 
 
 As we fear the coming night, so might the dark feel the same...
 
@@ -526,7 +530,7 @@ she sends him away:
 > She laughed. Not the light, chiming laugh I had heard so often, but a wild, fierce laugh. “do you
 > want to help truly?” she asked. The hand holding the shard of iron trembled slightly.
 > I nodded, a little frightened.
-> “then go.” Her eyes were still changing, brightening to a **bluish-white**.
+> “then go.” Her eyes were still changing, brightening to a **bluish-white**. --
 
 The Shaed is no simple magic, much of the world will revolve around the events of its creation.
 But we can only focus on a few parts at a time, and so, like Kvothe we must go looking else where for a bit...
@@ -557,11 +561,11 @@ So you move _towards_ time. E.g you can walk towards dayward, as we see Kvothe d
 Does that mean the less you move the less time passes? Trees must be very old indeed then.
 If I had to summarize, I would say that in the real world time and space are linked and expanding.
 In the Fae you can walk a whole day and return back to where you started. The natural right
-shape might be one perfect circle. But things dont feel right to me, they feel turned against themselves.
+shape might be one perfect circle. But things dont feel right to me, they feel twisted against themselves.
 
+<img src="/img/gemstone.jpg" height="400px" width="400px">
 
-
-## Third Binding: From bridges to lights below
+## 3rd Binding: From bridges to lights below
 
  Our past, our friends below, the velvet sky all terrifying and beautiful above.
 
@@ -570,7 +574,8 @@ shape might be one perfect circle. But things dont feel right to me, they feel t
 > University and Imre are the hearts of understanding and art, the strongest of
 > the four corners of civilization. Here on the road between the two there is
 > nothing but old trees and long grass bending to the wind. The night is perfect
-> in a wild way, almost **terrifyingly beautiful**. ~ NOTW Kvothe 10019
+> in a wild way, almost **terrifyingly beautiful**. --NOTW:374
+<!-- Kvothe 10019 -->
 
 We walk road that divides. Music and faeries on one side and sympathy and mastery on the other.
 
@@ -579,32 +584,34 @@ We walk road that divides. Music and faeries on one side and sympathy and master
 > **marble fountain misting water over a statue of a satyr chasing a group of
 > half-clothed nymphs whose attempt at flight seemed token at best.** Well-dressed
 > people milled around, nearly a third carrying some sort of musical instrument or
-> another. I counted at least seven lutes. -- TODO
+> another. I counted at least seven lutes. --NOTW:374
 
 We follow the road over the a high bridge and to an immense greystone and enter. We taste lemons and
 though true, they are sour.
 
-> My mouth tasted strangely of **lemons.** -- TODO
+> My mouth tasted strangely of **lemons.** --NOTW:302
 
 Past the smell of leather and forgotten secrets.
 
-> The air was cool and dry. It smelled of old **leather**, parchment, and **forgotten secrets**. --TODO
+> The air was cool and dry. It smelled of old **leather**, parchment, and **forgotten secrets**. --NOWT:303
 
 riding the rivers current downward.
 
 > as he turned to descend a long flight of stone steps. Centuries of use had
 > worn down the stone, making the stairs look as bowed as heavy-laden shelves. As we started down,
 > the shadows made the steps look smooth and dark and edgeless, like an abandoned **riverbed** worn
-> from the rock. -- TODO
+> from the rock. --TWMF:295
 
 Towards the center, _seeing_, dark cloth and flicking candlelight behind it.
 
 > Once, twice, then the door swung
 > open and we were confronted with a looming figure in a dark robe. His cowled hood shadowed his
-> face, and the long sleeves of his robe stirred in the wind. --TODO
+> face, and the long sleeves of his robe stirred in the wind. --TWMF:296
 
 
-## Interlude: TODO add title
+## Interlude: Striking the stem
+
+
 
 You have traveled around a bit with Fulcrum. He has been brazen, proud, sullen,
 vexing, stubborn, and answerful. He came from below, and he helped Auri in a
@@ -613,16 +620,17 @@ beautiful and broken. We have walked with Kvothe and felurian and she has woven
 him a shaed. We have hovered above our friends and dived deep below the Archives
 for secrets. To what end? What does it have to do with the price of butter?
 
-Three bindings, and three times now, we have reached a turning point. Three times is the proper way,
-what the world will bear. All the stories agree on this: three gifts, three
-calls, three parts of silence. But we, like Auri, are not always proper. And so
-a final turn, hidden from the slight of men. A desperate gentle thing, just breath
-to set it into motion. So soft and pure creation itself bends, and bends and
-bends ... bends... and breaks. There is no thunderclap, no distant drums. The
-stars hang silently in the sky—only a slight change in the wind, a hesitation, then
-slight pull upward. As if the world hung by a string, now cut, and is falling in the wind.
+Three bindings we have made, and three times now, we have reached a turning
+point. Three times is the proper way, what the world will bear. All the stories
+agree on this: three gifts, three calls, three parts of silence. But we, like
+Auri, are not always proper. And so a final turn, hidden from the slight of men.
+A desperate gentle thing, just breath to set it into motion. So soft and pure
+creation itself bends, and bends and bends ... bends... and breaks. There is no
+thunderclap, no distant drums. The stars hang silently in the sky—only a slight
+change in the wind, a hesitation, then slight pull upward. As if the world hung
+by a string, now cut, and is falling in the wind.
 
-## A Fourth binding: TODO add title
+## 4th binding: Called forth from beyond
 
 We split again and our mind starts to reel, we see only flashes. We can't control them, they press in from all sides.
 We are a leaf in the wind... but this is a storm, and we are wet and battered against the branches of a tall dark tree.
@@ -630,16 +638,16 @@ We are a leaf in the wind... but this is a storm, and we are wet and battered ag
 Were filled with the smell of felurian, we her gentle purr and she is all spice, musk..
 
 > Her breath in my mouth, filling my head. The hot tips of her breasts brush my
-> chest. The smell of her like **clover, like musk,** like ripe apples fallen to the ground ...
+> chest. The smell of her like **clover, like musk,** like ripe apples fallen to the ground ... --TWMF:633
 
 She the perfect sculpture of beauty...
 
 > Felurian lay, her naked body loosely splayed in sleep.
-> She looked smooth and perfect as a **sculpture.**
+> She looked smooth and perfect as a **sculpture.** --TWMF:634
 
 Her claws tear at dark velvet...
 
-> She smiled like a knife in velvet and stretched like a **cat** in the sun
+> She smiled like a knife in velvet and stretched like a **cat** in the sun --TWMF:636
 
 Were pushed forward in time, to a quiet inn and the harmless chatter of farmers...
 
@@ -648,7 +656,7 @@ Were pushed forward in time, to a quiet inn and the harmless chatter of farmers.
 > suspiciously.
 > Jake laughed a loud farmer ’s laugh at his bewilderment while Carter made a point of setting his
 > glass on the bar topside-down. “I don’t know how they do it in Rannish,” Carter said to the boy. “But
-> round here there’s a reason we call it a **tumble**.”
+> round here there’s a reason we call it a **tumble**.”  --TMWF:140
 
 _We are stretched too thin, and breaking._ Skarpi's words start to give us wings we
 need to fly. He speaks of the a lost place from long ago. 
@@ -659,39 +667,33 @@ need to fly. He speaks of the a lost place from long ago.
 > bright **fountain**, or a green tree growing, or a **statue so beautiful it would make
 > a proud man cry to look at it**. The buildings were tall and graceful, carved from
 > the **mountain ** itself, carved of a **bright white stone** that held the **sun’s light
-> long after evening fell.**
+> long after evening fell.** --NOTW:183
 
 and of it's ruler of the seeing eye
 
 > Selitos was well loved by the people he protected. His judgments were strict
 > and fair, and none could sway him through falsehood or dissembling. Such was
 > the power of his sight that he could read the hearts of men like
-> **heavy-lettered books.**
+> **heavy-lettered books.** --NOWT:695
 
 and a tale of it's fall
 
 > Together they walked the **mountain paths**. Lanre leading the way, they came to a
 > **high place** in the mountains where they could look out over the land. The **proud**
-> towers of Myr Tariniel shone brightly in the last light of the setting sun.
+> towers of Myr Tariniel shone brightly in the last light of the setting sun. --NOTW:186
 
 Which lead to the blackening of the sky and of a heart.
 
 > Selitos spoke the long name that lay in Lanre’s heart, and at the sound of it the sun grew dark and **wind tore stones from the mountainside**.
 
 > Then Selitos spoke, “This is my doom upon you. May your face be always held in shadow, **black as the toppled towers** of my beloved Myr Tariniel.
-> 
 > “This is my doom upon you. Your own name will be turned against you, that you shall have no peace.
-> 
 > “This is my doom upon you and all who follow you. May it last until the world ends and the Aleu fall nameless from the sky”
-> 
 > Selitos watched as a darkness gathered about Lanre. Soon nothing could be seen of his handsome features, only a vague impression of nose and mouth and eyes. All the rest was shadow, black and seamless.
-> 
 > Then Selitos stood and said, “You have beaten me once through guile, but never again. Now I see truer than before and my power is upon me. I cannot kill you, but I can send you from this place. Begone! The sight of you is all the fouler, knowing that you once were fair.”
-> 
 > But even as he spoke them, the words were bitter in his mouth. Lanre, his face in shadow darker than a starless night, was blown away like smoke upon the wind.
-> 
-> Then Selitos bowed his head and wept hot tears of blood upon the earth. ~ NOTW 4716
-
+> Then Selitos bowed his head and wept hot tears of blood upon the earth. --NOTW:190
+<!-- 4716 -->
 
 The past pours into us. We are full to bursting with all this knowing. We are a
 white rivers in full fury and we must focus. We are by the river bank.
@@ -700,6 +702,8 @@ blue silk on the far bank. Her face turned away from us. Her too pale body seems
 ridge and still, with only her purple grey wrist given motion by the stream...
 
 We stretch our hand into river bank to still it.
+
+<img src="/img/underwater.png" height="400px" width="400px">
 
 _from something we pull the omethi_
 
@@ -753,8 +757,9 @@ _buried in dark earth below_
 _There's is a reason why they call it a Tumbrel you see?_
 
 -----------
-
 <img src="/img/sunsetpurple.jpeg" height="400px" width="400px">
+
+
 
 We know from our last read this "Sitting Room" is part of the Fea. It has two
 pieces of furniture you can sit on: a couch and a velvet chair. Recall that
@@ -807,13 +812,17 @@ _The Gem on the Crown of a king_
 
 <img src="/img/cthaeh.jpg" height="300px" width="300px">
 
+## A gembh on the korōnē of the Lord.
+
 <img src="/img/brazen.jpg" height="300px" width="300px">
 
+<img src="/img/crow-pic.jpg" height="300px" width="300px">
 
-## Epilogue
+<img src="/img/parts-of-tree.jpg" height="500px" width="400px">
 
 
-<img src="/img/simon-berger-shattared-glass.webp" height="600px" width="600px">
+# Epilogue
+
 
 The world fails to make sense. Were spinning because if we stop then things will
 come back into focus and that's so much worse. Lies, deception, betrayal and
@@ -833,177 +842,26 @@ Who look not for gain, but simply for the joy of looking. Who see the fox and th
 Goatherd & the Goat and the [The North Wind & the Sun and the games they play](http://www.read.gov/aesop/143.html).
 
 
+## subtle shaeds of meaning
 
-## [Mantle](https://www.merriam-webster.com/dictionary/mantle)
-
-Noun:
-
-> 1. a loose sleeveless garment worn over other clothes : cloak
-> 2. a figurative cloak symbolizing preeminence or authority accepted the mantle of leadership
-
-Verb:
-
-> to cover with or as if with a mantle : cloak
-
-<img src="/img/cloak-moon.jpg" height="700px" width="200px">
-
-## Rights & Art
-
-* Shattered glass picture by Simon Berger. TODO link
-* Auri holding the fulcrum from u/notakruskkrabb posted [here](https://www.reddit.com/r/KingkillerChronicle/comments/epvml8/i_drew_auri_for_my_new_desk_at_work/)
-* Mantle picture origins unknown, I merged it with a slender moon on Primsa.
-* all other art is Worldbuilers
-
-
-## citations
-
-Most of the content will be covering is from SROST "Beautiful and Broken".
-
-
-----
-
-> They named it the Final Desolation, but they lied. Our gods lied. Oh, how they lied. The Everstorm comes. I hear its whispers, see its stormwall, know its heart. ”
-> —Collected on Tanatanes 1173, 8 seconds pre-death, by the Silent Gatherers. Subject was an Azish itinerant worker. Sample of particular note
-
--- From The Storm Light Archives.
-
-
-## TODO
-
-Add in  her references to days?
-> on the fourth day,
-> things had changed. She could tell before she stretched awake. Before she
-> cracked her eyes into the seamless dark. Foxen was frightened and full of
-> mountains. So today was a tapering day. A burning day. She didn’t blame him. She
-> knew what it could be like. Some days simply lay on you like **stones**. Some were
-> fickle as **cats**, sliding away when you needed comfort, then coming back later
-> when you didn’t want them, jostling at you, stealing your **breath** ~ Auri 1222
-
-right after Kvothe feels like its covered in a blanket TODO add in
-
-> Eventually Felurian stopped. By now the darkness was so thick I could almost feel it like a warm
-> **blanket** around me. I could tell by the sound of the wind in the trees and the motion of the moths that 
->  ~ Kvothe 19185
-
-> I have a good memory. That, perhaps more than anything else, sits in the center of what I am. It is the
-> talent upon which so many of my other skills depend.
-
-puppets candles could be curtain
-
-> The room was lit with lamps and candles, long tapers and thick dripping pillars of wax. Each
-> tongue of flame filled me with vague anxiety as I thought of open fire in a building filled with
-> hundreds of thousands of precious books.
-> And there were puppets. They hung from shelves and pegs on walls. They lay crumpled in corners
-> and under chairs. Some were in the process of being built or repaired, scattered among tools across
-> the tabletop. There were shelves full of figurines, each cleverly carved and painted in the shape of a
-> person.
-
-
-Puppet above 4 plate door them above it to
-
-TODO like reaching for fruit
-
-> AFTER OUR SHADOW-GATHERING EXPEDITION, I asked more pointed questions about
-> Felurian’s magic. Most of her answers continued to be hopelessly matter-of-fact. How do you take
-> hold of a shadow? She motioned with one hand, as if **reaching for a piece of fruit**. That was how,
-> apparently.
-
-#### myr tarinal refs
-
-see post
-
-> Once, years and miles away, there was Myr Tariniel. The shining city. It sat
-> among the tall mountains of the world like a gem on the crown of a king.
-> Imagine a city as large as Tarbean, but on every corner of every street there
-> was a bright fountain, or a green tree growing, or a statue so beautiful it
-> would make a proud man cry to look at it. The buildings were tall and
-> graceful, carved from the mountain itself, carved of a bright white stone that
-> held the sun’s light long after evening fell.
-
-Some parts of this might be lies?
-
-* [] burned: TODO
-* [] white charred black
-* [] red blood: TODO, could be haven?
-* [] black toppled towers: could be the university underground
-* [x] gem on crown: done
-* [x] tall mountains: Tree, it, done
-* [] shines
-* [] bright fountain: TODO university fountains (fae one) include in sim and wil bit
-* [x] green tree, tall and graceful carved from the mountain itself. held sun long after they fell
-* [] proud: the, amyr are that... ctheah is that...
-* [] white stone: Archives? Teh Archives are grey, but i guess now there blackened. 
-* [] holds sun: 
-
-
-
-## word fire
-
-<img src="/img/gemstone.jpg" height="400px" width="400px">
-<img src="/img/parts-of-tree.jpg" height="500px" width="400px">
-
-<img src="/img/niche.png" height="150px" width="300px">
-
-
-
-
-## thumb and forefinger
-
-
-Kvothe binds wind to chest
-
-> books/notw.txt:2787:I drew in a deep breath and spoke the words to bind the air in my lungs to the air outside. I fixed the Alar firmly in my mind, put my thumb and forefinger in front of my pursed lips, and blew between them.
-
-elodin asking kvothe about question
-
-> books/notw.txt:7854:“Fine,” he said, holding up his hand with his thumb and forefinger curled in. “Three questions. If you agree to leave me be afterward.”
-
-Auri pinches coin between thumb and forfinger. Also note feather could be vashet
-
-> books/notw.txt:11882:Auri relaxed a bit and came a few steps closer to me. “I brought you a feather with the spring wind in it, but since you were late ...” she looked at me gravely, “you get a coin instead.” She held it out at arm’s length, pinched between her thumb and forefinger. “It will keep you safe at night. As much as anything can, that is.” It was shaped like an Aturan penance piece, but it gleamed silver in the moonlight. I’d never seen a coin like it.
-
-Auri holds cup. Also thats why auri doesn't make him wise. 
-
-> books/notw.txt:15910:She nodded. “Absolutely. Owls are wise. They are careful and patient. Wisdom precludes boldness.” She sipped from her cup, holding the handle daintily between her thumb and forefinger. “That is why owls make poor heroes.”
-
-Kvothe and Gram
-
-> books/twmf.txt:12283:I took it timidly with my thumb and forefinger, then jumped back a step. “It bit me!” I said, pitching
-
-Right hand + thumb + pinch and forefiger pinched = tick and bad
-right: strong... tick? that doesn't make a lot of sense. 
-
-> books/twmf.txt:15850:He held out his right hand, thumb and forefinger pinched together. “What is this?” He spread his
+> He held out his right hand, **thumb and forefinger** pinched together. “What is this?” He spread his
 > fingers slightly for me to see.
 > I looked closely, glad to have something to focus my attention on. “That’s a tick.”
 
-TODO which had do adem use hand sign with tick?
-left : clever
-right: strong
-
-thumb and forefinger + gentle = good
-
-> Tempi briefly caught my eye. His thumb and forefinger rubbed together gently. Gladness? No. Satisfaction
-
-books/twmf.txt:19218:grasped another narrow strand of starlight between her thumb and forefinger.
-books/twmf.txt:19586:Felurian said nothing. She held it tightly between her thumb and two forefingers, as if it were a
-
-Celean runs hand through thumb and forefinger just like felurian
-
-books/twmf.txt:22549:Celean ran her hand through my hair, then rubbed some between her thumb and forefinger. “It’s
-
-Hurt adem with only thumb and forefinger left. I think this if forshadowing kotes situation. 
-
-books/twmf.txt:22816:with only his thumb and forefinger remaining.
+> Tempi briefly caught my eye. His **thumb and forefinger** rubbed together gently. Gladness? No. Satisfaction
 
 
-### TODO maybe haven
+## Rights & Art
 
-The biggest issue in my theory is that it might be haven not the archives:
+* Shattered glass picture by [Simon Berger](http://en.simonberger.art/). 
+* Auri holding the fulcrum from u/notakruskkrabb posted [here](https://www.reddit.com/r/KingkillerChronicle/comments/epvml8/i_drew_auri_for_my_new_desk_at_work/)
+* Mantle picture origins unknown, I merged it with a slender moon on Primsa.
+* [under water picture](https://www.artfinder.com/product/emerging-sun-setting-underwater-ocean-reflections-painting/#/)
+* all other art is Worldbuilers
+* [raven](https://www.pinterest.com/pin/407505466274076415/)
+
+<img src="/img/simon-berger-shattared-glass.webp" height="600px" width="600px">
 
 
-> Eventually we emerged from the forest, and the road became a path leading up a
-> vast lawn to a huge manor house. Bigger than the Artificery, it had elegant
-> lines, a red tile roof, high windows, arched doorways and pillars. There were
-> fountains, flowers, hedges....
+
 
