@@ -165,6 +165,18 @@ gear, but the oil seems to always run out. She is so chafed and chaffed inside,
 rubbed raw and empty. She needs to sets herself to rights, but even she can't get clean,
 because something has taken her perfect soap!
 
+
+> All flickerling and sticky with web, Auri made her way to Bakery. It wasn’t
+> oveny today. It was hunkered down and sullen, like a forgotten kiln. She passed
+> the mellow pipes and turned and turned again before she made her way to the
+> little bricky **niche** so perfect for her hoard of soap to season in. Not hot, but
+> dry. And— There was no soap. Her soap was gone. But no. It was the shifting
+> light from the spirit lamp, tricking her. All odd and yellow. It threw shadows
+> everywhere. It changed the Underthing. It couldn’t be trusted. This was
+> obviously a different little bricky **niche**, empty as anything. She turned around
+> and followed her own footsteps back to Emberling. Then she went back, counting
+> turns. Left and right. Left then left then right. No.
+
 > This was Bakery. This was
 > her **niche**. But there was nothing here. No burlap sack. No careful cakes of
 > perfect summer soap. Even in the low red radiant of that place Auri felt ice in
@@ -176,7 +188,7 @@ because something has taken her perfect soap!
 > Underneath the scent of her sweet cinnas soap was the smell of **musk** and piss.
 > There was a **tuft of fur** where some small **climbing beast** had rubbed itself
 > against a jutting brick. Auri stood. All tangle-haired and sticky. Her tiny face
-> was stunned at first, numb in the flickerling yellow. Then her mouth grew
+> was stunned at first, numb in the **flickerling yellow**. Then her mouth grew
 > furious. Her eyes went hard. Some thing had eaten all her perfect soap.
 > Reaching out, she took the tuft of fur between her fingers. The gesture was so
 > tight with rage she feared she’d snap and crack the world in two. Eight cakes.
@@ -190,7 +202,7 @@ because something has taken her perfect soap!
 > she blinked them back. Hot from Bakery, and all asweat with rage and the
 > unrightness of it all, Auri turned and stormed away, her bare feet slapping
 > angrily against the stone. --83
-<!-- 1297-1321 -->
+<!-- 1287-1321 -->
 
 Auri settles for a less satisfying bath in Mantle. But her rest is short, as she hears
 a cry for help. 
@@ -348,7 +360,7 @@ The ceiling above had collapsed.
 In the room she finds a vanity mirror, a _proud_ place indeed.
 
 > In the unfallen portion of the room, there was a
-> triune mirror vanity and a dark wooden wardrobe taller than a tall woman
+> **triune** mirror vanity and a dark wooden wardrobe taller than a tall woman
 > standing on her toes. --31
 
 It's a bit of a mess, but Auri is use to places being untidy.
@@ -368,8 +380,6 @@ they learn the proper way of looking. But for now, lets move on...
 ## Interlude: A lever long enough
 
 <img src="/img/fulcrum-arch.jpg" height="400px" width="500px">
-
-<img src="/img/niche.png" height="150px" width="300px">
 
 
 ## 2nd Binding: Towards the dark of a grim winters night.
@@ -427,6 +437,7 @@ They pass over soft soil, a farmers field, twisting stone path and then a high b
 > **farmer ’s fresh-tilled field**. For a time we followed a **twisting path of smooth paved stone**  that led us
 > over the arch of a **high bridge**. All the while the moths followed us, giving me only the dimmest
 > impression of our surroundings. 
+
 <!-- ~ K/f walk 19182 -->
 
 
@@ -451,7 +462,7 @@ _things_ from all around.
 > realm, blind, stark naked, and without the slightest idea of what was going on.
 > A handful of moths had landed on Felurian, resting on her wrist, hip, shoulder and thigh. Watching
 > them gave me a vague impression of her movements. If I had to guess, I would have said she was
-> picking things out of the trees, from behind or beneath bushes or stones. A warm breeze sighed
+> picking things out of the trees, from behind or beneath bushes or stones. A **warm breeze** sighed
 > through the clearing, and I felt strangely comforted as it brushed my bare skin.
 > After about ten minutes, Felurian came back and kissed me. She held something soft and warm in
 > her arms. 
@@ -530,7 +541,7 @@ she sends him away:
 > She laughed. Not the light, chiming laugh I had heard so often, but a wild, fierce laugh. “do you
 > want to help truly?” she asked. The hand holding the shard of iron trembled slightly.
 > I nodded, a little frightened.
-> “then go.” Her eyes were still changing, brightening to a **bluish-white**. --
+> “then go.” Her eyes were still changing, brightening to a **bluish-white**.
 
 The Shaed is no simple magic, much of the world will revolve around the events of its creation.
 But we can only focus on a few parts at a time, and so, like Kvothe we must go looking else where for a bit...
@@ -611,8 +622,6 @@ Towards the center, _seeing_, dark cloth and flicking candlelight behind it.
 
 ## Interlude: Striking the stem
 
-
-
 You have traveled around a bit with Fulcrum. He has been brazen, proud, sullen,
 vexing, stubborn, and answerful. He came from below, and he helped Auri in a
 tight spot. He is a symbol of motion, movement, and turnings. But he is also
@@ -632,8 +641,10 @@ by a string, now cut, and is falling in the wind.
 
 ## 4th binding: Called forth from beyond
 
-We split again and our mind starts to reel, we see only flashes. We can't control them, they press in from all sides.
-We are a leaf in the wind... but this is a storm, and we are wet and battered against the branches of a tall dark tree.
+We split again and our mind starts to reel, we see only flashes. We can't
+control them, they press in from all sides. We are a leaf in the wind... but
+this is a storm, and we are wet and battered against the branches of a tall dark
+tree.
 
 Were filled with the smell of felurian, we her gentle purr and she is all spice, musk..
 
@@ -684,26 +695,34 @@ and a tale of it's fall
 
 Which lead to the blackening of the sky and of a heart.
 
-> Selitos spoke the long name that lay in Lanre’s heart, and at the sound of it the sun grew dark and **wind tore stones from the mountainside**.
+> Selitos spoke the long name that lay in Lanre’s heart, and at the sound of it
+> the sun grew dark and **wind tore stones from the mountainside**.
 
-> Then Selitos spoke, “This is my doom upon you. May your face be always held in shadow, **black as the toppled towers** of my beloved Myr Tariniel.
-> “This is my doom upon you. Your own name will be turned against you, that you shall have no peace.
-> “This is my doom upon you and all who follow you. May it last until the world ends and the Aleu fall nameless from the sky”
-> Selitos watched as a darkness gathered about Lanre. Soon nothing could be seen of his handsome features, only a vague impression of nose and mouth and eyes. All the rest was shadow, black and seamless.
-> Then Selitos stood and said, “You have beaten me once through guile, but never again. Now I see truer than before and my power is upon me. I cannot kill you, but I can send you from this place. Begone! The sight of you is all the fouler, knowing that you once were fair.”
-> But even as he spoke them, the words were bitter in his mouth. Lanre, his face in shadow darker than a starless night, was blown away like smoke upon the wind.
-> Then Selitos bowed his head and wept hot tears of blood upon the earth. --NOTW:190
+> Then Selitos spoke, “This is my doom upon you. May your face be always held in
+> shadow, **black as the toppled towers** of my beloved Myr Tariniel. “This is
+> my doom upon you. Your own name will be turned against you, that you shall
+> have no peace. “This is my doom upon you and all who follow you. May it last
+> until the world ends and the Aleu fall nameless from the sky” Selitos watched
+> as a darkness gathered about Lanre. Soon nothing could be seen of his handsome
+> features, only a vague impression of nose and mouth and eyes. All the rest was
+> shadow, black and seamless. Then Selitos stood and said, “You have beaten me
+> once through guile, but never again. Now I see truer than before and my power
+> is upon me. I cannot kill you, but I can send you from this place. Begone! The
+> sight of you is all the fouler, knowing that you once were fair.” But even as
+> he spoke them, the words were bitter in his mouth. Lanre, his face in shadow
+> darker than a starless night, was blown away like smoke upon the wind. Then
+> Selitos bowed his head and wept hot tears of blood upon the earth. --NOTW:190
+
 <!-- 4716 -->
 
-The past pours into us. We are full to bursting with all this knowing. We are a
-white rivers in full fury and we must focus. We are by the river bank.
-Our vision is glossy as lights shift back and forth. We see woman wearing
-blue silk on the far bank. Her face turned away from us. Her too pale body seems
-ridge and still, with only her purple grey wrist given motion by the stream...
-
-We stretch our hand into river bank to still it.
-
 <img src="/img/underwater.png" height="400px" width="400px">
+
+The past pours into us like a torrent. We are drowning in it. We are full to
+bursting with all this knowing. We are a white river in full fury and we must
+focus if we hope to live. TODO. We are by the river bank. Our vision is glossy
+as lights shift back and forth in the dark. We see woman wearing blue silk on
+the far bank. Her face turned away from us. Her too pale body seems ridge and
+still, with only her purple grey wrist given motion by the stream...
 
 _from something we pull the omethi_
 
@@ -711,59 +730,83 @@ _and find nearly a song_
 
 _we push moteth from something_
 
-_and find the we can sing once more_
+_and find that we can sing once more_
 
-_...._
-
-_greystones leads to myr-ta-rin-el_
-
-_where there is but one center_
-
-_dayward, lightward they end the same_
-
-_The trees like mountains_
-
-_climb up the pavilion and boles to the crown_
-
-_...._
-
-_through doors, over farm and bridge_
-
-_to enter a Stone that stands alone_
-
-_smell of leather and lemon_
-
-_To steal a fruit and leave feint musk_
-
-_then down dark riverbed towards the truth_
-
-_What lays behind the lights curtain_
-
-_puppets, butterflies and the seeing eye_
+TODO improve
+We shine like a light in the dark, we are near a greystone once more. Willem and Simmon
+aren't there to entertain, or there to show us the way or lend sympathy. We
+must walk this road alone, following not their footfalls, but the delicate
+traces of Felurian from the **moss** of the fae, through the greystone, then a
+soft **soil**, upon a **farmer ’s fresh-tilled field** and following a
+**twisting path of smooth paved stone** that leads over the ***high arch of
+Stonebridge** that leads to _something something el_...
 
 
-_...._
 
-_A vain gemstone upon a crown_
+_To find truth, your stone walls leaving_
 
-_where mirrors don't reflect the rakish truth_
+_for the key to all doors is seeing_
 
-_a place only for the greater to see_
+_and so TODO eyes see as one_
 
-_Now beloved towers brought lower then low_
+_and in their song, then only true darkness overcome_
 
-_buried in dark earth below_
+-----
 
-_There's is a reason why they call it a Tumbrel you see?_
+_so now we travel to deep dark below_
 
------------
+_Now sun losing, come flickering light from far away amusing night_
+
+_now before us fair felurian, fine chest rising_
+
+_her full footfalls cobblestone finding_
+
+_the arch of her step no cold statue, her beauty fast brings pride weeping_
+
+_her too clever cat eyes seeing, the shadows heart is gone seeking_
+
+_so to shaeding her flame, her road leads under all of things we stride_
+
+_on her wings all the worlds hopes riding_
+
+_to bakery, where warm breeze finds us_
+
+_plucking summer and winter, stealing fruit from the fluter_
+
+_her gentle musk, a tuft of hair, the only traces of our feline looter_
+
+_to take alone, is little avail, so we must seek the veil_
+
+_ride the stream down smooth stone, past the smell of leather and lemon books_ TODO remove last bit?
+
+
+_to the wire-holders home, his dolls always dancing_
+
+_though his eye is always TODO (using seeingk), we stand behind a curtain_
+
+TODO diamond
+
+_and steal light from his seeing candle flame_
+
+_Now a rest, then creation, and though our lady of the quiet is herself_
+
+_her blue-white eyes joined to darker self_
+
+_see she grips on burning iron in thumb and forefinger_
+
+_another feels the bite of tiny teeth_
+
+_but our young here is there not there to see_
+
+_how a shaed truley came to be_
+
+_for he was sent away..._
+
 <img src="/img/sunsetpurple.jpeg" height="400px" width="400px">
 
-
-
-We know from our last read this "Sitting Room" is part of the Fea. It has two
-pieces of furniture you can sit on: a couch and a velvet chair. Recall that
-Auri's hand reached under the couch to find the light. That implies some
+Recall Auri's "Sitting Room" is part of the Fea. It has two
+pieces of furniture you can sit on: a couch and a velvet chair. It
+Auri's hand that reached under the couch to find the light. That implies some
 separation between things under the couch and things near the velvet chair.
 
 It means a border, moving from darkness to the lights of the chandelier above.
@@ -804,13 +847,42 @@ Not a chair, but a thrown.
 
 > Fulcrum settled like a king upon the velvet chair
 
-_The F&#xe6;_
-<br>
-_The Cth&#xe6;h_
+_not tree but a king_
 
-_The Gem on the Crown of a king_
+_with the weight of answers his white broken grin_
 
-<img src="/img/cthaeh.jpg" height="300px" width="300px">
+_and upon his head a crown_
+
+_a tree greater then any mountain_
+
+_one we must climb like beasts to reach a gem_
+
+_its trunk holding sun long past the dark_
+
+_from there did felurian weave her light_
+
+_and beyond curtains veil, flicking butterflies did fall_
+
+_as below as above once more_
+
+---
+
+_what you ask? What a great question. I know so many whats?_
+
+_what word would shatter stone and blacken the sky?_
+
+_What would go nicely with a ciridae and a crystal eye?_
+
+_whats the reason she calls tumbrel?_
+
+_what do you call an upside broken mirror?_
+
+_an awry Faerini-el._
+
+_Gods twisted hooter, What ever else I just said, remember that, I promise, you will laugh when the time comes. I guarantee it._
+
+
+
 
 ## A gembh on the korōnē of the Lord.
 
@@ -849,6 +921,8 @@ Goatherd & the Goat and the [The North Wind & the Sun and the games they play](h
 > I looked closely, glad to have something to focus my attention on. “That’s a tick.”
 
 > Tempi briefly caught my eye. His **thumb and forefinger** rubbed together gently. Gladness? No. Satisfaction
+
+
 
 
 ## Rights & Art
