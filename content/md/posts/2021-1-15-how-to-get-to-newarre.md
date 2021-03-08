@@ -297,10 +297,11 @@ to be sure how much time has passed between Kvothes, Auri's and Bast's visit.
 This section will cover hints we get from Kote's time line that suggest the
 location of Newarre.
 
-1. Rings and Wings  : covering Bast's rings
-2. Colors and Coins : discussing the colors the soliders wear that visit Newarre
-3. Roads and Codes  : suggesting that some interactions and phrases, like water before wine, are codes.
-4. Counter arguments: where I addresses some sorted questions that suggest the location is in Vintas
+1. Rings and Wings     : covering Bast's rings
+2. Colors and Coins    : discussing the colors the soliders wear that visit Newarre
+3. Roads and Codes     : suggesting that some interactions and phrases, like water before wine, are codes.
+4. Counter arguments   : where I addresses some sorted questions that suggest the location is in Vintas
+5. Get the joke?       : I claim Alleg died in Newarre at the hands of Bast. 
 
 ## Rings, Wings and the beast within
 
@@ -830,6 +831,103 @@ Maer's men. This could mean Newarre is likely near or in land the Maer controls.
 Given there is something of a succession war going on in the background of the
 story.
 
+## Get the joke?
+
+The word nowhere appears 51 times across Srost, history of tak, notw, twmf. 
+
+It's mentioned 3-4 times directly relating to the location I suggest is Newaree. But refering to nowhere like its a locaiton happens here:
+
+> “At least now we know why he was hiding in the middle of nowhere with a crossbow and a lookout and all that,” Denna said. “A minor mystery solved.”
+> Sim looked back and forth between us, plainly surprised he had to explain himself. “It’s obvious she has a thing for you,” he said, and began counting on his fingers. “She finds you at Anker’s. She comes to get you that night at Eolian when we’re drinking. She makes up an excuse to wander around the middle of nowhere with you for a couple of days....”
+> “But this is nowhere.” She looked around aimlessly. “This is the outside edge of nowhere....”
+> little town out in the middle of nowhere. Then I’d open an inn and do my best to disappear.” He
+
+_PM if you see others_
+
+Ah, you say, but what about Alleg? The black bearded Trouper turned bandit that
+kvothe left to die in the middle of nowhere.
+
+> With proper care it might be a full span of days before he died. Even
+> alone in the **middle of nowhere** he could live for days with such a wound.
+
+Well fine. If that's a counter argument, I'll claim Bast killed him in Newaree. 
+
+> “Hell, you’re drunker than I am,” the bearded soldier guffawed. “That’s not what I meant when I
+> said grab a piece of fire.”
+> The blonde soldier rolled with laughter.
+> Bast looked down at the two men. After a moment he began to laugh too. It was a terrible sound,
+> jagged and joyless. It was no human laugh.
+> “Hoy,” the bearded man interrupted sharply, his expression no longer amused. “What’s the matter
+> with you?”
+> It began to rain again, a gust of wind spattering heavy drops against Bast’s face. His eyes were dark
+> and intent. There was another gust of wind that made the end of the branch flare a brilliant orange.
+> The hot coal traced a glowing arc through the air as Bast began to point it back and forth between
+> the two men, chanting:
+> Barrel. Barley.
+> Stone and stave.
+> Wind and water.
+> Misbehave.
+> Bast finished with the burning branch pointing at the **bearded man**. His teeth were red in the
+> firelight. His expression was nothing like a smile.
+
+Yep that's right, I have the audacity to claim the taller of the two soliders
+that robbed Kote was Alleg. Crazy, I know. Lets be concise how it's possible
+sense i'm dealing with some far reaching possibilities.
+
+In short, the villagers from Levinshir road out and found Alleg, wanting answers
+themselves, they brought him back. Gran, being worth twice the healer of any student in the 
+Medica, was congealed into pressured into healing him. Either by the townsfolk or
+the Azzie (law). Fast forward, he somehow takes the kings coin, either because
+the king is emptying the prisons or what ever you like. He travels with the army
+then runs off.
+
+This is pure fan-fiction of course, but there is the rub. They look the same. 
+The solider has a black beard and kvothe comments on him rubbing its **edge**
+
+> “One is a bad number for an Edema on the road,” Alleg said persuasively, running a finger along
+> the **edge** of his dark beard.
+
+Meanwhile our soldier has:
+
+> He was bald on top, with a thick black beard that was flat as a **spade**
+
+You might not care for this reliance empathizes on comparing adjectives, but I
+do and I think Pat does as well. In the end in it's my theory and story.
+
+Alleg was branded on his chest and palm. 
+
+> Pulling the broken circle from the fire again, I moved to
+> Alleg and pressed it onto his palm.
+
+The solider has a fist of knuckles and scar which might be caused by a branding. 
+
+> He was taller than Kvothe, and his fists were broad knots of **scar** and knuckle.
+
+Now of course, I would assume the scaring refers to the outside of the hand. But
+the fist does includes your entire hand, palm included. When the 10the
+anniversary TWMF comes out, i'm going to check if he still gets branded on the
+palm or is it changes to the back of his hand.
+
+What's more, nothing about there descriptions contradicts. e.g. The solider was bald, Kote never mentions Allegs hair. Now, sense I'm throwing a hail-mary. Imagine the shock when Kote looks at the soliders hands and see a broken circle:
+
+> His eyes half-focused and dull
+> with confusion, he looked down at his wrist and made the motion again, but his hands merely
+> scrabbled uselessly at the soldier ’s scarred fist.
+> The bearded soldier eyed the stupefied innkeeper with amused curiosity, then reached out and
+> slapped him hard on the side of the head. “You’re almost a bit of a scrapper, boy,” he said. “You
+
+What a sick joke. Especially if Kote himself has been branded and cut away in another way. It's enough to make you laugh
+up shattered glass.
+
+> Curled on the floor, Kvothe began to make a low, rhythmic sound. It was a dry, quiet noise that
+> scratched around the edges of the room. Kvothe paused as he drew a painful breath.
+> The bearded soldier frowned and kicked him again. “I asked you a question, cully . . .”
+> The innkeeper made the same noise again, louder than before. Only then did it become obvious that
+> he was laughing. Each low, broken chuckle sounded like he was coughing up a piece of shattered
+> glass.
+
+
+
 # Getting to Newarre.
 
 
@@ -1152,6 +1250,9 @@ Nettie makes candles which explains the *suet* Auri sees and takes:
 > ..  “Oh,” she (Nettie) said, as if remembering a
 > halfforgotten dream. “I used to do **candles and honey**. 
 
+
+
+
 # End
 
 Thanks for reading! 
@@ -1241,77 +1342,6 @@ Over all conclusions and tin foil guesses? Well, maybe Kvothe is trapped within
 his sleeping mind, maybe the whole world is. Maybe something has robbed Kvothe of
 his name and history, so that even his close friends only remember the story, and not the man 
 they grew up with.
-
-
-
-## A full accounting of nowhere
-
-The word nowhere appears 51 times across Srost, history of tak, notw, twmf. 
-
-It's mentioned 3-4 times directly relating to the location I suggest is Newaree. But refering to nowhere like its a locaiton happens here:
-
-> “At least now we know why he was hiding in the middle of nowhere with a crossbow and a lookout and all that,” Denna said. “A minor mystery solved.”
-> Sim looked back and forth between us, plainly surprised he had to explain himself. “It’s obvious she has a thing for you,” he said, and began counting on his fingers. “She finds you at Anker’s. She comes to get you that night at Eolian when we’re drinking. She makes up an excuse to wander around the middle of nowhere with you for a couple of days....”
-> “But this is nowhere.” She looked around aimlessly. “This is the outside edge of nowhere....”
-> little town out in the middle of nowhere. Then I’d open an inn and do my best to disappear.” He
-
-### Alleg
-
-Ah, you say but what about Alleg? The Trouper turned bandit and robber that kvothe left to die in the middle of nowhere.
-
-> With proper care it might be a full span of days before he died. Even
-> alone in the middle of nowhere he could live for days with such a wound.
-
-Well fine. I'll claim Bast killed him in Newaree. Yep that's right, I have the audacity to claim
-the taller of the two soliders that robbed Kote was Alleg. Crazy, I know. Lets be concise about this story.
-The villagers from Levinshir road out and found Alleg, wanting answers themselves the brought him back and
-a Gran being worth twice the students in the Medica was congealed into pressured into healing him. Either by the townsfolk
-or the Azzie (law). Fast forward, he somehow takes the kings coin, either because the king is emptying the prisons or what ever you like. He travels with the army that runs off.
-
-This is pure fan-fiction of course, but there is the rub. They look the same. 
-The solider has a black beard and kvothe comments on him rubbing its **edge**
-
-> “One is a bad number for an Edema on the road,” Alleg said persuasively, running a finger along
-> the **edge** of his dark beard.
-
-Meanwhile our soldier has:
-
-> He was bald on top, with a thick black beard that was flat as a **spade**
-
-Alleg was branded on his chest and palm. 
-
-> Pulling the broken circle from the fire again, I moved to
-> Alleg and pressed it onto his palm.
-
-The solider has a fist of knuckles and scar. 
-
-> He was taller than Kvothe, and his fists were broad knots of **scar** and knuckle.
-
-Now of course, I would assume that refers to the outside. But the fist includes your entire hand. When
-the 10the anniversary TWMF comes out, i'm going to check if he still gets branded on the palm or is it changes to the back of his hand. 
-
-What's more, nothing about there descriptions contradicts. The solider was bald, Kote never mentions Allegs hair. 
-Imagine the shock when Kote looks at the soliders hands and see a broken circle:
-
-> His eyes half-focused and dull
-> with confusion, he looked down at his wrist and made the motion again, but his hands merely
-> scrabbled uselessly at the soldier ’s scarred fist.
-> The bearded soldier eyed the stupefied innkeeper with amused curiosity, then reached out and
-> slapped him hard on the side of the head. “You’re almost a bit of a scrapper, boy,” he said. “You
-
-What a sick joke. Especially if Kote himself has been branded and cut away in another way. It's enough to make you laugh
-up shattered glass.
-
-> Curled on the floor, Kvothe began to make a low, rhythmic sound. It was a dry, quiet noise that
-> scratched around the edges of the room. Kvothe paused as he drew a painful breath.
-> The bearded soldier frowned and kicked him again. “I asked you a question, cully . . .”
-> The innkeeper made the same noise again, louder than before. Only then did it become obvious that
-> he was laughing. Each low, broken chuckle sounded like he was coughing up a piece of shattered
-> glass.
-
-
-
-
 
 
 
