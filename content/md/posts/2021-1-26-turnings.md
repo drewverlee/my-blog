@@ -868,8 +868,10 @@ _from there did the silent lady weave her shaed_
 _and beyond diamond curtains veil, the price was paid_
 
 
-<img src="/img/cattree.png" height="500px" width="930px">
+<img src="/img/cattree.png" height="500px" width="900px">
 
+
+## Epilogue
 
 What? A great question. I know so many whats... What's the reason she calls it
 Tumbrel? What is Kilvin really fishing for? What do you call an upside broken
@@ -877,39 +879,17 @@ mirror?
 
 _an awry Faeriniel_
 
-Gods twisted hooter, What ever else I just said, remember that, I promise, you
-will laugh when the time comes. I guarantee it.
+Gods twisted hooter, What ever else you might forget, remember that. I promise, you
+will laugh when the time comes. I guarantee it. 
 
-## Epilogue
+You don't believe? Pity, but I guess that's what happens when we think were on
+top of everything, _in control_. Flying high without a care in the sky. The air
+is clean and the sky is blue. How exhilarating! How romantic... But the dross, the rot, it's
+building... _oh yes, I taste it_. The pipes are close to breaking, and she is so tired and
+broken. and you know what she thinks before she hurts herself? You.
 
-_Down, down, down._ Would this the fall
-never come to an end? What are we to do...
-
-_When you see a face out of place?_
-<br>
-_What to do? What to do?_
-<br>
-_slowly explore, look for more._
-
-_Catch a familiar gesture?_
-<br>
-_Where to turn? How to learn?_
-<br>
-_buried treasure, take its measure._
-
-_Hear a songlike strangeness?_
-<br>
-_unusual metaphor, things said before?_
-<br>
-_Don't ignore, seek the door._
-
-_The world is screaming out its name._
-<br>
-_It's up to you to see it's pain._
-<br>
-_What's their game? What hope they gain?_
-
-_Chandrian. Chandrian_
+But your busy riding the wind, I understand. I suppose that's the price
+you pay for wings, eventually you fall.
 
 ## Alice's Adventures in wonderland, by Lewis Caroll
 
