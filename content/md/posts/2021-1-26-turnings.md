@@ -868,7 +868,7 @@ _from there did the silent lady weave her shaed_
 _and beyond diamond curtains veil, the price was paid_
 
 
-<img src="/img/cattree.png" height="350px" width="650px">
+<img src="/img/cattree.png" height="500px" width="930px">
 
 
 What? A great question. I know so many whats... What's the reason she calls it
@@ -885,25 +885,31 @@ will laugh when the time comes. I guarantee it.
 _Down, down, down._ Would this the fall
 never come to an end? What are we to do...
 
-_when the hearthfire turns to blue,_
+_When you see a face out of place?_
 <br>
 _What to do? What to do?_
 <br>
-_Run outside. Run and hide._
+_slowly explore, look for more._
 
-_When your bright sword turns to rust?_
+_Catch a familiar gesture?_
 <br>
-_Who to trust? Who to trust?_
+_Where to turn? How to learn?_
 <br>
-_Stand alone. Standing stone._
+_buried treasure, take its measure._
 
-_See a woman pale as snow?_
+_Hear a songlike strangeness?_
 <br>
-_Silent come and silent go._
+_unusual metaphor, things said before?_
 <br>
-_What’s their plan? What’s their plan?_
+_Don't ignore, seek the door._
 
-_Chandrian. Chandrian._
+_The world is screaming out its name._
+<br>
+_It's up to you to see it's pain._
+<br>
+_What's their game? What hope they gain?_
+
+_Chandrian. Chandrian_
 
 ## Alice's Adventures in wonderland, by Lewis Caroll
 
@@ -953,6 +959,7 @@ _Chandrian. Chandrian._
 * [under water picture](https://www.artfinder.com/product/emerging-sun-setting-underwater-ocean-reflections-painting/#/)
 * [raven](https://www.pinterest.com/pin/407505466274076415/)
 * all other art is Worldbuilers
+* tree of gondor
 
 ## credit
 
