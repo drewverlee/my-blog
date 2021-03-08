@@ -763,15 +763,15 @@ each tale in a room. Now we must tip our minds in to spinning leaf, and walk thr
 
 -----
 
-Now we travel to deep dark below. Quickly as sun is faded, see flickering light
+Now we travel to deep dark below. Quickly as sun is faded, see the flickering light
 from far away amusing. Before us fair felurian, full chest rising. Her soft
-footfalls imre's cobblestone finding. The arch of her step no cold statue, her
+footfalls Imre's cobblestone finding. The arch of her step no cold statue, her
 beauty fast brings pride weeping. Her too clever cat eyes seeing, the shadows
 heart is gone seeking. So to shaeding her flame, her road leads under us under
 things, to bakery, where warm breeze incubates. A niche, a nest, where hatchling
 dreams of flight await. See her plucking summer and winter out of time, stealing
-this fruit from the fluter. Her gentle musk, a tuft of hair, the only traces of the feline looter.
-But to take alone, is little avail, so they must seek the veil. It's a mystery, why they call it the fishery,
+the fruit from the fluter. Her gentle musk, a tuft of hair, the only traces of the feline looter.
+But to take alone, is little avail, so they must seek the diamond burning veil. It's a mystery, why they call it the fishery,
 something we must leave for another day. For now it's enough to say, its from lamp light she weaves:
 
 <img src="/img/kilvin-card.webp" height="400px" width="250px">
