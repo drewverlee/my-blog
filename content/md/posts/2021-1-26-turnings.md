@@ -176,7 +176,7 @@ because something has taken her perfect soap!
 > obviously a different little bricky **niche**, empty as anything. She turned around
 > and followed her own footsteps back to Emberling. Then she went back, counting
 > turns. Left and right. Left then left then right. No.
-
+>
 > This was Bakery. This was
 > her **niche**. But there was nothing here. No burlap sack. No careful cakes of
 > perfect summer soap. Even in the low red radiant of that place Auri felt ice in
@@ -384,7 +384,7 @@ they learn the proper way of looking. But for now, lets move on...
 We need to leave Auri and her fulcrum behind, will see them later where all roads meet. We
 need to pick up another thread and that means a double binding. 
 
-## 2nd Binding: Towards the dark of a grim winters night.
+## 2nd Binding: Towards the dark of a grinning winters night.
 
 
 We catch up with Kvothe and Felurian after their terrifying experience in the Fae. Kvothe wisely asks
@@ -473,12 +473,12 @@ _things_ from all around.
 They head back until they reach a cleaning. Felurian stops kvothe from looking past the curtain and then he watches
 patiently as she weaves starlight into his newborn shaed.
 
+<!-- ~ Kvoteh/felurian walk 19027 twmf -->
 > We walked back the way we had come. The moths gradually lost interest in us, leaving us with less
 > and less of an impression of our surroundings. After what seemed an interminable amount of time I
 > saw light filtering through a break in the trees ahead. It was only faint starlight, but at that moment it
 > seemed bright as a **curtain of burning diamonds.**
-<!-- ~ Kvoteh/felurian walk 19027 twmf -->
-
+>
 > I started to walk through it, but **Felurian took hold of my arm to stop me**. Without a word she sat me
 > down where the first faint beams of starlight lanced through the trees to touch the ground.
 > Carefully she stepped between the rays of starlight, avoiding them as if they might burn her. When
@@ -495,7 +495,7 @@ patiently as she weaves starlight into his newborn shaed.
 > Felurian started to hum quietly to herself as she gathered in the next beam of starlight, brightening
 > things an imperceptible amount. The shape in her lap looked like thick, dark cloth. Seeing this I
 > realized what she reminded me of: my father sewing. Was she sewing by starlight? 
-
+>
 > Sewing with starlight. Realization came to me in a flood. Shaed meant shadow. She had somehow
 > brought back an armful of shadow and was sewing it with starlight. Sewing me a cloak of shadow.
 > Sound absurd? It did to me. But regardless of my ignorant opinion, Felurian took hold of another
@@ -555,13 +555,13 @@ To quickly reccap, Felurian leads Kvothe from twilight into night and back. Alon
 > I also learned that there aren’t directions of the usual sort in the Fae. Your trifoil compass is useless
 > as a tin codpiece there. **North does not exist**. And when the sky is endless twilight, you cannot watch
 > the sun rise in the east.
-
+>
 > But if you look closely at the sky, one piece of the horizon will be a shade brighter, in the opposite
 > direction a shade darker. If you walk toward the brighter horizon, eventually it will become daytime.
 > The other way leads to darker night. If you keep walking in one direction long enough, you will
 > eventually see a whole “day” pass and end up in the **same place you began**. That’s the theory, at any
 > rate.
-
+>
 > Felurian described those two points of the Fae compass as Day and Night. The other two points she
 > referred to at different times as Dark and Light, **Summer and Winter**, or Forward and Backward. Once
 > she even referred to them as Grimward and Grinning, but something about the way she said it made
@@ -707,7 +707,7 @@ Which lead to the blackening of the sky and of a face.
 
 > Selitos spoke the long name that lay in Lanre’s heart, and at the sound of it
 > the sun grew dark and **wind tore stones from the mountainside**.
-
+>
 > Then Selitos spoke, “This is my doom upon you. May your face be always held in
 > shadow, **black as the toppled towers** of my beloved Myr Tariniel. “This is
 > my doom upon you. Your own name will be turned against you, that you shall
@@ -809,12 +809,12 @@ heroes, used to twilight's haze, adjust to daylight...
 > wandering in the Fae. Even discounting them, the stories Felurian herself had
 > told should have been enough to keep me close to the safety of her twilight
 > grove. 
-
+>
 > All the parts of the Fae Felurian had shown me had been forested. So this
 > seemed a clear sign I was well outside the bounds of where I ought to be.
 > Still I continued, enjoying the feel of **sunlight on my skin after so long in
 > the dim twilight of Felurian’s glade.** 
-
+>
 > The trail I followed seemed to be leading to a lone tree standing in the
 > grassy field. I decided I would go as far as that tree, then head back. -- TWMF:104:680
 
@@ -836,7 +836,6 @@ Not a chair, but a thrown.
 
 > Fulcrum settled like a king upon the velvet chair
 
-
 _See a tree tall as mountain grown, its trunk sunlit warmth known_
 
 _climb it naked and alone_
@@ -848,6 +847,9 @@ _the stories not legends but prophecy_
 _here thrice and attend to me_
 
 _not a tree, but a great king_
+
+<img src="/img/tree-of-gondor-bc-why-not.webp" height="550px" width="330px">
+
 
 _the joy his tales bring a delight for simple townsfolk_
 
@@ -865,52 +867,92 @@ _from there did the silent lady weave her shaed_
 
 _and beyond diamond curtains veil, the price was paid_
 
-<img src="/img/chester-smile.jpg" height="400px" width="400px">
+
+<img src="/img/cattree.png" height="350px" width="650px">
 
 
-What? 
-
-A great question. I know so many whats...
-What's the reason she calls it Tumbrel? What is Kilvin really fishing for? 
-
-What do you call an upside broken mirror?
+What? A great question. I know so many whats... What's the reason she calls it
+Tumbrel? What is Kilvin really fishing for? What do you call an upside broken
+mirror?
 
 _an awry Faeriniel_
 
 Gods twisted hooter, What ever else I just said, remember that, I promise, you
 will laugh when the time comes. I guarantee it.
 
-<img src="/img/simon-berger-shattared-glass.webp" height="600px" width="600px">
+## Epilogue
 
-# Epilogue
+_Down, down, down._ Would this the fall
+never come to an end? What are we to do...
 
+_when the hearthfire turns to blue,_
+<br>
+_What to do? What to do?_
+<br>
+_Run outside. Run and hide._
 
-The world fails to make sense. Were spinning because if we stop then things will
-come back into focus and that's so much worse. Lies, deception, betrayal and
-magics beyond our knowing have brought us here. We lay deep within heart of stone
-and we start to close doors behind us, hoping to forget. 
+_When your bright sword turns to rust?_
+<br>
+_Who to trust? Who to trust?_
+<br>
+_Stand alone. Standing stone._
 
-When we are children we think in small moments, the next meal, friends coming,
-the school bell ringing. As we grow our vision expands and we start to realize
-the scope of the world and it's complex and subtle ways. We learn it's turning
-care little for our frantic haste. It's impassive as a mountain, as indifferent
-as the sea, as relentless as the coming night. But we fight on, against the dying
-of the light and though we can't hope to win, we know that their is always
-another day, another life, another tale...
+_See a woman pale as snow?_
+<br>
+_Silent come and silent go._
+<br>
+_What’s their plan? What’s their plan?_
 
-So take a moment and consider the wisdom of children. Who look not far ahead, but closely and with open honest curiosity.
-Who look not for gain, but simply for the joy of looking. Who see the fox and the hare, The 
-Goatherd & the Goat and the [The North Wind & the Sun and the games they play](http://www.read.gov/aesop/143.html).
+_Chandrian. Chandrian._
+
+## Alice's Adventures in wonderland, by Lewis Caroll
+
+> There was nothing so very remarkable in that; nor did Alice think it so very
+> much out of the way to hear the Rabbit say to itself "Oh dear! Oh dear! I
+> shall be too late!" (when she thought it over afterwards it occurred to her
+> that she ought to have wondered at this, but at the time it all seemed quite
+> natural); but, when the Rabbit actually took a watch out of its
+> waistcoat-pocket, and looked at it, and then hurried on, Alice started to her
+> feet, for it flashed across her mind that she had never before seen a rabbit
+> with either a waistcoat-pocket, or a watch to take out of it, and burning with
+> curiosity, she ran across the field after it, and was just in time to see it
+> pop down a large rabbit-hole under the hedge.
+>
+> In another moment down went Alice after it, never once considering how in the
+> world she was to get out again.
+>
+> The rabbit-hole went straight on like a tunnel for some way, and then dipped
+> suddenly down, so suddenly that Alice had not a moment to think about stopping
+> herself before she found herself falling down what seemed to be a very deep
+> well.
+>
+> Either the well was very deep, or she fell very slowly, for she had plenty of
+> time as she went down to look about her, and to wonder what was going to
+> happen next.
+>
+> First, she tried to look down and make out what she was coming to, but it was
+> too dark to see anything: then she looked at the sides of the well, and noticed
+> that they were filled with cupboards and book-shelves: here and there she saw
+> maps and pictures hung upon pegs. She took down ajar from one of the shelves as
+> she passed: it was labeled "ORANGE MARMALADE" but to her great disappointment it
+> was empty: she did not like to drop the jar, for fear of killing somebody
+> underneath, so managed to put it into one of the cupboards as she fell past it.
+> 
+> "Well!" thought Alice to herself "After such a fall as this, I shall think
+> nothing of tumbling down-stairs! How brave they'll all think me at home! Why, I
+> wouldn't say anything about it, even if I fell off the top of the house!" (which
+> was very likely true.)
+>
+> Down, down, down. Would the fall never come to an end?
+
 
 
 ## Rights & Art
-
-* Shattered glass picture by [Simon Berger](http://en.simonberger.art/). 
+* Cheshire cat by me
 * Auri holding the fulcrum from u/notakruskkrabb posted [here](https://www.reddit.com/r/KingkillerChronicle/comments/epvml8/i_drew_auri_for_my_new_desk_at_work/)
-* Mantle picture origins unknown, I merged it with a slender moon on Primsa.
 * [under water picture](https://www.artfinder.com/product/emerging-sun-setting-underwater-ocean-reflections-painting/#/)
-* all other art is Worldbuilers
 * [raven](https://www.pinterest.com/pin/407505466274076415/)
+* all other art is Worldbuilers
 
 ## credit
 
