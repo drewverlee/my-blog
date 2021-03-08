@@ -1,4 +1,4 @@
-{:title "A Crown of Broken Mirror Glass"
+{:title "A Crown of Broken Glass"
  :layout :post
  :date "2021-3-4"
  :tags  ["KingKiller" "Fantasy"]}
