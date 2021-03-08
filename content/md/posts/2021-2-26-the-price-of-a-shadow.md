@@ -57,5 +57,6 @@ _The F&#xe6;_
 <br>
 _The Cth&#xe6;h_
 
+Come child of earth and oak. Learn the price of a shadow and what it takes to be [King](/posts-output/2021-1-26-turnings)
 
 <img src="/img/the-price-of-a-shadow.png" >
