@@ -748,7 +748,6 @@ flame, but the &#x2612; forgets, once a fire is started, the wind decides which
 way it goes... <b>&#x21af;</b>
 
 
-
 And so we shine like a light in the dark, we are near a greystone once more. Willem and Simmon
 aren't there to entertain, to show the way or lend sympathy. We
 must walk this road alone, following not their footfalls, but the delicate
@@ -757,7 +756,7 @@ soft **soil**, upon a **farmer ’s fresh-tilled field** and following a
 **twisting path of smooth paved stone** that leads over the **high arch of
 Stonebridge** that leads to _something something el_...
 
-To follow this path path we must leave walls and rules behind. 
+To follow this path we must leave walls and rules behind. 
 We must be able to hold onto the belief that a thing is more the story
 and less the conceptions we have of it. We have broken our minds, and hold
 each tale in a room. Now we must tip our minds in to spinning leaf, and walk through the walls...
@@ -934,6 +933,7 @@ you pay for wings, eventually you fall.
 
 
 ## Rights & Art
+
 * Cheshire cat by me
 * Auri holding the fulcrum from u/notakruskkrabb posted [here](https://www.reddit.com/r/KingkillerChronicle/comments/epvml8/i_drew_auri_for_my_new_desk_at_work/)
 * [under water picture](https://www.artfinder.com/product/emerging-sun-setting-underwater-ocean-reflections-painting/#/)
