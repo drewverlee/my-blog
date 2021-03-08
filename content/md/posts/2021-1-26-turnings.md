@@ -1,4 +1,4 @@
-{:title "A Crown, A "
+{:title "A Crown of Broken Mirror Glass"
  :layout :post
  :date "2021-3-4"
  :tags  ["KingKiller" "Fantasy"]}
@@ -20,29 +20,29 @@
 
 <img src="/img/climbing.jpg" height="450px" width="275px">
 
-# Intro: The Arborist's hemp
+## Intro: The Arborist's hemp
 
-This post is a continuation of [Shadows on the
-wal](/posts-output/2021-1-25-findings). This story is intended to be read from the start,
+This post is a continuation of [shadows on the Wal.](/posts-output/2021-2-15-finding). This story is intended to be read from the start,
 which is [Warren Widdershins Ways and
 Woes](/posts-output/2021-1-15-bone-and-crystal). As such, we will quickly continue on.
 Similar to before will cover Auri's journey as she sees it. Then will walk it
 back and I'll show you what I see. This is broken into several parts. I
 feel broken into pieces, too; I hear a sharp ringing and try to pull myself
 together. The world seems to swirl around and finally slows and coalesces into
-something reasonable. Blue, bottles, and I catch my breath. We are back in
+something reasonable. Blue, bottles. A low wooden table.and I catch my breath. We are back in
 Auri's sitting room. Something real, something we can touch. I put my hand upon
-the velvet chair. It feels normal, like sunlight and rugged, honest wood
+the tall velvet chair. It feels normal, like sunlight and rugged, honest wood
 beneath. Auri insists something is still _wrong_ with the place. On top of that,
 she can't find a proper place for Fulcrum. Which is sad, all things deserve
 their place. Oh, I'm sorry I haven't introduced you to fulcrum. I'm terrible
 sorry, how very rude of me.
 
-Will need to focus our Alar and follow several paths at once. 
+Will need to focus our Alar and follow several paths at once. It seems unfair, us 
+recently all put back together, but time is against us, he is coming...
 
 ## 1st Binding: A hard heavy weight of answers
 
-Fulcrum didn't always go by that name. Auri gave it when... what I doing?
+Fulcrum didn't always go by that name. Auri gave it when... wait. What I doing?
 A _proper_ story starts at the beginning. So let's have a proper telling. On the
 first day, Auri found it in the deep dark below of the Twelve. It would also be
 fair to the Underthing as a whole if we explored it a bit more as well, it's
@@ -59,7 +59,7 @@ slow going, but worth doing.
 > Then it slid and she realized the truth. It was a weighty thing. --15G
 <!-- 228 -->
 
-A heavy burden indeed, enough to jostle her about and let foxen slip..
+A heavy burden indeed, enough to jostle her about and let foxen slip...
 
 > Auri snatched with her free hand, but her knuckles only batted Foxen
 > farther off away. And for a moment, Auri froze. To let the metal drop would be
@@ -69,7 +69,7 @@ A heavy burden indeed, enough to jostle her about and let foxen slip..
 
 <img src="/img/auri-water-foxen.png" height="600px" width="350px">
 
-But duty is foremost in Auri's heart, and to lose the gear is unimaginable.
+But duty is formost in Auri's heart, and to lose the gear is unimaginable.
 
 > Losing Foxen was bad. It would leave her blind and lonely in
 > the dark. Being trapped beneath the pipes and choking out her life was awful
@@ -77,7 +77,7 @@ But duty is foremost in Auri's heart, and to lose the gear is unimaginable.
 > dark simply could not be done. It was unthinkable.  --18
 <!-- 284 -->
 
-and so she does it! Nearly drowned, but full of joy:
+and so she does it! _Nearly_ drowned, but full of joy:
 
 > Auri heaved the thing out of the water, and it struck the stone floor with the
 > sound of a bell. It was a bright brass gear, big as a platter. Thicker than her
@@ -112,7 +112,7 @@ She carries the gear, along with her other gifts back to port:
 > The great brass gear was bright straight through. The key was black as black. --23
 <!-- 324 -->
 
-The gear would _almost_ make a gift for him...
+The gear would _almost_ make a gift for him.
 
 > The gear would
 > need consideration. It almost felt like it could be for him—but that could wait. --23
@@ -381,6 +381,8 @@ they learn the proper way of looking. But for now, lets move on...
 
 <img src="/img/fulcrum-arch.jpg" height="400px" width="500px">
 
+We need to leave Auri and her fulcrum behind, will see them later where all roads meet. We
+need to pick up another thread and that means a double binding. 
 
 ## 2nd Binding: Towards the dark of a grim winters night.
 
@@ -468,8 +470,8 @@ _things_ from all around.
 > her arms. 
 <!-- ~ kf 19202 TWMF -->
 
-They had back, until they reach a cleaning. Felurian stops kvothe from looking past the curtain and then watches
-patiently as she weaves starlight into his shaed.
+They head back until they reach a cleaning. Felurian stops kvothe from looking past the curtain and then he watches
+patiently as she weaves starlight into his newborn shaed.
 
 > We walked back the way we had come. The moths gradually lost interest in us, leaving us with less
 > and less of an impression of our surroundings. After what seemed an interminable amount of time I
@@ -548,23 +550,20 @@ But we can only focus on a few parts at a time, and so, like Kvothe we must go l
 
 ## Interlude: From Dust To Dawn
 
-Felurian leads Kvothe from twilight into night and back. Along the way back they stop a curtain and she pulls light
-to weave into the his new shaed. Later we get a sense of how time and space works in the fae. Which is to say, nothing like 
-they do in the mortal realm. 
+To quickly reccap, Felurian leads Kvothe from twilight into night and back. Along the way back they stop a curtain and she pulls light to weave into the his new shaed. Later we get a sense of how time and space works in the fae. Which is to say, nothing like they do in the mortal realm. 
 
 > I also learned that there aren’t directions of the usual sort in the Fae. Your trifoil compass is useless
-> as a tin codpiece there. North does not exist. And when the sky is endless twilight, you cannot watch
+> as a tin codpiece there. **North does not exist**. And when the sky is endless twilight, you cannot watch
 > the sun rise in the east.
-
 
 > But if you look closely at the sky, one piece of the horizon will be a shade brighter, in the opposite
 > direction a shade darker. If you walk toward the brighter horizon, eventually it will become daytime.
 > The other way leads to darker night. If you keep walking in one direction long enough, you will
-> eventually see a whole “day” pass and end up in the same place you began. That’s the theory, at any
+> eventually see a whole “day” pass and end up in the **same place you began**. That’s the theory, at any
 > rate.
 
 > Felurian described those two points of the Fae compass as Day and Night. The other two points she
-> referred to at different times as Dark and Light, Summer and Winter, or Forward and Backward. Once
+> referred to at different times as Dark and Light, **Summer and Winter**, or Forward and Backward. Once
 > she even referred to them as Grimward and Grinning, but something about the way she said it made
 > me suspect it was a joke.
 
@@ -574,11 +573,23 @@ If I had to summarize, I would say that in the real world time and space are lin
 In the Fae you can walk a whole day and return back to where you started. The natural right
 shape might be one perfect circle. But things dont feel right to me, they feel twisted against themselves.
 
+Sim told us that we know nothing about Alchemy and Kote reminded us Fae
+are as different from us as oil is to water. I'm reminded of Auri, who is both, and how
+little we understand the shifting lights of the depths below, like twilight playing off a gem
+
 <img src="/img/gemstone.jpg" height="400px" width="400px">
+
+we see the flicking lights and think our musing a fancy. We see the shadows they
+cast and think our thoughts a trickster. For in their edges we cannot breath, we
+feel the darkness horrible need. Fear kills the mind, and we must face the
+shadows. And so first high above we must go. And that means another binding. We
+can hardly hold the shape of ourselves together, we hear our own voice through walls of stone
+arguing, shouting to be let out, planning against us. But the plan, the vision, the road we 
+must hold the course...
 
 ## 3rd Binding: From bridges to lights below
 
- Our past, our friends below, the velvet sky all terrifying and beautiful above.
+We see our past, our friends, the velvet sky all terrifying and beautiful above.
 
 > The night is like **warm velvet** around them. The stars, **burning diamonds**
 > in the cloudless sky, turn the road beneath their feet a silver grey. The
@@ -613,16 +624,15 @@ riding the rivers current downward.
 > the shadows made the steps look smooth and dark and edgeless, like an abandoned **riverbed** worn
 > from the rock. --TWMF:295
 
-Towards the center, _seeing_, dark cloth and flicking candlelight behind it.
+Towards the center, _seeing_, dark cloth and flicking **candlelight** behind it.
 
 > Once, twice, then the door swung
 > open and we were confronted with a looming figure in a dark robe. His cowled hood shadowed his
 > face, and the long sleeves of his robe stirred in the wind. --TWMF:296
 
-
 ## Interlude: Striking the stem
 
-You have traveled around a bit with Fulcrum. He has been brazen, proud, sullen,
+We have traveled around a bit with Fulcrum. He has been brazen, proud, sullen,
 vexing, stubborn, and answerful. He came from below, and he helped Auri in a
 tight spot. He is a symbol of motion, movement, and turnings. But he is also
 beautiful and broken. We have walked with Kvothe and felurian and she has woven
@@ -637,7 +647,7 @@ A desperate gentle thing, just breath to set it into motion. So soft and pure
 creation itself bends, and bends and bends ... bends... and breaks. There is no
 thunderclap, no distant drums. The stars hang silently in the sky—only a slight
 change in the wind, a hesitation, then slight pull upward. As if the world hung
-by a string, now cut, and is falling in the wind.
+by a string, now cut, and is falling.
 
 ## 4th binding: Called forth from beyond
 
@@ -693,7 +703,7 @@ and a tale of it's fall
 > **high place** in the mountains where they could look out over the land. The **proud**
 > towers of Myr Tariniel shone brightly in the last light of the setting sun. --NOTW:186
 
-Which lead to the blackening of the sky and of a heart.
+Which lead to the blackening of the sky and of a face.
 
 > Selitos spoke the long name that lay in Lanre’s heart, and at the sound of it
 > the sun grew dark and **wind tore stones from the mountainside**.
@@ -719,10 +729,11 @@ Which lead to the blackening of the sky and of a heart.
 
 The past pours into us like a torrent. We are drowning in it. We are full to
 bursting with all this knowing. We are a white river in full fury and we must
-focus if we hope to live. TODO. We are by the river bank. Our vision is glossy
-as lights shift back and forth in the dark. We see woman wearing blue silk on
-the far bank. Her face turned away from us. Her too pale body seems ridge and
-still, with only her purple grey wrist given motion by the stream...
+focus if we hope to live. No, we are kneeling hopeless by the rivers edge. In our hands
+sharp glass pressed to skin. Another binding? But were already too cold. Our vision is glossy as lights
+shift back and forth in the dark. We see woman wearing blue silk on the far
+bank. Her face turned away from us. Her too pale body seems ridge and still,
+with only her purple grey wrist given motion by the stream...
 
 _from something we pull the omethi_
 
@@ -732,75 +743,53 @@ _we push moteth from something_
 
 _and find that we can sing once more_
 
-TODO improve
-We shine like a light in the dark, we are near a greystone once more. Willem and Simmon
-aren't there to entertain, or there to show us the way or lend sympathy. We
+We are filled with light. It bursts from our mouth our eyes. Our hand held the
+flame, but the &#x2612; forgets, once a fire is started, the wind decides which
+way it goes... <b>&#x21af;</b>
+
+
+
+And so we shine like a light in the dark, we are near a greystone once more. Willem and Simmon
+aren't there to entertain, to show the way or lend sympathy. We
 must walk this road alone, following not their footfalls, but the delicate
-traces of Felurian from the **moss** of the fae, through the greystone, then a
+trace of felurian from the **moss** of the fae, through the greystone, then a
 soft **soil**, upon a **farmer ’s fresh-tilled field** and following a
-**twisting path of smooth paved stone** that leads over the ***high arch of
+**twisting path of smooth paved stone** that leads over the **high arch of
 Stonebridge** that leads to _something something el_...
 
-
-
-_To find truth, your stone walls leaving_
-
-_for the key to all doors is seeing_
-
-_and so TODO eyes see as one_
-
-_and in their song, then only true darkness overcome_
+To follow this path path we must leave walls and rules behind. 
+We must be able to hold onto the belief that a thing is more the story
+and less the conceptions we have of it. We have broken our minds, and hold
+each tale in a room. Now we must tip our minds in to spinning leaf, and walk through the walls...
 
 -----
 
-_so now we travel to deep dark below_
+Now we travel to deep dark below. Quickly as sun is faded, see flickering light
+from far away amusing. Before us fair felurian, full chest rising. Her soft
+footfalls imre's cobblestone finding. The arch of her step no cold statue, her
+beauty fast brings pride weeping. Her too clever cat eyes seeing, the shadows
+heart is gone seeking. So to shaeding her flame, her road leads under us under
+things, to bakery, where warm breeze incubates. A niche, a nest, where hatchling
+dreams of flight await. See her plucking summer and winter out of time, stealing
+this fruit from the fluter. Her gentle musk, a tuft of hair, the only traces of the feline looter.
+But to take alone, is little avail, so they must seek the veil. It's a mystery, why they call it the fishery,
+something we must leave for another day. For now it's enough to say, its from lamp light she weaves:
 
-_Now sun losing, come flickering light from far away amusing night_
+<img src="/img/kilvin-card.webp" height="400px" width="250px">
 
-_now before us fair felurian, fine chest rising_
+<img src="/img/metal-lasts.jpg" height="400px" width="250px">
 
-_her full footfalls cobblestone finding_
+I worry their smoke the wings upon which this tragedy rides. Or could the light
+be past lemon, leather and descending river stone, behind the puppet strings, a
+curtain into candlelight? Last, I dare suggest, it might simply come warm velvet
+night. The stars, burning diamonds in a cloudless sky. Though that would imply,
+all the world caught within it's eye.
 
-_the arch of her step no cold statue, her beauty fast brings pride weeping_
+Lets leave that door closed for now and our join our lady of the quiet.
+Her blue-white eyes joined to darker self. See how she grips on burning iron with thumb and forefinger,
+and feels the bite of tiny teeth. But our young hero is not there to see, how a shaed truley came to be.
 
-_her too clever cat eyes seeing, the shadows heart is gone seeking_
-
-_so to shaeding her flame, her road leads under all of things we stride_
-
-_on her wings all the worlds hopes riding_
-
-_to bakery, where warm breeze finds us_
-
-_plucking summer and winter, stealing fruit from the fluter_
-
-_her gentle musk, a tuft of hair, the only traces of our feline looter_
-
-_to take alone, is little avail, so we must seek the veil_
-
-_ride the stream down smooth stone, past the smell of leather and lemon books_ TODO remove last bit?
-
-
-_to the wire-holders home, his dolls always dancing_
-
-_though his eye is always TODO (using seeingk), we stand behind a curtain_
-
-TODO diamond
-
-_and steal light from his seeing candle flame_
-
-_Now a rest, then creation, and though our lady of the quiet is herself_
-
-_her blue-white eyes joined to darker self_
-
-_see she grips on burning iron in thumb and forefinger_
-
-_another feels the bite of tiny teeth_
-
-_but our young here is there not there to see_
-
-_how a shaed truley came to be_
-
-_for he was sent away..._
+for he was sent away... 
 
 <img src="/img/sunsetpurple.jpeg" height="400px" width="400px">
 
@@ -847,51 +836,51 @@ Not a chair, but a thrown.
 
 > Fulcrum settled like a king upon the velvet chair
 
-_not tree but a king_
 
-_with the weight of answers his white broken grin_
+_See a tree tall as mountain grown, its trunk sunlit warmth known_
 
-_and upon his head a crown_
+_climb it naked and alone_
 
-_a tree greater then any mountain_
+_seek us now the lord of stone_
 
-_one we must climb like beasts to reach a gem_
+_the stories not legends but prophecy_
 
-_its trunk holding sun long past the dark_
+_here thrice and attend to me_
 
-_from there did felurian weave her light_
+_not a tree, but a great king_
 
-_and beyond curtains veil, flicking butterflies did fall_
+_the joy his tales bring a delight for simple townsfolk_
 
-_as below as above once more_
+_see his cloak of no particular color..._
 
----
+_see now a grim graveyard gem,_
 
-_what you ask? What a great question. I know so many whats?_
+_let your eyes linger, a ring on upon each finger._
 
-_what word would shatter stone and blacken the sky?_
+_except that which was cut away_
 
-_What would go nicely with a ciridae and a crystal eye?_
+_upon his head a crown_
 
-_whats the reason she calls tumbrel?_
+_from there did the silent lady weave her shaed_
 
-_what do you call an upside broken mirror?_
+_and beyond diamond curtains veil, the price was paid_
 
-_an awry Faerini-el._
-
-_Gods twisted hooter, What ever else I just said, remember that, I promise, you will laugh when the time comes. I guarantee it._
+<img src="/img/chester-smile.jpg" height="400px" width="400px">
 
 
+What? 
 
+A great question. I know so many whats...
+What's the reason she calls it Tumbrel? What is Kilvin really fishing for? 
 
-## A gembh on the korōnē of the Lord.
+What do you call an upside broken mirror?
 
-<img src="/img/brazen.jpg" height="300px" width="300px">
+_an awry Faeriniel_
 
-<img src="/img/crow-pic.jpg" height="300px" width="300px">
+Gods twisted hooter, What ever else I just said, remember that, I promise, you
+will laugh when the time comes. I guarantee it.
 
-<img src="/img/parts-of-tree.jpg" height="500px" width="400px">
-
+<img src="/img/simon-berger-shattared-glass.webp" height="600px" width="600px">
 
 # Epilogue
 
@@ -909,20 +898,9 @@ as the sea, as relentless as the coming night. But we fight on, against the dyin
 of the light and though we can't hope to win, we know that their is always
 another day, another life, another tale...
 
-So take a moment and consider the wisdom of children. Who look not far ahead, but close.
+So take a moment and consider the wisdom of children. Who look not far ahead, but closely and with open honest curiosity.
 Who look not for gain, but simply for the joy of looking. Who see the fox and the hare, The 
 Goatherd & the Goat and the [The North Wind & the Sun and the games they play](http://www.read.gov/aesop/143.html).
-
-
-## subtle shaeds of meaning
-
-> He held out his right hand, **thumb and forefinger** pinched together. “What is this?” He spread his
-> fingers slightly for me to see.
-> I looked closely, glad to have something to focus my attention on. “That’s a tick.”
-
-> Tempi briefly caught my eye. His **thumb and forefinger** rubbed together gently. Gladness? No. Satisfaction
-
-
 
 
 ## Rights & Art
@@ -934,8 +912,16 @@ Goatherd & the Goat and the [The North Wind & the Sun and the games they play](h
 * all other art is Worldbuilers
 * [raven](https://www.pinterest.com/pin/407505466274076415/)
 
-<img src="/img/simon-berger-shattared-glass.webp" height="600px" width="600px">
+## credit
 
+To my friends u/RhintaMorie and u/Playtheboard, for listening to my madness. 
 
+## A gembh on the korōnē of the Lord.
+
+<img src="/img/brazen.jpg" height="300px" width="300px">
+
+<img src="/img/crow-pic.jpg" height="300px" width="300px">
+
+<img src="/img/parts-of-tree.jpg" height="500px" width="400px">
 
 

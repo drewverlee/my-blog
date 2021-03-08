@@ -58,4 +58,4 @@ _The F&#xe6;_
 _The Cth&#xe6;h_
 
 
-<img src="/img/the-prince-of-shadow.png" >
+<img src="/img/the-price-of-a-shadow.png" >
