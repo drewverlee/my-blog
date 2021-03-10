@@ -679,6 +679,10 @@ Were pushed forward in time, to a quiet inn and the harmless chatter of farmers.
 > glass on the bar topside-down. “I don’t know how they do it in Rannish,” Carter said to the boy. “But
 > round here there’s a reason we call it a **tumble**.”  --TMWF:140
 
+and the carefully chosen words of master namers...
+
+> “Your cloak, boy. Your turning cape. How in God’s sweet grace did you **tumble** onto a shaed?” --TMWF:947
+
 _We are stretched too thin, and breaking._ Skarpi's words start to give us wings we
 need to fly. He speaks of the a lost place from long ago. 
 
@@ -885,10 +889,11 @@ You don't believe? Pity, but I guess that's what happens when we think were on
 top of everything, _in control_. Flying high without a care in the sky. The air
 is clean and the sky is blue. How exhilarating! How romantic... But the dross, the rot, it's
 building... _oh yes, I taste it_. The pipes are close to breaking, and she is so tired and
-broken. and you know what she thinks before she hurts herself? You.
+broken. and you know what she thinks before she hurts herself? You. She thinks about you.
 
-But your busy riding the wind, I understand. I suppose that's the price
-you pay for wings, eventually you fall.
+I bet you thought of her too, between the galloping about and riding the wind. I
+understand. You will come back to down to earth eventually. I suppose that's the price
+you pay for wings, eventually, you fall.
 
 ## Alice's Adventures in wonderland, by Lewis Caroll
 
