@@ -12,7 +12,7 @@ This is part of [Warrens series](/posts-output/2021-1-15-bone-and-crystal) and f
 
 Two cloaked figures walk into a crowded Inn. One has his hood up. The others too clever eyes quickly take in the whole room. You would have to be seven kinds of drunk to not notice the clientele was different. The horns and tail on the waiter might be a hint. Or it could be the Minotaur smoking a long wooden pipe across from satyr. The newcomers don't warrant a glance as they casually weave their way to the bar where a young faen looks like her shifted ended 4 hours ago.
 
-"what will it be then" her hands move from tap to mug and back with a motion so fluid it belonged on stage.
+"What will it be then" her hands move from tap to mug and back with a motion so fluid it belonged on stage.
 
 "Me and my partner Bast, were looking for someone." The rich dark voice of the hooded figure reaches just as far as the brightly colored bottles. The bartender doesn't say a word but a cup slips from her hand and shatters on the floor. "Mary, love, would you help with that?" Her voice is calm as river water but she darts a glance at the young man, then her eyes flit past the hood of the other, as if she knows what a look would entail.
 
@@ -20,7 +20,7 @@ Two cloaked figures walk into a crowded Inn. One has his hood up. The others too
 
 The shorter figure nudges Bast and he rolls his eyes. "Felurian... we're looking for m- the lady of the quiet" His face is sour, like someone just asked him to clean his room.
 
-"why?" The question is a relex, like a gentle tap on the patellar tendon. Her hands are just circling the same glass with a rag, over and over. Over... and Over.
+"Why?" The question is a relex, like a gentle tap on the patellar tendon. Her hands are just circling the same glass with a rag, over and over. Over... and Over.
 
 Bast grins. "Were on a mission from Aleph. We're getting the Troupe back together."
 
@@ -79,11 +79,11 @@ _Stop Hammer time!_
 
 Felurian making love to the Sousaphone.
 
-_You can't touch this_
+_You can't open this_
 <br>
-_You can't touch this_
+_You can't open this_
 <br>
-_You can't touch this_
+_You can't open this_
 
   **My girl Auri tending those pipes.**
 
@@ -97,7 +97,7 @@ _From earth to The sky_
 <br>
 _I just won't quit_
 
-  ***Take it home on the lute Kote!! ok, maybe not... Bastas back him up!*
+**Taborline on the vocals, lets take it home with Kote on the Lute!!! ... ok, maybe not... Bastas back him up!**
 
 _Boot to stirrup!_
 <br>

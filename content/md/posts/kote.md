@@ -105,7 +105,7 @@ Consider the [phonetic history](https://en.wikipedia.org/wiki/%C3%86) which pain
 <img src="/img/a-image.png" height=100px width=100px>
 <img src="/img/E-image.png" height=100px width=100px>
 
-They look like a tinker and donkey to me. _ha, ha was a coincidence_. They also are the first two letters of
+They look like a tinker and donkey to me. _ha, ha what a coincidence_. They also are the first two letters of
 Aesop's tales, here is one picked at random: [The North Wind & the Sun and the games they play](http://www.read.gov/aesop/143.html).
 This book can found on the Princess bookself in the book "The Princess & Mr. Whiffles: The Deep Dark Below."
 
@@ -147,7 +147,7 @@ At best, I can say that Brevetan might share a root with our white-bearded Tak p
 
 Lot's of potential fun can be had with "Aerin" It has our isolated AE + rin. If AE is the wind, then we should be considered anything close to rin|rhintae|rhinta|rhin|rhinna|rhinata|rainbows ok.. the last one is silly. _Why make a child terrified of **rainbows**?_. 
 
-Like drawing attention to how its only a_v_ away from Verian, which is tiny red flower. One which kvothe draws attention to when discussing Verainia greyflocks, whose name he pairs down to "nina". In a Spanish context, Niña means "child". It's often a female name. It's also a short hop to  NIN (feature on official notw decks), in Sumerian also means "queen", "lady" "lord". Gods above, lets not even mention that it's occurrence in the name of Ninsun, (formal meaning "sun"), the mother of Gilgamesh, especially in the _flood myth_. 
+Like drawing attention to how its only a_v_ away from Verian, which is tiny red flower. One which kvothe draws attention to when discussing Verainia Greyflocks, whose name he pairs down to "nina". In a Spanish context, Niña means "child". It's often a female name. It's also a short hop to  NIN (feature on official notw decks), in Sumerian also means "queen", "lady" "lord". Gods above, lets not even mention that it's occurrence in the name of Ninsun, (formal meaning "sun"), the mother of Gilgamesh, especially in the _flood myth_. 
 
 _Frantically tosses shuffles papers about until he finds one on which half of the words are upside down_
 
@@ -193,7 +193,7 @@ and
 
 We can only speculate if Rothfuss intended these to share a root. But If we had to pick based on context, it leans "look" but is shares more letters with "sound/listen" or maybe a child of both meaning _pay attention_.
 
-Additionaly, "oketh ama" could together be "one dark eye" the pune now clearly a reference to Skarpis story about Selitos. "Keth" itself seems to share a root or similarity with "dark/black/coal" considering "to Ketha" being close to "are you coal". The Tinker tells us that "ket-selem" would be "first-night" and "keth-selhan" would be "one sock" the root "ket" seems to be first, which would seem to fit with _oketh_ being one and _ama_ being eye.
+Additionaly, "oketh ama" could together be "one dark eye" the idiom now clearly a reference to Skarpis story about Selitos. "Keth" itself seems to share a root or similarity with "dark/black/coal" considering "to Ketha" being close to "are you coal". The Tinker tells us that "ket-selem" would be "first-night" and "keth-selhan" would be "one sock" the root "ket" seems to be first, which would seem to fit with _oketh_ being one and _ama_ being eye.
 
 The reason for considering these words is because _Kote_ isn't to far from _keth_. We were left with a bit of a choice. Is oketh _eye_ or is ama? I'm leading you down this road because I think this confusion is planned. This is the deeper mystery beyond considering if Kote's life was a disaster. Is he a hero, the "one" may be a God? And more importantly, what does it mean to be a god. They're all around us, why comment on one more 
 when he can't even seem to fight off one man. 

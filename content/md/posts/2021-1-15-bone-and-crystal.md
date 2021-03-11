@@ -31,11 +31,14 @@ In short, this theory will cover Auri's candle making. In long...
 
 The Kingkiller Chronicle's journey is powerful; it moves the heart. It's best if
 you experience it yourself, rather than me rob you of the joy. Journey before
-destination, and all that. In that vein allow me to tell a brief story
-of a [boy who ran](/posts-output/2021-2-6-the-boy-who-ran) too fast. It is only an echo of the
-stories told in Temerant, but hopefully it will dull the ache of waiting
-for more stories from Rothfuss while appropriately setting the tone of the 
-greater story I hope to unfold here.
+destination, and all that. In that vein allow me to tell a brief story of a [boy
+who ran](/posts-output/2021-2-6-the-boy-who-ran) too fast. It is only an echo of
+the stories told in Temerant, but hopefully it will dull the ache of waiting for
+more stories from Rothfuss while appropriately setting the tone of the greater
+story I hope to unfold here. I have also put together a short poem about how to read the
+King Killer Chronicle as well as part of a stone that sits in my heart. I cast
+it into the water, I hope the river will take it where it needs to go. I call it
+the [The hope a spring sun brings](/posts-output/seeing.md).
 
 In sort, I suggest you read around a *lot* before tackling this. That means all the
 books a couple times, see the last section "Citations" for a list. It also means
