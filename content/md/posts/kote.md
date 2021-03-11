@@ -4,6 +4,10 @@
  :date "2021-3-11"
  :tags  ["Fantasy" "Kingkiller"]}
  
+<img src="/img/onion-pic.png">
+
+
+ 
 ## Intro 
 
 This is part of [warrens series](/posts-output/2021-1-15-bone-and-crystal) and follows [Turnings](/posts-output/2021-1-26-turnings). 
@@ -11,6 +15,8 @@ This is part of [warrens series](/posts-output/2021-1-15-bone-and-crystal) and f
 The goal here is to discover the meaning of our red hair innkeeper's new name, "Kote". This has been discussed nearly to death, yet I haven't seen what I consider the correct translation. I'm going to scour the books and make guesses to be exhaustive. However, in the end, we will find ourselves in the heart of a maze with no clear answer, and it _will be a disaster_.
 
 ## Looking at the fit
+
+<img src="/img/kilvin-selas-alt-deck.jpg">
 
 The word "Kote" is used twice by Kilvin, and so it's from there our journey should start.
 
@@ -139,6 +145,8 @@ _You can't expect to wield supreme magical power just 'cause some watery tart ga
 
 _I mean, if I went around saying there were nine chandrian, simply because a moistened modor put a gian-t_emberant_ [**iridium**](https://www.etymonline.com/word/iridium#etymonline_v_12225) gear on a _chair_, they'd put me away!_
 
+<img src="/img/auri-pool-fulcrum.jpg">
+
 I'm sorry, what were we doing again? Oh, yes. 
 
 > “Kraemet brevetan Aerin!”
@@ -194,7 +202,7 @@ _The young act with reckless defiance._
 <br>
 _A Specere seeks the haert of silence._
 
-_Specere/"see" -> spectar/"to look" -> exspectar/"look out for" -> expect/"defer action"_
+<img src="/img/expect.png">
 
 That isn't the end of the song, or Kotes... not by half. 
 
@@ -225,6 +233,13 @@ It might be "blackened beard of god". Though the whole thing might functionally 
 
 But regardless, Seer. Kote didn't _v_e_h_ / submit, he rolled the dice. And all of creation is tumbling with it now. 
 
+<img src="/img/kvothe-tree-sword.jpg">
+
 ## Epilogue
 
 Next, lets take a break, rest our feet at the local [Inn](/posts-output/mission)
+
+## art
+
+* [onion](https://fineartamerica.com/featured/red-onion-translucent-peeled-layers-johan-swanepoel.html)
+* Other art from world builders
