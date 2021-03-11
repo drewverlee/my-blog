@@ -4,7 +4,7 @@
  :date "2021-3-11"
  :tags  ["Fantasy" "Kingkiller"]}
  
-<img src="/img/onion-pic.png">
+<img src="/img/onion-pic.png" height="400px" width="400px">
 
 
  
@@ -16,7 +16,7 @@ The goal here is to discover the meaning of our red hair innkeeper's new name, "
 
 ## Looking at the fit
 
-<img src="/img/kilvin-selas-alt-deck.jpg">
+<img src="/img/kilvin-selas-alt-deck.jpg" height="400" width="230px">
 
 The word "Kote" is used twice by Kilvin, and so it's from there our journey should start.
 
@@ -95,10 +95,25 @@ It would be nice to take a guess at what "Kraemet brevetan Aerin" means. AE appe
 * It's in every faerie story. 
 * even the chaendrian can't get along without it. 
 
-Gran might have a good idea about how to think about AE. _Arrowroot hain't a
-palliative of any sort. It's just good at carrying around what works."_. If i
-was looking for God, I would lean towards one of these two "Kraemet" or "Aerin".
-Let's start with Kraemet:
+Visually, <font size="+3">&#198;</font>  tells quite a story, at least to me Here is what i see
+like <font size="+3">&#230;</font> an annulet or an infinity symbol. Some systems all suggest a snake around a staff, though I can't hold to that 
+being historically accurate: <font size="+3">&#9877;<font>.
+
+
+Consider the [phonetic history](https://en.wikipedia.org/wiki/%C3%86) which paints its origins to look this:
+
+<img src="/img/a-image.png" height=100px width=100px>
+<img src="/img/E-image.png" height=100px width=100px>
+
+They look like a tinker and donkey to me. _ha, ha was a coincidence_. They also are the first two letters of
+Aesop's tales, here is one picked at random: [The North Wind & the Sun and the games they play](http://www.read.gov/aesop/143.html).
+This book can found on the Princess bookself in the book "The Princess & Mr. Whiffles: The Deep Dark Below."
+
+AE seems like it's all over, but how what value do we assign it? Gran might have
+a good idea about how to think about AE. _Arrowroot hain't a palliative of any
+sort. It's just good at carrying around what works."_. If I was looking for neutral God, it would be AE.
+Which means either of these two "Kraemet" or "Aerin", might have been the one Kilvin was talking about. Let's start with
+Kraemet:
 
 > "**Kraem**. No. Not like this." Kilvin growled out a couple words and pounded his fist on the table, each thump as his hand came down was accompanied by a staccato burst of reddish light that welled up from his hand. "No sympathy. I do not want an ever-glowng lamp. I want an ever-burning one." He looked at me again showing his teeth, as if he were going to eat me.
 
@@ -128,7 +143,6 @@ It's possible "K-" is a form of negation or negative. The short argument for thi
 
 Given re'lar means "speaker", it seems to be that we just slapped a k on it to negate it. And so Kraem could be the negated/evil/bad god. But I don't think we need to go down that road, other than to say it uses suggest it could be god. 
 
-
 At best, I can say that Brevetan might share a root with our white-bearded Tak player Bredan. The suffix "-tan" is used in "quetentan~question" and "ketan" both are curious words, but neither leads me to any great insight. It could be used to modify the noun, so cutting it off might leave us close to the core, which is all we need here. "breve". It sort of looks like it might want to be beard. Or even better [beaver](https://www.etymonline.com/word/beaver), which could have been transferred from the early meaning "a bearded man" before it got it's more popular meaning. 
 
 Lot's of potential fun can be had with "Aerin" It has our isolated AE + rin. If AE is the wind, then we should be considered anything close to rin|rhintae|rhinta|rhin|rhinna|rhinata|rainbows ok.. the last one is silly. _Why make a child terrified of **rainbows**?_. 
@@ -145,7 +159,7 @@ _You can't expect to wield supreme magical power just 'cause some watery tart ga
 
 _I mean, if I went around saying there were nine chandrian, simply because a moistened modor put a gian-t_emberant_ [**iridium**](https://www.etymonline.com/word/iridium#etymonline_v_12225) gear on a _chair_, they'd put me away!_
 
-<img src="/img/auri-pool-fulcrum.jpg">
+<img src="/img/auri-pool-fulcrum.jpg" height="250px" width="400px">
 
 I'm sorry, what were we doing again? Oh, yes. 
 

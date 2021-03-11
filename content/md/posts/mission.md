@@ -49,7 +49,7 @@ _Thank you for blessing me_
 <br>
 _With a mind to rhyme and two hyped wings_
 
-My homeboy, Bredon freestyle dancing.
+ **My homeboy, Bredon freestyle dancing.**
 
 _Fresh new shaed and_
 <br>
@@ -61,7 +61,7 @@ _oh, move outta your Inn_
 <br>
 _And get a fea girl_
 
-Give it up for Cinder on the turn tables. 
+**Give it up for Cinder on the turn tables. and don't forget Devi doing business on the piano.**
 
 _And catch this wind_
 <br>
@@ -69,7 +69,7 @@ _While it's rolling_
 <br>
 _Hold on_
 
-Tehlu burning some mad beats on the Tabor.
+   **Tehlu burning some mad beats on the Tabor.**
 
 _Ring the bell, The king is dead, like a tree he fell_
 <br>
@@ -85,7 +85,7 @@ _You can't touch this_
 <br>
 _You can't touch this_
 
-My girl Auri tending those pipes.
+  **My girl Auri tending those pipes.**
 
 _with others making music_
 <br>
@@ -97,7 +97,7 @@ _From earth to The sky_
 <br>
 _I just won't quit_
 
-Take it home on the lute Kote!! ok, maybe not... Bastas back him up!
+  ***Take it home on the lute Kote!! ok, maybe not... Bastas back him up!*
 
 _Boot to stirrup!_
 <br>
