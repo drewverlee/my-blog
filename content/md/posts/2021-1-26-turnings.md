@@ -23,8 +23,7 @@
 ## Intro: The Arborist's hemp
 
 This post is a continuation of [shadows on the Wal.](/posts-output/2021-2-15-finding). This story is intended to be read from the start,
-which is [Warren Widdershins Ways and
-Woes](/posts-output/2021-1-15-bone-and-crystal). As such, we will quickly continue on.
+which is [Warren Widdershins Ways and Woes](/posts-output/2021-1-15-bone-and-crystal). As such, we will quickly continue on.
 Similar to before will cover Auri's journey as she sees it. Then will walk it
 back and I'll show you what I see. This is broken into several parts. I
 feel broken into pieces, too; I hear a sharp ringing and try to pull myself
@@ -56,7 +55,12 @@ slow going, but worth doing.
 > bumped something solid and cold, all hard lines and smooth. It was full of love
 > and answers, so full she felt them spilling out at just her briefest touch. For
 > the space of ten hard heartbeats Auri thought it must be fastened to the stone.
-> Then it slid and she realized the truth. It was a weighty thing. --15G
+> Then it slid and she realized the truth. It was a weighty thing.
+> After a long,
+> slippery moment her tiny fingers found a way to pry it up. It was solid metal,
+> thick as a book. It was oddly shaped and heavy as a bar of raw **iridium**. Auri
+> brought it to her chest and felt its edges dig into her skin. 
+--15G
 <!-- 228 -->
 
 A heavy burden indeed, enough to jostle her about and let foxen slip...
@@ -894,6 +898,13 @@ broken. and you know what she thinks before she hurts herself? You. She thinks a
 I bet you thought of her too, between the galloping about and riding the wind. I
 understand. You will come back to down to earth eventually. I suppose that's the price
 you pay for wings, eventually, you fall.
+
+---
+
+Let's change pace a bit and try climbing a different tree. Etymologies tend to
+mirror history and so we can learn much simply be seeing how things evolved over time.
+With that in mind, will attempt to avoid disaster and find new meaning by taking by
+taking a good look at a [Kote](/posts-output/kote), and see if it doesn't fit another meaning.
 
 ## Alice's Adventures in wonderland, by Lewis Caroll
 
