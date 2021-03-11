@@ -1,12 +1,12 @@
 {:title "The Waystone Brothers"
  :layout :post
  :klipse {:settings {:codemirror-options-out {:line-numbers false}}}
- :date "2017-5-09"
+ :date "2021-3-12"
  :tags  ["Fantasy" "Kingkiller"]}
  
 ## Intro 
  
-This is part of [warrens series](/posts-output/2021-1-15-bone-and-crystal) and follows [us trying on Kvoth's Kote](/posts-output/kote)
+This is part of [Warrens series](/posts-output/2021-1-15-bone-and-crystal) and follows [us trying on Kvoth's Kote](/posts-output/kote)
 
 ## Looking for sly cat...
 
@@ -28,6 +28,12 @@ Bast grins. "Were on a mission from Aleph. We're getting the Troupe back togethe
 
 The hood tilts upward as if the Inn ceiling is of no consequence and he is looking directly at the stars. Daring them to look back. "me?" The music is still playing in the background, conversations keep their beat. But there is a sudden silence that seems to cut through the room like a glass dagger. "You may have heard of me".
 
+
+<img src="/img/blodless-music.webp">
+
+
+
+
 ## Magical Music
 
 Hows it going Imreeeee ?
@@ -36,50 +42,70 @@ I can't hear you! I see we got a lot of fine looking lords and lovely ladies and
 We got Denna on the Harp, shes out of boxes for tonight only. Can I get some love?
 
 _let the music hit you hard_
+<br>
 _Makes you say "Oh, my Tehlu"_
+<br>
 _Thank you for blessing me_
+<br>
 _With a mind to rhyme and two hyped wings_
 
 My homeboy, Bredon freestyle dancing.
 
 _Fresh new shaed and_
+<br>
 _You got it like that_
+<br>
 _Now you know you wanna dance_
+<br>
 _oh, move outta your Inn_
+<br>
 _And get a fea girl_
 
 Give it up for Cinder on the turn tables. 
 
 _And catch this wind_
+<br>
 _While it's rolling_
+<br>
 _Hold on_
 
 Tehlu burning some mad beats on the Tabor.
 
 _Ring the bell, The king is dead, like a tree he fell_
+<br>
 _Break it down!_
+<br>
 _Stop Hammer time!_
 
 Felurian making love to the Sousaphone.
 
 _You can't touch this_
+<br>
 _You can't touch this_
+<br>
 _You can't touch this_
 
 My girl Auri tending those pipes.
 
 _with others making music_
-_They just don't hit?
+<br>
+_They just don't hit?_
+<br>
 _I toured around the world_
+<br>
 _From earth to The sky_
+<br>
 _I just won't quit_
 
 Take it home on the lute Kote!! ok, maybe not... Bastas back him up!
 
 _Boot to stirrup!_
+<br>
 _Hand to mane!_
+<br>
 _Kote will ride without shadows hame!_
 
 _It's "Hammer! Go, Hammer! X Hammer! Yo, Hammer!"_
+<br>
 _And the rest can go and play_
 

@@ -28,7 +28,7 @@
  :blocks-per-preview           2
  :clean-urls                   :no-trailing-slash
  :collapse-subdirs?            false
- :hide-future-posts?           true
+ #_#_:hide-future-posts?       true
  :klipse                       {:settings {:selector         ".klipse-cljs"
                                            :selector-reagent ".klipse-reagent"}}
  :description-include-elements #{:p :h1 :h2 :h3 :h4 :h5 :h6}

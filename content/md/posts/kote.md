@@ -1,4 +1,4 @@
-{:title "looking at Kote"
+{:title "If the Kote fits"
  :layout :post
  :klipse {:settings {:codemirror-options-out {:line-numbers false}}}
  :date "2021-3-11"
@@ -159,7 +159,7 @@ I'll claim two of these words are easy to identify. "Tuan" ~ "your/you/dont you"
 which longer and so likely fits to spoon. This leaves us with "oketh" and "ama" one of which needs to function as "in eye/in one eye". This ends
 up being quite a challenge. _ama_ would be a good candidate for eye give three letters. It seems to share a root with some faen words we learn, amouen:
 
-> > She looked down at me, her expression proud and regal as a queen.
+>  She looked down at me, her expression proud and regal as a queen.
 > "**amouen**," she said, spreading the fingers of one hand and making a
 > deliberate gesture. "this we call the hushed hart. an easy lesson to begin,
 > and one I expect you will enjoy."
@@ -181,12 +181,17 @@ Or maybe the is closeness to _keth_ hints he was the villain of coal~ash all alo
 But like our Inn Keeper, we have saved our fire for the darkest hour, when it will burn the brightest. And our sleeping mind will do more a moment than a decade of spilled black ink could not...
 
 _Listen, look and see_
+<br>
 _What a puppet says to thee_
+<br>
 _Do you know what you have been, what you are not, and what you will be?_
 
 _Bast sees a Kote and thinks disaster,_
+<br>
 _but he underestimates his master._
+<br>
 _The young act with reckless defiance._
+<br>
 _A Specere seeks the haert of silence._
 
 _Specere/"see" -> spectar/"to look" -> exspectar/"look out for" -> expect/"defer action"_
@@ -222,4 +227,4 @@ But regardless, Seer. Kote didn't _v_e_h_ / submit, he rolled the dice. And all 
 
 ## Epilogue
 
-Next, lets take a break, rest our feet at the local [Inn](TODO)
+Next, lets take a break, rest our feet at the local [Inn](/posts-output/mission)
