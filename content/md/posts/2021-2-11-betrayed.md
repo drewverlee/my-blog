@@ -5,7 +5,7 @@
  :tags  ["KingKiller" "Fantasy"]}
  
 
-  <img src="/img/abstract-red-tree.png" height="300px" width="300px">
+<img src="/img/abstract-red-tree.png" height="300px" width="300px">
 
 
  
