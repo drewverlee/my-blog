@@ -20,14 +20,14 @@ This is an index for the entire series, skip to Prelude
   - [Old holly review](/pages-output/holly)
   - [Grave tree?](/pages-output/grave-tree)
 * Warrens
-   - **[Warrens](/pages-output/warrens)**
-   - [Blood Beneath](/pages-output/blood-beneath)
-   - [A secret of the heart](/pages-output/a-secret-of-the-heart)
-   - [Shadows on the Wal](/pages-output/shadows-on-the-wal)
-   - [The Price of a Shadow](/pages-output/the-price-of-a-shadow)
-   - [A Crown of Broken Glass](/pages-output/a-crown-of-broken-glass)
-   - [If the Kote fits](/pages-output/fitting-a-kote) 
-   - [The Waystone Brothers](/pages-output/the-waystone-brothers)
+   0. **[Warrens](/pages-output/warrens)**
+   1. [Blood Beneath](/pages-output/blood-beneath)
+   2. [A secret of the heart](/pages-output/a-secret-of-the-heart)
+   3. [Shadows on the Wal](/pages-output/shadows-on-the-wal)
+   4. [The Price of a Shadow](/pages-output/the-price-of-a-shadow)
+   5. [A Crown of Broken Glass](/pages-output/a-crown-of-broken-glass)
+   6. [If the Kote fits](/pages-output/fitting-a-kote) 
+   7. [The Waystone Brothers](/pages-output/the-waystone-brothers)
  
 # Prelude: A hand raised 
 

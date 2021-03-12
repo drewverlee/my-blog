@@ -261,7 +261,7 @@ But regardless, Seer. Kote didn't _v_e_h_ / submit, he rolled the dice. And all 
 
 ## Epilogue
 
-Next, lets take a break, rest our feet at the local [Inn](/pages-output/the-waystone-brothers)
+Next, lets take a break. You should clean up before hand, though you might find **[soap](https://www.reddit.com/r/KingkillerChronicle/comments/48jv6c/kkc_spoilers_all_the_allegory_of_auris_magnum/)** harder to come by then you thought. But after your done, we can rest our feet at the local [Inn](/pages-output/the-waystone-brothers).
 
 ## art
 
