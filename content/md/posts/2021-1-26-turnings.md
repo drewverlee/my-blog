@@ -837,11 +837,11 @@ At its feet a glittering gemstone graveyard:
 
 Kvothe sees a blue topped tree, Auri see's a blue chair, but the voice from the _crown_ tells us it is neither:
 
-> I am no tree. No more than is a man a chair.
+> I am no tree. No more than is a man a **chair**.
 
 Not a chair, but a thrown.
 
-> Fulcrum settled like a king upon the velvet chair
+> Fulcrum settled like a king upon the velvet **chair**
 
 _See a tree tall as mountain grown, its trunk sunlit warmth known_
 
