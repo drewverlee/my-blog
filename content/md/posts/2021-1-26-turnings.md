@@ -53,7 +53,7 @@ slow going, but worth doing.
 > herself. She kicked and swept her hand about, skimming smoothly out along the
 > black stone bottom of the pool. Then she saw a glint of light and her fingers
 > bumped something solid and cold, all hard lines and smooth. It was full of love
-> and answers, so full she felt them spilling out at just her briefest touch. For
+> and **answers**, so full she felt them spilling out at just her briefest touch. For
 > the space of ten hard heartbeats Auri thought it must be fastened to the stone.
 > Then it slid and she realized the truth. It was a weighty thing.
 > After a long,
@@ -331,7 +331,7 @@ encounter some scattered leaves, a bit of a mystery, really. She discovers where
 they came from and leaves her silver etched plate there. She checks on the
 vanity in Tumbrel again and then finally takes a well-deserved rest in Annulet.
 
-> She paused to rest in Annulet, her new and **perfect circle** of a sitting room.
+> She paused to rest in **Annulet**, her new and **perfect circle** of a sitting room.
 > Fulcrum settled like a king upon the **velvet chair** while Auri lounged upon the
 > fainting couch and let her arms recover from the oh sweet ache of holding him.
 > But she was too busy for long lounging. --130
@@ -568,7 +568,7 @@ To quickly reccap, Felurian leads Kvothe from twilight into night and back. Alon
 >
 > Felurian described those two points of the Fae compass as Day and Night. The other two points she
 > referred to at different times as Dark and Light, **Summer and Winter**, or Forward and Backward. Once
-> she even referred to them as Grimward and Grinning, but something about the way she said it made
+> she even referred to them as **Grimward and Grinning**, but something about the way she said it made
 > me suspect it was a joke.
 
 So you move _towards_ time. E.g you can walk towards dayward, as we see Kvothe do. 
@@ -690,8 +690,8 @@ and the carefully chosen words of master namers...
 _We are stretched too thin, and breaking._ Skarpi's words start to give us wings we
 need to fly. He speaks of the a lost place from long ago. 
 
-> Once, years and miles away, there was Myr Tariniel. The shining city. It sat
-> among the tall mountains of the world like a **gem on the crown of a king**. Imagine
+> Once, years and miles away, there was **Myr Tariniel**. The shining city. It sat
+> among the **tall mountains** of the world like a **gem on the crown of a king**. Imagine
 > a city as large as Tarbean, but on every corner of every street there was a
 > bright **fountain**, or a green tree growing, or a **statue so beautiful it would make
 > a proud man cry to look at it**. The buildings were tall and graceful, carved from
@@ -788,15 +788,15 @@ something we must leave for another day. For now it's enough to say, its from la
 
 I worry their smoke the wings upon which this tragedy rides. Or could the light
 be past lemon, leather and descending river stone, behind the puppet strings, a
-curtain into candlelight? Last, I dare suggest, it might simply come warm velvet
+curtain unto candlelight? Last, I dare suggest, it might simply come warm velvet
 night. The stars, burning diamonds in a cloudless sky. Though that would imply,
 all the world caught within it's eye.
 
-Lets leave that door closed for now and our join our lady of the quiet.
+Lets leave that door closed for now and our join our Lady of the quiet.
 Her blue-white eyes joined to darker self. See how she grips on burning iron with thumb and forefinger,
 and feels the bite of tiny teeth. But our young hero is not there to see, how a shaed truley came to be.
 
-for he was sent away... 
+For he was sent away... 
 
 <img src="/img/sunsetpurple.jpeg" height="400px" width="400px">
 
@@ -968,5 +968,3 @@ To my friends u/RhintaMorie and u/Playtheboard, for listening to my madness.
 <img src="/img/crow-pic.jpg" height="300px" width="300px">
 
 <img src="/img/parts-of-tree.jpg" height="500px" width="400px">
-
-
