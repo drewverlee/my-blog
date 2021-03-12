@@ -22,9 +22,13 @@ The shorter figure nudges Bast and he rolls his eyes. "Felurian... we're looking
 
 "Why?" The question is a relex, like a gentle tap on the patellar tendon. Her hands are just circling the same glass with a rag, over and over. Over... and Over.
 
-Bast grins. "Were on a mission from Aleph. We're getting the Troupe back together."
+Bast grins. "Were on a mission from Aleph. We're getting the Troupe back together." He says the last with such a weight of certainty and charm that it seems to snap her out of herself. Her hips tilt and sway in a motion older then the sea and she leans towards the handsome young man, exposing a delightful expanse of freckled rounded skin. Her eyes gleam, sensing the opportunity for coin and maybe a bit more.
 
-"A name might help.." As the words leave her lips she knows from her skin to her bones she could not have asked a worse question. Like a deer in an open field who hears the thunder and waits for the lighting.
+"I'll see what I can do, a name might help..." As the words leave her lips, she leans back a bit too much. Just enough to take in
+both customers. Her brow furrows, as her mind races too late to remember that she already _knew_ the dark haired faens name.
+As the thought strike home, she suddenly knows from her skin to down to her bones she could not have asked a worse question. She
+stands motionless, like deer in an open field who hears the thunder and now waits for the lighting. She looks at everything in the room
+except the hooded figure.
 
 The hood tilts upward as if the Inn ceiling is of no consequence and he is looking directly at the stars. Daring them to look back. "me?" The music is still playing in the background, conversations keep their beat. But there is a sudden silence that seems to cut through the room like a glass dagger. "You may have heard of me".
 

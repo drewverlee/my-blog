@@ -157,7 +157,7 @@ _Listen, strange women diving into ponds distributing bones and crystals is no b
 
 _You can't expect to wield supreme magical power just 'cause some watery tart gave you a key, kiss and candle._
 
-_I mean, if I went around saying there were nine chandrian, simply because a moistened modor put a gian-t_emberant_ [**iridium**](https://www.etymonline.com/word/iridium#etymonline_v_12225) gear on a _chair_, they'd put me away!_
+_I mean, if I went around saying there were nine chandrian, simply because a moistened modor put a gian-t_em~~b~~erant_ [iridium](https://www.etymonline.com/word/iridium#etymonline_v_12225) _gear on a chair, they'd put me away!_
 
 <img src="/img/auri-pool-fulcrum.jpg" height="250px" width="400px">
 
