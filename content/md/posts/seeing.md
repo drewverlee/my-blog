@@ -6,8 +6,7 @@
  :tags  ["KingKiller" "Fantasy"]}
  
  
- <img src="/img/spring-picture" height="400px" width="400px">
- 
+ <img src="/img/spring-picture.png" height="400px" width="400px">
  
 This is a piece on how to read the KKC and so I'll share this advice, although
 things may seem poetic, the words Kote speaks are prophetic. In among the musing
@@ -47,3 +46,9 @@ _It's up to you to see it's pain._
 _What's their shame? What hope they gain?_
 
 _Chandrian. Chandrian_
+
+
+## Art
+
+* [Spring picture](https://fineartamerica.com/featured/spring-meadow-abstract-menega-sabidussi.html) 
+

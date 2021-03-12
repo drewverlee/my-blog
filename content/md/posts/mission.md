@@ -32,9 +32,7 @@ The hood tilts upward as if the Inn ceiling is of no consequence and he is looki
 <img src="/img/blodless-music.webp">
 
 
-
-
-## Magical Music
+## You can't open this.
 
 Hows it going Imreeeee ?
 I can't hear you! I see we got a lot of fine looking lords and lovely ladies and the Eolian tonight.  Get your hands in the air. That's right, Kote got the Troupe back together and were on a mission from Aleph to _rock this house!_
