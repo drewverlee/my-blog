@@ -6,19 +6,23 @@
  
 # Entire Series Index
 
-This is an index for the entire series, skip to Prelude
+This is an index for the entire series, skip to Prelude.
 
-* advice
+
+* Advice
   - [The boy who ran](/pages-output/the-boy-who-ran)
   - [The hope a spring sun brings](/pages-output/the-hope-a-spring-sun-brings)
-* suggested reading
+* Suggested Reading
   - [Fae magic](/pages-output/bitter-brew)
   - [Alchemy](/pages-output/alchemy)
   - [How to get to Newarre](/pages-output/how-to-get-to-newarre)
   - [Ways to safe places](/pages-output/ways-to-safe-places)
-* rougher pieces
+* Rougher Pieces
   - [Old holly review](/pages-output/holly)
   - [Grave tree?](/pages-output/grave-tree)
+* Sleeping Mind Art
+  - [In the beginning](/pages-output/creation-war)
+  - [Visions](/pages-output/visions)
 * Warrens
    0. **[Warrens](/pages-output/warrens)**
    1. [Blood Beneath](/pages-output/blood-beneath)
