@@ -23,9 +23,12 @@ This is an index for the entire series, skip to Prelude.
 * Sleeping Mind Art
   - [In the beginning](/pages-output/creation-war)
   - [Visions](/pages-output/visions)
+* Translations
+  - [Kote](/pages-output/fitting-a-kote)
+  - [Reshi](/pages-output/reshi)
 * Warrens
    0. **[Warrens](/pages-output/warrens)**
-   1. [Blood Beneath](/pages-output/blood-beneath)
+   1. [Blood Beneath](/pages-output/blood-beneath)e
    2. [A secret of the heart](/pages-output/a-secret-of-the-heart)
    3. [Shadows on the Wal](/pages-output/shadows-on-the-wal)
    4. [The Price of a Shadow](/pages-output/the-price-of-a-shadow)
@@ -35,28 +38,13 @@ This is an index for the entire series, skip to Prelude.
  
 # Prelude: A hand raised 
 
-In short, this theory will cover Auri's candle making. In long...
+In short, this theory will cover Auri's candle-making. In long...
 
-The Kingkiller Chronicle's journey is powerful; it moves the heart. It's best if
-you experience it yourself, rather than me rob you of the joy. Journey before
-destination, and all that. In that vein allow me to tell a brief story of a [boy
-who ran](/pages-output/the-boy-who-ran) too fast. It is only an echo of
-the stories told in Temerant, but hopefully it will dull the ache of waiting for
-more stories from Rothfuss while appropriately setting the tone of the greater
-story I hope to unfold here. I have also put together a short poem about how to read the
-King Killer Chronicle as well as part of a stone that sits in my heart. I cast
-it into the water, I hope the river will take it where it needs to go. I call it
-the [The hope a spring sun brings](/pages-output/the-hope-a-spring-sun-brings).
+The Kingkiller Chronicle's journey is powerful; it moves the heart. It's best if you experience it yourself, rather than me rob you of the joy. Journey before destination, and all that. In that vein, allow me to tell a brief story of a [boy who ran](/pages-output/the-boy-who-ran) too fast. It is only an echo of the stories told in Temerant, but hopefully, it will dull the ache of waiting for more stories from Rothfuss while appropriately setting the tone of the greater story I hope to unfold here. I have also put together a short poem about how to read the King Killer Chronicle and part of a stone that sits in my heart. I cast it into the water, I hope the river will take it where it needs to go. I call it the [The hope a spring sun brings](/pages-output/the-hope-a-spring-sun-brings).
 
-In sort, I suggest you read around a *lot* before tackling this. That means all the
-books a couple times, see the last section "Citations" for a list. It also means
-spending some time on the forums. I'm not suggesting I have the right of things.
-Or all of it. Instead, I'm saying it's a lot more fun to arrive at your own
-conclusions before hearing others. So capital S Spoilers and possible BS ahead,
-you decided which.
+So, I suggest you read around a *lot* before tackling this. That means all the books a couple of times. See the last section, "Citations," for a list. It also means spending some time on the forums. I'm not suggesting I have the right of things. Or all of it. Instead, I'm saying it's a lot more fun to arrive at your own conclusions before hearing others. So capital S Spoilers and possible BS ahead, you decided which.
 
-Enough of warnings, we look forward now, shadows on the horizon, drums in the
-deep.
+Enough of warnings, we look forward now, shadows on the horizon, drums in the deep.
 
 
 # Warrens Widdershins Ways and Woes
@@ -84,43 +72,18 @@ _How mother Rabbit stole time_
 
 ## Intro
 
-The main theory is that Auri is Shaping Kvothes life from those of Lanre and
-Selitos. To go further, I must be sure you understand as much about the Fae,
-their magic, Waystones and Alchemy as possible. I'll give an overview of the
-requirements in the next section "A careful look" then pick up the main theory
-thread in the section titled "A Humerus Chandelier".
+The main theory is that Auri is Shaping Kvothes life from those of Lanre and Selitos. To go further, I must be sure you understand as much about the Fae, their magic, Waystones, and Alchemy as possible. I'll give an overview of the requirements in the next section called "A careful look". Then will pick up the main theory thread in the section titled "A Humerus Chandelier".
 
 ## A careful look
 
-To understand the conclusion, that Auri is Shaping kvothe. You need to
-understand the craft she uses to do it. Discussing the means, broadly speaking
-_Fae magic_ and Alchemy. Are topics in there own right and so it's better to
-break them out.
-
-If your not sure how Fae do what they do, then here is a piece on [Fae
-magic](/pages-output/bitter-brew), where we learn from Bast and
-observe him working his craft in the book "The Lighting Tree". 
-
-Similarly, you will need to have some understanding of [Alchemy](/pages-output/alchemy) in order
-Auri's candle making.
-
-Most importantly, if you find your self in doubt that Auri is visiting *Newarre and the Mauthen farm* the read 
-[How to get to Newarre](/pages-output/how-to-get-to-newarre)
-where I isolate the topic. I won't be covering that here, as it's too distracting
-
-If you doubt that Auri could get there quickly, then
-read [Ways to safe places](/pages-output/ways-to-safe-places). Each
-post will try to have summery or conclusion at the top. If you agree with it,
-confidently move on.
+To understand the conclusion, that Auri is Shaping kvothe. You need to understand the craft she uses to do it. Discussing the means, broadly speaking _Fae magic_ and Alchemy. Are topics in there own right and so it's better to break them out. If your not sure how Fae do what they do, then here is a piece on [Fae magic](/pages-output/bitter-brew), where we learn from Bast and observe him working his craft in the book "The Lighting Tree". Similarly, you will need to have some understanding of [Alchemy](/pages-output/alchemy) in order to follow Auri's candle making. Most importantly, if you find your self in doubt that Auri is visiting *Newarre and the Mauthen farm* the read  [How to get to Newarre](/pages-output/how-to-get-to-newarre) where I isolate the topic. I won't be covering that here, as it's too distracting. If you doubt that Auri could get there quickly, then read [Ways to safe places](/pages-output/ways-to-safe-places). Each post will try to have a summery or conclusion at the top. If you agree with it, confidently move on.
 
 
 ## A Humerus Chandelier
 
 <img src="/img/auri_honeycomb_c.jpg" height="500px" width="350px" >
 
-Our theory is that Auri is shaping Kvothe From Lanre and Selitos, who are represented  by two items
-she finds in the Underthing. To clarify, ill be keeping track of the items (what) and who in a table. The starting point,
-which will explain shortly, is here:
+Our theory is that Auri is shaping Kvothe From Lanre and Selitos, who are represented  by two items she finds in the Underthing. To clarify, ill be keeping track of the items (what) and who in a table. The starting point, which will explain shortly, is here:
 
  <table style="width:50%">
   <tr>
@@ -141,13 +104,9 @@ which will explain shortly, is here:
 
 We first need to establish how these items are like these figures. This is done multiple ways, mostly by association.
 
-E.g If I said, my new boss sure is a bear. And later I said, he is really
-grizzly today. We would count this as two connections from my boss to a bear.
+E.g If I said, my new boss sure is a bear. And later I said, he is really grizzly today. We would count this as two connections from my boss to a bear.
 
-The starting point for this theory happens in the repeated use of a single body part where typically it's counter would be
-involved forms a pattern. There are two instances of this very close together
-in the narrative. The more unusual of the two repeats itself when Lanre is described 
-as having "strength of **arm**" rather then "strength of arms" NOWT:26:184:
+The starting point for this theory happens in the repeated use of a single body part where typically it's counter would be involved forms a pattern. There are two instances of this very close together in the narrative. The more unusual of the two repeats itself when Lanre is described  as having "strength of **arm**" rather then "strength of arms" NOWT:26:184:
    
 > ..Lanre had the strength of his arm and the command of loyal men...
 
@@ -155,8 +114,7 @@ NOWT:26:187:
 
 > ..his (Lanre) power lay in the strength of his arm. 
 
-The second instance is also unusual, but also directly part of the plotline. And so receives
-an understandable amount of attention.
+The second instance is also unusual, but also directly part of the plotline. And so receives an understandable amount of attention.
 
 NOWT:26:190:
 
@@ -167,8 +125,7 @@ NOTW:28:197:
 
 > Selitos One-Eye stood forward and said, “Lord, if I do thi....
 
-From here we are going to follow these items separately for a bit tell they come back together,
-in different forms at the end.
+From here we are going to follow these items separately for a bit tell they come back together, in different forms at the end.
 
 ## Breaking Bones
 
@@ -182,9 +139,7 @@ In Slow Regard of Silent Things (SROST), Auri finds a bone. SROST:1:24:
 > had broken and long-healed. It was full of pleasant shadows.
 
 
-Here comes the analogies and metaphors we talked about before, were not going to
-discuss why this is important now, rather just note the alike this bone the
-"Prima Axial is" to Lanre:
+Here comes the analogies and metaphors we talked about before, were not going to discuss why this is important now, rather just note the alike this bone the "Prima Axial is" to Lanre:
 
 1. The word axial is similar to Alaxel, who the Adem's song tells us is the lord of the Seven. 
 2. prima  means "leading man" which Lanre certainly is.
@@ -245,15 +200,11 @@ Auri finds a Crystal in the Underthing. SROST:1:27:
 > close, she saw a crystal had fallen from the chandelier to lay unbroken on the
 > floor. It was a lucky thing, and brave.
 
-The Crystal is like the mountain glass Seltios used to stab his eye. The
-relationship here is thin here, only that Crystal is similar to glass. But it's
-immediately strengthened as the Crystal is put near a Ciridae doll. Given Selitos was the
-founder of the Amyr, of whom the Ciridae were the highest rank, this gives us two connections to the lord of Myr Tariniel.
+The Crystal is like the mountain glass Seltios used to stab his eye. The relationship here is thin here, only that Crystal is similar to glass. But it's immediately strengthened as the Crystal is put near a Ciridae doll. Given Selitos was the founder of the Amyr, of whom the Ciridae were the highest rank, this gives us two connections to the lord of Myr Tariniel.
 
 <img src="/img/Pairs_Commonwealth_Amyr.webp" height="400px" width="320px" >
 
-Let's take a look at the relevant parts in SROST about the doll, just to show that
-indeed, she calls it a Ciridae and groups it with the Crystal. SROST:1:28
+Let's take a look at the relevant parts in SROST about the doll, just to show that indeed, she calls it a Ciridae and groups it with the Crystal. SROST:1:28
 
 > It was a tiny figurine carved from a piece of pale, retiring stone. A small
 > soldier with clever lines to show his hauberk and his shield. But his truest
@@ -278,26 +229,19 @@ The white tatted lace is likely symbolizes Nettie Williams, Rike's mom.
 
 <img src="/img/bastandgirl.jpg" height="350px" width="210px" align="right">
 
-Finally, Auri trades the Crystal for the William's butter & honeycomb. She
-leaves the Crystal under the Lighting Tree near the Williams house. For reasons only Auri 
-can truly understand. Though later, will do our best to put it all together.
+Finally, Auri trades the Crystal for the William's butter & honeycomb. She leaves the Crystal under the Lighting Tree near the Williams house. For reasons only Auri can truly understand. Though later, will do our best to put it all together.
 
-This Tree isn't the Cthaeh, so near a farm with milk, honey and curious eyes. This
-could possible be the Sword Tree, but while the butter has knifes, their are no
-mountains, mercenaries or swords to see.
-
-So then, The Lighting Tree. 
+This Tree isn't the Cthaeh, so near a farm with milk, honey and curious eyes. This could possible be the Sword Tree, but while the butter has knives, there are no mountains, mercenaries, or swords to see. So then, The Lighting Tree. 
 
 <img src="/img/lightingtree.jpeg" height="500px" width="300px">
 
 ---------------------------
 
-I gave an overview, but let me highlight the relevant sections in SROST where
-Auri makes this trade. This happens in three parts:
+I gave an overview, but let me highlight the relevant sections in SROST where Auri makes this trade. This happens in three parts:
 
 1. Auri trades for the Nettie's butter & honeycomb for her White Tatted Lace. 
 2. She is spotted by Tess, this increases the cost of the trade.
-3. She leaves the cyrstal in the tree to pay the extra debt
+3. She leaves the crystal in the tree to pay the extra debt
 
 ---------
 
@@ -333,9 +277,7 @@ She only takes a bit of butter and the honeycomb.
 > be denied. She wrapped the crystal in a leaf and lay it in the bottom of the
 > hole. 
 
-Does Auri mean for the girl go after this Crystal and fall down the rabbit hole.
-Going on mad fun adventures with queens and Cheshire cats? Or is this a bobble,
-a bait, a way to float her down into the maw of darkness.
+Does Auri mean for the girl go after this Crystal and fall down the rabbit hole. Going on mad fun adventures with queens and Cheshire cats? Or is this a bobble, a bait, a way to float her down into the maw of darkness.
 
 <img src="/img/alice.jpeg" height="500px" width="300px">
 
@@ -346,8 +288,7 @@ Finally, what **purpose** does our white tatted lace find? TLT:
 > Bast thought for a moment. “Nettie Williams found a wild hive of bees today,” he
 > said. “And she managed to catch the queen …”
 
-I'll leave you to ponder the implications for now. This is the end of the
-journey for the cyrstal, the begging of the honeycombs.
+I'll leave you to ponder the implications for now. This is the end of the journey for the crystal, the begging of the honeycombs.
 
 ## Interlude: tables
 
@@ -387,7 +328,7 @@ journey for the cyrstal, the begging of the honeycombs.
 * perfect lavender 
 * melting wax 
 * daub of perfect pitch 
-* auri breath in whistle 
+* Auri's breath in whistle 
 
 Sought, brought and paid for. She brings what craft she possess to bare to
 finish it just in time for him to arrive.
@@ -396,14 +337,9 @@ finish it just in time for him to arrive.
 
 <img src="/img/book-of-secrets.webp" height="250px" width="250px">
 
-So Auri took some items that I claim are like Selitos and Lanre and traded them
-for some other items and then turned those into a candle which she gives kvothe.
-What of it? _what does it all mean!_
+So Auri took some items that I claim are like Selitos and Lanre and traded them for some other items and then turned those into a candle which she gives kvothe. What of it? _what does it all mean!_
 
-Were barefoot and covered in darkness. A light breaks though the night clouds
-and the road before us sparkles. It shimmers and shines, we draw sharp steal, we
-prepare powerful magics. But nothing comes for us, there is only the path. Our
-eyes adjust, the road is broken glass.
+Were barefoot and covered in darkness. A light breaks through the night clouds and the road before us sparkles. It shimmers and shines, we draw sharp steal, we prepare powerful magics. But nothing comes for us, there is only the path. Our eyes adjust, the road is broken glass.
 
 What comes next is no fairy tale. It's flesh and the [Blood Beneath](/pages-output/blood-beneath).
 
@@ -421,21 +357,20 @@ As far as I can tell kvothe puts the candle in his box in Ankers. TWMF:50:358
 
 ## Giving back
 
-If you enjoyed this consider supporting Heifer International, either [directly](https://www.heifer.org/) through [worldbuilers](https://worldbuilders.org/).
+If you enjoyed this, consider supporting Heifer International, either [directly](https://www.heifer.org/) through [worldbuilers](https://worldbuilders.org/).
 
-A cause which Rothfuss, the orchestrator of all good and bad times had on Temerant, believes in.
-And you should also buy all the Cool Worldbuilders KingKiller stuff, which really helps, um, build the world?
+A cause which Rothfuss, the orchestrator of all good and bad times had on Temerant, believes in. And you should also buy all the Cool Worldbuilders KingKiller stuff, which really helps, um, build the world?
 
 ## Credits
 
 Though the idea and what follows is mine, I had plenty of help and encouragement through the process:
 
-* u/mattytangle, for deep knowing. If your a fan well deep well written theory crafting his [blog](mattytangle.co.uk/) is the place for you, you can start with this post which talks about [candles](http://mattytangle.co.uk/tomes/under-lying-principals/the-chandlery/)
+* u/mattytangle, for deep knowing. If your a fan well deep well-written theory crafting his [blog](mattytangle.co.uk/) is the place for you, you can start with this post which talks about [candles](http://mattytangle.co.uk/tomes/under-lying-principals/the-chandlery/)
 
 * u/rhinatamorie, for kind words
 * u/throwawaybreaks, for listening
 * Yamus (on KKC discord), for careful criticism
-* u/quoo, for robing and saving me from writing about [Auri's soap](https://www.reddit.com/r/KingkillerChronicle/comments/a5h24v/is_kvothe_fulcrum_from_tsrost/)
+* u/quoo, for robing and saving me from writing about [Auri's soap](https://www.reddit.com/r/KingkillerChronicle/comments/48jv6c/kkc_spoilers_all_the_allegory_of_auris_magnum/)
 * u/aowshadow for a detailed review of this post
 * u/biologin for the Rothuss alchemy quotes, and likely other bits i picked up
 * u/mastersam for insights
@@ -445,8 +380,7 @@ They have some great KKC theories out there you should check out.
 
 Additionally, Thanks to the all of r/KingkillerChronicle and r/kkcwhiteboard.
 
-Finally, thank you to Rothfuss himself, for listening to Vi, for showing but not telling us about the
-hidden turnings of the world.
+Finally, thank you to Rothfuss himself, for listening to Vi, for showing but not telling us about the hidden turnings of the world.
 
 SROST Authors forward
 
@@ -456,8 +390,7 @@ SROST Authors forward
 
 ## Rights & Art
 
-* All (most) of the pictures are likely property of Worldbuilders ,I have enjoyed my
-purchases from them greatly and hope using them this isn't stepping on any toes.
+* All (most) of the pictures are likely property of Worldbuilders ,I have enjoyed my purchases from them greatly and hope using them this isn't stepping on any toes.
 
 ## Citations
 

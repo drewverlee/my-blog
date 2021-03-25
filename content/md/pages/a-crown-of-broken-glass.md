@@ -583,6 +583,9 @@ To quickly reccap, Felurian leads Kvothe from twilight into night and back. Alon
 > she even referred to them as **Grimward and Grinning**, but something about the way she said it made
 > me suspect it was a joke.
 
+<!-- TODO we could include this But by the time it was done her grimace had turned to grin. -->
+
+
 So you move _towards_ time. E.g you can walk towards dayward, as we see Kvothe do. 
 Does that mean the less you move the less time passes? Trees must be very old indeed then.
 If I had to summarize, I would say that in the real world time and space are linked and expanding.
@@ -867,7 +870,7 @@ _here thrice and attend to me_
 
 _not a tree, but a great king_
 
-<img src="/img/tree-of-gondor-bc-why-not.webp" height="550px" width="330px">
+<img src="/img/my-tree-art.png" height="550px" width="330px">
 
 
 _the joy his tales bring a delight for simple townsfolk_
@@ -890,7 +893,8 @@ _and beyond diamond curtains veil, the price was paid_
 <img src="/img/cattree.png" height="500px" width="900px">
 
 
-## Epilogue
+
+# Epilogue
 
 What? A great question. I know so many whats... What's the reason she calls it
 Tumbrel? What is Kilvin really fishing for? What do you call an upside broken
@@ -966,7 +970,6 @@ With that in mind, will attempt to avoid disaster and fit a [Kote](/pages-output
 * [under water picture](https://www.artfinder.com/product/emerging-sun-setting-underwater-ocean-reflections-painting/#/)
 * [raven](https://www.pinterest.com/pin/407505466274076415/)
 * all other art is Worldbuilers
-* tree of gondor
 
 ## credit
 
