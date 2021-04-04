@@ -76,7 +76,7 @@ The main theory is that Auri is Shaping Kvothes life from those of Lanre and Sel
 
 ## A careful look
 
-To understand the conclusion, that Auri is Shaping kvothe. You need to understand the craft she uses to do it. Discussing the means, broadly speaking _Fae magic_ and Alchemy. Are topics in there own right and so it's better to break them out. If your not sure how Fae do what they do, then here is a piece on [Fae magic](/pages-output/bitter-brew), where we learn from Bast and observe him working his craft in the book "The Lighting Tree". Similarly, you will need to have some understanding of [Alchemy](/pages-output/alchemy) in order to follow Auri's candle making. Most importantly, if you find your self in doubt that Auri is visiting *Newarre and the Mauthen farm* the read  [How to get to Newarre](/pages-output/how-to-get-to-newarre) where I isolate the topic. I won't be covering that here, as it's too distracting. If you doubt that Auri could get there quickly, then read [Ways to safe places](/pages-output/ways-to-safe-places). Each post will try to have a summery or conclusion at the top. If you agree with it, confidently move on.
+To understand the conclusion, that Auri is Shaping Kvothe. You need to understand the craft she uses to do it. Discussing the means, broadly speaking _Fae magic_ and Alchemy. Are topics in their own right, and so it's better to break them out. If your not sure how Fae do what they do, then here is a piece on [Fae magic](/pages-output/bitter-brew), where we learn from Bast and observe him working his craft in the book "The Lighting Tree". Similarly, you will need to understand [Alchemy](/pages-output/alchemy) to follow Auri's candle making. Most importantly, if you find your-self in doubt that Auri is visiting *Newarre and the Mauthen farm* the read  [How to get to Newarre](/pages-output/how-to-get-to-newarre) where I isolate the topic. I won't be covering that here, as it's too distracting. If you doubt that Auri could get there quickly, then read [Ways to safe places](/pages-output/ways-to-safe-places). Each post will try to have a summary or conclusion at the top. If you agree with it, confidently move on.
 
 
 ## A Humerus Chandelier
@@ -102,7 +102,7 @@ Our theory is that Auri is shaping Kvothe From Lanre and Selitos, who are repres
 
 ...
 
-We first need to establish how these items are like these figures. This is done multiple ways, mostly by association.
+We first need to establish how these items are like these historical figures. This is done multiple ways, mostly by association.
 
 E.g If I said, my new boss sure is a bear. And later I said, he is really grizzly today. We would count this as two connections from my boss to a bear.
 
@@ -155,11 +155,7 @@ Roughly seven associations. After retrieving the bone, Auri puts it near some ho
 
 > The bone nestled almost indecently close to the holly berry. 
 
-Holly is a topic all on it's own that I ramble about
-[here](pages-outputs/holly). You might
-want to refer back to it later, for now lets move on. What Auri does next is
-put, I would argue _trades_, the bone for Laurel Fruit, by placing the Bone
-inside the Laurel Tree. SROST:4:70:
+Holly is a topic all on it's own that I ramble about [here](pages-outputs/holly). You might want to refer back to it later, for now lets move on. What Auri does next is put, I would argue _trades_, the bone for Laurel Fruit, by placing the Bone inside the Laurel Tree. SROST:4:70:
 
 <img src="/img/gravetree.jpg" height="300px" width="300px">
 
@@ -169,24 +165,13 @@ inside the Laurel Tree. SROST:4:70:
 
 > Then she began to pick the small blue laurel fruit and put them in her gathersack as well.
 
-I dive into if this could be the Latantha or the Cthaeh's tree
-[here](/pages-output/gravetree). In the
-end I chose the Mauthen Farm, because there is more evidence. A gentle reminder
-that I cover the locations in detail in my post [How to get to Newarre](/pages-output/how-get-get-to-newarre).
+I dive into if this could be the Latantha or the Cthaeh's tree [here](/pages-output/gravetree). In the end I chose the Mauthen Farm, because there is more evidence. A gentle reminder that I cover the locations in detail in my post [How to get to Newarre](/pages-output/how-get-get-to-newarre).
 
 <img src="/img/farmer.jpg" height="500px" width="350px">
 
-More importantly, what is our little Auri doing at barrow-hill? Is she just
-being cute whimsical harmless Auri? Dancing around seeing the proper ways of
-things? Is this connected to some magic we have seen or have yet to see? I don't
-recall an emphasis being put on any particular tree on the Farm, could the
-Laurel tree represent something else to Auri? The barrow itself? Could it stand
-for Kvothe's mother Laurel? What does it mean for the story? Will cover this at
-the end, in the section "The Book of Secrets".
+More importantly, what is our little Auri doing at barrow-hill? Is she just being cute whimsical harmless Auri? Dancing around seeing the proper ways of things? Is this connected to some magic we have seen or have yet to see? I don't recall an emphasis being put on any particular tree on the Farm, could the Laurel tree represent something else to Auri? The barrow itself? Could it stand for Kvothe's mother Laurel? What does it mean for the story? Will cover this at the end, in the section "The Book of Secrets".
 
-This is the end of the arm bone's journey, though it continues through the Laurel
-Fruit which will pick up later. Next we will focus on the other item she finds,
-a Crystal and the similarities its shares with Selitos.
+This is the end of the arm bone's journey, though it continues through the Laurel Fruit which will pick up later. Next we will focus on the other item she finds, a Crystal and the similarities its shares with Selitos.
 
 # Crystal's and Blood
 
@@ -330,8 +315,7 @@ I'll leave you to ponder the implications for now. This is the end of the journe
 * daub of perfect pitch 
 * Auri's breath in whistle 
 
-Sought, brought and paid for. She brings what craft she possess to bare to
-finish it just in time for him to arrive.
+Sought, brought and paid for. She brings what craft she possess to bare to finish it just in time for him to arrive.
 
 # Book of secrets
 

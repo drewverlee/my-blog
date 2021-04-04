@@ -1,4 +1,4 @@
-{:title "How to get to Newarre"
+{:title "Ways to Safe Places"
  :layout :page
  :toc true
  :page-index 6}
