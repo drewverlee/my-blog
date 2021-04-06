@@ -13,6 +13,8 @@
 5. [A Crown of Broken Glass](/pages-output/a-crown-of-broken-glass)
 6. [Fitting a Kote](/pages-output/fitting-a-kote) 
 7. [The Waystone Brothers](/pages-output/the-waystone-brothers)
+8. [Tending](/pages-output/tending)
+ 
  
 <img src="/img/abstract-red-tree.png" height="300px" width="300px">
 

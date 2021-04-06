@@ -17,7 +17,7 @@ book:chapter:page otherwise.
 ### Crafts
 
 
-There are three types of fae magic, or as they would call it, fae _craft_ or _art__. 
+There are three types of fae magic, or as they would call it, fae _craft_ or _art_. 
 
  <table style="width:100%" style="padding:0 100px;" >
   <tr>
@@ -396,7 +396,7 @@ we know bast can dance:
 
 > He looked like he were dancing.
 
-I say he sink danced Jessom off that cliff. That's why Bast comes back looking
+I say he skin danced Jessom off that cliff. That's why Bast comes back looking
 like he fell off the cliff because he did, as Jessom. Further more Jessom left
 right after he recovered. Why would he? Because Bast imprinted his own memories
 of wrecking Martins Sill and stealing his liquor in Jessom. He woke thinking he

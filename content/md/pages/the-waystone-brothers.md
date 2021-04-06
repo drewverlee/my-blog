@@ -13,9 +13,8 @@
 5. [A Crown of Broken Glass](/pages-output/a-crown-of-broken-glass)
 6. [If the Kote fits](/pages-output/fitting-a-kote) 
 7. **[The Waystone Brothers](/pages-output/the-waystone-brothers)**
+8. [Tending](/pages-output/tending)
 
-
- 
   
 ## Intro 
  
@@ -24,7 +23,7 @@ Mostly, this is just a bit of fun.
 
 ## Looking for sly cat...
 
-Two cloaked figures walk into a crowded Inn. One has his hood up. The others too clever eyes quickly take in the whole room. You would have to be seven kinds of drunk to not notice the clientele was different. The horns and tail on the waiter might be a hint. Or it could be the Minotaur smoking a long wooden pipe across from satyr. The newcomers don't warrant a glance as they casually weave their way to the bar where a young faen looks like her shifted ended 4 hours ago.
+Two cloaked figures walk into a crowded Inn. One has his hood up. The others too clever eyes quickly take in the whole room. You would have to be seven kinds of drunk to not notice the clientele was different. The horns and tail on the waiter might be a hint. Or it could be the Minotaur smoking a long wooden pipe, seated across from satyr who was intent on a Kaen board. The newcomers don't warrant a glance as they casually weave their way to the bar where a young faen looked like her shifted ended four hours ago.
 
 "What will it be then" her hands move from tap to mug and back with a motion so fluid it belonged on stage.
 
@@ -38,14 +37,10 @@ The shorter figure nudges Bast and he rolls his eyes. "Felurian... we're looking
 
 Bast grins. "Were on a mission from Aleph. We're getting the Troupe back together." He says the last with such a weight of certainty and charm that it seems to snap her out of herself. Her hips tilt and sway in a motion older then the sea and she leans towards the handsome young man, exposing a delightful expanse of freckled rounded skin. Her eyes gleam, sensing the opportunity for coin and maybe a bit more.
 
-"I'll see what I can do, a name might help..." As the words leave her lips, she leans back a bit too much. Just enough to take in
-both customers. Her brow furrows, as her mind races too late to remember that she already _knew_ the dark haired faens name.
-As the thought strike home, she suddenly knows from her skin to down to her bones she could not have asked a worse question. She
-stands motionless, like deer in an open field who hears the thunder and now waits for the lighting. She looks at everything in the room
-except the hooded figure.
+"I'll see what I can do, a name might help..." As the words leave her lips, she leans back a bit too much. Just enough to take in both customers. Her brow furrows, as her mind races too late to remember that she already _knew_ the dark haired faens name.
+As the thought strike home, she suddenly knows from her skin to down to her bones she could not have asked a worse question. She stands motionless, like deer in an open field who hears the thunder and now waits for the lighting. She looks at everything in the room except the hooded figure.
 
 The hood tilts upward as if the Inn ceiling is of no consequence and he is looking directly at the stars. Daring them to look back. "me?" The music is still playing in the background, conversations keep their beat. But there is a sudden silence that seems to cut through the room like a glass dagger. "You may have heard of me".
-
 
 <img src="/img/blodless-music.webp">
 
