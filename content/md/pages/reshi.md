@@ -48,7 +48,7 @@ _Flew too high,_
 <br>
 _The sun can't help but burn_
 
-_So listen close Son of Adam, Daughter of Eve,_
+_Listen close Son of Adam, Daughter of Eve,_
 <br>
 _The stones lie, the skies deceive,_
 <br>
