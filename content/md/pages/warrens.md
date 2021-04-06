@@ -28,7 +28,7 @@ This is an index for the entire series, skip to Prelude.
   - [Reshi](/pages-output/reshi)
 * Warrens
    0. **[Warrens](/pages-output/warrens)**
-   1. [Blood Beneath](/pages-output/blood-beneath)e
+   1. [Blood Beneath](/pages-output/blood-beneath)
    2. [A secret of the heart](/pages-output/a-secret-of-the-heart)
    3. [Shadows on the Wal](/pages-output/shadows-on-the-wal)
    4. [The Price of a Shadow](/pages-output/the-price-of-a-shadow)

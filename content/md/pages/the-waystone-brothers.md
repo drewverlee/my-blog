@@ -19,8 +19,7 @@
   
 ## Intro 
  
-This is part of [Warrens](/pages-output/warrens) and follows [Fitting a Kote](/pages-output/fitting-a-kote).
-Mostly, this is just a bit of fun.
+This is part of [Warrens](/pages-output/warrens) series and follows [Fitting a Kote](/pages-output/fitting-a-kote). Mostly, this post is just a bit of fun.
 
 ## Looking for sly cat...
 
@@ -85,15 +84,15 @@ _While it's rolling_
 <br>
 _Hold on_
 
-   **Tehlu burning some mad beats on the Tabor.**
+**Tehlu burning some mad beats on the Tabor.**
 
 _Ring the bell, The king is dead, like a tree he fell_
 <br>
 _Break it down!_
 <br>
-_Stop Hammer time!_
+_Stop Hammer time!**
 
-Felurian making love to the Sousaphone.
+**Felurian making love to the Sousaphone.**
 
 _You can't open this_
 <br>

@@ -1,4 +1,4 @@
-{:title "Bitter brew PAGE"
+{:title "Bitter Brew"
  :layout :page
  :toc true
  :page-index 3}
