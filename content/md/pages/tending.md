@@ -98,7 +98,7 @@ Yes, I feel quite strongly that Cinder was making a none to clever double entend
 
 The Adem mercenaries, graceful and deadly like Cinder, even find music more taboo than sex. Haliax could have been punishing the hint rather than the cruelty. Kvothe isn't their to see what happened with his Troupe. The Chandrian are certainly not Kvothe's Troupe being danced, baring extreme (un enjoyable) misdirection. So were left with a number of options, and your free to pick which ever you like at this stage. Given the lack of information, it's easier to suggest the Mauthens were danced and then contained or stopped by another force: Chandrian, Amyr, etc... Denna's Patron wanted a count and description of the entire party, which would be necessary for containment. 
 
-The Troupe being danced _is_ possible, but it relies on both the Chandrian, The Cthaeh and Kote going out of their way to make it hard to see. Starting with the Chandrian, if they had killed Kvothe's Danced Troupe then they all but incriminate themselves by their presence, manor and through their exchange. The same goes for the Cthaeh, whose exchange with Kvothe leaves a sliver of wiggle room to suggest any number of things, including this theory (16). 
+The Troupe being danced _is_ possible, but it relies on both the Chandrian, The Cthaeh and Kote going out of their way to make it hard to see. Starting with the Chandrian, if they had killed Kvothe's danced troupe then they all but incriminate themselves by their presence, manor and through their exchange. The same goes for the Cthaeh, whose exchange with Kvothe leaves a sliver of wiggle room to suggest any number of things, including this theory (16). 
 
 It would leave the Chandrian as anti-heroes, jaded and with the worse sense of Gallows humor. Or, as actors, who realize that the truth is more horrible then a lie and so take the blame and play their roles, least a young boy learn the truth, that his Troupe turned upon themselves pulled like marionette by some horrible nameless god. I find it no coincidence that the word _doll_ is used to describe both Kvothe's dead troupe and those at the Mauthen farm:
 
@@ -107,6 +107,14 @@ It would leave the Chandrian as anti-heroes, jaded and with the worse sense of G
 > “... all blue fire. Every one of them dead, thrown around like **rag dolls** and the house falling to pieces around them. I was glad to see the end of the place. I can tell you that.”
 
 > “Not much,” I admitted, thinking back to what the bargeman had said. “A bunch of people were killed at a wedding. Everyone dead, torn apart like **rag dolls**. Blue fire.”
+
+Finally, if I'm to claim the possibility of the Chandrian their to stop the Dancer then were left to reconstruct nearly a books worth of possibilities. 
+
+TODO list all possibilities
+
+1. Explaining the mysterious watchers ~ Auri foxen?
+2. Why Haliax says he is keeping them safe from watchers, amry, singers.
+3. skarpis story confound lanre and his followers
 
 ## Epilogue
 
@@ -412,7 +420,7 @@ The Cthaeh loves Kvothe's open ended questions and I think it would go against i
 > “Why did they leave you alive? Why, because they were sloppy, and because you were lucky, and
 > because something scared them away.”
 
-It's easy to fit the Chandrian as _They_, and still have a skindancer. Sloppy now referring to their normal protocol of killing anyone potential infected. If the skindancer is a _they_ (why not?) then it would be sloppy for not seeking Kvothe (or did it? que spooooky sounds...). This leaves the Chandrian as jaded, cruel war veterans with the worst kind of gallows humor, built up as a kind of self defense mechanism. If you haven't been around death and diseases this might seem grotesque, and it is, but it's cathartic. 
+It's easy to fit the Chandrian as _They_, and still have a skindancer. "Sloppy" now referring to their normal protocol of killing anyone potential infected. If the skindancer is a _they_ (why not?) then it would be sloppy for not seeking Kvothe (or did it? que spooooky sounds...). This leaves the Chandrian as jaded, cruel war veterans with the worst kind of gallows humor, built up as a kind of self defense mechanism. If you haven't been around death and diseases this might seem grotesque, and it is, but it's also cathartic. 
 
 TODO NOTW cards
 
