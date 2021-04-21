@@ -13,6 +13,7 @@
 5. [A Crown of Broken Glass](/pages-output/a-crown-of-broken-glass)
 6. **[If the Kote fits](/pages-output/fitting-a-kote)**
 7. [The Waystone Brothers](/pages-output/the-waystone-brothers)
+8.  [Packs and Promises](/pages-output/tinker)
  
  
 > “I like to take my mysteries layer by layer,” I explained.

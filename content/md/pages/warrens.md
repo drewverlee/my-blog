@@ -17,6 +17,7 @@ This is an index for the entire series, skip to Prelude.
   - [Alchemy](/pages-output/alchemy)
   - [How to get to Newarre](/pages-output/how-to-get-to-newarre)
   - [Ways to safe places](/pages-output/ways-to-safe-places)
+  - [Packs and Promises](/pages-output/tinker)
 * Rougher Pieces
   - [Old holly review](/pages-output/holly)
   - [Grave tree?](/pages-output/grave-tree)
@@ -35,6 +36,7 @@ This is an index for the entire series, skip to Prelude.
    5. [A Crown of Broken Glass](/pages-output/a-crown-of-broken-glass)
    6. [If the Kote fits](/pages-output/fitting-a-kote) 
    7. [The Waystone Brothers](/pages-output/the-waystone-brothers)
+   8.  [Packs and Promises](/pages-output/tinker)
  
 # Prelude: A hand raised 
 
