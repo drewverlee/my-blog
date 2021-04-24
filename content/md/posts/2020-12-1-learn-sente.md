@@ -1,7 +1,8 @@
 {:title "Lets Learn Sente and its friends!"
  :layout :post
  :klipse {:settings {:codemirror-options-out {:line-numbers false}}}
- :date "2020-8-17"
+ :draft? true
+ :date "2021-5-20"
  :tags  ["Clojure" "Software" "Sente" "LetsLearn"]}
 
 <img src="/img/TODO-sente-fullpicture.png">
