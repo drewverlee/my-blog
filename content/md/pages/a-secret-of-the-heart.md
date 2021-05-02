@@ -344,7 +344,7 @@ knows all is not right...
 > 
 > -- TWMF:7:75:A4 night:D8 night~(admissions)
 
-She came in the night on either felling or her unnamed day, she brought him... a
+She came in the night on either Chaen (her unnamed day) or felling , she brought him... a
 stone of regret and the comfort of touch. Some of the motives are clear, the
 means are within Auri's grasp, the time and locations are within reason. Though
 we might not want to admit it, the story remains It does not go simply because
@@ -359,10 +359,23 @@ we wish to see it.
 |--------------|----|---------|----|----------|--------|--------|
 | Far below    | 1  | Finding | 5  | Orden    |        |        |
 | look-entails | 2  | Turning | 6  | Hepten   |        |        |
-| Hollow       | 3  |         | 7  | Chaen    | wept   |        |
-| Angry dark   | 4  | Burning | 8  | Felling  | crying | Plumed |
+| Hollow       | 3  |         | 7  | Chaen*   | wept   | Plumed |
+| Angry dark   | 4  | Burning | 8  | Felling  | crying | crying |
 | Ash & Ember  | 5  |         | 9  | Reaving  | crying | crying |
 | Coda         | 6  |         | 10 | Cendling | candle | candle |
+
+## Tiles and Trades
+
+As a quick recap Kvothe first draws his tile on Felling/8:
+
+> “Kvothe, Arliden’s son,” I said. The bored-looking woman marked my name and I drew a smooth ivory tile out of the black velvet bag. It read: FELLING —NOON. Eighth day of admissions. ~ Chapter 3
+
+but trades to Chaen/7 a day earlier 
+
+> “You’re a day later than me.” He held out his tile. “I’ll trade you for a jot.” I hesitated.
+> ...We traded tiles...
+> I shook my head. “I think I’ll keep this slot.” ~ Chapter 3
+
 
 ## the details in the devil
 
@@ -521,6 +534,9 @@ sufficed.
 * To u/playtheboard, who brought u/drue801 theory to my attention. For that 
 and for feedback on this entire process.
 * To u/rhintamorie for friendship and for the hint about shifting light as it related to her mirror.
+* [u/Chronicler_Snake](https://www.reddit.com/r/KingkillerChronicle/comments/n18snl/updated_rough_chronological_order_of_wmf_and_slow/gwcco9b?utm_source=share&utm_medium=web2x&context=3https://www.reddit.com/r/KingkillerChronicle/comments/n18snl/updated_rough_chronological_order_of_wmf_and_slow/gwcco9b?utm_source=share&utm_medium=web2x&context=3) For a correction to the dates, I had missed that he traded his spot to Wil, which 
+
+
 
 
 ## Citations

@@ -302,6 +302,8 @@ location of Newarre.
 3. Roads and Codes     : suggesting that some interactions and phrases, like water before wine, are codes.
 4. Counter arguments   : where I addresses some sorted questions that suggest the location is in Vintas
 5. Get the joke?       : I claim Alleg died in Newarre at the hands of Bast. 
+6. Nearby places       : Abbots ford, Rannish (todo!)
+7. Lighting Tree       : (WIP)
 
 ## Rings, Wings and the beast within
 
@@ -928,6 +930,34 @@ up shattered glass.
 
 
 
+## Abbots ford (WIP)
+
+There might be some information in the History of Tak, which clarifies the location of Newaree.  Specifically, there is mention of Abbot's Ford, where a historic game of tak is played:
+
+> In Abbot's Ford we lay our scene...
+
+This is a place mentioned a couple times in the frame in relation to Chronicler's journey to Newarre:
+
+>“I am behind schedule,” Chronicler admitted. “My horse was stolen near **Abbott’s
+>Ford**.” He glanced out the window at the darkening sky. “But I’m willing to lose
+>some sleep. I’ll be off in the morning and out of your hair.”
+
+The term Tak is relatively modern and in wide use around the four corners.
+Though variants still exist. It might be possible to narrow down where Abbott's
+ford down even further by examining the story and comparing the game to how tak
+is played in various places. My gut tells me that Abbott's _ford_ might be related to **Ford**ell, which is a land south of the university. 
+
+
+Abbott's ford gives two pieces of information. Firstly, a "ford" is shallow place in a river or stream one can cross. Given Chronicler walked, somehwere between 3 and 4 days, to where he meet Kote near Newaree and the fact their are streams & rivers everywhere, this wouldn't seem to be much help. The second piece of information "Abbot". 
+
+Abbot refers to a religious leader, the term is only ever used to in the books to refer to this ford. We know the Aturan's are rather religious. Any historical ties to Atur are a point in favor of Vint again. As those lands were once part of the Aturian empire. 
+
+## Lighting Tree (WIP)
+
+in short, if the lighting tree is the tree on the Modegan pairs deck, and potential the "tall good" In Laniel Young again, this location very well might be in modern day vint. Another point in favor in vint!
+
+
+
 # Getting to Newarre.
 
 
@@ -1018,22 +1048,9 @@ is more likely.
 
 <img src="/img/map-with-newarre.jpg" height="350px" width="350px">
 
-There might be some information in the History of Tak, which clarifies the location of Newaree.  
-Specifically, there is mention of Abbot's Ford, where a historic game of tak is played:
 
-> In Abbot's Ford we lay our scene...
 
-This is a place mentioned a couple times in the frame in relation to Chronicler's journey to Newarre:
 
->“I am behind schedule,” Chronicler admitted. “My horse was stolen near **Abbott’s
->Ford**.” He glanced out the window at the darkening sky. “But I’m willing to lose
->some sleep. I’ll be off in the morning and out of your hair.”
-
-The term Tak is relatively modern and in wide use around the four corners.
-Though variants still exist. It might be possible to narrow down where Abbott's
-ford down even further by examining the story and comparing the game to how tak
-is played in various places. My gut tells me that Abbott's _ford_ might be related to **Ford**ell,
-which is a land sound of the university and by my guess, Newarre.
 
 
 
