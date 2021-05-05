@@ -342,7 +342,7 @@ knows all is not right...
 > “I’m never going to see her again,” I choked out. Then I began to cry in earnest.
 > “It’s okay,” Auri said softly. “I’m here. You’re safe.”
 > 
-> -- TWMF:7:75:A4 night:D8 night~(admissions)
+> -- TWMF:7:75:A4 night:D8? night
 
 She came in the night on either Chaen (her unnamed day) or felling , she brought him... a
 stone of regret and the comfort of touch. Some of the motives are clear, the
