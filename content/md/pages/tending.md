@@ -3,8 +3,6 @@
  :toc true
  :page-index 38}
  
-# TODO remove
- 
 ## Series Index
 
 0. [Warrens](/pages-output/warrens)
@@ -21,52 +19,36 @@
 
 ## Intro 
 
-This is part of [Warrens](/pages-output/warrens) series and follows [The Waystone Brothers](/pages-output/the-waystone-brothers), which was much more fan fiction then theory crafting. 
+This is part of [Warrens](/pages-output/warrens) series and follows [The Waystone Brothers](/pages-output/the-waystone-brothers).  Firstly, in order to make things more concise, I want to consolidate any notes that while important, don't directly fit into the narrative of the story. So you can follow the links in the main post to more information, either in the reference section or outside the post.
 
-Firstly, in order to make things more concise, I want to consolidate any notes that while important, don't directly fit into the narrative of the story. So a word followed by a number means you can check a section below for more information. e.g "... nightjar (11)" means their is a link to section eleven for more information on nightjars I found interesting, but not relevant enough to include directly.
+We're going to pick up following our ray of sunshine in the dark, Auri. We have felt her pain, seen her shame, and the shadow she casts. Now will watch her set a pipe to rights and wonder what at the burden she bears.
 
-We're going to pick up following our ray of sunshine in the dark, Auri. We have felt her pain, seen her shame, and the shadow she casts. Know will learn the cast her shadows take. TODO (too much?)
+## Tenent
 
-## Tending, Turning, Tenance, Penance... TODO
-
-The magical nature of Auri and the Underthing seems unnatural even in a fantasy. With that in mind will be following Auri to Tenance. Before heading their, we need to consider the reason for the journey, this will be challenging because Auri often takes action based on events that are hard to find meaning in. In this case, she is spurred into action by a Nightjar (11) striking black iron (4):
-
-> She heard a hush of feather in the air. Wings
-> beat hard, then stopped. Looking up, Auri saw the shape of a *nightjar* outlined
-> against the **dull grey circle of light** entering the grate high above. The bird
-> struck something hard against the pipe, then ate it. A **snail**, she guessed. There
-> was no need to guess the type of pipe though. The ting of it let Auri know it
-> was **iron, black** and twice the thicken of her thumb. The nightjar tapped the pipe
-> again, then dipped down to the pool to drink. After it drank, the bird winged
-> quickly back to its previous perch. Back to the pipe. Back to stand in the
-> center of the **dim grey light**. It tapped a third and final time. Auri’s gut went
-> cold. She sat up straight and eyed the bird intently. It stared back at her for
-> a long moment, then flew away, having done what it had come to do. She looked
-> after it numbly, the chill in her gut making a slow knot. She couldn’t ask for
-> things to be more clear than that. Her pulse began to hammer at her then, her
-> palms all sudden sweat.
+The magical nature of Auri and the Underthing seems unnatural even in a fantasy. With that in mind will be following Auri to Tenance. Before heading their, we need to consider the reason for the journey, this will be challenging because Auri often takes action based on events that are hard to find meaning in. In this case, she is spurred into action by a [Nightjar](/pages-output/tending#nightjar) striking [black iron](/pages-output/tending#black-iron).
 
  <figure>
   <img src="/img/night-jar.jpg" height="40%" width="40%">
   <figcaption>~~  Nightjar</figcaption>
 </figure> 
 
-Auri assumes the first strike was to catch a snail (17) stands in the center of the _dim grey light_ (12) and ends up striking black iron three times. Auri thinks the meaning of this is rather apparent. We're left to watch what comes next and come back later to make guesses. After the warning, she races down Tenance. However, the names of the places she visits suggest another journey. 
+The NightJar ends up striking black iron three times. Auri assumes the first strike was to catch a snail, but the full striking three things means something else entirely. And while Auri thinks the meaning of this is rather apparent, We're left to watch what comes next and come back later to make guesses. After the warning, she races down Tenance. However, the names of the places she visits suggest another journey. 
 
 > Then she turned and sprinted off. First to Mantle, where she washed her face and hands and feet. She took a handkerchief out of her cedar box and pelted down through Rubric and Downings to Borough.
 
-Rubric (10) runs under a lot of the other parts of the Underthing, so it's not helpful in getting a sense of where we are or can get to. The following two locations are where we need to draw upon our Alar and create a second sympathetic binding. **Downings** (1) is a location in Tarbean. This theory will require you to believe Auri is also somehow passing near by (under) Tarbean (19), this lets us believe that Auri is somehow traveling quickly around the four corners, which is necessary for her to arrive at Borough, which I'll build an argument for being Borrow hill (2).
+[Rubric](/pages-output/tending#rubric) runs under a lot of the other parts of the Underthing, so it's not helpful in getting a sense of where we are or can get to. The following two locations are where we need to draw upon our Alar and create a second sympathetic binding. [Downings](/pages-output/tending#downings) is a location in Tarbean. This theory will require you to believe Auri is also somehow passing near by (under) [Tarbean](/pages-output/tending#path-and-magic), this lets us believe that Auri is somehow traveling quickly around the four corners, which is necessary for her to arrive at Borough, which I'll build an argument for being [Borrow hill](/pages-output/tending#auri-route-to-borrow-hill).
 
-Checking the history of the word [Borough](https://www.etymonline.com/word/borough#etymonline_v_15634), the Proto Germanic meaning is "hill fort". Which is what Kvothe thinks the buried building at the Mauthen farm was (3). Auri remarks that this is a "between place", indicating that it transitions to the world above. But also that it "wasn't for her" indicating she didn't or hadn't used it, though she may be lying to herself. She notes boots coming from the other door (not the entrance she used), this would be the Mauthens as they enter the Underthing. Then Auri notes another set of footprints coming from the Underthing and leaving to go back upstairs to the newly built farmhouse. All together, the implication upsets Auri's greatly and for good reasons which will touch on shortly. She walks in the footprints in Tenance and takes a bottle and brush. 
+Checking the history of the word [Borough](https://www.etymonline.com/word/borough#etymonline_v_15634), the Proto Germanic meaning is "hill fort". Which is what Kvothe thinks the [buried building at the Mauthen farm was](/pages-output/tending#kvothe-thinks-its-a-hill-fort). From Borough Auri reaches Tenance. Auri remarks that this is a "between place", indicating that it transitions to the world above. But also that it "wasn't for her" indicating she didn't or hadn't used it, though she may be lying to herself. She notes boots coming from the other door (not the entrance she used), this would be the Mauthens as they enter the Underthing. 
+
+Then Auri notes another set of footprints coming from the Underthing and leaving to go back upstairs to the newly built farmhouse. All together, the implication upsets Auri's greatly and for good reasons which will touch on shortly. She walks in the footprints around Tenance and takes a bottle and brush, which she will put to good use.
 
 <img src="/img/auri-steps.png" height="60%" width="60%">
 
-
-Then leaves to go fix a "black Iron Pipe" (4) in Rubric (10). Auri compares the sound of the hissing pipes to snakes (5). Auri is worried the pipe might affect the Masters and invite instigation. She waits, knowing things have to dry before she can apply materials to seal it. We get the titular line of the book, indicating this and the surrounding moments are essential. Auri proceeds to use components, some of which would be found at the Alchemy complex (6). She then heads back to Tenance and momentarily worries she sees new bootprints, but no, just shadow and her own breath-catching fear. She returns the bottle and brush to Tenance. Immediately following this she has a panic attack which we covered in [Blood Beneath](/pages-output/blood-beneath), it's likely something in her journey here caused it. 
+Then leaves to go fix a ["black Iron Pipe"](/pages-output/tending#black-iron) in [Rubric](/pages-output/tending#rubric). Auri compares the sound of the hissing pipes to [snakes](/pages-output/tending#snakes). Auri is worried the pipe might affect the Masters and invite instigation. She waits, knowing things have to dry before she can apply materials to seal it. We get the titular line of the book, indicating this and the surrounding moments are essential. Auri proceeds to use components, some of which would be found at the [Alchemy complex](/pages-output/tending#alchemy). She then heads back to Tenance and momentarily worries she sees new bootprints, but no, just shadow and her own breath-catching fear. She returns the bottle and brush to Tenance. Immediately following this she has a panic attack which we covered in [Blood Beneath](/pages-output/blood-beneath), it's likely something in her journey here caused it. 
 
 We have shown that Auri's Underthing reaches places in the four corners just as we suggested parts of it are linked to the Fae in [Shadows on the Wal](/pages-output/shadows-on-the-wal). We have also discussed how she visited the Mauthen Farm another way via the Waystones in [Ways to safe places](/pages-output/ways-to-safe-places). In [A Crown of Broken Glass](/pages-output/a-crown-of-broken-glass) , I hinted that the Underthing a very interesting relationship with both the Fae and mortal realm. But let's leave that ambiguous for now so we can focus on the present mystery. The best way to approach it is to consider why Auri would connect the intruders in the underthings to a broken pipe, it's undeniable she thinks they are related.
 
-I'll lead with a concise bold statement and work backward. The intruding Mauthens released something from the Underthing. Let's leave this creature nameless, it might very well be just that. Just as it lacks a name, I believe it also lacks a body, and so must look for one to inhabit. A skindancer, maybe _they_ skindancer. Before we build a case for how this could happen I would like to draw attention to what I consider to be subtle hints in tone that we in the story that the farmers were killed by other danced farmers (7):
+I'll lead with a concise bold statement and work backwards to give it weight. The intruding Mauthens released something from the Underthing. Let's leave this something/creature nameless, it might very well be just that. Just as it lacks a name, I believe it also lacks a body, and so must look for one to inhabit. A skindancer, maybe _they_ skindancer. Before we build a case for how this could happen I would like to draw attention to what I consider to be subtle hints in tone that we in the story that the farmers were killed by other [danced farmers](/pages-output/tending#dancing-farmers):
 
 Denna says it was a lot of knife and sword work:
 
@@ -76,19 +58,17 @@ But that could also be scyhes:
 
 > I hadn’t seen anyone wearing so much as a belt knife since I’d been in town. The closest thing had been farmers with sickles and scythes in the fields. I looked back at the sagging farmhouse, sure that I was missing something....
 
-While any incident so horrible as a murdered wedding party would leave the townsfolk tight lipped, I think they would be double so if the evidence suggested everyone had turned on everyone else, which is what a skin dancer jumping from body to body would look like (7.1).
+While any incident so horrible as a murdered wedding party would leave the townsfolk tight lipped, I think they would be double so if the evidence suggested everyone had turned on everyone else, which is what a skin dancer jumping from body to body would look like.
 
 <img src="/img/farmer-scythe.jpg" height="60%" width="60%">
 
-
-
-The Mauthens entered the Underthing through Tenance, so close to the dancers lair or prison, and possible took other actions to ease it's passage, the footsteps away indicative of them leaving the Underthing now infected/danced. In Trapis story the being he calls Tehlu binds another called Encansis, and while that story is misleading, we know something was bound in black Iron and so it would be freed from it. Here in the Underthing, we have broken black iron and a release, which Auri must tend to immediately and she feels is directly related to the events at Mauthen hill.  Additionally, as discussed in [Bitter Brew](/pages/output-put/bitter-brew) the more hallow a person, the more susceptible, they are to being _filled/danced_. I think it's plausible the Mauthens wealth came from growing, refining and selling Denner Resin (14). I suspect some combination of the Mauthens transgressions, speaking words that were found on artifacts (vase, etc..), the proximity to waystones (13), and sex or conception lead to the dancer being released. A horrifying thought is that the skindancer entered the world in place of the conceived child. While unsettling, this could be a third shared event between the Troupe massacre and the Mauthen farm.  Recall that Kvothe's mother sent him away under a thinly veiled context to get some private time with Arliden in order to make some music:
+The Mauthens entered the Underthing through Tenance, so close to the dancers lair or prison, and possible took other actions to ease it's passage, the footsteps away indicative of them leaving the Underthing now infected/danced. In Trapis story the being he calls Tehlu binds another called Encansis, and while that story is likely a misleading simplification, we know something was bound in black Iron and so it would be freed from it. Here in the Underthing, we have broken black iron and a release, which Auri must tend to immediately and she feels is directly related to the events at Tenance, which i claim to be Mauthen hill.  Additionally, as discussed in [Bitter Brew](/pages/output-put/bitter-brew) the more hallow a person, the more susceptible, they are to being _filled/danced_. I think it's plausible the Mauthens wealth came from growing, refining and selling [Denner Resin](/posts-output/tending#denner-farmers). I suspect some combination of the Mauthens transgressions, speaking words that were found on artifacts (vase, etc..), the proximity to [waystones](/posts-output/tending#waystone), and sex or conception lead to the dancer being released. A horrifying thought is that the skindancer entered the world in place of the conceived child. While unsettling, this could be a third shared event between the Troupe massacre and the Mauthen farm.  Recall that Kvothe's mother sent him away under a thinly veiled context to get some private time with Arliden in order to make some music:
 
 > “I think it’s nice,” my mother said, walking around from the back of the wagon. “Gives us the chance for something hot,” she gave my father a significant look, “to eat. It gets frustrating making do with whatever you can grab at the end of the day **A body wants more**.”
 
-And by making music, I clearly mean _having sex_. But you will have to forgive me for not being as subtle as Cinder:
+And by making music, I mean _having sex_. But you will have to forgive me for not being as subtle as Cinder:
 
-> His smile slowly faded. Expressionless, he looked deep into me. His voice was quiet, cold, and sharp. “Someone’s parents,” he said, “have been singing entirely the wrong sort of songs.”
+>  “Someone’s parents,” he said, “have been **singing entirely the wrong sort of songs.**”
 
 Yes, I feel quite strongly that Cinder was making a none to clever double entendre. The Passion for music being akin to romance is such a strong theme in the book Rothfuss all but writes the words on the cover.
 
@@ -96,11 +76,13 @@ Yes, I feel quite strongly that Cinder was making a none to clever double entend
 >
 > “I think I know the tune you’re talking about.” He gave me a broad, knowing smile.
 
-The Adem mercenaries, graceful and deadly like Cinder, even find music more taboo than sex. Haliax could have been punishing the hint rather than the cruelty. Kvothe isn't their to see what happened with his Troupe. The Chandrian are certainly not Kvothe's Troupe being danced, baring extreme (un enjoyable) misdirection. So were left with a number of options, and your free to pick which ever you like at this stage. Given the lack of information, it's easier to suggest the Mauthens were danced and then contained or stopped by another force: Chandrian, Amyr, etc... Denna's Patron wanted a count and description of the entire party, which would be necessary for containment. 
+The Adem mercenaries, graceful and deadly like Cinder, even find music more taboo than sex. Vashet, apparently without Arlidens sensibilities, calls Kvothe a whore for playing music, is it hard to imagine that "singing the wrong songs" is about sex? Haliax could have been punishing the hint rather than the cruelty, or both. Kvothe isn't their to see what happened with his Troupe. The Chandrian are certainly not Kvothe's Troupe being danced, baring extreme (un enjoyable) misdirection. So were left with a number of options, and your free to pick which ever you like at this stage. 
 
-The Troupe being danced _is_ possible, but it relies on both the Chandrian, The Cthaeh and Kote going out of their way to make it hard to see. Starting with the Chandrian, if they had killed Kvothe's danced troupe then they all but incriminate themselves by their presence, manor and through their exchange. The same goes for the Cthaeh, whose exchange with Kvothe leaves a sliver of wiggle room to suggest any number of things, including this theory (16). 
+Given the lack of information on the Troupes situation, it's easier to suggest the Mauthens were danced and then contained or stopped by another force: Chandrian, Amyr, etc. Denna's Patron wanted a count and description of the entire party, which would be necessary for containment of the Dancer. 
 
-It would leave the Chandrian as anti-heroes, jaded and with the worse sense of Gallows humor. Or, as actors, who realize that the truth is more horrible then a lie and so take the blame and play their roles, least a young boy learn the truth, that his Troupe turned upon themselves pulled like marionette by some horrible nameless god. I find it no coincidence that the word _doll_ is used to describe both Kvothe's dead troupe and those at the Mauthen farm:
+The Troupe being danced _is_ possible, but it relies on both the Chandrian, The Cthaeh and Kote going out of their way to make it hard to see. Starting with the Chandrian, if they had killed Kvothe's danced troupe then they all but incriminate themselves by their presence, manor and through their exchange. The same goes for the Cthaeh, whose exchange with Kvothe leaves a sliver of wiggle room to suggest any number of things, including this [theory](/pages-output/tending#who-did-it). 
+
+This might leave the Chandrian as anti-heroes, cleaning up the mess with no hope of sympathy, jaded and with the worst kind of gallows humor. Or, as actors, who realize that the truth is more horrible then a lie and so take the blame and play their roles, least a young boy learn the truth, that his Troupe turned upon themselves, pulled like marionettes by some horrible nameless god. I find it no coincidence that the word _doll_ is used to describe both Kvothe's dead troupe and those at the Mauthen farm:
 
 > Let us pass over my return to the camp just as the sun was beginning to set. The sight of bodies strewn about like **broken dolls**. The smell of blood and burning hair. How I wandered aimlessly about, too disoriented for proper panic, numb with shock and dread.
 
@@ -108,18 +90,17 @@ It would leave the Chandrian as anti-heroes, jaded and with the worse sense of G
 
 > “Not much,” I admitted, thinking back to what the bargeman had said. “A bunch of people were killed at a wedding. Everyone dead, torn apart like **rag dolls**. Blue fire.”
 
-Finally, if I'm to claim the possibility of the Chandrian their to stop the Dancer then were left to reconstruct nearly a books worth of possibilities. 
-
-TODO list all possibilities
-
-1. Explaining the mysterious watchers ~ Auri foxen?
-2. Why Haliax says he is keeping them safe from watchers, amry, singers.
-3. skarpis story confound lanre and his followers
-
 ## Epilogue
 
-We can force the world to bend, or we can see the direction it's going and move with it. Mastery is the shorter route, we wear our power like rings and they are the strings that from the wings upon which we soar high above, and never see the dross are anger sheds. It's a knife's edge, a path we must all dance, give and take, listen and speak, we have slept long enough, when next we meet it's time to wake. 
+The place Auri visits,_Tenance_, has a name you wont' find in your dictionary. _Tenace_ is a combination of two high cards (e.g Queen & King or Queen & Ja...). _Penance_ is to seek forgiveness. Tenanacy is holdings of lands by lease, the holder is known as a Tenant, e.g a [Tenant Farmer](https://en.wikipedia.org/wiki/Tenant_farmer). The [prefix "ten-"](https://www.etymonline.com/word/*ten-) is _to stretch_, which you might think this theory is doing. But it's also a means _string_. The suffix ['-ance'](https://www.merriam-webster.com/dictionary/-ance) can mean performance, and a string performance is just what you would need to set farmers feet to dancing.
 
+You might call this madness, or at best, a cheap twist. But maybe we just weren't paying as [close attention as we thought](https://www.youtube.com/watch?v=a_Q3N3XUj5M). We came to the story imagining we were the players, that the rules would be fit a familiar narrative. That in time, maybe in book three, things would become clear. But pieces don't get taught the rules, they get moved around the board like stones, never knowing whats at stack.
+
+_Plow the earth, take your share_  
+_feel the soil, breath the air_  
+_The sun tells you when to wake_  
+_The moon when to sleep_  
+_you think yourself free because you lack roots?_  
 
 <img src="/img/auri-phil-art.jpg" height="40%" width="40%">
 
@@ -130,17 +111,17 @@ We can force the world to bend, or we can see the direction it's going and move 
 
 ### Downings
 
-Mentioned as a place in HOT:
+Mentioned as a place in history of Tak:
 
 > Additional penalty rules vary from place to place, and usually involve multiplying the piece value based on different special victories. The most common alternative rules are found in **Downings**, the Tarway, and Middletown.
 
-> books/history_of_tak.txt:659:A traveler from Middletown visiting the house of a man from Downings would play by the Downings rules. Of course, this is of little help to those of us who play outside of Tarbean, so I always advise players to agree on any variant rules before the first stone is played
+> A traveler from Middletown visiting the house of a man from Downings would play by the Downings rules. Of course, this is of little help to those of us who play outside of Tarbean, so I always advise players to agree on any variant rules before the first stone is played
 
 The rule variant found in Downings is "Double the Line"
 
 > Downings: "Double the Line." If the winning road is a straight line, the loser pays double the winner's piece count. For example, if a player wins with a straight line and has 7 pieces remaining, her opponent pays the usual 10 coins for the board (as mentioned above), plus 14 for the remaining pieces (7 coins doubled).
 
-It's a location in Tarbean:
+It's a location in Tarbean, mentioned in NOTW:
 
 > Part of Tarbean’s vastness is the fact that it is divided into a thousand small pieces, each with its own personality. There was Downings, Drover Court, the Wash, Middletown, Tallows, Tunning, Dockside, the Tarway, Seamling Lane.... You could live your whole life in Tarbean and never know all its parts.
 
@@ -235,26 +216,25 @@ Further solidifying that she is an alchemist.
 
 ### Dancing farmers
 
-There are a couple hints in the narration that _indirectly_ imply the issue wedding party was killed by a skin dancer. This would mean essential. Though not very compelling the feeling Kote gives us is very "children of the corn":
-
-Denna says it was a lot of knife and sword work:
+There are a couple hints in the narration that _indirectly_ imply the Mauthen farm could have been danced. For one, the means of violence used at the wedding party massacre were those the wedding party occupants had themselves. Denna says it was a lot of knife and sword work:
 
 > “They weren’t really torn apart,” Denna said. “From what I heard in town, it was a lot of knife and sword work.”
 
-But that could also be scyhes
+But that could also be scythes. 
 
 > I hadn’t seen anyone wearing so much as a belt knife since I’d been in town. The closest thing had been farmers with sickles and scythes in the fields. I looked back at the sagging farmhouse, sure that I was missing something....
 
+I think a veteran would likely be able to tell the difference between a sword and knife work and scythes, but were getting the story second hand from farmers who might not have wanted to look to closely. 
 
 While were down a rabbit hole, we might want to mention that men fall before Denna like a sickle blade:
 
-> “You’d remember,” Deoch said. “But no, I don’t think she lives in town. I see her off and on. She travels, always here and gone again.” He rubbed the back of his head and gave me a worried smile. “I don’t know where you might be able to find her. Careful boy, that one will steal your heart. Men fall for her like wheat before a sickle blade.”
+> “You’d remember,” Deoch said. “But no, I don’t think she lives in town. I see her off and on. She travels, always here and gone again.” He rubbed the back of his head and gave me a worried smile. “I don’t know where you might be able to find her. Careful boy, that one will steal your heart. **Men fall for her like wheat before a sickle blade.**”
 
 And finally Felurians hair is like a scythe:
 
 > Her hair swayed, a dark scythe swinging
 
-madness of course. But you might want to head the cheshire cat, were all mad down here. 
+find meaning in this madness if you like.
 
 #### 1. another wedding party ruined
 
@@ -266,30 +246,6 @@ What's more, I don't think this is the first wedding party to be ruined by a dan
 > caught because a countess ran amok in the middle of a wedding, **killed a dozen folk** and—”
 
 A plum will cause you to lose your inhibitions, it wouldn't let a countess _kill a dozen folk_, unless she was somehow the only one trained and armed. If anything, the plum would inhibit the kind of calm collective planning such a massive effort would need. 
-
-### Quenching Iron
-
-Kotes box
-
-> The chest was sealed three times. It had a lock of iron, a lock of copper, and a lock that could not be seen. Tonight the wood filled the room with the almost imperceptible aroma of citrus and quenching iron.
-
-the demons Tehlu stricks down smell like quenching iron and burning leather:
-
-> But not all were men. When Tehlu struck the fourth, there was the sound of quenching iron and the smell of burning leather. For the fourth man had not been a man at all, but a demon wearing a man’s skin. When it was revealed, Tehlu grabbed the demon and broke it in his hands, cursing its name and sending it back to the outer darkness that is the home of its kind.
-
-Ecnasis himself
-
-> “Lord Tehlu, I am not Encanis.” For that brief moment the demon’s voice was pitiful, and all who heard it were moved to sorrow. But then there was a sound like quenching iron, and the wheel rung like an iron bell. Encanis’ body arched painfully at the sound then hung limply from his wrists as the ringing of the wheel faded.
-
-Also all the fae or at least Bast, Cinder and Felurian seem to have an aversion or allergy to Iron and can bound by it.
-
-### sweet music 
-
-Then Tehlu stepped back, and all saw Encanis shift again, as if disturbed by an unpleasant dream. Then he shook and came awake entirely. Encanis strained against the chains, his body arching upward as he pulled against them. Where the iron touched his skin it felt like knives and needles and nails, like the searing pain of frost, like the sting of a hundred biting flies. Encanis thrashed on the wheel and began to howl as the iron burned and bit and froze him.
-
-To Tehlu the sound was like a sweet music. He lay down on the ground beside the wheel and slept a deep sleep, for he was very tired.
-
-TODO cheath. 
 
 ### Rubric 
 
@@ -327,10 +283,25 @@ TODO cheath.
 
 > back to Rubric, heart stuttering as she turned wrong. Then wrong again. But then
 
-### [Nightjar](https://en.wikipedia.org/wiki/Nightjar)
+### Nightjar
+
+> She heard a hush of feather in the air. Wings
+> beat hard, then stopped. Looking up, Auri saw the shape of a *nightjar* outlined
+> against the **dull grey circle of light** entering the grate high above. The bird
+> struck something hard against the pipe, then ate it. A **snail**, she guessed. There
+> was no need to guess the type of pipe though. The ting of it let Auri know it
+> was **iron, black** and twice the thicken of her thumb. The nightjar tapped the pipe
+> again, then dipped down to the pool to drink. After it drank, the bird winged
+> quickly back to its previous perch. Back to the pipe. Back to stand in the
+> center of the **dim grey light**. It tapped a third and final time. Auri’s gut went
+> cold. She sat up straight and eyed the bird intently. It stared back at her for
+> a long moment, then flew away, having done what it had come to do. She looked
+> after it numbly, the chill in her gut making a slow knot. She couldn’t ask for
+> things to be more clear than that. Her pulse began to hammer at her then, her
+> palms all sudden sweat.
 
 
-The Nightjar is quite the fascinating bird, but I'll stick to it's potential plot connections. The [European nightjar](https://en.wikipedia.org/wiki/European_nightjar) also goes by the name "goat sucker" which was born from the myth that they stole milk from goats, when really they just were hunting insects. If myth is more true then fact, then such a bird we be troublesome to our goat herding Ademic friends. Cinder, who has goat eyes, might want to keep his distance as well. 
+The [Nightjar](https://en.wikipedia.org/wiki/Nightjar) is quite the fascinating bird, but I'll stick to it's potential plot connections. The [European nightjar](https://en.wikipedia.org/wiki/European_nightjar) also goes by the name "goat sucker" which was born from the myth that they stole milk from goats, when really they just were hunting insects. If myth is more true then fact, then such a bird we be troublesome to our goat herding Ademic friends. Cinder, who has goat eyes, might want to keep his distance as well. 
 
 Hespe's story about Jax tells us his magical flute plays a sound like a will's widow. 
 
@@ -353,17 +324,7 @@ In Hespe's story, I assume the magic flute tricked the bird into thinking it was
 
 Always on the lookout for vague connections, we should note that their is a [Pennant winged nightjar](https://en.wikipedia.org/wiki/Pennant-winged_nightjar). The word pennant is used to describe the two pennant feathers that grow during mating season:
 
-TODO pennant wing picture
-
 In KKC their is a pennant pole. [Pennant](https://www.etymonline.com/word/pennant#etymonline_v_12626) meaning (among other things) "rope for hoisting", if your tracking nautical terms, because Auri mentions quite a few, this relationship might be worth considering. The word Pennant itself is often confused with [Penitent](https://www.etymonline.com/word/penitent#etymonline_v_30329), which means to be sorry for some offense. If the mix up or relationship of these words is being leaned on in the narrative i'm hard pressed to see it.
-
-### Dim grey light
-
-The lighting situation isn't clear because were not positive if this _day_ for Auri is actually during the day, and not at night. The light is coming from above:
-
-> With nothing but the dim grey light from the grate above, the gear was nowhere near as shimmerant as it had been before.
-
-But this could be the moon's light or the suns. Later she thinks _he_ has come and so scampers outside and it's clearly nighttime. I think it's safest to assume this grey light is from the moon. However, the repated use of the word leads me there is something here i'm missing
 
 ### Waystone
 
@@ -384,8 +345,6 @@ We have yet to see a double circle of greystones, but we have seen a triple ston
 > The only thing on the top of the hill was a handful of greystones. Three of the massive stones were stacked together to form a huge arch, like a massive doorway. The other two lay on their sides, as if lounging in the thick grass. I found their presence comforting, like the unexpected company of old friends.
 
 If Kvothe's dream shows us a real _current_ location, it can't be the one near the Mauthen farm. Though maybe it's a dream from the past, the stones could have fallen and been buried, or moved. Though nothing comes of such speculation. We do get a picture of this double circle on the pairs decks:
-
-TODO ruins picture double circle link to Mauthen farm
 
 After he wakes from his dreams he finds a greystone, and while it says he "wandered deep", I suspect it was less then a mile or so from his Troupe's camp. 
 
@@ -422,24 +381,7 @@ The Cthaeh loves Kvothe's open ended questions and I think it would go against i
 
 It's easy to fit the Chandrian as _They_, and still have a skindancer. "Sloppy" now referring to their normal protocol of killing anyone potential infected. If the skindancer is a _they_ (why not?) then it would be sloppy for not seeking Kvothe (or did it? que spooooky sounds...). This leaves the Chandrian as jaded, cruel war veterans with the worst kind of gallows humor, built up as a kind of self defense mechanism. If you haven't been around death and diseases this might seem grotesque, and it is, but it's also cathartic. 
 
-TODO NOTW cards
-
 I believe "Did things to your mother. Terrible." is rather open ended, because it is. Using the hypothetical context to make it less so works both ways, which is why it's a discussion point. e.g In a version where Laurian was danced, Cinder could have tried to save her, it failed. _Terrible_. This would require some award winning acting by Cinder of course, as he is cruel to Kvothe. But for a heatbeat consider that's what might have happened, after all, which would be more merciful in this situation. A lie, monsters you will never meet again killed your parents? Or the Truth, that they turned on each other, that your Mother killed your father.
-
-### Snail
-
-Auri brings up a snail from the twelve much earlier from the Tweleve:
-
-> A leafy branch with a bewildered snail. And, lastly but not least, looped on a piece of rotten string all tangled with the branch, was a slender key as long as her first finger.
-> Auri kissed the snail and apologized before setting the branch back in the water where it belonged.
-
-And while most things she takes from the twelve have meaning, I fail to see anything in this one. I think it's very unlikely this is the same snail, or at least it would seem to have very little impact on the story (though i'm sure the poor snail would feel differently!)
-
-
-
-### Count
-
-TODO?
 
 ### Path and magic
 
