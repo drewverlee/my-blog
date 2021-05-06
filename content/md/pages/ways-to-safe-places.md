@@ -123,7 +123,7 @@ So here is our table:
 | Post Trope Death           | Laying                | Level                  | TODO                   | TODO                   |
 
 
-<img src="/img/ruins.jpg" height="200px" width="200px
+<img src="/img/ruins.jpg" height="200px" width="200px">
 
 
 For another take on waystones I suggest everything by mattytangle. Though, you should try your hand at it first before consulting his works

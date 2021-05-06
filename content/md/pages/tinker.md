@@ -14,6 +14,7 @@
 6. [If the Kote fits](/pages-output/fitting-a-kote) 
 7. [The Waystone Brothers](/pages-output/the-waystone-brothers)
 8. **[Packs and Promises](/pages-output/tinker)**
+9. [Tending](/pages-output/tending)
 
 ## Intro 
 
