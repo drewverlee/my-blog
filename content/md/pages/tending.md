@@ -91,6 +91,10 @@ This might leave the Chandrian as anti-heroes, cleaning up the mess with no hope
 
 Kvothe thought the Chandrian were fairy stories before he saw them, he was too quick to dismiss the villagers fear of [shamble-men](pages-output/tending#shamble-men), who are depicted with men's hallow clothes filled with straw, sleepless and clumsy. Just like the skindancer that comes looking.
 
+<img src="/img/farmer.jpg" height="50%" width="50%">
+
+
+
 ## Epilogue
 
 The place Auri visits,_Tenance_, has a name you wont' find in your dictionary. _Tenace_ is a combination of two high cards (e.g Queen & King or Queen & Ja...). _Penance_ is to seek forgiveness. Tenanacy is holdings of lands by lease, the holder is known as a Tenant, e.g a [Tenant Farmer](https://en.wikipedia.org/wiki/Tenant_farmer). The [prefix "ten-"](https://www.etymonline.com/word/*ten-) is _to stretch_, which you might think this theory is doing. But it's also a means _string_. The suffix ['-ance'](https://www.merriam-webster.com/dictionary/-ance) can mean performance, and a string performance is just what you would need to set farmers feet to dancing. Something Denna's patron is good at.
@@ -424,12 +428,18 @@ Which is part of the ritual of dealing with shamble men:
 > There was a tall bonfire in the middle of town, and smaller ones outside the houses where people would be giving cider to the weary workers. They would drink and throw their shamble-men into the fires. Dummies made of wheat sheaves, of barley shocks, of straw, of chaff.
 
 
+<img src="/img/nightjar-art.png" height="50%" width="50%">
+
 
 
 ## Art
 
-* Nighjar
+* [Nightjar](https://www.birchamgallery.co.uk/catalogue/artist/Jeremy:James/JJNIS029/?category=prints)
 * All other art belongs to Rothfuss
 * [Auri underthing](http://www.philmcdarby.com/index.php/digital_art/detail/auri/)
 * [farmer scythe ~ The veteran in a new field](https://www.metmuseum.org/art/collection/search/11145)
+
+## Credits
+
+Thanks to u/playtheboard for ideas, support and editing suggestions!
 
