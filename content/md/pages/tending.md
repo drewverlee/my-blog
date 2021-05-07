@@ -35,7 +35,7 @@ The magical nature of Auri and the Underthing seems unnatural even in a fantasy.
 
 The NightJar ends up striking black iron three times. Auri assumes the first strike was to catch a snail, but the striking three times means something else entirely. And while Auri thinks the meaning of this is rather apparent, We're left to watch what comes next and come back later to make guesses. After the warning, she races down Tenance. However, the names of the places she visits suggest another journey. 
 
-> Then she turned and sprinted off. First to Mantle, where she washed her face and hands and feet. She took a handkerchief out of her cedar box and pelted down through Rubric and Downings to Borough.
+> Then she turned and sprinted off. First to Mantle, where she washed her face and hands and feet. She took a handkerchief out of her cedar box and pelted down through Rubric and Downings to Borough. ~SROST:95
 
 [Rubric](/pages-output/tending#rubric) runs under a lot of the other parts of the Underthing, so it's not helpful in getting a sense of where we are or can get to. The following two locations are where we need to draw upon our Alar and create a second sympathetic binding. [Downings](/pages-output/tending#downings) is a location in Tarbean. This theory will require you to believe Auri is also somehow passing near by (under) [Tarbean](/pages-output/tending#path-and-magic), this lets us believe that Auri is somehow traveling quickly around the four corners, which is necessary for her to arrive at Borough, which I'll build an argument for being [Borrow hill](/pages-output/tending#auri-route-to-borrow-hill).
 
@@ -53,11 +53,11 @@ I'll lead with a concise bold statement and work backwards to give it weight. Th
 
 Denna says it was a lot of knife and sword work:
 
-> “They weren’t really torn apart,” Denna said. “From what I heard in town, it was a lot of knife and sword work.”
+> “They weren’t really torn apart,” Denna said. “From what I heard in town, it was a lot of knife and sword work.” ~ NOTW:544
 
 But that could also be scyhes:
 
-> I hadn’t seen anyone wearing so much as a belt knife since I’d been in town. The closest thing had been farmers with sickles and scythes in the fields. I looked back at the sagging farmhouse, sure that I was missing something....
+> I hadn’t seen anyone wearing so much as a belt knife since I’d been in town. The closest thing had been farmers with sickles and scythes in the fields. I looked back at the sagging farmhouse, sure that I was missing something.... ~ NOTW:544
 
 While any incident so horrible as a murdered wedding party would leave the townsfolk tight lipped, I think they would be double so if the evidence suggested everyone had turned on everyone else, which is what a skindancer jumping from body to body would look like.
 
@@ -65,17 +65,17 @@ While any incident so horrible as a murdered wedding party would leave the towns
 
 The Mauthens entered the Underthing through Tenance, so close to the dancers lair or prison, and possible took other actions to ease it's passage, the footsteps away indicative of them leaving the Underthing now infected/danced. In Trapis story, the being he calls Tehlu binds another called Encansis, and while that story is likely a misleading simplification, we know something was bound in black Iron, and so it would be freed from it. Here in the Underthing, we have broken black iron and a release, which Auri must tend to immediately and she feels is directly related to the events at Tenance, which i claim to be Mauthen hill.  Additionally, as discussed in [Bitter Brew](/pages/output-put/bitter-brew) the more hallow a person, the more susceptible they are to being _filled/danced_. I think it's plausible the Mauthens wealth came from growing, refining and selling [Denner Resin](/posts-output/tending#denner-farmers). I suspect some combination of the Mauthens transgressions, speaking words that were found on artifacts (vase, etc..), the proximity to [waystones](/posts-output/tending#waystone), and sex or conception lead to the dancer being released. A horrifying thought is that the Skindancer entered the world in place of the conceived child. While unsettling, this could be a third shared event between the Troupe massacre and the Mauthen farm.  Recall that Kvothe's mother sent him away under a thinly veiled context to get some private time with Arliden in order to make some music:
 
-> “I think it’s nice,” my mother said, walking around from the back of the wagon. “Gives us the chance for something hot,” she gave my father a significant look, “to eat. It gets frustrating making do with whatever you can grab at the end of the day **A body wants more**.”
+> “I think it’s nice,” my mother said, walking around from the back of the wagon. “Gives us the chance for something hot,” she gave my father a significant look, “to eat. It gets frustrating making do with whatever you can grab at the end of the day **A body wants more**.” ~ NOTW:117
 
 And by making music, I mean _having sex_. But you will have to forgive me for not being as subtle as Cinder:
 
->  “Someone’s parents,” he said, “have been **singing entirely the wrong sort of songs.**”
+>  “Someone’s parents,” he said, “have been **singing entirely the wrong sort of songs.**” ~ NOTW:121
 
 Yes, I feel quite strongly that Cinder was making a none to clever double entendre. The Passion for music being akin to romance is such a strong theme in the book Rothfuss all but writes the words on the cover.
 
 > “It’s not like that,” I protested. “She was the one who sang my harmony last night. She had a lovely voice and I was hoping to find her so we could do a little singing.”
 >
-> “I think I know the tune you’re talking about.” He gave me a broad, knowing smile.
+> “I think I know the tune you’re talking about.” He gave me a broad, knowing smile. ~NOTW:420
 
 The Adem mercenaries, graceful and deadly like Cinder, even find music more taboo than sex. Vashet, apparently without Arlidens sensibilities, calls Kvothe a whore for his public musical performances, is it hard to imagine that "singing the wrong songs" is about sex? Haliax could have been punishing the hint rather than the cruelty, or both. Kvothe isn't their to see what happened with his Troupe. The Chandrian are certainly not Kvothe's Troupe being danced, baring extreme (un enjoyable) misdirection. Denna's Patron wanted a count and description of the entire party, which would be necessary for containment of the Dancer. 
 
@@ -83,11 +83,12 @@ The Troupe being danced _is_ possible, but it relies on both the Chandrian, The 
 
 This might leave the Chandrian as anti-heroes, cleaning up the mess with no hope of sympathy, jaded and with the worst kind of gallows humor. Or, as actors, who realize that the truth is more horrible then a lie and so take the blame and play their roles, least a young boy learn the truth, that his Troupe turned upon themselves, pulled like marionettes by some horrible nameless god. I find it no coincidence that the word _doll_ is used to describe both Kvothe's dead troupe and those at the Mauthen farm:
 
-> Let us pass over my return to the camp just as the sun was beginning to set. The sight of bodies strewn about like **broken dolls**. The smell of blood and burning hair. How I wandered aimlessly about, too disoriented for proper panic, numb with shock and dread.
+> Let us pass over my return to the camp just as the sun was beginning to set. The sight of bodies strewn about like **broken dolls**. The smell of blood and burning hair. How I wandered aimlessly about, too disoriented for proper panic, numb with shock and dread. ~ NOTW:118
 
-> “... all blue fire. Every one of them dead, thrown around like **rag dolls** and the house falling to pieces around them. I was glad to see the end of the place. I can tell you that.”
+> “... all blue fire. Every one of them dead, thrown around like **rag dolls** and the house falling to pieces around them. I was glad to see the end of the place. I can tell you that.”  ~ NOTW:507
 
-> “Not much,” I admitted, thinking back to what the bargeman had said. “A bunch of people were killed at a wedding. Everyone dead, torn apart like **rag dolls**. Blue fire.”
+> “Not much,” I admitted, thinking back to what the bargeman had said. “A bunch of people were killed at a wedding. Everyone dead, torn apart like **rag dolls**. Blue fire.” ~ NOTW:544
+
 
 Kvothe thought the Chandrian were fairy stories before he saw them, he was too quick to dismiss the villagers fear of [shamble-men](pages-output/tending#shamble-men), who are depicted with men's hallow clothes filled with straw, sleepless and clumsy. Just like the skindancer that comes looking.
 
@@ -118,35 +119,37 @@ _you think yourself free because you lack roots?_
 
 Mentioned as a place in history of Tak:
 
-> Additional penalty rules vary from place to place, and usually involve multiplying the piece value based on different special victories. The most common alternative rules are found in **Downings**, the Tarway, and Middletown.
+> Additional penalty rules vary from place to place, and usually involve multiplying the piece value based on different special victories. The most common alternative rules are found in **Downings**, the Tarway, and Middletown. ~ HOT
 
-> A traveler from Middletown visiting the house of a man from Downings would play by the Downings rules. Of course, this is of little help to those of us who play outside of Tarbean, so I always advise players to agree on any variant rules before the first stone is played
+> A traveler from Middletown visiting the house of a man from Downings would play by the Downings rules. Of course, this is of little help to those of us who play outside of Tarbean, so I always advise players to agree on any variant rules before the first stone is played  ~ HOT
 
 The rule variant found in Downings is "Double the Line"
 
-> Downings: "Double the Line." If the winning road is a straight line, the loser pays double the winner's piece count. For example, if a player wins with a straight line and has 7 pieces remaining, her opponent pays the usual 10 coins for the board (as mentioned above), plus 14 for the remaining pieces (7 coins doubled).
+> Downings: "Double the Line." If the winning road is a straight line, the loser pays double the winner's piece count. For example, if a player wins with a straight line and has 7 pieces remaining, her opponent pays the usual 10 coins for the board (as mentioned above), plus 14 for the remaining pieces (7 coins doubled). ~ HOT
 
 It's a location in Tarbean, mentioned in NOTW:
 
-> Part of Tarbean’s vastness is the fact that it is divided into a thousand small pieces, each with its own personality. There was Downings, Drover Court, the Wash, Middletown, Tallows, Tunning, Dockside, the Tarway, Seamling Lane.... You could live your whole life in Tarbean and never know all its parts.
+> Part of Tarbean’s vastness is the fact that it is divided into a thousand small pieces, each with its own personality. There was Downings, Drover Court, the Wash, Middletown, Tallows, Tunning, Dockside, the Tarway, Seamling Lane.... You could live your whole life in Tarbean and never know all its parts. ~NOTW:151
 
 Auri mentions it to Kvothe:
 
-> “The wind has been bringing leaves into the Underthing lately,” Auri said conversationally toward the end of the meal. “Through the grates and tunnels. They settle in the Downings, so things are all a-rustle there.”
+> “The wind has been bringing leaves into the Underthing lately,” Auri said conversationally toward the end of the meal. “Through the grates and tunnels. They settle in the Downings, so things are all a-rustle there.” ~NOTW:651
 
 Auri takes Kvothe there
 
-> Every night i went exploring underground with Auri. I saw many interesting things, some of which may bear mentioning later, but for now suffice to say that she showed me all the vast and varied corners of the Underthing. She took me to Downings, Vaults, the Woods, Delving, Crick-let, Tenners, Candlebear....
+> Every night i went exploring underground with Auri. I saw many interesting things, some of which may bear mentioning later, but for now suffice to say that she showed me all the vast and varied corners of the Underthing. She took me to Downings, Vaults, the Woods, Delving, Crick-let, Tenners, Candlebear.... ~NOTW:671
+
+Given the obscure (or outlandish) claims as to the nature of the magic in play, i'm not troubled by the idea that he explored the underthing without understanding its potential double nature.
 
 ### Auri route to Borrow hill
 
 Mantle -> Rubric -> Downings*1 (Tarbean) -> Borough (Borrow hill):
 
-> First to Mantle, where she washed her face and hands and feet. She took a handkerchief out of her cedar box and pelted down through Rubric and **Downings** to Borough. Breathing hard, she finally stood before the unassuming wooden door that led to Tenance.
+> First to Mantle, where she washed her face and hands and feet. She took a handkerchief out of her cedar box and pelted down through Rubric and **Downings** to Borough. Breathing hard, she finally stood before the unassuming wooden door that led to Tenance. ~SROST:46
 
 ### Kvothe thinks its a hill fort
 
-> I walked closer to the farmhouse. “Besides, you don’t use stones to build barrows. Even if you did, you wouldn’t use quarried, finished stone like this. This was brought from a long ways off.” I ran a hand over the smooth grey stones of the wall. “Because someone wanted to build something that would last. Something solid.” I turned back to face Denna. “I think there’s an old **hill fort** buried here.”
+> I walked closer to the farmhouse. “Besides, you don’t use stones to build barrows. Even if you did, you wouldn’t use quarried, finished stone like this. This was brought from a long ways off.” I ran a hand over the smooth grey stones of the wall. “Because someone wanted to build something that would last. Something solid.” I turned back to face Denna. “I think there’s an old **hill fort** buried here.” ~ NOTW:562
 
 
 ### Black Iron
@@ -162,48 +165,47 @@ Black Iron is likely the most important combination in the entire series. Beyond
 * The Box Jax catches the moon's name in.
 
 
-> Kote drew back the cloth and looked underneath. The wood was a dark charcoal color with a black grain, heavy as a sheet of iron. Three dark pegs were set above a word chiseled into the wood.
+> Kote drew back the cloth and looked underneath. The wood was a dark charcoal color with a black grain, heavy as a sheet of iron. Three dark pegs were set above a word chiseled into the wood. ~ NOTW:22
 
+> All night he worked, and when the first light of the tenth morning touched him, Tehlu struck the wheel one final time and it was finished. Wrought all of **black iron**, the wheel stood taller than a man. It had six spokes, each thicker than a hammer’s haft, and its rim was a handspan across. It weighed as much as forty men, and was cold to the touch. The sound of its name was terrible, and none could speak it. ~ NOTW:170
 
-> All night he worked, and when the first light of the tenth morning touched him, Tehlu struck the wheel one final time and it was finished. Wrought all of **black iron**, the wheel stood taller than a man. It had six spokes, each thicker than a hammer’s haft, and its rim was a handspan across. It weighed as much as forty men, and was cold to the touch. The sound of its name was terrible, and none could speak it.
+> Lanre was always where the fight was thickest, where he was needed most. His sword never left his hand or rested in its sheath. At the very end of things, covered in blood amid a field of corpses, Lanre stood alone against a terrible foe. It was a great beast with scales of black iron, whose breath was a darkness that smothered men. Lanre fought the beast and killed it. Lanre brought victory to his side, but he bought it with his life. ~ NOTW:185
 
-> Lanre was always where the fight was thickest, where he was needed most. His sword never left his hand or rested in its sheath. At the very end of things, covered in blood amid a field of corpses, Lanre stood alone against a terrible foe. It was a great beast with scales of black iron, whose breath was a darkness that smothered men. Lanre fought the beast and killed it. Lanre brought victory to his side, but he bought it with his life.
+> In the midst of these rumors, Lanre arrived in Myr Tariniel. He came alone, wearing his silver sword and haubergeon of black iron scales. His armor fit him closely as a second skin of shadow. He had wrought it from the carcass of the beast he had killed at Drossen Tor. ~ NOTW:186
 
-> In the midst of these rumors, Lanre arrived in Myr Tariniel. He came alone, wearing his silver sword and haubergeon of black iron scales. His armor fit him closely as a second skin of shadow. He had wrought it from the carcass of the beast he had killed at Drossen Tor.
+> Myr Tariniel was burned and butchered, the less that is said of it the better. The white walls were charred black and the fountains ran with blood. For a night and a day Selitos stood helpless beside Lanre and could do nothing more than watch and listen to the screams of the dying, the ring of iron, the crack of breaking stone. ~ NOTW:187
 
-> Myr Tariniel was burned and butchered, the less that is said of it the better. The white walls were charred black and the fountains ran with blood. For a night and a day Selitos stood helpless beside Lanre and could do nothing more than watch and listen to the screams of the dying, the ring of iron, the crack of breaking stone.
+> The tinker held out a pin in his other hand. He held it about a handspan away then let go. Instead of falling, the pin snapped to the side and clung to the smooth blob of black iron. ~ NOTW:525
 
-> The tinker held out a pin in his other hand. He held it about a handspan away then let go. Instead of falling, the pin snapped to the side and clung to the smooth blob of black iron.
+> I nodded absently as I turned it over in my hands. I’d always wanted to see a drawstone, ever since I was a child. I pulled the pin away, feeling the strange attraction it had to smooth black metal. I marveled. A piece of star-iron in my hand. “How much do you figure it’s worth?” I asked. ~ NOTW:525
 
-> I nodded absently as I turned it over in my hands. I’d always wanted to see a drawstone, ever since I was a child. I pulled the pin away, feeling the strange attraction it had to smooth black metal. I marveled. A piece of star-iron in my hand. “How much do you figure it’s worth?” I asked.
+> At first the Underthing was exactly what I had expected. Tunnels and pipes. Pipes for sewage, water, steam, and coal gas. Great **black pig-iron pipes** a man could crawl through, small, bright brass pipes no bigger around than your thumb. There was a vast network of stone tunnels, branching and connecting at odd angles. If there were any rhyme or reason to the place, it was lost on me. ~ NOTW:652
 
-> At first the Underthing was exactly what I had expected. Tunnels and pipes. Pipes for sewage, water, steam, and coal gas. Great **black pig-iron pipes** a man could crawl through, small, bright brass pipes no bigger around than your thumb. There was a vast network of stone tunnels, branching and connecting at odd angles. If there were any rhyme or reason to the place, it was lost on me.
+> We made our way down three spiral staircases made of **black wrought iron** to reach the Grey Twelve. It was like standing in the bottom of a canyon. Looking up I could see faint moonlight filtering in through drain grates far overhead. The mother owl was gone, but Auri showed me the nest.  ~ NOTW:652
 
-> We made our way down three spiral staircases made of **black wrought iron** to reach the Grey Twelve. It was like standing in the bottom of a canyon. Looking up I could see faint moonlight filtering in through drain grates far overhead. The mother owl was gone, but Auri showed me the nest.
-
-> books/twmf.txt:17246:And Jax brought out the **black iron box**, closing the lid and catching her name inside.
+> And Jax brought out the **black iron box**, closing the lid and catching her name inside. ~ TWMF:596
 
 ### Snakes
 
 This pipe leak sounds like snakes
 
-> be in Rubric after all, Auri heard a sound like angry snakes and rain. If not back. There was no sound of snakes. The spray had stopped, but the entire tunnel
+> be in Rubric after all, Auri heard a sound like angry snakes and rain. If not back. There was no sound of snakes. The spray had stopped, but the entire tunnel ~SROST:49
 
 The girl asks Skarpi for a story about sand snakes:
 
-> “I want to hear about the dry lands over the Stormwal,” one of the younger girls complained. “About the sand snakes that come out of the ground like sharks. And the dry men who hide under the dunes and drink your blood instead of water. And—” She was cuffed quickly into silence from a dozen different directions by the children surrounding her.
+> “I want to hear about the dry lands over the Stormwal,” one of the younger girls complained. “About the sand snakes that come out of the ground like sharks. And the dry men who hide under the dunes and drink your blood instead of water. And—” She was cuffed quickly into silence from a dozen different directions by the children surrounding her. ~NOWT:183
 
 Bast compares the Skindanced mercenary as a snake:
 
-> “All snakes bite, Reshi. I don’t need their names to know they’re dangerous. I recognized it as being from the Mael. That was enough.”
+> “All snakes bite, Reshi. I don’t need their names to know they’re dangerous. I recognized it as being from the Mael. That was enough.” ~NOTW:670
 
 The Adem are compared to snakes:
 
-> fast as snakes.
+> fast as snakes. ~ TWMF:523
 
-Felurian threatens kvothe with a whip made of them
+but their compared to a lot of animals, notable sparrows. And this might be a more a reference to them _hunting_ snakes then being them. Finally, Felurian threatens kvothe with a whip made of them
 
-> here with a lash of brambles and snakes. I will drive you before me, bloody and weeping, and will not
+> here with a lash of brambles and snakes. I will drive you before me, bloody and weeping... ~ TWMF:656
 
 In conclusion, it's interesting that the Adem are snaking and over the Stormwal like the little girl asks about. Drinking "blood" instead of water might be a mutated version of _wine_ before water a reference to the Adem's and the Ruh's shared history. Felurian is rather Ademic, her art just as deadly and given her with just as many names for it.
 
@@ -211,11 +213,11 @@ In conclusion, it's interesting that the Adem are snaking and over the Stormwal 
 
 Auri uses "Naptha"
 
-> It clung and stuck and spread. It was full of green grass and leaping and... sulphonium? Naphtha?
+> It clung and stuck and spread. It was full of green grass and leaping and... sulphonium? Naphtha? ~SROST:52
 
 Which we find at the alchemy complex
 
-> The alchemy complex produced its own marvels that I was only dimly aware of, as well as raw materials like naphtha, sulfurjack, and twicelime.
+> The alchemy complex produced its own marvels that I was only dimly aware of, as well as raw materials like naphtha, sulfurjack, and twicelime. ~TWMF:30
 
 Further solidifying that she is an alchemist.
 
@@ -223,21 +225,21 @@ Further solidifying that she is an alchemist.
 
 There are a couple hints in the narration that _indirectly_ imply the Mauthen farm could have been danced. For one, the means of violence used at the wedding party massacre were those the wedding party occupants had themselves. Denna says it was a lot of knife and sword work:
 
-> “They weren’t really torn apart,” Denna said. “From what I heard in town, it was a lot of knife and sword work.”
+> “They weren’t really torn apart,” Denna said. “From what I heard in town, it was a lot of knife and sword work.” ~NOWT:544
 
 But that could also be scythes. 
 
-> I hadn’t seen anyone wearing so much as a belt knife since I’d been in town. The closest thing had been farmers with sickles and scythes in the fields. I looked back at the sagging farmhouse, sure that I was missing something....
+> I hadn’t seen anyone wearing so much as a belt knife since I’d been in town. The closest thing had been farmers with sickles and scythes in the fields. I looked back at the sagging farmhouse, sure that I was missing something.... ~NOWT:544
 
 I think a veteran would likely be able to tell the difference between a sword and knife work and scythes, but were getting the story second hand from farmers who might not have wanted to look to closely. 
 
 While were down a rabbit hole, we might want to mention that men fall before Denna like a sickle blade:
 
-> “You’d remember,” Deoch said. “But no, I don’t think she lives in town. I see her off and on. She travels, always here and gone again.” He rubbed the back of his head and gave me a worried smile. “I don’t know where you might be able to find her. Careful boy, that one will steal your heart. **Men fall for her like wheat before a sickle blade.**”
+> “You’d remember,” Deoch said. “But no, I don’t think she lives in town. I see her off and on. She travels, always here and gone again.” He rubbed the back of his head and gave me a worried smile. “I don’t know where you might be able to find her. Careful boy, that one will steal your heart. **Men fall for her like wheat before a sickle blade.**” ~ NOWT:420
 
 And finally Felurians hair is like a scythe:
 
-> Her hair swayed, a dark scythe swinging
+> Her hair swayed, a dark scythe swinging ~ TWMF:647
 
 find meaning in this madness if you like.
 
@@ -248,7 +250,7 @@ What's more, I don't think this is the first wedding party to be ruined by a dan
 > “Mandrag lectures about it in every alchemy class he teaches. I’ve heard the
 > story a dozen times by now. It’s his favorite example of how alchemy can be abused. An alchemist
 > used it to ruin the lives of several government officials in Atur about fifty years ago. He only got
-> caught because a countess ran amok in the middle of a wedding, **killed a dozen folk** and—”
+> caught because a countess ran amok in the middle of a wedding, **killed a dozen folk** and—” ~TWMF:72
 
 A plum will cause you to lose your inhibitions, it wouldn't let a countess _kill a dozen folk_, unless she was somehow the only one trained and armed. If anything, the plum would inhibit the kind of calm collective planning such a massive effort would need. 
 
@@ -270,23 +272,15 @@ A plum will cause you to lose your inhibitions, it wouldn't let a countess _kill
 
 * Rubric is maybe _under_ the rest of the underthing, or any place with pipes is Rubric
 
-> Even moving quickly, it took an hour to find the proper place. Rubric’s round brick tunnels ran the length and breadth of Underthing, miles and miles of passages, twisting up and down and doubling back, taking the pipes where they needed to go. Just as she was fearing she might never find it, just when she’d begun to fear it might not be in Rubric after all, Auri heard a sound like angry snakes and rain
+> Even moving quickly, it took an hour to find the proper place. Rubric’s round brick tunnels ran the length and breadth of Underthing, miles and miles of passages, twisting up and down and doubling back, taking the pipes where they needed to go. Just as she was fearing she might never find it, just when she’d begun to fear it might not be in Rubric after all, Auri heard a sound like angry snakes and rain ~48
 
-> off into the sprawling maze of Rubric. It was barely a minute’s work to find a
+> off into the sprawling maze of Rubric. It was barely a minute’s work to find a  ~ 25
 
-> This was not a key for Black Door. No. Auri hurried through Rubric, turning left
+> This was not a key for Black Door. No. Auri hurried through Rubric, turning left ~ 25
 
-> walls. Running lightly on her toes, Auri danced through Rubric, ducking pipes.
+> walls. Running lightly on her toes, Auri danced through Rubric, ducking pipes. ~36
 
-> took a handkerchief out of her cedar box and pelted down through Rubric and
-
-> out a sigh of deep relief, she ran herself to Rubric. Even moving quickly, it
-
-> took an hour to find the proper place. Rubric’s round brick tunnels ran the
-
-> be in Rubric after all, Auri heard a sound like angry snakes and rain. If not
-
-> back to Rubric, heart stuttering as she turned wrong. Then wrong again. But then
+etc....
 
 ### Nightjar
 
@@ -303,7 +297,7 @@ A plum will cause you to lose your inhibitions, it wouldn't let a countess _kill
 > a long moment, then flew away, having done what it had come to do. She looked
 > after it numbly, the chill in her gut making a slow knot. She couldn’t ask for
 > things to be more clear than that. Her pulse began to hammer at her then, her
-> palms all sudden sweat.
+> palms all sudden sweat. ~SROST:45
 
 
 The [Nightjar](https://en.wikipedia.org/wiki/Nightjar) is quite the fascinating bird, but I'll stick to it's potential plot connections. The [European nightjar](https://en.wikipedia.org/wiki/European_nightjar) also goes by the name "goat sucker" which was born from the myth that they stole milk from goats, when really they just were hunting insects. If myth is more true then fact, then such a bird we be troublesome to our goat herding Ademic friends. Cinder, who has goat eyes, might want to keep his distance as well. 
@@ -313,14 +307,14 @@ Hespe's story about Jax tells us his magical flute plays a sound like a will's w
 > Jax set the wood down carefully, then picked up the flute. “Is this special too?” He put it to his lips
 > and blew a simple trill like a Will’s Widow.
 > Hespe smiled teasingly, lifted a familiar wooden whistle to her lips, and blew: Ta-ta DEE. Ta-ta
-> DEE.
+> DEE. ~TWMF:594
 
 Now i'm sorry to have to tell here on earth it's a "chuck-will's-widow", a name given due to the [sound](https://www.allaboutbirds.org/guide/Chuck-wills-widow/sounds). 
 True to the story Will's Widow is another name for nightjar:
 
 > Now everyone knows the Will’s Widow is also called a nightjar. So it isn’t out when the sun is
 > shining. Despite this, a dozen **nightjars** flew down and landed all around **Jax**, looking at him curiously
-> and blinking in the bright sunlight.
+> and blinking in the bright sunlight. ~TWMF:594
 
 In Hespe's story, I assume the magic flute tricked the bird into thinking it was night time or mimicked the sound of a mate. Could this be the magic that makes people (and apparently birds) believe things they hear that Denna hints at? And while it's dark underground, the bird defiantly doesn't live there and so why it would be active during the day (is it day?) is a bit of a mystery. Regardless, Auri and Jax both seem to find a way to be around a nightjar. 
 
@@ -335,7 +329,7 @@ In KKC their is a pennant pole. [Pennant](https://www.etymonline.com/word/pennan
 
 The chapter is called `roads to safe places` which is what older kvothe tells us Greystones are
 
-> “It’s a greystone,” I said, giving it a friendly pat. “They mark **old roads**. If anything, we’re safer being next to it. **Greystones mark safe places**. Everyone knows that.”
+> “It’s a greystone,” I said, giving it a friendly pat. “They mark **old roads**. If anything, we’re safer being next to it. **Greystones mark safe places**. Everyone knows that.” ~ TWMF:272
 
 After his Troupe's massacre, kvothe sleeps and dreams of waystones and were told there is power in waystones:
 
@@ -343,23 +337,23 @@ After his Troupe's massacre, kvothe sleeps and dreams of waystones and were told
 
 > “Tradition mostly. But some people say they marked old roads—” My father’s voice changed and became Ben’s voice, “—safe roads. Sometimes roads to safe places, sometimes safe roads leading into danger.” Ben held one hand out to it, as if feeling the warmth of a fire. “**But there is a power in them. Only a fool would deny that.**”
 
-> Then Ben was no longer there, and there was not one standing stone, but many. More than I had ever seen in one place before. They formed a **double circle** around me. One stone was set across the top of two others, forming a **huge arch with thick shadow underneath**. I reached out to touch it....
+> Then Ben was no longer there, and there was not one standing stone, but many. More than I had ever seen in one place before. They formed a **double circle** around me. One stone was set across the top of two others, forming a **huge arch with thick shadow underneath**. I reached out to touch it.... ~ NOTW:131
 
 We have yet to see a double circle of greystones, but we have seen a triple stone forming a door:
 
-> The only thing on the top of the hill was a handful of greystones. Three of the massive stones were stacked together to form a huge arch, like a massive doorway. The other two lay on their sides, as if lounging in the thick grass. I found their presence comforting, like the unexpected company of old friends.
+> The only thing on the top of the hill was a handful of greystones. Three of the massive stones were stacked together to form a huge arch, like a massive doorway. The other two lay on their sides, as if lounging in the thick grass. I found their presence comforting, like the unexpected company of old friends. ~ NOTW:564
 
 If Kvothe's dream shows us a real _current_ location, it can't be the one near the Mauthen farm. Though maybe it's a dream from the past, the stones could have fallen and been buried, or moved. Though nothing comes of such speculation. We do get a picture of this double circle on the pairs decks:
 
 After he wakes from his dreams he finds a greystone, and while it says he "wandered deep", I suspect it was less then a mile or so from his Troupe's camp. 
 
-> There was also a great rectangular stone lying on its side near the pool. A few days earlier I would have recognized it as a greystone. Now I saw it as an efficient windbreak, something to put my back against as I slept.
+> There was also a great rectangular stone lying on its side near the pool. A few days earlier I would have recognized it as a greystone. Now I saw it as an efficient windbreak, something to put my back against as I slept. ~NOTW:132
 
 ### Denner farmers
 
  Beyond the presence of the Denner tree's I think we get a whiff of foul business much sooner:
 
-> Eventually we came to another stream crossing the road. Not much more than a foot deep at the most. The water had a sharp, foul smell that let me know there was a tannery upstream, or a refinery.
+> Eventually we came to another stream crossing the road. Not much more than a foot deep at the most. The water had a sharp, foul smell that let me know there was a tannery upstream, or a refinery. ~NOTW:522
 
 A possible hint at an upstream facility for refining the waxy substance Kvothe and Denna find into the material sold on the street? Someone was growing and possible refining the Denner in the area, and even an outside racket would need people local in the area to support it. To protect the land and not raise too much suspicion or at least mask it if authorities were called in. Our pig farmer dislikes the Mauthen's for building on a graveyard, but it's possible he doesn't voice all his suspicions. 
 
@@ -367,7 +361,7 @@ A possible hint at an upstream facility for refining the waxy substance Kvothe a
 
 The Cthaeh can't or won't lie, but it doesn't really need to in order to lead us astray: 
 
-> “Since you ask so sweetly, Cinder is the one you want. Remember him? White hair? Dark eyes? Did things to your mother, you know. Terrible. She held up well though. Laurian was always a trouper, if you’ll pardon the expression. Much better than your father, with all his begging and blubbering.”
+> “Since you ask so sweetly, Cinder is the one you want. Remember him? White hair? Dark eyes? Did things to your mother, you know. Terrible. She held up well though. Laurian was always a trouper, if you’ll pardon the expression. Much better than your father, with all his begging and blubbering.” ~ TWMF:683
 
 "Did things" is intentional vague. "Terrible" could refer to the outcome, not cinders involvement.
 
@@ -382,7 +376,7 @@ The Cthaeh loves Kvothe's open ended questions and I think it would go against i
 > nasty things to your poor family? Why, because they wanted to, and because they could, and because
 > they had a reason.
 > “Why did they leave you alive? Why, because they were sloppy, and because you were lucky, and
-> because something scared them away.”
+> because something scared them away.” ~ NOTW:683
 
 It's easy to fit the Chandrian as _They_, and still have a skindancer. "Sloppy" now referring to their normal protocol of killing anyone potential infected. If the skindancer is a _they_ (why not?) then it would be sloppy for not seeking Kvothe (or did it? que spooooky sounds...). This leaves the Chandrian as jaded, cruel war veterans with the worst kind of gallows humor, built up as a kind of self defense mechanism. If you haven't been around death and diseases this might seem grotesque, and it is, but it's also cathartic. 
 
@@ -396,36 +390,36 @@ I'm being intentional vague here because often times deep magic is just that and
 
 Are feared in the commonwealth around Autumn (near winter).
 
-> books/notw.txt:2439:“You’re both right, depending on which part of the country you’re in,” Ben said. “And here in the Commonwealth people laugh up their sleeves at both ideas.” He gestured at the surrounding trees. “But here they’re careful come autumn-time for fear of drawing the attention of shamble-men.”
+> “You’re both right, depending on which part of the country you’re in,” Ben said. “And here in the Commonwealth people laugh up their sleeves at both ideas.” He gestured at the surrounding trees. “But here they’re careful come autumn-time for fear of drawing the attention of shamble-men.” ~ NOTW:88
 
 Arliden thought them important enough to research:
 
-> For months it was stories about Lanre. Then he started gathering old faerie stories too, legends about bogies and shamble-men. Then he began to ask questions about the Chandrian....
+> For months it was stories about Lanre. Then he started gathering old faerie stories too, legends about bogies and shamble-men. Then he began to ask questions about the Chandrian.... ~ NOTW:83
 
 Kvothe depicts them as hollowed eyed and greyfaced from too little sleep:
 
-> books/twmf.txt:672:exhausted at best. At worst they wandered the University like shamble-men, hollow-eyed and greyfaced from too little sleep, too much drink, or both.
+> exhausted at best. At worst they wandered the University like shamble-men, hollow-eyed and greyfaced from too little sleep, too much drink, or both. ~ TWMF:25
 
 Just like the skindanced mercenary:
 
-> His eyes were dark and sunken, as if he hadn’t slept in days.
+> His eyes were dark and sunken, as if he hadn’t slept in days. ~NOTW:660
 
 how they also thought moved and acted drunk:
 
-> Shep laughed, shaking his head. “Naw. He’s drunk. My uncle used to talk like that.” He nudged Graham with an elbow. “You remember my Uncle Tam? God, I’ve never known a man who drank like that.”
+> Shep laughed, shaking his head. “Naw. He’s drunk. My uncle used to talk like that.” He nudged Graham with an elbow. “You remember my Uncle Tam? God, I’ve never known a man who drank like that.” ~ NOTW:661
 
 And while his eyes are never specifically described as hallow, they are described as glassy (see through/hazy) and come into sharp focus when he is cut:
 
-> The mercenary’s head tilted to the side. He held up his hand, examining it. A slow trickle of dark blood made its way down his thumb, where it gathered and swelled for a moment before dripping onto the floor. The mercenary drew a deep breath through his nose, and his glassy sunken eyes came into sudden, sharp focus.
+> The mercenary’s head tilted to the side. He held up his hand, examining it. A slow trickle of dark blood made its way down his thumb, where it gathered and swelled for a moment before dripping onto the floor. The mercenary drew a deep breath through his nose, and his glassy sunken eyes came into sudden, sharp focus. ~ NOTW:663
 
 I think this is strong evidence that the shamble-men are danced-men. It's possible Kote did try to light it on fire:
 
 > “About the bottle. About the sympathy he tried to do.”
-> “So he was trying to light that thing on fire? Why didn’t it work? What’s—”
+> “So he was trying to light that thing on fire? Why didn’t it work? What’s—” ~ NOTW:671
 
 Which is part of the ritual of dealing with shamble men:
 
-> There was a tall bonfire in the middle of town, and smaller ones outside the houses where people would be giving cider to the weary workers. They would drink and throw their shamble-men into the fires. Dummies made of wheat sheaves, of barley shocks, of straw, of chaff.
+> There was a tall bonfire in the middle of town, and smaller ones outside the houses where people would be giving cider to the weary workers. They would drink and throw their shamble-men into the fires. Dummies made of wheat sheaves, of barley shocks, of straw, of chaff. ~NOWT:609
 
 
 <img src="/img/nightjar-art.png" height="50%" width="50%">
