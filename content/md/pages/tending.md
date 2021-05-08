@@ -20,13 +20,15 @@
 
 ## Intro 
 
-This is part of [Warrens](/pages-output/warrens) series and follows [The Waystone Brothers](/pages-output/the-waystone-brothers).  Firstly, in order to make things more concise, I want to consolidate any notes that while important, don't directly fit into the narrative of the story. So you can follow the links in the main post to more information, either in the reference section or outside the post.
+This is part of [Warrens](/pages-output/warrens) series and directly follows [The Waystone Brothers](/pages-output/the-waystone-brothers), but you can skip back two theories to [A Crown of Broken Glass](/pages-output/a-crown-of-broken-glass) for the more critical material. 
 
-We're going to pick up following our ray of sunshine in the dark, Auri. We have felt her pain, seen her shame, and the shadow she casts. Now will watch her set a pipe to rights and wonder the burden she bears.
+We're going to pick up following our little ray of sunshine, Auri. We have felt her pain, saw her shame, as well as the shadow she casts. Now will watch her tend to the proper way of things by setting a pipe to rights, and wonder at the mantle she bears. 
+
+We came for fantasy yet the unknown still makes us uncomfortable. Are mind frames problems based on our past and so were biased to overlook relationships that contradict our expectations. Kvothe sees Auri as a young girl, vulnerable and in need of help and it's through that lens we add our own projections. But in the Underthing we learn Auri has her own journey beyond what Kvothe could imagine. She tends to the proper way of things and takes a toll on her. Her nature is as inexplicable as the sun at night, her vision a broken kaleidoscope, the actions she takes cause light and darkness to dance across all of everything.
 
 ## String Performance
 
-The magical nature of Auri and the Underthing seems unnatural even in a fantasy. With that in mind will be following Auri to Tenance. Before heading there, we need to consider the reason for the journey, this will be challenging because Auri often takes action based on events that are hard to find meaning in. In this case, she is spurred into action by a [Nightjar](/pages-output/tending#nightjar) striking [black iron](/pages-output/tending#black-iron).
+We pick up by following Auri to Tenance. Before heading there, we need to consider the reason for the journey, this will be challenging because Auri often takes action based on events that are hard to find meaning in. In this case, she is spurred into action by a [Nightjar](/pages-output/tending#nightjar) striking [black iron](/pages-output/tending#black-iron).
 
  <figure>
   <img src="/img/night-jar.jpg" height="40%" width="40%">
@@ -98,15 +100,17 @@ Kvothe thought the Chandrian were fairy stories before he saw them, he was too q
 
 ## Epilogue
 
-The place Auri visits,_Tenance_, has a name you wont' find in your dictionary. _Tenace_ is a combination of two high cards (e.g Queen & King or Queen & Ja...). _Penance_ is to seek forgiveness. Tenanacy is holdings of lands by lease, the holder is known as a Tenant, e.g a [Tenant Farmer](https://en.wikipedia.org/wiki/Tenant_farmer). The [prefix "ten-"](https://www.etymonline.com/word/*ten-) is _to stretch_, which you might think this theory is doing. But it's also a means _string_. The suffix ['-ance'](https://www.merriam-webster.com/dictionary/-ance) can mean performance, and a string performance is just what you would need to set farmers feet to dancing. Something Denna's patron is good at.
+The place Auri visits,_Tenance_, has a name you wont' find in your dictionary. _Tenace_ is a combination of two high cards (e.g Queen & King or Queen & Ja...). _Penance_ is to seek forgiveness. Tenanacy is holdings of lands by lease, the holder is known as a Tenant, e.g a [Tenant Farmer](https://en.wikipedia.org/wiki/Tenant_farmer). _ten_ can indicate [_to hold_](https://membean.com/wrotds/ten-hold). The [prefix "ten-"](https://www.etymonline.com/word/*ten-) is _to stretch_, which you might think this theory is doing. But it's also a means _string_. The suffix ['-ance'](https://www.merriam-webster.com/dictionary/-ance) can mean performance, and a string performance is just what you would need to set farmers feet to dancing. Something Denna's patron is good at.
 
-You might call this madness, or at best, a cheap twist. But maybe we just weren't paying as [close attention as we thought](https://www.youtube.com/watch?v=a_Q3N3XUj5M). We came to the story imagining we were the players, that the rules would be fit a familiar narrative. That in time, maybe in book three, things would become clear. But pieces don't get taught the rules, they get moved around the board like stones, never knowing whats at stack.
+You might call this madness, or at best, a cheap twist. But maybe we just weren't paying as [close attention as we thought](https://www.youtube.com/watch?v=a_Q3N3XUj5M). We came to the story imagining we were the players, that the rules would be fit a familiar narrative. That in time, maybe in book three, things would become clear. But pieces don't get taught the rules, they get moved around the board like stones, never knowing whats at stake.
 
 _Plow the earth, take your share_  
 _feel the soil, breath the air_  
 _The sun tells you when to wake_  
 _The moon when to sleep_  
 _you think yourself free because you lack roots?_  
+
+Were closing in on story now, we must move with the wind, dance our part least we draw attention and wait for our moment to act.
 
 <img src="/img/auri-phil-art.jpg" height="40%" width="40%">
 
