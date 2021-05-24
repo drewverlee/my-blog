@@ -109,3 +109,6 @@ _Can you heal this broken heart, make music beat sweet once more?_
   <figcaption style="text-align:center;">Spiral Tale</figcaption>
 </figure> 
 
+## Epilogue
+
+Tinkers might be scheming, maneuvering Kvothe to there own grand means... or just trying to turn a profit based on their unusually good sight. Jax left them the broken house to mend, and they might be doing just that. Though they aren't the only ones as were about to see when we pick up with Auri as she [tends](/pages-output/tending) to the Underthing.

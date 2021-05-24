@@ -38,6 +38,7 @@ This is an index for the entire series, skip to Prelude.
    7. [The Waystone Brothers](/pages-output/the-waystone-brothers)
    8. [Packs and Promises](/pages-output/tinker)
    9. [Tending](/pages-output/tending)
+   10. [De sidere](/pages-output/desire)
  
  
 # Prelude: A hand raised 
@@ -414,20 +415,4 @@ SROST Chapters so I can use numbers:
 8. all to her desire
 9. the graceful way to move
 10. the hidden heart of things
-
-<img src="/img/foxandhare.jpeg" height="450px" width="300px">
-
-_watch carefully daughter hare, hold quiet father fox_
-
-_For she knows the cruel games names play_
-<br>
-_and so often finds a gentler way._
-<br>
-_Yet, for him, these rules she would betray._
-
-_set a laurel a light_
-<br>
-_so too this Ash will burn,_
-<br>
-_then to flesh all things return_
 

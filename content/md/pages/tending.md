@@ -15,6 +15,7 @@
 7. [The Waystone Brothers](/pages-output/the-waystone-brothers)
 8. [Packs and Promises](/pages-output/tinker)
 9. **[Tending](/pages-output/tending)**
+10. [De sidere](/pages-output/desire)
 
 <img src="/img/auri-pipe.png">
 
@@ -428,8 +429,9 @@ Which is part of the ritual of dealing with shamble men:
 
 <img src="/img/nightjar-art.png" height="50%" width="50%">
 
+## Epilogue
 
-
+Like expressing the difference between a mothers love and a romantic interest, it's hard to speak plainly on magics and mysteries that have shape but no solid foundation. Will we consult Marlock’s Compendium of Fae Phenomenon? Even in our myths we hope to connect the lines, box them in, make them more like us. What mysteries might be playing in daylight, so twisted is our nature, that we have lost the power of sight? Next will ride the winds, dance among the tree's and trace the lines upon [ancient stone](/pages-output/desire).
 
 ## Art
 
@@ -441,6 +443,7 @@ Which is part of the ritual of dealing with shamble men:
 ## Credits
 
 Thanks to u/playtheboard for ideas, support and editing suggestions!
+
 
 
 ## Nonet

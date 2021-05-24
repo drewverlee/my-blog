@@ -15,6 +15,7 @@
 7. **[The Waystone Brothers](/pages-output/the-waystone-brothers)**
 8. [Packs and Promises](/pages-output/tinker)
 9. [Tending](/pages-output/tending)
+10. [De sidere](/pages-output/desire)
 
   
 ## Intro 
@@ -121,4 +122,8 @@ _It's "Hammer! Go, Hammer! X Hammer! Yo, Hammer!"_
 _And the rest can go and play_
 
 
- 
+## Epilogue
+
+It's worth taking some time to do something silly, go roll down a hill or see if you can grab a leaf high in the tree. A lot of our endless bustling about and worries comes from wanting _too much_. What is my word though? Let's move on and take a hint from a group that seems to knoweth quite a lot, the [tinkers](/pages-output/Tinker).
+
+

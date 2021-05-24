@@ -13,7 +13,9 @@
 5. [A Crown of Broken Glass](/pages-output/a-crown-of-broken-glass)
 6. [If the Kote fits](/pages-output/fitting-a-kote) 
 7. [The Waystone Brothers](/pages-output/the-waystone-brothers)
-8.  [Packs and Promises](/pages-output/tinker)
+8. [Packs and Promises](/pages-output/tinker)
+9. [Tending](/pages-output/tending)
+10. [De sidere](/pages-output/desire)
 
  
 <img src="/img/wasteland.jpeg" height="500px" width="400px">
