@@ -37,30 +37,30 @@ This is part of [Warrens](/pages-output/warrens) series and directly follows [Te
 
 ## Weathering time and tide
  
-Words are leaves, branching off from their predecessors, and their history forms a tree that is greater then the sum of it's parts. Our lungs are the wind that sets it swaying. Follow their twisting path to the trunk, it's core. Harder to grasp, but also to change and at it's base we see that the truth reflected, as above so below. It builds a bridge from the "Earth to the Sky". And echos the journey down a long road that the broken one took to mend their heart by trapping its desire, an act that started a war.
+Words are leaves, branching off from their predecessors, and their history forms a tree that is greater then the sum of it's parts. Our lungs are the wind that sets it's branches swaying. Follow their twisting path to the trunk, it's core. Harder to grasp, but also to change and at it's base we see that the truth reflected, as above so below. It builds a bridge from the "Earth to the Sky". And echos the journey down a long road that the broken one took to mend their heart by trapping its desire, an act that started a war.
 
 The Great Stone Road cuts the land like it was drawn in the dirt by some giant forgotten god, one climbs into the mountains and beyond. The other is blocked by a standing stone, a pillar of knowledge, the Archives. Upon it's doors are chiseled the words *Vorfelan Rhinata Morie*. 
 
-Wil says it's close to meaning “The desire for knowledge shapes a man.” But close is nothing to the Lethani, their is and their is not. And knowing is the difference between falling and redemption when you walk the mountain pass. And so we must calm the storm within and stop fighting the tide, see the motion the sea makes and ride the currents to the deep dark below and see how far the roots go. 
+Wil says it's close to meaning “The desire for knowledge shapes a man.” But close is nothing to the Lethani, there is and there is not. And knowing is the difference between falling and redemption when you walk the mountain pass. And so we must calm the storm within and stop fighting the tide, see the motion the sea makes and ride the currents to the deep dark below and see how far the roots go. 
 
 
 _lan_ is used in _ruhlan_, _delan_ and _vorelan_, _palan_. The last I suspect mean roughly Cealdish, the suffix _-lan_ implying _people of the_ with the prefix specifying _of what_. In this case, the _fe_ or _fea_, which means _felan_ another way of saying _faen_. 
   
 The skindancer implies _Avoi_ means _want_ or possible _look_. _vor_ is used in Felurians song _tu nia vor ruhlan_. And we now know _ruhlan_ to mean people of the ruha cousin of _travelers_. I think it's safe to say that Felurian did desire wanders from time to time.
 
-But ruh might stem from ruach and branch into _reh_ which is for seeking. Some of the Ruach did become watchers/amyr. Alternatively, Arliden said Kvothe mean _to know_ and given many words end in _-the** : aethe, gilthe, el'the, skethe, etc. it's possible we can pull the word apart and k**vo**  shares an ancestry with _knowledge_.
+But ruh might stem from ruach and branch into _reh_ which is for seeking. Some of the Ruach did become watchers/amyr. Alternatively, Arliden said Kvothe mean _to know_ and given many words end in _-the_ : aethe, gilthe, el'the, skethe, etc. it's possible we can pull the word apart and k**vo**  shares an ancestry with _knowledge_.
 
 Glammourie is the faen magic of changing how things physically are, Grammarie is changing how you feel about them, and I suggest Glammorie is both together: _shaping_.
 
-Rhinata is the puzzle of an age. The suffix "-ata" appears in  _kreata_ and _vhenata_. I believe Reta implies feminine given "skethe te retaa van" which means "lock up your sons and daugthers" and Roent's wife was named Reta. The Rhin-na was a flower and cure all. Rhin-ta is a bad thing, the chandrian. Nearly the same word the skindancer directs towards Kote. _Te Rhintae?_.
+_Rhinata_ is the fulcrum upon which all else rests. The suffix _-ata_ appears in  _kreata_ and _vhenata_. I believe Reta implies feminine given "skethe te retaa van" which means "lock up your sons and daugthers" and Roent's wife was named Reta. The Rhin-na was a flower and cure all. Rhin-ta is a bad thing, the Chandrian. Nearly the same word the skindancer directs towards Kote. _Te Rhintae?_.
 
-We trace possibilities, assign, take measure and make notes ... to what end? We have been lead around the garden path and the tapestry of meaning is frayed, fraught and frustrating. What good is finding anyway? It's the question that drives us, and it's the question that will sets us free.  If we find the answer, if we walk through the door, will be trapped. 
+We trace and theorize... to what end? We have been lead around the garden path, and the tapestry of meaning is frayed, fraught, and frustrating. What good is finding anyway? It's the question that drives us, and it's the question that will sets us free.  If we find the answer, if we walk through the door, will be trapped, cut away. But we are not the stone or sea, we move with the wind and sun, and in their endless dance we find beauty all our own. 
 
 <img src="/img/foxandhare.jpeg" height="450px" width="300px">
 
 _watch carefully daughter hare, hold quiet father fox_
 
-_See her move from place to place._  
+_See her bear from place to place._  
 _Mantled in darkness._  
 _Tending to the proper way_
 
@@ -68,7 +68,7 @@ _For she knows the cruel games names play_
 _And so often finds a gentler way._  
 _Yet, for him, these rules she would betray._  
 
-_See her feet, bare upon stones._  
+_See her bare feet upon stones._  
 _Broken mirror-glass and clean fire._  
 _Bending to the breaking way._  
 
