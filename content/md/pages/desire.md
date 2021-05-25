@@ -50,7 +50,7 @@ The skindancer implies _Avoi_ means _want_ or possible _look_. _vor_ is used in 
 
 But ruh might stem from ruach and branch into _reh_ which is for seeking. Some of the Ruach did become watchers/amyr. Alternatively, Arliden said Kvothe mean _to know_ and given many words end in _-the_ : aethe, gilthe, el'the, skethe, etc. it's possible we can pull the word apart and k**vo**  shares an ancestry with _knowledge_.
 
-Glammourie is the faen magic of changing how things physically are, Grammarie is changing how you feel about them, and I suggest Glammorie is both together: _shaping_.
+Glam*mourie* is the faen magic of changing how things physically are, Grammarie is changing how you feel about them, and I suggest Glammorie is both together: _shaping_.
 
 _Rhinata_ is the fulcrum upon which all else rests. The suffix _-ata_ appears in  _kreata_ and _vhenata_. I believe Reta implies feminine given "skethe te retaa van" which means "lock up your sons and daugthers" and Roent's wife was named Reta. The Rhin-na was a flower and cure all. Rhin-ta is a bad thing, the Chandrian. Nearly the same word the skindancer directs towards Kote. _Te Rhintae?_.
 
