@@ -28,37 +28,47 @@ _To swim, to dive into the fire, to ride_
 _On the curl'd clouds, to thy strong bidding task_  
 _Ariel and all his quality._  
 
-~ Ariel from Shakespears, the Tempest
+~~ Ariel, from Shakespear's "The Tempest"
  
 
 ## Intro
 
-This is part of [Warrens](/pages-output/warrens) series and directly follows [Tending](/pages-output/tending). I fear we are reaching the end of our journey, and yet so much is still unclear. Out nature betrays us, it shifts and changes and so the past can seem like a maelstrom rather then a stone. What was clear in the darkness seems absurd in the light. And yet, fear is no light to follow or rope to climb. So we must fall further and call not in vain nor vanity, to trust that the will wind will save us if we're worth saving.
+This is part of [Warrens](/pages-output/warrens) series and directly follows [Tending](/pages-output/tending). I fear we are reaching the end of our journey, and yet so much is still unclear. Out nature betrays us, it shifts and changes and so the past can seem like a maelstrom rather then a stone. What was clear in the night seems absurd in the day. And yet, fear is no light to follow or rope to climb. So we must fall further and call not in vain nor vanity, to trust that the will wind will save us if we're worth saving.
 
 ## Weathering time and tide
  
 Words are leaves, branching off from their predecessors, and their history forms a tree that is greater then the sum of it's parts. Our lungs are the wind that sets it's branches swaying. Follow their twisting path to the trunk, it's core. Harder to grasp, but also to change and at it's base we see that the truth reflected, as above so below. It builds a bridge from the "Earth to the Sky". And echos the journey down a long road that the broken one took to mend their heart by trapping its desire, an act that started a war.
 
-The Great Stone Road cuts the land like it was drawn in the dirt by some giant forgotten god, one end climbs into the mountains and beyond. The other is blocked by a standing stone, a pillar of knowledge, the Archives. Upon it's doors are chiseled the words *Vorfelan Rhinata Morie*. 
+The Great Stone Road cuts the land like it was drawn in the dirt by some giant forgotten god, one end climbs into the mountains and beyond. The other is blocked by a standing stone, a pillar of knowledge, the Archives. Upon it's doors are chiseled the words *Vorfelan Rhinata Morie***. 
 
-Wil says it's close to meaning “The desire for knowledge shapes a man.” But close is nothing to the Lethani, there is and there is not. And knowing is the difference between falling and redemption when you walk the mountain pass. And so we must calm the storm within and stop fighting the tide, see the motion the sea makes and ride the currents to the deep dark below and see how far the roots go. 
+Wil says it's close to meaning “The desire for knowledge shapes a man.” But close is nothing to the Lethani, there is and there is not. And knowing is the difference between falling and redemption when you walk the mountain pass. We must stop fighting the tide and take the offer the waves make, to ride the currents to the deep dark below. We will pull meaning from around the four corners and hope the shifting depths will give it meaning.
 
+ Vore**felan**,_-Lan_ is used in _ruhlan_, _delan_ and _vorelan_, _palan_. The last I suspect mean roughly Cealdish, the suffix _-Lan_ implying _people of the_ with the prefix specifying _of what_. In this case, the _fe_ or _fea_, which means _felan_ another way of saying _faen_. 
 
-_-Lan_ is used in _ruhlan_, _delan_ and _vorelan_, _palan_. The last I suspect mean roughly Cealdish, the suffix _-Lan_ implying _people of the_ with the prefix specifying _of what_. In this case, the _fe_ or _fea_, which means _felan_ another way of saying _faen_. 
+The skindancer implies _Avoi_ means _want_, _look_ or possible _watch_. _vor_ is used in Felurians song in the verse "_tu nia vor ruhlan_". And we now know _ruhlan_ to mean "people of the Ruha" (Edema Ruh). But in this case she is likely referring the more generic root term _travelers_. I think it's safe to say that Felurian did desire wanders from time to time.
   
-The skindancer implies _Avoi_ means _want_ or possible _look_. _vor_ is used in Felurians song _tu nia vor ruhlan_. And we now know _ruhlan_ to mean people of the Ruha (Edema Ruh). But in this case she is likely referring the more generic root term _travelers_. I think it's safe to say that Felurian did desire wanders from time to time.
+But ruh might stem from ruach and branch into _reh_ which is for seeking. Some of the Ruach did become watchers/amyr. Finally, Arliden said Kvothe's name means "to know" and given many words end in _-the_ : aethe, gilthe, el'the, skethe, etc. it's possible we can pull the word apart and k**vo**  shares an ancestry with _knowledge_. And Bast tells us that the fae are creatures of _desire_. So both **Vore** & **felan** might be knowledge or desire.
 
-But ruh might stem from ruach and branch into _reh_ which is for seeking. Some of the Ruach did become watchers/amyr. Alternatively, Arliden said Kvothe's name means "to know" and given many words end in _-the_ : aethe, gilthe, el'the, skethe, etc. it's possible we can pull the word apart and k**vo**  shares an ancestry with _knowledge**.
+_Rhinata_ is the fulcrum upon which all else rests. The Rhin-na was a flower and cure all. Rhin-ta is a bad thing, the Chandrian. Nearly the same word the skindancer directs towards Kote: "Te Rhintae?"
 
 Glam*mourie* is the faen magic of changing how things physically are. Gram*marie* is changing how you feel about them. I suggest Glam*morie* is performing both together, a form of _Shaping_.
 
-_Rhinata_ is the fulcrum upon which all else rests. The suffix _-ata_ appears in  _kreata_ and _vhenata_. I believe Reta implies feminine given "skethe te retaa van" which means "lock up your sons and daugthers" and Roent's wife was named Reta. The Rhin-na was a flower and cure all. Rhin-ta is a bad thing, the Chandrian. Nearly the same word the skindancer directs towards Kote: "Te Rhintae?"
+Knowledge, desire  
+not a man, but a faen.  
+Panacea and Poison, more and less  
+to shape in body and mind  
+
+The knowledge to shape to your desire?  
+The knowledge to shape the fae(n)?  
+Whose stone is this? Whose house?  
 
 We trace and theorize... to what end? We have been lead around the garden path, and the tapestry of meaning is frayed, fraught, and frustrating. What good is finding anyway? It's the question that drives us, and it's the question that will sets us free.  If we find the answer, if we walk through the door, will be trapped, cut away. But we are not the stone or sea, we move with the wind and sun, and in their endless dance we find beauty all our own. 
 
 <img src="/img/foxandhare.jpeg" height="450px" width="300px">
 
 _watch carefully daughter hare, hold quiet father fox_
+_Warrens widdershins ways and woes_
+_The body fades, the memory stays_
 
 _See her bear from place to place._  
 _Mantled in darkness._  
@@ -72,12 +82,13 @@ _See her bare feet upon stones._
 _Broken mirror-glass and clean fire._  
 _Bending to the breaking way._  
 
-_set a laurel a light_  
+_Set a laurel a light_  
 _so too this Ash will burn,_  
 _then to flesh all things return._  
 
 _See her bear the flame._  
-_A wick, a widdershins, an awakening._  
+_A wick, a widdershins, and an awakening._  
+_A command, a beckon and a whisper_
 _Her desire shapes his way._  
 
  <img src="/img/simon-berger-shattared-glass.webp" height="70%" width="70%" >
