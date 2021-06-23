@@ -1,4 +1,4 @@
-{:title "De sidere "
+{:title "De sidere"
  :layout :page
  :toc true
  :page-index 40}
@@ -37,7 +37,7 @@ This is part of [Warrens](/pages-output/warrens) series and directly follows [Te
 
 ## Weathering time and tide
  
-Words are leaves, branching off from their predecessors, and their history forms a tree that is greater then the sum of it's parts. Our lungs are the wind that sets it's branches swaying. Follow their twisting path to the trunk, it's core. Harder to grasp, but also to change and at it's base we see that the truth reflected, as above so below. It builds a bridge from the "Earth to the Sky". And echos the journey down a long road that the broken one took to mend their heart by trapping its desire, an act that started a war.
+Words are leaves, branching off from their predecessors, and their history forms a tree that is greater then the sum of it's parts. Our lungs create the wind that sets it's branches swaying, but don't be enamored by the motion. Follow their twisting path to the trunk, it's core. Harder to grasp, but also to change and at it's base we see that the truth reflected, as above so below. It builds a bridge from the "Earth to the Sky". And echos the journey down a long road that the broken one took to mend their heart by trapping its desire, an act that started a war.
 
 The Great Stone Road cuts the land like it was drawn in the dirt by some giant forgotten god, one end climbs into the mountains and beyond. The other is blocked by a standing stone, a pillar of knowledge, the Archives. Upon it's doors are chiseled the words *Vorfelan Rhinata Morie***. 
 
@@ -53,16 +53,12 @@ _Rhinata_ is the fulcrum upon which all else rests. The Rhin-na was a flower and
 
 Glam*mourie* is the faen magic of changing how things physically are. Gram*marie* is changing how you feel about them. I suggest Glam*morie* is performing both together, a form of _Shaping_.
 
-Knowledge, desire  
-not a man, but a faen.  
-Panacea and Poison, more and less  
-to shape in body and mind  
+Knowledge & desire  
+man & faen  
+Panacea & Poison  
+body & mind  
 
-The knowledge to shape to your desire?  
-The knowledge to shape the fae(n)?  
-Whose stone is this? Whose house?  
-
-We trace and theorize... to what end? We have been lead around the garden path, and the tapestry of meaning is frayed, fraught, and frustrating. What good is finding anyway? It's the question that drives us, and it's the question that will sets us free.  If we find the answer, if we walk through the door, will be trapped, cut away. But we are not the stone or sea, we move with the wind and sun, and in their endless dance we find beauty all our own. 
+We trace and theorize... to what end? We have been lead up and down the garden path, and the tapestry of meaning is frayed, fraught, and frustrating. What good is finding anyway? It's the question that drives us, and it's the question that will set us free.  If we find the answer, if we walk through the door, will be trapped, cut away. But we are not the stone or sea, we move with the wind and sun, and in their endless dance we find beauty all our own. 
 
 <img src="/img/foxandhare.jpeg" height="450px" width="300px">
 
@@ -88,11 +84,10 @@ _then to flesh all things return._
 
 _See her bear the flame._  
 _A wick, a widdershins, and an awakening._  
-_A command, a beckon and a whisper_
+_A command, a beckon and a whisper._
 _Her desire shapes his way._  
 
  <img src="/img/simon-berger-shattared-glass.webp" height="70%" width="70%" >
- 
  
 ### Art
 
@@ -106,14 +101,19 @@ _Her desire shapes his way._
 
 ### Citations and references
 
-#### Words
+#### Words & phrases
 
 * Aethe ~ TWMF:741
 * avoi ~ NoTW:661
+* broken glass ~ SROST:89
+* clean fire ~ NOTW:9
+* creatures of desire ~ LTL, TMW:642
 * El'the ~ Notw:86
+* "En Faent Morie", Faent also being where Vashet is from as well. consider Tamerant ~ Faent  ~ TWMF
+* garden path ~ SROST:30,TWMF:474 
 * Gilthe ~ Notw:69
 * kvothe = "to know" ~ NoTW:55
-* palan ~ NoTW:519
+* palan ~ NoTW:519 
 * ruhlan, delan, kreata, vor ~ TWMF:545
 * Roent & Reta ~ NoTW:218ish
 * Rhinna ~ TWMF:689
@@ -127,6 +127,6 @@ _Her desire shapes his way._
 #### references
 
 * Some of the Ruach did become watchers/amyr ~ NoTW:198
-* [Rhinnery](https://www.reddit.com/user/TheLastSock/posts/)
-* [Glammorie = shaping](/pages-output/bitter-brew)
-* [watchers ~ amyr?](https://www.reddit.com/r/KingkillerChronicle/comments/mn8n63/my_notes_on_looking_for_the_watchers/)
+* [Rhinnery](https://www.reddit.com/r/kkcwhiteboard/comments/mvph0q/what_is_produced_at_the_rhinnery_sp/?utm_source=share&utm_medium=web2x&context=3)
+* [Glammorie ~ shaping](/pages-output/bitter-brew)
+* [watchers](https://www.reddit.com/r/KingkillerChronicle/comments/mn8n63/my_notes_on_looking_for_the_watchers/)

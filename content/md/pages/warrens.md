@@ -27,6 +27,8 @@ This is an index for the entire series, skip to Prelude.
 * Translations
   - [Kote](/pages-output/fitting-a-kote)
   - [Reshi](/pages-output/reshi)
+  - [Vorfelan Rhinata Morie](/pages-output/desire)
+  - [Valaritas](/pages-output/desire)
 * Warrens
    0. **[Warrens](/pages-output/warrens)**
    1. [Blood Beneath](/pages-output/blood-beneath)
@@ -151,7 +153,7 @@ Here comes the analogies and metaphors we talked about before, were not going to
 3. "axial" isn't the name for any arm bone, but rather a collection of the middle parts of the body,
 as shown [here](https://en.wikipedia.org/wiki/Axial_skeleton). Auri, who studied
 at the university, would know this. 
-4. The arm being broken and healed is to the Lanre being killed and raised
+4. The arm being broken and healed is to Lanre being killed and raised
 5. The arm being full of shadows is like Lanre being surrounded by shadows. 
 6. In Vintish culture, a bone ring (see "tiny seam" from quote), indicates a profound and lasting debt, which Lanre has for his life returned.
 7. That it's an arm bone, and he was known for his strength of arm.

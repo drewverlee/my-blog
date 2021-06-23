@@ -47,7 +47,6 @@ I'm going to break theory into  several parts:
 * Auri visiting the Mauthen Farm and then Newarre
 * listen three times
 * Maps
-* Time
 * Other considerations and counter arguments
 * Getting to Newarre
 * Covering the text
@@ -214,83 +213,6 @@ misleading as they are at times, its better then nothing. You should head down t
 I'll use the old map and old ways are best.
 
 <img src="/img/old-kkc-map.jpg" height="325px" width="450px">
-
-# Time
-
-Auri visits Newarre and the Mauthen Farm on _her_ 2nd day. This corresponds to
-Hepten, in the same span as admissions for kvothe at the start of TWMF. 
-Working backward Auri gives the candle to
-Kvothe on Cendling/10. Which has a nice ring to it, a candle on C*a*ndlng.
-Almost like its on purpose? The day before admissions, kvothe was stuck in his
-rooms crying. This was a *g*reaving day. This would place the day Auri's day 3
-where she wept with Chaen/7. That number seems to cause a lot of pain. She
-starts gathering her candle materials, from the The Twelve (a pool), on Orden.
-Which I always get confused with Ordal. 
-
-Here is a table, that will likely come in handy in future posts. Note that
-"-" just means I'm not commenting, not that nothing happened.
-
- <table style="width:100%">
-  <tr>
-    <td style="text-align: center;">Num</td>
-    <td style="text-align: center;">Span</td>
-    <td style="text-align: center;">Auri Day</td>
-    <td style="text-align: center;">Auri</td>
-    <td style="text-align: center;">kvothe</td>
-  </tr>
-  <tr>
-    <th>5 </th>
-    <th>Orden</th>
-    <th>1</th>
-    <th>Started Candle</th>
-    <th>-</th>
-  </tr>
-  <tr>
-    <th>6</th>
-    <th>Hepten/6</th>
-    <th>2</th>
-    <th>Newarre</th>
-    <th>-</th>
-  </tr>
-  <tr>
-    <th>7 </th>
-    <th>Chaen</th>
-    <th>3</th>
-    <th>wept</th>
-    <th>-</th>
-  </tr>
-  <tr>
-    <th>8</th>
-    <th>Felling</th>
-    <th>4</th>
-    <th>-</th>
-    <th>plumed</th>
-  </tr>
-  <tr>
-    <th>9 </th>
-    <th>Reaving</th>
-    <th>5</th>
-    <th>-</th>
-    <th>wept</th>
-  </tr>
-  <tr>
-    <th>10 </th>
-    <th>Cendling</th>
-    <th>6</th>
-    <th>gave candle</th>
-    <th>admission</th>
-  </tr>
-</table> 
-
-This would make it "hard" for _Auri_ to have breathed on the leaf that kvothe
-caught in his mouth at the Mauthen Farm. The one that leads to the presumed
-named _master ash_ for Denna's mysterious Patron. sense this implies Auri's trip
-happened long after Kvothe's visit there. I'll note the leaf has little to do with
-the rest of the theory and so if it helps you can ignore that part of the theory for now.
-
-Secondly, Auri's perception of time and our understanding of it might be skewed. Making it hard
-to be sure how much time has passed between Kvothes, Auri's and Bast's visit.
-
 
 # Other considerations & Counter arguments
 
