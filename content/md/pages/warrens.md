@@ -28,7 +28,10 @@ This is an index for the entire series, skip to Prelude.
   - [Kote](/pages-output/fitting-a-kote)
   - [Reshi](/pages-output/reshi)
   - [Vorfelan Rhinata Morie](/pages-output/desire)
-  - [Valaritas](/pages-output/desire)
+  - [Valaritas](/pages-output/valaritas)
+* Other
+  -  [Lyes and Lies](/pages-output/cinder)
+
 * Warrens
    0. **[Warrens](/pages-output/warrens)**
    1. [Blood Beneath](/pages-output/blood-beneath)

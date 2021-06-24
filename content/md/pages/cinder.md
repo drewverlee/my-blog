@@ -1,0 +1,16 @@
+{:title "Lyes and Lies"
+ :layout :page
+ :toc true
+ :page-index 20}
+ 
+ 
+ 
+ A gram requires sympathy to make, an art some speculate [Lanre has learned](https://www.reddit.com/r/KingkillerChronicle/comments/l6ceer/some_sympathy_for_lanre/). It's also a great to have if your adversary has ~~wings~~ rings of power, which Haliax's likely does. It's said that all roads end in death but one, and Taborlin and Lanre both have escaped from a prison no man has before, and so if parts of [Taborlin's story are about Lanre](http://mattytangle.co.uk/cell-division/) then we have narrative precedence that Halix might have a Gram:
+
+> It was _black as a winter night and cold as ice to touch,_ but so long as it was round his neck, Taborlin would be safe from the harm of evil things. Demons and such.”
+
+The amulet bares a striking resemblance to Kvothe's antagonist. Cinder has a quicksilver (metal) grace, eyes as black as night, a creature of winter's pale. Among other metals, a gram even includes _coal_. Neither the Lethani nor truth is a straight road, and so we must make a three way binding and pull the clues from the all over the story and bind them to our will. Like a gram, ashes draw malicious substances to them, an act we see when it draws the denner from Denna. We have now firmly established the _what_, but what we lack is the _how_. For that we need to turn to our foremost fae expert, Bastas. He tells us that the fae would never call what they do magic, instead they speak of _art_, _craft_ or _shaping_. But formally, they would call it _glammmourie_ and _grammarie_. Auri's  says Alchemy is _art_ and between these narrow roads we see the wider truth. All roads lead to Tinue, all stories are one, and were left to connect the third side of our triangle and in its center we see a truth only Auri understands.
+
+All magics can be bent in the same direction. _Art_ificing is the art of making a gram. And _Gram_marie is the art of making something be more then it is. In this case a _giller_ needs to put themselves (or another) into the metal to make it a _guilder_.  Blood, bone, spit, skin, hair and urine used, the same ingredients as a simulacra. And both are used as a way to direct sympathy, to or away. Everything has it's inverse and so if the guilder is _more_ then metal it's also _less_ then it's creator. As above so below, and likewise Cinder is shaped to be _more_ and _less_ then a man.
+
+For the final piece we have to travel underground and join Auri as she makes her soap. She runs the ash through water to create lye, a predominate ingredient in soap. But if your getting tin foil tingles from the homonym lie and lye then your not crazy, at not yet at least. Auri's descriptions of the lye are uncannily similar to Cinder. Auri calls the lye cinderwash and says its _wanton_ (lacks control), stately, and graceful. She even breaks homonym barrier and says it contains caustic _lies_ (should be lye). How or why Auri could be referencing Cinder through her soap making process is outside the scope of this post. Like so much magic, if try to hard, it falls apart. And so we must weave our story from the moon's light and not look to close. For in the shadows the beating heart of the mystery still lies. We dear not approach it directly, instead we must find the graceful way to move and hope it will come to us in time.
