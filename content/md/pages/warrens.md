@@ -6,7 +6,7 @@
  
 # Entire Series Index
 
-This is an index for the entire series, skip to Prelude.
+This is an index for all my pieces. The main series "warrens" starts on this page. 
 
 
 * Advice
@@ -29,9 +29,7 @@ This is an index for the entire series, skip to Prelude.
   - [Reshi](/pages-output/reshi)
   - [Vorfelan Rhinata Morie](/pages-output/desire)
   - [Valaritas](/pages-output/valaritas)
-* Other
-  -  [Lyes and Lies](/pages-output/cinder)
-
+  - [Kvothe](/pages-output/kvothe)
 * Warrens
    0. **[Warrens](/pages-output/warrens)**
    1. [Blood Beneath](/pages-output/blood-beneath)
@@ -43,7 +41,11 @@ This is an index for the entire series, skip to Prelude.
    7. [The Waystone Brothers](/pages-output/the-waystone-brothers)
    8. [Packs and Promises](/pages-output/tinker)
    9. [Tending](/pages-output/tending)
-   10. [De sidere](/pages-output/desire)
+   10. [Lyes and Lies](/pages-output/cinder)
+   11. [De sidere](/pages-output/desire)
+   12. [Fairy Light](/pages-output/the-flame-itself)
+   13. [Wings of Broken Glass](/pages-output/wings-of-broken-glass)
+   
  
  
 # Prelude: A hand raised 

@@ -15,8 +15,12 @@
 7. [The Waystone Brothers](/pages-output/the-waystone-brothers)
 8. [Packs and Promises](/pages-output/tinker)
 9. [Tending](/pages-output/tending)
-10. [De sidere](/pages-output/desire)
- 
+10. [Lyes and Lies](/pages-output/cinder)
+11. [De sidere](/pages-output/desire)
+12. [Fairy Light](/pages-output/the-flame-itself)
+13. [Wings of Broken Glass](/pages-output/wings-of-broken-glass)
+
+
  
 > “I like to take my mysteries layer by layer,” I explained.
 >

@@ -1,7 +1,7 @@
 {:title "De sidere"
  :layout :page
  :toc true
- :page-index 40}
+ :page-index 41}
  
 
 ## Series Index
@@ -16,7 +16,11 @@
 7. [The Waystone Brothers](/pages-output/the-waystone-brothers)
 8. [Packs and Promises](/pages-output/tinker)
 9. [Tending](/pages-output/tending)
-10. **[De sidere](/pages-output/desire)**
+10. [Lyes and Lies](/pages-output/cinder)
+11. **[De sidere](/pages-output/desire)**
+12. [Fairy Light](/pages-output/the-flame-itself)
+13. [Wings of Broken Glass](/pages-output/wings-of-broken-glass)
+
 
 
  <img  src="/img/ariel-on-bat.png">
@@ -33,7 +37,7 @@ _Ariel and all his quality._
 
 ## Intro
 
-This is part of [Warrens](/pages-output/warrens) series and directly follows [Tending](/pages-output/tending). I fear we are reaching the end of our journey, and yet so much is still unclear. Out nature betrays us, it shifts and changes and so the past can seem like a maelstrom rather then a stone. What was clear in the night seems absurd in the day. And yet, fear is no light to follow or rope to climb. So we must fall further and call not in vain nor vanity, to trust that the will wind will save us if we're worth saving.
+This is part of [Warrens](/pages-output/warrens) series and directly follows [Lyes and Lies](/pages-output/cinder). I fear we are reaching the end of our journey, and yet so much is still unclear. Out nature betrays us, it shifts and changes and so the past can seem like a maelstrom rather then a stone. What was clear in the night seems absurd in the day. And yet, fear is no light to follow or rope to climb. So we must fall further and call not in vain nor vanity, to trust that the will wind will save us if we're worth saving.
 
 ## Weathering time and tide
  
@@ -59,6 +63,10 @@ Panacea & Poison
 body & mind  
 
 We trace and theorize... to what end? We have been lead up and down the garden path, and the tapestry of meaning is frayed, fraught, and frustrating. What good is finding anyway? It's the question that drives us, and it's the question that will set us free.  If we find the answer, if we walk through the door, will be trapped, cut away. But we are not the stone or sea, we move with the wind and sun, and in their endless dance we find beauty all our own. 
+
+## epilogue
+
+The tale continues [Fairy Light](/pages-output/the-flame-itself).
 
 <img src="/img/foxandhare.jpeg" height="450px" width="300px">
 
