@@ -133,6 +133,12 @@ However, it's possible that this isn't true across browsers, and most importantl
 > way you can just serve what is needed by
 > that page.
 
+Here is a glimpse into the comparison from the video above:
+
+<img src="/img/css-resource-vs-inline.png" height="400px">
+
+
+
 This is great point and it really drives home what I have been saying. This word "inline" is all wrong, what were talking about is locality. About .css files being giant blobs of shared mutable state with unclear publishers and subscribers.
 
 Here are some assorted readings that in aggregate were less helpful then the post above:
@@ -149,7 +155,7 @@ Here are some assorted readings that in aggregate were less helpful then the pos
 * load what you need:        Really this is an extension of removing un-necessary styles, achievable with media queries and likely CLJS.
 * Loading:                   Have a business plan around the tradeoffs, default to fresh content every time as to not confuse your users. Leverage immutability.
 * Inline Styles              Defiantly a win for critical CSS because you don't have to wait for the css sheet to load. BUT I believe there are ways to now load a style sheet at the same time as the HTML. So YMMV.
-* Inline Styles vs CSS:      CSS classes seem to be slightly faster according to one mans bench-marking efforts.
+* Inline Styles vs CSS:      CSS classes (and .css files) seem to be slightly faster in some cases, but overall possible slower due to leading to un-necessarily css being included payloads.
 
 
 
@@ -195,8 +201,6 @@ This happens because were generating class names/strings
 ```clojure
 (defstyles margin-y {:margin-top 1}) ;; => "some-class"
 (defstyles margin-x {:margin-bottom 2}) ;; => "some-other-class"
-
-
 ```
 
 Now we have to do string concatenation of "some-class" and "some-other-class" if we want both. I think it would be a major improvement to overcome this limitation where ever possible (even if it meant using inline styles in some cases!).
@@ -235,7 +239,12 @@ At this point you might be a bit shell shocked, that after all this i'm recommen
 If your a Clojure developer by trade this is great, because i don't have to use CSS less organize and compose my styles. This means you can use clojure core to compose styles. Or you can use a [rules engine](https://github.com/oakes/odoyle-rules) to trigger your html and css based on business logic. Or a proper [graph database](https://github.com/tonsky/datascript). Or what ever you think works best for your situation/business.
 
 
-## Bonus section: names are important.
+## Names are important.
+
+> “It is a word. Words are pale shadows of forgotten names. As names have power, words have power. Words can light fires in the minds of men. Words can wring tears from the hardest hearts. There are seven words that will make a person love you. There are ten words that will break a strong man’s will. But a word is nothing but a painting of a fire. A name is the fire itself.”
+
+~ Elodin, Master Namer
+-- from the King Killer Chronicles by Patrick Rothfuss
 
 We all agree names are important. They help us communicate intent. That's why I'm struggling to understand why anyone would trade "font size: smaller" for "Fz-s". But that's exactly the kind of thing you will see bundled into ideas like tailwind and atomic design:
 
@@ -247,4 +256,14 @@ We all agree names are important. They help us communicate intent. That's why I'
 
 Further more, this is munging the key and value together which limits composability options at this level.
 
-From a business perspective, your now going to pay more because you need people be fluent in names used by Tailwind, Atomic design, BEM etc... instead of the much larger pool of people that know CSS. Why? those aren't style guides. Those are tools to help you overcome css limitations, limitations which are constantly changing. Limitations many of which we can use cljs for! The concerns these frameworks are really helping with are completly orthogonal to obscuring names. You can and should avoid doing this.
+From a business perspective, your now going to pay more because you need people be fluent in names used by Tailwind, Atomic design, BEM etc... instead of the much larger pool of people that know CSS. Why? Those aren't style guides. Those are tools to help you overcome css limitations, limitations which are constantly changing. Limitations many of which we can use cljs for! The concerns these frameworks are really helping with are completely orthogonal to obscuring names. You can and should avoid doing this.
+
+## Conclusion
+
+In brief, my current recommendation is that you abstract your application at as high a level as you can and no higher. That could be a set of css data or a component that is a combination of css, js, html and maybe a business query. Uniformity isn't a goal, neither is control. I see this mistake so often, the structures we build to protect us become a prison.
+
+When you can, prefer local state/inline styles. It's state that only impacts a small area and extract that outward as necessary and aggressively.
+
+That means using the style tag where you can't use the style attribute, elsewhere. Real companies with highly paid css specialists are doing this. Even better if you can use an amazing language and it's ecosystem to organize your css. You want to better management over css? Maybe consider a database to manage it. In memory, cached, synced the the server. One powered by differential dataflow so that it knows exactly what html, and css is needed to fulfill the smallest change the user makes and sends only whats necessary.
+
+In short, there is no conclusion, only more questions only more options. Pick them up as needed to server your purposes.
