@@ -122,12 +122,25 @@ This might be why the react [docs](https://reactjs.org/docs/faq-styling.html#can
 
 > CSS classes are generally better for performance than inline styles.
 
+However, it's possible that this isn't true across browsers, and most importantly as is suggested by this [Google Chrome Developer Representative](https://youtu.be/3sMflOp5kiQ) inline css is on average faster because you end up with less used inline styles. At 14:52
+
+> the real value of
+> inlining is that you you don't have to
+> architect
+> what goes in what css file to try and
+> figure out what you know how that will
+> spread across your pages in an optimal
+> way you can just serve what is needed by
+> that page.
+
+This is great point and it really drives home what I have been saying. This word "inline" is all wrong, what were talking about is locality. About .css files being giant blobs of shared mutable state with unclear publishers and subscribers.
 
 Here are some assorted readings that in aggregate were less helpful then the post above:
 
 * [are inline styles bad?](https://stackoverflow.com/questions/70051589/are-inline-styles-bad)
 * [why do the react docs say inline styles are slow?](https://www.reddit.com/r/reactjs/comments/rercdd/why_do_the_react_docs_say_inline_styles_are/)
 * [which has a faster paint time...](https://www.reddit.com/r/css/comments/qf9gld/which_has_a_faster_time_to_paint_inline_styles_or/)
+* [Is .css a bad idea? Is inlining the way forward? | HTTP 203](https://youtu.be/3sMflOp5kiQ)
 
 ## Conclusions
 
@@ -137,6 +150,7 @@ Here are some assorted readings that in aggregate were less helpful then the pos
 * Loading:                   Have a business plan around the tradeoffs, default to fresh content every time as to not confuse your users. Leverage immutability.
 * Inline Styles              Defiantly a win for critical CSS because you don't have to wait for the css sheet to load. BUT I believe there are ways to now load a style sheet at the same time as the HTML. So YMMV.
 * Inline Styles vs CSS:      CSS classes seem to be slightly faster according to one mans bench-marking efforts.
+
 
 
 # Organization
@@ -219,9 +233,7 @@ At this point you might be a bit shell shocked, that after all this i'm recommen
 ```
 
 If your a Clojure developer by trade this is great, because i don't have to use CSS less organize and compose my styles. This means you can use clojure core to compose styles. Or you can use a [rules engine](https://github.com/oakes/odoyle-rules) to trigger your html and css based on business logic. Or a proper [graph database](https://github.com/tonsky/datascript). Or what ever you think works best for your situation/business.
-When I started this section I said the secret to good architecture was trust and I meant it. I'm telling you that your free to face the true horrors of your business unburnded by the need to learn the next 100 css fads...
 
-The End!
 
 ## Bonus section: names are important.
 
