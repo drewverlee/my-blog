@@ -122,7 +122,7 @@ This might be why the react [docs](https://reactjs.org/docs/faq-styling.html#can
 
 > CSS classes are generally better for performance than inline styles.
 
-However, it's possible that this isn't true across browsers, and most importantly as is suggested by this [Google Chrome Developer Representative](https://youtu.be/3sMflOp5kiQ) inline css is on average faster because you end up with less used inline styles. At 14:52
+However, it's possible that this isn't true across browsers, and most importantly as is suggested by this [Google Chrome Developer Representative](https://youtu.be/3sMflOp5kiQ) inline css is on average faster because you end up with less bloated payloads. At 14:52
 
 > the real value of
 > inlining is that you you don't have to
